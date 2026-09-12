@@ -28,7 +28,7 @@ jobs:
       - name: Nainstaluj Playwright a Chromium
         run: |
           npm init -y >/dev/null 2>&1 || true
-          npm install --no-save playwright@1.49.1
+          npm install --no-save playwright@1.49.1 sharp@0.33.5
           npx playwright install --with-deps chromium
 
       - name: Vyfoť weby
