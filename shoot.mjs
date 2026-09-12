@@ -19,8 +19,9 @@ import path from 'node:path';
 const ROOT = process.cwd();
 const TODAY = new Date().toISOString().slice(0, 10);
 const CONCURRENCY = 4;
-const NAV_TIMEOUT = 45000;
-const SETTLE_MS = 3500; // čas na dojetí animací a lazy loadu
+const NAV_TIMEOUT = 60000;
+const SETTLE_MS = 5000; // čas na dojetí animací a lazy loadu
+const ATTEMPTS = 2;    // pomalé weby dostanou druhou šanci
 
 // Nejčastější cookie lišty — schováme je CSS, je to spolehlivější než klikat.
 const CMP_CSS = `
@@ -33,6 +34,10 @@ const CMP_CSS = `
 [id*="cookie" i][class*="banner" i], [class*="cookie" i][class*="notice" i],
 [aria-label*="cookie" i][role="dialog"], [id*="consent" i][role="dialog"],
 #hs-eu-cookie-confirmation, .termsfeed-com---nb, #sliding-popup,
+.cookie-notice, .cookie-popup, .cookie-bar, .cookies-bar, .cookie-modal,
+#cookie-consent, #cookies-consent, #cookies-modal, #cookie-bar, #cookies,
+.js-cookie-consent, [class*="cookies" i][class*="modal" i], [class*="cookie" i][class*="popup" i],
+[id*="consent" i][class*="modal" i], [class*="consent" i][class*="banner" i],
 .drift-frame-controller, .intercom-lightweight-app, #hubspot-messages-iframe-container,
 #launcher, .crisp-client, #tidio-chat, .zEWidget-launcher
 { display: none !important; visibility: hidden !important; opacity: 0 !important; }
@@ -85,6 +90,8 @@ async function shoot(browser, target, { isQueue = false } = {}) {
     const resp = await page.goto(target.url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
     result.status = resp ? resp.status() : null;
     result.finalUrl = page.url();
+    // Některé weby dokreslují layout až po 'load'; počkáme, ale nepadáme na tom.
+    await page.waitForLoadState('load', { timeout: 20000 }).catch(() => {});
     await page.addStyleTag({ content: CMP_CSS }).catch(() => {});
     await page.waitForTimeout(SETTLE_MS);
     // Necháme dojet lazy load: projedeme stránku dolů a zpátky nahoru.
@@ -100,6 +107,22 @@ async function shoot(browser, target, { isQueue = false } = {}) {
       })
       .catch(() => {});
     result.title = await page.title().catch(() => null);
+
+    // Kontrola, že stránka není nenastylovaná ruina (chybí CSS = rozbitá fotka).
+    const styleCheck = await page
+      .evaluate(() => ({
+        sheets: document.styleSheets.length,
+        height: document.body ? document.body.scrollHeight : 0,
+      }))
+      .catch(() => ({ sheets: 0, height: 0 }));
+    result.styleSheets = styleCheck.sheets;
+    result.pageHeight = styleCheck.height;
+    if (styleCheck.sheets === 0) {
+      // Dej tomu ještě čas, může to být pomalý JS renderer.
+      await page.waitForTimeout(4000);
+      result.styleSheets = await page.evaluate(() => document.styleSheets.length).catch(() => 0);
+    }
+    result.suspicious = result.styleSheets === 0 || result.pageHeight < 700;
 
     const shotBuf = await page.screenshot({ type: 'jpeg', quality: 72 });
     result.hash = sha1(shotBuf);
@@ -178,9 +201,20 @@ const browser = await chromium.launch({
     : {}),
 });
 
-const results = await pool(targets, (t) => shoot(browser, t), CONCURRENCY);
+async function shootWithRetry(target, opts = {}) {
+  let last;
+  for (let attempt = 1; attempt <= ATTEMPTS; attempt++) {
+    last = await shoot(browser, target, opts);
+    last.attempts = attempt;
+    if (last.ok && !last.suspicious) return last;
+    if (attempt < ATTEMPTS) await new Promise((r) => setTimeout(r, 2500));
+  }
+  return last;
+}
+
+const results = await pool(targets, (t) => shootWithRetry(t), CONCURRENCY);
 const queueResults = queue.length
-  ? await pool(queue, (t) => shoot(browser, t, { isQueue: true }), CONCURRENCY)
+  ? await pool(queue, (t) => shootWithRetry(t, { isQueue: true }), CONCURRENCY)
   : [];
 
 await browser.close();
@@ -193,10 +227,14 @@ const report = {
     ok: results.filter((r) => r.ok).length,
     failed: results.filter((r) => !r.ok).length,
     changed: results.filter((r) => r.changed).length,
+    suspicious: results.filter((r) => r.ok && r.suspicious).length,
     queue: queueResults.length,
   },
   changed: results.filter((r) => r.changed).map((r) => ({ key: r.key, url: r.url, shot: r.changedPath })),
   failed: results.filter((r) => !r.ok).map((r) => ({ key: r.key, url: r.url, error: r.error, status: r.status })),
+  suspicious: results
+    .filter((r) => r.ok && r.suspicious)
+    .map((r) => ({ key: r.key, url: r.url, styleSheets: r.styleSheets, pageHeight: r.pageHeight })),
   targets: results,
   queue: queueResults,
 };
@@ -213,3 +251,4 @@ if (queue.length) {
 console.log(JSON.stringify(report.counts));
 if (report.failed.length) console.log('FAILED:', report.failed.map((f) => f.key).join(', '));
 if (report.changed.length) console.log('CHANGED:', report.changed.map((c) => c.key).join(', '));
+if (report.suspicious.length) console.log('PODEZRELE (mozna rozbita fotka):', report.suspicious.map((s) => s.key).join(', '));
