@@ -32,6 +32,16 @@ jobs:
           npx playwright install --with-deps chromium
 
       - name: Vyfoť weby
+        env:
+          OWN_HOME_URL: ${{ secrets.OWN_HOME_URL }}
+          OWN_AI_URL: ${{ secrets.OWN_AI_URL }}
+          OWN_AUTOMATION_URL: ${{ secrets.OWN_AUTOMATION_URL }}
+          OWN_PRICING_URL: ${{ secrets.OWN_PRICING_URL }}
+          OWN_FEATURES_URL: ${{ secrets.OWN_FEATURES_URL }}
+          OWN_INTEGRATIONS_URL: ${{ secrets.OWN_INTEGRATIONS_URL }}
+          OWN_ABOUT_URL: ${{ secrets.OWN_ABOUT_URL }}
+          OWN_CAREERS_URL: ${{ secrets.OWN_CAREERS_URL }}
+          OWN_SITEMAP_URL: ${{ secrets.OWN_SITEMAP_URL }}
         run: node shoot.mjs
 
       - name: Ukliď staré jednorázové fotky (starší než 30 dní)
