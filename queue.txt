@@ -1,0 +1,2 @@
+# Sem přidávej řádky ve formátu:  klic|https://adresa
+# Vyfotí se při dalším běhu do queue-shots/<datum>/ a řádek se odsud smaže.
