@@ -1,0 +1,12 @@
+{
+  "name": "fotobot",
+  "version": "1.0.0",
+  "description": "Fotograf pro Stalkera — automatu, který každé ráno sleduje konkurenci Ecomailu (e-mailingové a marketing-automation nástroje) a posílá nálezy do Slacku.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
