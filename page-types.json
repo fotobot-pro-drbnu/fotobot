@@ -1,0 +1,111 @@
+{
+  "comment": "Denní témata. Fotograf každý den vezme jedno (rotuje podle dne) a u vybrané partie konkurentů najde v jejich sitemapě odpovídající podstránky. Ke stejnému tématu vyfotí i náš web — proto je u každého tématu 'us'.",
+  "perDay": 12,
+  "pagesPerSite": 2,
+  "types": [
+    {
+      "type": "automatizace",
+      "keywords": [
+        "automat",
+        "workflow",
+        "journey",
+        "scenar",
+        "flows",
+        "trigger"
+      ],
+      "us": [
+        "https://ecomail.cz/funkce/automatizace/"
+      ]
+    },
+    {
+      "type": "cenik",
+      "keywords": [
+        "cenik",
+        "pricing",
+        "price",
+        "plans",
+        "tarif",
+        "cennik"
+      ],
+      "us": [
+        "https://ecomail.cz/cenik/"
+      ]
+    },
+    {
+      "type": "sablony",
+      "keywords": [
+        "sablon",
+        "template",
+        "editor",
+        "drag",
+        "builder",
+        "szablon"
+      ],
+      "us": [
+        "https://ecomail.cz/funkce/"
+      ]
+    },
+    {
+      "type": "integrace",
+      "keywords": [
+        "integrac",
+        "integration",
+        "connect",
+        "plugin",
+        "apps",
+        "integracje"
+      ],
+      "us": [
+        "https://ecomail.cz/funkce/integrace/"
+      ]
+    },
+    {
+      "type": "o-nas-kariera",
+      "keywords": [
+        "o-nas",
+        "about",
+        "career",
+        "jobs",
+        "kariera",
+        "team",
+        "values",
+        "hodnoty",
+        "story",
+        "culture"
+      ],
+      "us": [
+        "https://ecomail.cz/o-ecomailu/",
+        "https://ecomail.cz/kariera/"
+      ]
+    },
+    {
+      "type": "vs-srovnani",
+      "keywords": [
+        "vs-",
+        "-vs",
+        "versus",
+        "srovnani",
+        "compare",
+        "comparison",
+        "alternativ",
+        "alternatives"
+      ],
+      "us": [
+        "https://ecomail.cz/funkce/ai/"
+      ]
+    }
+  ],
+  "ownWatch": {
+    "comment": "Náš web se kontroluje každý běh: v naší sitemapě se hledají nové stránky odpovídající těmto vzorům (hlavně EMA a srovnávačky Ecomail vs. X). Vyfotí se jen ty, které jsme ještě nikdy nefotili.",
+    "sitemap": "https://ecomail.cz/sitemap.xml",
+    "patterns": [
+      "funkce/ai",
+      "vs-",
+      "-vs-",
+      "srovnani",
+      "alternativ",
+      "ema"
+    ],
+    "maxPerRun": 3
+  }
+}

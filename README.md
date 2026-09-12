@@ -31,6 +31,41 @@ Ruční spuštění: záložka **Actions → fotobot → Run workflow**.
 Repozitář neroste do nekonečna — `latest`, `prev` a `full` se přepisují.
 Přibývá jen to, co se reálně změnilo.
 
+## Téma dne — hloubková fáze
+
+Kromě úvodních stránek fotograf každý den zpracuje **jedno téma** z
+`page-types.json` (automatizace, ceník, šablony, integrace, o nás a kariéra —
+rotují po dnech) a k němu **rotující partii konkurentů** (ve výchozím
+nastavení 12 za den).
+
+U každého z nich si sám najde odpovídající podstránky: přečte jeho
+`sitemap.xml` (nebo, když žádná není, odkazy z navigace) a vybere adresy,
+jejichž cesta odpovídá klíčovým slovům tématu. Blogy, nápovědu a články
+přeskakuje.
+
+**Ke stejnému tématu vyfotí i náš web** (adresy jsou v `us` u každého tématu).
+Proto se Ecomail fotí jen tehdy, když je k čemu srovnávat — ne pro forma.
+
+Výsledek: `deep/<datum>/<klic>--<tema>.jpg`, u našich stránek
+`deep/<datum>/ecomail--<tema>.jpg`. V `report.json` je pole `tema` a seznam
+`deep` s adresami a nalezenými H1.
+
+Přidat téma nebo změnit klíčová slova = upravit `page-types.json`. `perDay`
+říká, kolik konkurentů se za den zpracuje, `pagesPerSite` kolik podstránek
+u každého.
+
+## Náš web — hlídání nových stránek
+
+Každý běh se navíc přečte naše sitemapa (`ownWatch` v `page-types.json`) a
+vyfotí se stránky odpovídající vzorům (EMA `funkce/ai`, srovnávačky
+`ecomail-vs-…`, alternativy) — ale **jen ty, které se ještě nikdy nefotily.**
+První běh si celý seznam jen zapamatuje, ať se nezaplaví.
+
+Výsledek: `deep/<datum>/ecomail--novinka--<slug>.jpg`, v reportu pole
+`naseNovinky`.
+
+Sledují se jen české stránky. PL a SK verze se záměrně nefotí.
+
 ## Složka `changed/` je radar
 
 Pokud se fotka webu liší od té z minulého běhu, přistane její kopie do

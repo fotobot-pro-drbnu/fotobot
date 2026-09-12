@@ -103,7 +103,7 @@ async function loadQueue() {
     .filter(Boolean);
 }
 
-async function shoot(browser, target, { isQueue = false } = {}) {
+async function shoot(browser, target, { isQueue = false, isDeep = false } = {}) {
   const result = { key: target.key, url: target.url, ok: false };
   const failedResources = [];
   const ctx = await browser.newContext({
@@ -134,7 +134,7 @@ async function shoot(browser, target, { isQueue = false } = {}) {
     result.finalUrl = page.url();
     await page.waitForLoadState('load', { timeout: 20000 }).catch(() => {});
     await page.addStyleTag({ content: CMP_CSS }).catch(() => {});
-    await page.waitForTimeout(SETTLE_MS);
+    await page.waitForTimeout(target.settle || SETTLE_MS);
     await page
       .evaluate(async () => {
         const step = window.innerHeight;
@@ -197,16 +197,18 @@ async function shoot(browser, target, { isQueue = false } = {}) {
       );
       result.h1 = health.h1;
 
+      // Poznámka: počet CSS pravidel se NEHLÍDÁ — u externích stylů je nelze
+      // přečíst a každý normální web pak vypadá jako rozbitý (ověřeno 12.9.
+      // na Leadhubu a Sendlane, oba byly v pořádku).
       const cssFailed = failedResources.some((f) => f.startsWith('stylesheet'));
-      const manyBrokenImgs = health.imgTotal > 0 && health.imgBroken / health.imgTotal > 0.4;
-      result.suspicious =
-        health.ruleCount < 20 || cssFailed || manyBrokenImgs || health.bodyHeight < 700;
+      const brokenRatio = health.imgTotal > 5 ? health.imgBroken / health.imgTotal : 0;
+      const shortPage = health.bodyHeight < 700;
+      result.suspicious = shortPage || brokenRatio > 0.6 || (cssFailed && brokenRatio > 0.3);
       if (result.suspicious) {
         result.suspiciousWhy = [
-          health.ruleCount < 20 ? `malo CSS pravidel (${health.ruleCount})` : null,
+          shortPage ? `nizka stranka (${health.bodyHeight}px)` : null,
+          brokenRatio > 0.3 ? `rozbite obrazky (${health.imgBroken}/${health.imgTotal})` : null,
           cssFailed ? 'nenacetl se stylesheet' : null,
-          manyBrokenImgs ? `rozbite obrazky (${health.imgBroken}/${health.imgTotal})` : null,
-          health.bodyHeight < 700 ? `nizka stranka (${health.bodyHeight}px)` : null,
         ]
           .filter(Boolean)
           .join(', ');
@@ -218,6 +220,16 @@ async function shoot(browser, target, { isQueue = false } = {}) {
 
     const shotBuf = await page.screenshot({ type: 'jpeg', quality: 72 });
     result.pix = await pixelSignature(shotBuf).catch(() => null);
+
+    if (isDeep) {
+      const dir = path.join(ROOT, 'deep', TODAY);
+      await ensureDir(dir);
+      await fs.writeFile(path.join(dir, `${target.key}.jpg`), shotBuf);
+      result.path = `deep/${TODAY}/${target.key}.jpg`;
+      result.own = Boolean(target.own);
+      result.ok = true;
+      return result;
+    }
 
     if (isQueue) {
       const dir = path.join(ROOT, 'queue-shots', TODAY);
@@ -256,6 +268,8 @@ async function shoot(browser, target, { isQueue = false } = {}) {
   }
 }
 
+const pool2 = (...a) => pool(...a);
+
 async function pool(items, worker, size) {
   const out = [];
   let i = 0;
@@ -267,6 +281,108 @@ async function pool(items, worker, size) {
       }
     })
   );
+  return out;
+}
+
+
+// ── Denní téma a hledání podstránek ────────────────────────────────────────
+// Fotograf si seznam podstránek odvodí sám: vezme dnešní téma, rotující partii
+// konkurentů, a u každého najde v jeho vlastní sitemapě adresy, které tématu
+// odpovídají. Nikdo mu nic nediktuje.
+
+async function fetchText(url, timeoutMs = 15000) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  try {
+    const res = await fetch(url, {
+      signal: ctrl.signal,
+      headers: { 'user-agent': 'fotobot (interni prehled konkurence)' },
+    });
+    if (!res.ok) return null;
+    const ct = res.headers.get('content-type') || '';
+    if (!/xml|text|html/i.test(ct)) return null;
+    return (await res.text()).slice(0, 3_000_000);
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(t);
+  }
+}
+
+function urlsFromSitemapXml(xml) {
+  return Array.from(xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/gi)).map((m) => m[1]);
+}
+
+async function sitemapUrls(origin) {
+  const candidates = [`${origin}/sitemap.xml`, `${origin}/sitemap_index.xml`];
+  const robots = await fetchText(`${origin}/robots.txt`, 8000);
+  if (robots) {
+    for (const m of robots.matchAll(/sitemap:\s*(\S+)/gi)) candidates.push(m[1]);
+  }
+  const seen = new Set();
+  const out = [];
+  for (const c of candidates.slice(0, 5)) {
+    const xml = await fetchText(c);
+    if (!xml) continue;
+    const found = urlsFromSitemapXml(xml);
+    // Vnořený sitemap index — jdeme o úroveň hlouběji, max 3 dílčí mapy.
+    const nested = found.filter((u) => /\.xml(\?|$)/i.test(u)).slice(0, 3);
+    for (const n of nested) {
+      const sub = await fetchText(n);
+      if (sub) for (const u of urlsFromSitemapXml(sub)) if (!seen.has(u)) { seen.add(u); out.push(u); }
+    }
+    for (const u of found) if (!/\.xml(\?|$)/i.test(u) && !seen.has(u)) { seen.add(u); out.push(u); }
+    if (out.length > 50) break;
+  }
+  return out;
+}
+
+// Když sitemapa není, posbíráme odkazy z navigace homepage.
+async function navUrls(browser, url) {
+  const ctx = await browser.newContext({ viewport: { width: 1440, height: 900 }, locale: 'cs-CZ' });
+  const page = await ctx.newPage();
+  try {
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    await page.waitForTimeout(2500);
+    return await page.evaluate(() =>
+      Array.from(document.querySelectorAll('a[href]'))
+        .map((a) => a.href)
+        .filter((h) => h.startsWith(location.origin))
+        .slice(0, 400)
+    );
+  } catch {
+    return [];
+  } finally {
+    await ctx.close().catch(() => {});
+  }
+}
+
+function pickByKeywords(urls, keywords, limit) {
+  const scored = [];
+  for (const u of urls) {
+    let pathPart;
+    try {
+      pathPart = decodeURIComponent(new URL(u).pathname.toLowerCase());
+    } catch {
+      continue;
+    }
+    if (pathPart === '/' || pathPart.length > 90) continue;
+    if (/\/(blog|news|clanky|post|category|tag|author|help|docs|support|napoveda)\//.test(pathPart)) continue;
+    const hit = keywords.findIndex((k) => pathPart.includes(k));
+    if (hit === -1) continue;
+    // Kratší cesta = obvykle hlavní stránka tématu, ne odbočka.
+    scored.push({ url: u, score: hit * 100 + pathPart.split('/').filter(Boolean).length * 10 + pathPart.length / 100 });
+  }
+  scored.sort((a, b) => a.score - b.score);
+  const out = [];
+  const seenPaths = new Set();
+  for (const s of scored) {
+    const key = new URL(s.url).pathname.replace(/\/$/, '');
+    if (seenPaths.has(key)) continue;
+    seenPaths.add(key);
+    out.push(s.url);
+    if (out.length >= limit) break;
+  }
   return out;
 }
 
@@ -286,7 +402,7 @@ async function shootWithRetry(target, opts = {}) {
   for (let attempt = 1; attempt <= ATTEMPTS; attempt++) {
     last = await shoot(browser, target, opts);
     last.attempts = attempt;
-    if (last.ok && !last.suspicious) return last;
+    if (last.ok) return last; // podezření neopakujeme, jen skutečnou chybu
     if (attempt < ATTEMPTS) await new Promise((r) => setTimeout(r, 3000));
   }
   return last;
@@ -296,6 +412,88 @@ const results = await pool(targets, (t) => shootWithRetry(t), CONCURRENCY);
 const queueResults = queue.length
   ? await pool(queue, (t) => shootWithRetry(t, { isQueue: true }), CONCURRENCY)
   : [];
+
+
+// ── Hloubková fáze: dnešní téma ────────────────────────────────────────────
+const pageTypes = await loadJson(path.join(ROOT, 'page-types.json'), null);
+let deepResults = [];
+let todaysTheme = null;
+
+if (pageTypes && Array.isArray(pageTypes.types) && pageTypes.types.length) {
+  const dayIndex = Math.floor(Date.now() / 86400000);
+  const theme = pageTypes.types[dayIndex % pageTypes.types.length];
+  todaysTheme = theme.type;
+  const perDay = pageTypes.perDay || 12;
+  const pagesPerSite = pageTypes.pagesPerSite || 2;
+
+  // Rotující partie konkurentů (naše weby sem nepatří, ty máme v theme.us).
+  const pool = targets.filter((t) => !t.own);
+  const start = (dayIndex * perDay) % pool.length;
+  const slice = Array.from({ length: Math.min(perDay, pool.length) }, (_, i) => pool[(start + i) % pool.length]);
+
+  const deepTargets = [];
+  for (const t of slice) {
+    let origin;
+    try {
+      origin = new URL(t.url).origin;
+    } catch {
+      continue;
+    }
+    let urls = await sitemapUrls(origin);
+    if (urls.length < 5) urls = await navUrls(browser, t.url);
+    const picked = pickByKeywords(urls, theme.keywords, pagesPerSite);
+    picked.forEach((u, i) => deepTargets.push({ key: `${t.key}--${theme.type}${i ? '-' + (i + 1) : ''}`, url: u }));
+  }
+
+  // A náš web ke stejnému tématu — proto se fotí jen když je k čemu srovnávat.
+  (theme.us || []).forEach((u, i) => deepTargets.push({ key: `ecomail--${theme.type}${i ? '-' + (i + 1) : ''}`, url: u, own: true }));
+
+  deepResults = deepTargets.length
+    ? await pool2(deepTargets, (t) => shoot(browser, t, { isDeep: true }), CONCURRENCY)
+    : [];
+}
+
+
+// ── Náš web: hlídání nových stránek (EMA, srovnávačky Ecomail vs. X) ───────
+// Běží každý běh. V naší sitemapě hledá stránky odpovídající vzorům z
+// page-types.json → ownWatch a fotí jen ty, které jsme ještě nikdy nefotili.
+let ownWatchResults = [];
+if (pageTypes && pageTypes.ownWatch && pageTypes.ownWatch.sitemap) {
+  const ow = pageTypes.ownWatch;
+  const seenKey = '__ownSeen';
+  const seen = new Set((signatures[seenKey] && signatures[seenKey].urls) || []);
+  const xml = await fetchText(ow.sitemap);
+  let ourUrls = xml ? urlsFromSitemapXml(xml) : [];
+  if (!ourUrls.length) {
+    const origin = new URL(ow.sitemap).origin;
+    ourUrls = await sitemapUrls(origin);
+  }
+  const pats = (ow.patterns || []).map((x) => x.toLowerCase());
+  const fresh = ourUrls
+    .filter((u) => {
+      let pathPart;
+      try {
+        pathPart = decodeURIComponent(new URL(u).pathname.toLowerCase());
+      } catch {
+        return false;
+      }
+      if (/\/(blog|slovnik-pojmu|webinare|napoveda)\//.test(pathPart)) return false;
+      return pats.some((k) => pathPart.includes(k)) && !seen.has(u);
+    })
+    .slice(0, ow.maxPerRun || 3);
+
+  if (fresh.length) {
+    const owTargets = fresh.map((u) => {
+      const slug = new URL(u).pathname.replace(/\//g, '-').replace(/^-|-$/g, '') || 'home';
+      return { key: `ecomail--novinka--${slug}`.slice(0, 90), url: u, own: true };
+    });
+    ownWatchResults = await pool2(owTargets, (t) => shoot(browser, t, { isDeep: true }), CONCURRENCY);
+    for (const u of fresh) seen.add(u);
+  }
+  // Poprvé si celý seznam jen zapamatujeme, ať to nezaplaví první běh.
+  if (!signatures[seenKey]) for (const u of ourUrls) seen.add(u);
+  signatures[seenKey] = { urls: Array.from(seen).slice(-400), ts: new Date().toISOString() };
+}
 
 await browser.close();
 
@@ -343,10 +541,13 @@ for (const q of queueResults) {
 
 await fs.writeFile(path.join(ROOT, 'signatures.json'), JSON.stringify(signatures, null, 2));
 
+for (const d of [...deepResults, ...ownWatchResults]) { delete d.shotBuf; delete d.pix; }
+
 const report = {
   runAt: new Date().toISOString(),
   date: TODAY,
   pixelThreshold: PIXEL_THRESHOLD,
+  tema: todaysTheme,
   counts: {
     targets: results.length,
     ok: results.filter((r) => r.ok).length,
@@ -354,7 +555,11 @@ const report = {
     suspicious: results.filter((r) => r.ok && r.suspicious).length,
     changed: results.filter((r) => r.changed).length,
     queue: queueResults.length,
+    deep: deepResults.filter((d) => d.ok).length,
+    naseNovinky: ownWatchResults.filter((d) => d.ok).length,
   },
+  naseNovinky: ownWatchResults.map((d) => ({ key: d.key, url: d.url, shot: d.path, h1: d.h1, ok: d.ok })),
+  deep: deepResults.map((d) => ({ key: d.key, url: d.url, shot: d.path, own: d.own, h1: d.h1, ok: d.ok })),
   changed: results
     .filter((r) => r.changed)
     .map((r) => ({ key: r.key, url: r.url, why: r.changeReason, shot: r.changedPath, h1: r.h1 })),
@@ -370,9 +575,11 @@ const report = {
 
 await fs.writeFile(path.join(ROOT, 'report.json'), JSON.stringify(report, null, 2));
 
-console.log(JSON.stringify(report.counts));
+console.log('tema dne:', todaysTheme, JSON.stringify(report.counts));
 if (report.failed.length) console.log('SPADLO:', report.failed.map((f) => f.key).join(', '));
 if (report.suspicious.length)
   console.log('PODEZRELE:', report.suspicious.map((s) => `${s.key} (${s.why})`).join(', '));
+if (report.naseNovinky.length)
+  console.log('NASE NOVE STRANKY:', report.naseNovinky.map((n) => n.url).join(', '));
 if (report.changed.length)
   console.log('ZMENENO:', report.changed.map((c) => `${c.key} [${c.why}]`).join(', '));
