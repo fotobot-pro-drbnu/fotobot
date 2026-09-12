@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.49.1",
+    "playwright-core": "^1.49.1"
+  },
+  "devDependencies": {}
 }
