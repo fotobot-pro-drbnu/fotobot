@@ -1,5 +1,5 @@
 {
-  "comment": "Denní témata. Fotograf každý den vezme jedno (rotuje podle dne) a u vybrané partie konkurentů najde v jejich sitemapě odpovídající podstránky. Ke stejnému tématu vyfotí i náš web — proto je u každého tématu 'us'.",
+  "comment": "Denní témata. Fotograf každý den vezme jedno (rotuje podle dne) a u vybrané partie sledovaných nástrojů najde v jejich sitemapě odpovídající podstránky. Ke stejnému tématu vyfotí i naše stránky — jejich adresy jsou v tajném nastavení repozitáře.",
   "perDay": 12,
   "pagesPerSite": 2,
   "types": [
@@ -13,8 +13,8 @@
         "flows",
         "trigger"
       ],
-      "us": [
-        "https://ecomail.cz/funkce/automatizace/"
+      "usEnv": [
+        "OWN_AUTOMATION_URL"
       ]
     },
     {
@@ -27,8 +27,8 @@
         "tarif",
         "cennik"
       ],
-      "us": [
-        "https://ecomail.cz/cenik/"
+      "usEnv": [
+        "OWN_PRICING_URL"
       ]
     },
     {
@@ -41,8 +41,8 @@
         "builder",
         "szablon"
       ],
-      "us": [
-        "https://ecomail.cz/funkce/"
+      "usEnv": [
+        "OWN_FEATURES_URL"
       ]
     },
     {
@@ -55,8 +55,8 @@
         "apps",
         "integracje"
       ],
-      "us": [
-        "https://ecomail.cz/funkce/integrace/"
+      "usEnv": [
+        "OWN_INTEGRATIONS_URL"
       ]
     },
     {
@@ -73,9 +73,9 @@
         "story",
         "culture"
       ],
-      "us": [
-        "https://ecomail.cz/o-ecomailu/",
-        "https://ecomail.cz/kariera/"
+      "usEnv": [
+        "OWN_ABOUT_URL",
+        "OWN_CAREERS_URL"
       ]
     },
     {
@@ -90,14 +90,14 @@
         "alternativ",
         "alternatives"
       ],
-      "us": [
-        "https://ecomail.cz/funkce/ai/"
+      "usEnv": [
+        "OWN_AI_URL"
       ]
     }
   ],
   "ownWatch": {
-    "comment": "Náš web se kontroluje každý běh: v naší sitemapě se hledají nové stránky odpovídající těmto vzorům (hlavně EMA a srovnávačky Ecomail vs. X). Vyfotí se jen ty, které jsme ještě nikdy nefotili.",
-    "sitemap": "https://ecomail.cz/sitemap.xml",
+    "comment": "Adresa sitemapy se bere z tajného nastavení repozitáře (OWN_SITEMAP_URL), aby v repu nebylo vidět, čí je to web.",
+    "sitemapEnv": "OWN_SITEMAP_URL",
     "patterns": [
       "funkce/ai",
       "vs-",

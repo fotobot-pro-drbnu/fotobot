@@ -386,7 +386,18 @@ function pickByKeywords(urls, keywords, limit) {
   return out;
 }
 
-const targets = JSON.parse(await fs.readFile(path.join(ROOT, 'targets.json'), 'utf8'));
+const targetsRaw = JSON.parse(await fs.readFile(path.join(ROOT, 'targets.json'), 'utf8'));
+// Cíl může mít adresu schovanou v tajném nastavení repozitáře (urlEnv) —
+// aby v repu nebylo vidět, čí weby to jsou.
+const targets = targetsRaw
+  .map((t) => (t.urlEnv ? { ...t, url: process.env[t.urlEnv] || '' } : t))
+  .filter((t) => {
+    if (!t.url) {
+      console.log(`preskakuji ${t.key}: chybi promenna ${t.urlEnv || '(url)'}`);
+      return false;
+    }
+    return true;
+  });
 const queue = await loadQueue();
 const signatures = await loadJson(path.join(ROOT, 'signatures.json'), {});
 
@@ -446,7 +457,13 @@ if (pageTypes && Array.isArray(pageTypes.types) && pageTypes.types.length) {
   }
 
   // A náš web ke stejnému tématu — proto se fotí jen když je k čemu srovnávat.
-  (theme.us || []).forEach((u, i) => deepTargets.push({ key: `ecomail--${theme.type}${i ? '-' + (i + 1) : ''}`, url: u, own: true }));
+  const ourUrlsForTheme = [
+    ...(theme.us || []),
+    ...((theme.usEnv || []).map((name) => process.env[name]).filter(Boolean)),
+  ];
+  ourUrlsForTheme.forEach((u, i) =>
+    deepTargets.push({ key: `nase--${theme.type}${i ? '-' + (i + 1) : ''}`, url: u, own: true })
+  );
 
   deepResults = deepTargets.length
     ? await pool2(deepTargets, (t) => shoot(browser, t, { isDeep: true }), CONCURRENCY)
@@ -458,8 +475,12 @@ if (pageTypes && Array.isArray(pageTypes.types) && pageTypes.types.length) {
 // Běží každý běh. V naší sitemapě hledá stránky odpovídající vzorům z
 // page-types.json → ownWatch a fotí jen ty, které jsme ještě nikdy nefotili.
 let ownWatchResults = [];
-if (pageTypes && pageTypes.ownWatch && pageTypes.ownWatch.sitemap) {
-  const ow = pageTypes.ownWatch;
+const ownSitemap =
+  pageTypes && pageTypes.ownWatch
+    ? pageTypes.ownWatch.sitemap || process.env[pageTypes.ownWatch.sitemapEnv || ''] || ''
+    : '';
+if (ownSitemap) {
+  const ow = { ...pageTypes.ownWatch, sitemap: ownSitemap };
   const seenKey = '__ownSeen';
   const seen = new Set((signatures[seenKey] && signatures[seenKey].urls) || []);
   const xml = await fetchText(ow.sitemap);
@@ -485,7 +506,7 @@ if (pageTypes && pageTypes.ownWatch && pageTypes.ownWatch.sitemap) {
   if (fresh.length) {
     const owTargets = fresh.map((u) => {
       const slug = new URL(u).pathname.replace(/\//g, '-').replace(/^-|-$/g, '') || 'home';
-      return { key: `ecomail--novinka--${slug}`.slice(0, 90), url: u, own: true };
+      return { key: `nase--novinka--${slug}`.slice(0, 90), url: u, own: true };
     });
     ownWatchResults = await pool2(owTargets, (t) => shoot(browser, t, { isDeep: true }), CONCURRENCY);
     for (const u of fresh) seen.add(u);

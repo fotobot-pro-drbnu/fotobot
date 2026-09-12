@@ -1,7 +1,7 @@
 # fotobot
 
-Fotograf pro Stalkera — automatu, který každé ráno sleduje konkurenci Ecomailu
-(e-mailingové a marketing-automation nástroje) a posílá nálezy do Slacku.
+Fotograf — každé ráno vyfotí sledované e-mailingové a marketing-automation
+nástroje, aby se z obrázků dalo posoudit, jak co vypadá.
 
 Stalker běží v cloudu, kde nemá prohlížeč ani přístup na cizí weby, takže sám
 nevidí, jak co vypadá. Tenhle repozitář to řeší: fotky pořizuje GitHub, kam
@@ -43,11 +43,12 @@ U každého z nich si sám najde odpovídající podstránky: přečte jeho
 jejichž cesta odpovídá klíčovým slovům tématu. Blogy, nápovědu a články
 přeskakuje.
 
-**Ke stejnému tématu vyfotí i náš web** (adresy jsou v `us` u každého tématu).
-Proto se Ecomail fotí jen tehdy, když je k čemu srovnávat — ne pro forma.
+**Ke stejnému tématu vyfotí i naše vlastní stránky** — jejich adresy nejsou
+v repozitáři, berou se z tajného nastavení (`usEnv`, viz níže). Fotí se tedy
+jen tehdy, když je k čemu srovnávat.
 
 Výsledek: `deep/<datum>/<klic>--<tema>.jpg`, u našich stránek
-`deep/<datum>/ecomail--<tema>.jpg`. V `report.json` je pole `tema` a seznam
+`deep/<datum>/nase--<tema>.jpg`. V `report.json` je pole `tema` a seznam
 `deep` s adresami a nalezenými H1.
 
 Přidat téma nebo změnit klíčová slova = upravit `page-types.json`. `perDay`
@@ -56,15 +57,13 @@ u každého.
 
 ## Náš web — hlídání nových stránek
 
-Každý běh se navíc přečte naše sitemapa (`ownWatch` v `page-types.json`) a
-vyfotí se stránky odpovídající vzorům (EMA `funkce/ai`, srovnávačky
-`ecomail-vs-…`, alternativy) — ale **jen ty, které se ještě nikdy nefotily.**
+Každý běh se navíc přečte naše sitemapa (adresa je v tajném nastavení) a
+vyfotí se stránky odpovídající vzorům z `ownWatch` v `page-types.json` —
+ale **jen ty, které se ještě nikdy nefotily.**
 První běh si celý seznam jen zapamatuje, ať se nezaplaví.
 
-Výsledek: `deep/<datum>/ecomail--novinka--<slug>.jpg`, v reportu pole
+Výsledek: `deep/<datum>/nase--novinka--<slug>.jpg`, v reportu pole
 `naseNovinky`.
-
-Sledují se jen české stránky. PL a SK verze se záměrně nefotí.
 
 ## Složka `changed/` je radar
 
@@ -108,6 +107,14 @@ https://raw.githubusercontent.com/fotobot-pro-drbnu/fotobot/main/report.json
 
 (Funguje jen u veřejného repozitáře. U neveřejného je potřeba přihlášené
 čtení přes GitHub API.)
+
+## Adresy vlastních stránek
+
+V repozitáři nejsou schválně — aby z něj nešlo poznat, čí projekt to je.
+Vkládají se jako **Repository secrets** (Settings → Secrets and variables →
+Actions). Názvy proměnných jsou v `targets.json` (`urlEnv`) a v
+`page-types.json` (`usEnv`, `sitemapEnv`). Když secret chybí, ta stránka se
+nevyfotí a napíše se to do logu; zbytek běhu to neshodí.
 
 ## Čeho si být vědomý
 

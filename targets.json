@@ -1,13 +1,13 @@
 [
   {
-    "key": "ecomail-cz",
-    "url": "https://ecomail.cz/",
+    "key": "nas-web",
+    "urlEnv": "OWN_HOME_URL",
     "own": true,
     "full": true
   },
   {
-    "key": "ecomail-ema",
-    "url": "https://ecomail.cz/funkce/ai/",
+    "key": "nas-agent",
+    "urlEnv": "OWN_AI_URL",
     "own": true,
     "full": true
   },
