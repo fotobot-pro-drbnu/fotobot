@@ -1,0 +1,53 @@
+name: fotobot
+
+on:
+  schedule:
+    # 5:40 UTC = 7:40 v Praze v letním čase, 6:40 v zimním. Běží Po–Pá,
+    # tedy 20 minut před Stalkerem, aby měl čerstvé fotky.
+    - cron: "40 5 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotobot
+  cancel-in-progress: false
+
+jobs:
+  shoot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Nainstaluj Playwright a Chromium
+        run: |
+          npm init -y >/dev/null 2>&1 || true
+          npm install --no-save playwright@1.49.1
+          npx playwright install --with-deps chromium
+
+      - name: Vyfoť weby
+        run: node shoot.mjs
+
+      - name: Ukliď staré jednorázové fotky (starší než 30 dní)
+        run: |
+          find queue-shots -mindepth 1 -maxdepth 1 -type d -mtime +30 -exec rm -rf {} + 2>/dev/null || true
+          find changed -mindepth 1 -maxdepth 1 -type d -mtime +120 -exec rm -rf {} + 2>/dev/null || true
+
+      - name: Commitni fotky
+        run: |
+          git config user.name "fotobot"
+          git config user.email "fotobot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nic nového, necommituju."
+          else
+            CHANGED=$(node -e "const r=require('./report.json');console.log(r.counts.changed+'/'+r.counts.targets)")
+            git commit -m "fotky $(date -u +%F) (zmeneno ${CHANGED})"
+            git push
+          fi
