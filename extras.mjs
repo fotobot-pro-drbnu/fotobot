@@ -40,8 +40,26 @@ const RETENTION_DAYS = 60;
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 const NAV_TIMEOUT = 35000;
 const SETTLE_MS = 3500;
+// Slušnost k cizím serverům. Běh z 13.9. schytal 429 („moc dotazů") od MAM,
+// MailerLite i ActiveCampaign — dělali jsme si to sami tím, jak rychle po
+// sobě robot tloukl na tytéž domény. Držíme mezeru mezi dotazy na JEDEN host.
+const MIN_HOST_GAP = 2500;
+// Když u zdroje nenajdeme feed, nezkoušíme těch patnáct adres znovu každý
+// den — počká se dva týdny. Šetří to čas běhu i nervy protistrany.
+const NO_FEED_COOLDOWN_DAYS = 14;
 
 const log = (...a) => console.log(...a);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+const lastHit = new Map();
+async function politeWait(url) {
+  let host;
+  try { host = new URL(url).host; } catch { return; }
+  const prev = lastHit.get(host) || 0;
+  const wait = prev + MIN_HOST_GAP - Date.now();
+  if (wait > 0) await sleep(wait);
+  lastHit.set(host, Date.now());
+}
 
 async function readJson(file, fallback) {
   try { return JSON.parse(await fs.readFile(path.join(ROOT, file), 'utf8')); }
@@ -87,7 +105,8 @@ function looksBlocked(text) {
 
 // ───────────────────────────────────────────────────── stahování obsahu ────
 
-async function grabPlain(url) {
+async function grabPlain(url, retry = true) {
+  await politeWait(url);
   const ctl = new AbortController();
   const t = setTimeout(() => ctl.abort(), 20000);
   try {
@@ -95,9 +114,18 @@ async function grabPlain(url) {
       signal: ctl.signal, redirect: 'follow',
       headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml, */*' },
     });
-    if (!r.ok) return null;
-    return await r.text();
-  } catch { return null; }
+    // 429 = „moc dotazů". Jednou počkáme (podle Retry-After, nejvýš 20 s) a
+    // zkusíme to znovu — teprve pak to hlásíme jako blokaci.
+    if ((r.status === 429 || r.status === 503) && retry) {
+      const hdr = parseInt(r.headers.get('retry-after') || '', 10);
+      const wait = Number.isFinite(hdr) ? Math.min(hdr * 1000, 20000) : 8000;
+      log(`  ${r.status} u ${url} — čekám ${Math.round(wait / 1000)} s a zkouším znovu`);
+      await sleep(wait);
+      return grabPlain(url, false);
+    }
+    if (!r.ok) return { ok: false, status: r.status, body: null };
+    return { ok: true, status: r.status, body: await r.text() };
+  } catch { return { ok: false, status: 0, body: null }; }
   finally { clearTimeout(t); }
 }
 
@@ -150,12 +178,21 @@ function parseFeed(xml, limit = 12) {
 
 // Zkusí adresu nejdřív prostým fetchem, pak přes prohlížeč. Když nás web
 // vyhodí, vrátí to jako `blocked` — ať se to nehlásí jako „feed neexistuje".
-async function grabFeed(browser, url) {
+async function grabFeed(browser, url, allowBrowser = true) {
   const plain = await grabPlain(url);
-  if (looksLikeFeed(plain)) return { body: plain, via: 'fetch' };
+  if (looksLikeFeed(plain.body)) return { body: plain.body, via: 'fetch' };
+  if (!allowBrowser) {
+    // Hledáme teprve adresu feedu — prohlížeč sem netaháme, jinak by jeden
+    // zdroj znamenal třicet dotazů místo patnácti a běh by trval věčnost.
+    if (plain.status === 403 || plain.status === 429) return { blocked: true, status: plain.status };
+    return null;
+  }
+  await politeWait(url);
   const r = await grabViaBrowser(browser, url);
   if (looksLikeFeed(r.body)) return { body: r.body, via: 'browser' };
-  if (looksBlocked(r.body) || r.status === 403 || r.status === 429) return { blocked: true, status: r.status };
+  if (looksBlocked(r.body) || r.status === 403 || r.status === 429 || plain.status === 403 || plain.status === 429) {
+    return { blocked: true, status: r.status || plain.status };
+  }
   return null;
 }
 
@@ -174,14 +211,36 @@ async function runFeeds(browser) {
       let feedUrl = src.feed || state[src.key]?.feed || null;
       let got = feedUrl ? await grabFeed(browser, feedUrl) : null;
 
-      if ((!got || got.blocked) && src.site) {     // hledání adresy feedu
+      const cooldown = state[src.key]?.noFeedUntil;
+      const naLedu = cooldown && Date.parse(cooldown) > now;
+
+      if ((!got || got.blocked) && src.site && !naLedu) {   // hledání adresy feedu
+        // Nejdřív prostým fetchem přes všechny kandidáty — levné a rychlé.
         for (const p of FEED_PATHS) {
           const cand = src.site.replace(/\/$/, '') + p;
-          const r = await grabFeed(browser, cand);
+          const r = await grabFeed(browser, cand, false);
           if (r && !r.blocked) { feedUrl = cand; got = r; break; }
           if (r && r.blocked) got = r;             // blokaci si pamatuj, ale zkoušej dál
         }
-        if (got && !got.blocked) { result.discovered[src.key] = feedUrl; log(`feeds: ${src.key} → ${feedUrl} (${got.via})`); }
+        // Teprve když nic neprošlo, jeden pokus přes prohlížeč na hlavní
+        // adresu. Tímhle se minule chytil Boldem, tak o to nechceme přijít.
+        if (!got || got.blocked) {
+          const cand = src.site.replace(/\/$/, '') + FEED_PATHS[0];
+          const r = await grabFeed(browser, cand, true);
+          if (r && !r.blocked) { feedUrl = cand; got = r; }
+          else if (r && r.blocked) got = r;
+        }
+        if (got && !got.blocked) {
+          result.discovered[src.key] = feedUrl;
+          log(`feeds: ${src.key} → ${feedUrl} (${got.via})`);
+        } else if (!got) {
+          // Marné hledání si poznamenáme, ať se neopakuje každý den.
+          state[src.key] = { ...(state[src.key] || {}), noFeedUntil: new Date(now + NO_FEED_COOLDOWN_DAYS * 86400000).toISOString() };
+        }
+      }
+      if (naLedu && !got) {
+        result.failed.push({ key: src.key, name: src.name, reason: `feed se nenašel, další hledání až po ${state[src.key].noFeedUntil.slice(0, 10)}` });
+        continue;
       }
       if (got && got.blocked) {
         result.blokovano.push({ key: src.key, name: src.name, status: got.status });
@@ -191,7 +250,7 @@ async function runFeeds(browser) {
       if (!got) { result.failed.push({ key: src.key, name: src.name, reason: 'feed nenalezen ani přes prohlížeč' }); continue; }
       if (got.via === 'browser') result.viaBrowser.push(src.key);
 
-      state[src.key] = { feed: feedUrl, via: got.via, ok: new Date().toISOString() };
+      state[src.key] = { feed: feedUrl, via: got.via, ok: new Date().toISOString() };  // úspěch ruší cooldown
       for (const it of parseFeed(got.body)) {
         if (it.ts && now - it.ts > maxAge) continue;
         items.push({ source: src.key, name: src.name, ...it });
