@@ -9,9 +9,11 @@
     { "key": "rge-welcome", "name": "Really Good Emails — welcome", "url": "https://reallygoodemails.com/categories/welcome", "itemPattern": "/emails/" },
     { "key": "rge-promo", "name": "Really Good Emails — promo", "url": "https://reallygoodemails.com/categories/promotion", "itemPattern": "/emails/" },
     { "key": "rge-cart", "name": "Really Good Emails — opuštěný košík", "url": "https://reallygoodemails.com/categories/abandoned-cart", "itemPattern": "/emails/" },
-    { "key": "emaillove-newsletter", "name": "Email Love — newslettery", "url": "https://emaillove.com/inspiration/newsletter", "itemPattern": "/email-inspiration-from-" },
-    { "key": "emaillove-saas", "name": "Email Love — SaaS", "url": "https://emaillove.com/brands?cat=saas", "itemPattern": "/email-inspiration-from-" },
-    { "key": "emaillove-bf", "name": "Email Love — Black Friday", "url": "https://emaillove.com/inspiration/black-friday", "itemPattern": "/email-inspiration-from-" }
+    { "key": "rge-transactional", "name": "Really Good Emails — transakční", "url": "https://reallygoodemails.com/categories/transactional", "itemPattern": "/emails/" },
+    { "key": "rge-announcement", "name": "Really Good Emails — oznámení", "url": "https://reallygoodemails.com/categories/announcement", "itemPattern": "/emails/" },
+    { "key": "rge-onboarding", "name": "Really Good Emails — onboarding", "url": "https://reallygoodemails.com/categories/onboarding", "itemPattern": "/emails/" },
+    { "key": "emaillove-newsletter", "name": "Email Love — newslettery", "url": "https://emaillove.com/inspiration/newsletter", "itemPattern": "/email-inspiration-from-", "enabled": false, "poznamka": "VYPNUTO 13. 9. 2026: emaillove.com blokuje runner přes Cloudflare — diagnostická fotka ukázala stránku „Sorry, you have been blocked\". Není to chyba vzorku odkazů, tudy cesta nevede. Zapnout jen kdyby změnili ochranu." },
+    { "key": "emaillove-saas", "name": "Email Love — SaaS", "url": "https://emaillove.com/brands?cat=saas", "itemPattern": "/email-inspiration-from-", "enabled": false, "poznamka": "Viz výše — Cloudflare." }
   ],
   "archiveTemplates": [
     "{site}/newsletter",

@@ -34,6 +34,9 @@ import path from 'node:path';
 const ROOT = process.cwd();
 const TODAY = new Date().toISOString().slice(0, 10);
 const DOY = Math.floor((Date.now() - Date.UTC(new Date().getUTCFullYear(), 0, 0)) / 86400000);
+// Jak dlouho se drží datované fotky. Sledujeme aktuality, ne archiv —
+// co je starší, se maže i s tím, že na to můžou vést staré odkazy.
+const RETENTION_DAYS = 60;
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 const NAV_TIMEOUT = 35000;
 const SETTLE_MS = 3500;
@@ -68,6 +71,20 @@ const strip = (s) => (s || '')
 const HIDE_COOKIES = `#onetrust-banner-sdk,#CybotCookiebotDialog,.cc-window,#cookiescript_injected,
   [id*="cookie" i][class*="banner" i],[class*="cookie" i][class*="consent" i],[id*="usercentrics" i]{display:none!important}`;
 
+// Cloudflare a spol. runner z datacentra často odmítnou. Je rozdíl mezi
+// „stránka nic nevrátila" a „vyhodili nás" — druhé nemá cenu zkoušet dokola
+// a hlavně to není nález o tom webu, ale o nás.
+const BLOCK_MARKERS = [
+  'you have been blocked', 'attention required', 'access denied',
+  'checking your browser', 'cf-error-details', 'just a moment...',
+  'request blocked', 'error 1015', 'ddos protection by',
+];
+function looksBlocked(text) {
+  if (!text) return false;
+  const t = text.slice(0, 4000).toLowerCase();
+  return BLOCK_MARKERS.some((m) => t.includes(m));
+}
+
 // ───────────────────────────────────────────────────── stahování obsahu ────
 
 async function grabPlain(url) {
@@ -91,9 +108,11 @@ async function grabViaBrowser(browser, url) {
   const page = await ctx.newPage();
   try {
     const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
-    if (!resp || !resp.ok()) return null;
-    return await resp.text();
-  } catch { return null; }
+    if (!resp) return { ok: false, status: 0, body: null };
+    // Tělo čteme i u chybového kódu — potřebujeme poznat, jestli nás vyhodili.
+    const body = await resp.text().catch(() => null);
+    return { ok: resp.ok(), status: resp.status(), body };
+  } catch { return { ok: false, status: 0, body: null }; }
   finally { await ctx.close().catch(() => {}); }
 }
 
@@ -129,12 +148,14 @@ function parseFeed(xml, limit = 12) {
   return out;
 }
 
-// Zkusí adresu nejdřív prostým fetchem, pak přes prohlížeč.
+// Zkusí adresu nejdřív prostým fetchem, pak přes prohlížeč. Když nás web
+// vyhodí, vrátí to jako `blocked` — ať se to nehlásí jako „feed neexistuje".
 async function grabFeed(browser, url) {
-  let body = await grabPlain(url);
-  if (looksLikeFeed(body)) return { body, via: 'fetch' };
-  body = await grabViaBrowser(browser, url);
-  if (looksLikeFeed(body)) return { body, via: 'browser' };
+  const plain = await grabPlain(url);
+  if (looksLikeFeed(plain)) return { body: plain, via: 'fetch' };
+  const r = await grabViaBrowser(browser, url);
+  if (looksLikeFeed(r.body)) return { body: r.body, via: 'browser' };
+  if (looksBlocked(r.body) || r.status === 403 || r.status === 429) return { blocked: true, status: r.status };
   return null;
 }
 
@@ -145,7 +166,7 @@ async function runFeeds(browser) {
   const state = await readJson('feeds-state.json', {});
   const maxAge = (cfg.maxAgeHours || 48) * 3600000;
   const now = Date.now();
-  const result = { generatedAt: new Date().toISOString(), maxAgeHours: cfg.maxAgeHours || 48, groups: {}, discovered: {}, viaBrowser: [], failed: [] };
+  const result = { generatedAt: new Date().toISOString(), maxAgeHours: cfg.maxAgeHours || 48, groups: {}, discovered: {}, viaBrowser: [], blokovano: [], failed: [] };
 
   for (const [gk, group] of Object.entries(cfg.groups)) {
     const items = [];
@@ -153,13 +174,19 @@ async function runFeeds(browser) {
       let feedUrl = src.feed || state[src.key]?.feed || null;
       let got = feedUrl ? await grabFeed(browser, feedUrl) : null;
 
-      if (!got && src.site) {                      // hledání adresy feedu
+      if ((!got || got.blocked) && src.site) {     // hledání adresy feedu
         for (const p of FEED_PATHS) {
           const cand = src.site.replace(/\/$/, '') + p;
           const r = await grabFeed(browser, cand);
-          if (r) { feedUrl = cand; got = r; break; }
+          if (r && !r.blocked) { feedUrl = cand; got = r; break; }
+          if (r && r.blocked) got = r;             // blokaci si pamatuj, ale zkoušej dál
         }
-        if (got) { result.discovered[src.key] = feedUrl; log(`feeds: ${src.key} → ${feedUrl} (${got.via})`); }
+        if (got && !got.blocked) { result.discovered[src.key] = feedUrl; log(`feeds: ${src.key} → ${feedUrl} (${got.via})`); }
+      }
+      if (got && got.blocked) {
+        result.blokovano.push({ key: src.key, name: src.name, status: got.status });
+        log(`feeds: ${src.key} NÁS BLOKUJE (${got.status})`);
+        continue;
       }
       if (!got) { result.failed.push({ key: src.key, name: src.name, reason: 'feed nenalezen ani přes prohlížeč' }); continue; }
       if (got.via === 'browser') result.viaBrowser.push(src.key);
@@ -177,7 +204,7 @@ async function runFeeds(browser) {
   await writeJson('feeds-state.json', state);
   await writeJson('feeds.json', result);
   const total = Object.values(result.groups).reduce((s, g) => s + g.count, 0);
-  log(`feeds: ${total} položek, ${result.viaBrowser.length} zdrojů šlo jen přes prohlížeč, ${result.failed.length} bez feedu`);
+  log(`feeds: ${total} položek, ${result.viaBrowser.length} přes prohlížeč, ${result.blokovano.length} nás blokuje, ${result.failed.length} bez feedu`);
 }
 
 // ──────────────────────────────────────────────────────────── B) CENÍKY ────
@@ -198,7 +225,7 @@ async function runPrices(browser) {
   const rest = cfg.targets.filter((t) => !t.own);
   const todays = [...slice(rest, cfg.perDay || 12, 3), ...own];   // náš ceník každý den
   await ensureDir(`pricing-shots/${TODAY}`);
-  const result = { generatedAt: new Date().toISOString(), checked: [], changes: [], errors: [] };
+  const result = { generatedAt: new Date().toISOString(), checked: [], changes: [], nenacteno: [], errors: [] };
 
   for (const t of todays) {
     const ctx = await browser.newContext({ userAgent: UA, viewport: { width: 1440, height: 1400 }, locale: 'cs-CZ' });
@@ -216,7 +243,16 @@ async function runPrices(browser) {
       const entry = { key: t.key, url: t.url, own: !!t.own, cz: !!t.cz, prices, shot };
       result.checked.push(entry);
 
-      if (prev?.prices) {
+      // Když se z ceníku nevytáhla ANI JEDNA cena, stránka se nenačetla.
+      // Není to zlevnění, je to naše chyba — a stav se nepřepisuje, ať se
+      // příště porovnává proti poslední rozumné hodnotě.
+      if (!prices.length) {
+        result.nenacteno.push({ key: t.key, url: t.url, shot, drzeloPredtim: prev?.prices?.length || 0 });
+        log(`prices: ${t.key} — žádná cena, ceník se nenačetl (nehlásím jako změnu)`);
+        continue;
+      }
+
+      if (prev?.prices?.length) {
         const added = prices.filter((p) => !prev.prices.includes(p));
         const removed = prev.prices.filter((p) => !prices.includes(p));
         if (added.length || removed.length) {
@@ -235,7 +271,7 @@ async function runPrices(browser) {
 
   await writeJson('prices-state.json', state);
   await writeJson('prices.json', result);
-  log(`prices: zkontrolováno ${result.checked.length}, změn ${result.changes.length}, chyb ${result.errors.length}`);
+  log(`prices: zkontrolováno ${result.checked.length}, změn ${result.changes.length}, nenačteno ${result.nenacteno.length}, chyb ${result.errors.length}`);
 }
 
 // ─────────────────────────────────────────────────────────── C) E-MAILY ────
@@ -287,7 +323,8 @@ async function runEmails(browser) {
 
   // 1) KATALOGY — projdou se celé, značka se pozná z adresy
   const kandidati = { konkurence: [], ostatni: [] };
-  for (const cat of slice(cfg.catalogs, cfg.catalogsPerDay || 3, 11)) {
+  const zivéKatalogy = cfg.catalogs.filter((c) => c.enabled !== false && !(state.catalogs[c.key]?.blokovano && (state.catalogs[c.key]?.fails || 0) >= 2));
+  for (const cat of slice(zivéKatalogy, cfg.catalogsPerDay || 3, 11)) {
     const ctx = await browser.newContext({ userAgent: UA, viewport: { width: 1400, height: 1400 }, locale: 'en-US' });
     const page = await ctx.newPage();
     let links = [];
@@ -310,6 +347,22 @@ async function runEmails(browser) {
 
       const urls = [...new Set(links.map((h) => absolutize(h, cat.url)).filter(Boolean))];
       const zaznam = { key: cat.key, name: cat.name, url: cat.url, odkazu: urls.length };
+
+      // Rozliš „nic tam nebylo" od „vyhodili nás". To druhé nemá cenu ladit.
+      if (!urls.length) {
+        const bodyText = await page.evaluate(() => document.body?.innerText?.slice(0, 3000) || '').catch(() => '');
+        if (looksBlocked(bodyText)) {
+          const file = `emails/${TODAY}/_katalog--${cat.key}.jpg`;
+          await page.screenshot({ path: path.join(ROOT, file), type: 'jpeg', quality: 70 }).catch(() => {});
+          zaznam.shot = file;
+          zaznam.blokovano = true;
+          zaznam.poznamka = 'web nás blokuje (Cloudflare) — není to chyba vzorku odkazů, tudy cesta nevede';
+          state.catalogs[cat.key] = { blokovano: true, date: TODAY, fails: (state.catalogs[cat.key]?.fails || 0) + 1 };
+          result.katalogy.push(zaznam);
+          await ctx.close().catch(() => {});
+          continue;
+        }
+      }
 
       if (!urls.length) {
         // Důkaz, na co se robot díval — ať se to dá příště opravit.
@@ -400,7 +453,74 @@ async function runEmails(browser) {
   log(`emails: konkurence ${result.konkurence.length}, inspirace ${result.inspirace.length}, archivy ${result.archivy.length}`);
 }
 
-// ──────────────────────────────────────────────────────── D) ZÁCHRANKA ────
+// ───────────────────────────────────── D) DENNÍ ARCHIV FOTEK (datované) ────
+//
+// `latest/` se každý běh přepisuje, takže odkaz na fotku v odeslaném
+// příspěvku by za pár dní ukazoval něco jiného. Proto se z každé dnešní
+// fotky udělá zmenšená datovaná kopie do `daily/<datum>/`. Na tu se dá
+// odkazovat a nezmění se pod rukama.
+
+async function runDaily() {
+  const src = path.join(ROOT, 'latest');
+  let files = [];
+  try { files = (await fs.readdir(src)).filter((f) => f.endsWith('.jpg')); }
+  catch { log('daily: složka latest/ neexistuje'); return; }
+  if (!files.length) { log('daily: latest/ je prázdná'); return; }
+
+  await ensureDir(`daily/${TODAY}`);
+  let sharp = null;
+  try { sharp = (await import('sharp')).default; } catch { /* zmenšovat nemusíme */ }
+
+  let ok = 0, bytes = 0;
+  for (const f of files) {
+    const from = path.join(src, f);
+    const to = path.join(ROOT, 'daily', TODAY, f);
+    try {
+      if (sharp) {
+        await sharp(from).resize({ width: 1000, withoutEnlargement: true })
+          .jpeg({ quality: 62 }).toFile(to);
+      } else {
+        await fs.copyFile(from, to);
+      }
+      bytes += (await fs.stat(to)).size; ok++;
+    } catch (e) { /* jedna fotka navíc nestojí za spadlý běh */ }
+  }
+  await writeJson('daily.json', {
+    generatedAt: new Date().toISOString(), datum: TODAY, pocet: ok,
+    velikostMB: +(bytes / 1048576).toFixed(1),
+    poznamka: 'Datované kopie fotek z latest/. Na tyhle cesty se dá odkazovat v příspěvcích — nepřepisují se. Drží se ' + RETENTION_DAYS + ' dní.',
+  });
+  log(`daily: ${ok} fotek do daily/${TODAY} (${(bytes / 1048576).toFixed(1)} MB)`);
+}
+
+// ─────────────────────────────────────────────── E) ÚKLID STARÝCH FOTEK ────
+//
+// Sledujeme aktuality, ne archiv. Co je starší než RETENTION_DAYS, jde pryč
+// — včetně vědomí, že na to můžou vést staré odkazy ve Slacku.
+
+async function runCleanup() {
+  const dirs = ['daily', 'changed', 'deep', 'emails', 'pricing-shots', 'rescue', 'queue-shots'];
+  const hranice = Date.now() - RETENTION_DAYS * 86400000;
+  const smazano = [];
+  for (const d of dirs) {
+    let sub = [];
+    try { sub = await fs.readdir(path.join(ROOT, d), { withFileTypes: true }); } catch { continue; }
+    for (const e of sub) {
+      if (!e.isDirectory()) continue;
+      const t = Date.parse(e.name);                 // složky se jmenují podle data
+      if (Number.isNaN(t) || t >= hranice) continue;
+      try {
+        await fs.rm(path.join(ROOT, d, e.name), { recursive: true, force: true });
+        smazano.push(`${d}/${e.name}`);
+      } catch { /* nevadí */ }
+    }
+  }
+  if (smazano.length) log(`úklid: smazáno ${smazano.length} složek starších než ${RETENTION_DAYS} dní`);
+  else log(`úklid: nic staršího než ${RETENTION_DAYS} dní`);
+  return smazano;
+}
+
+// ──────────────────────────────────────────────────────── F) ZÁCHRANKA ────
 
 async function runRescue(browser) {
   const report = await readJson('report.json', null);
@@ -454,6 +574,8 @@ try {
   try { await runPrices(browser); } catch (e) { log('prices SPADLO:', e); }
   try { await runEmails(browser); } catch (e) { log('emails SPADLO:', e); }
   try { await runRescue(browser); } catch (e) { log('rescue SPADLO:', e); }
+  try { await runDaily(); } catch (e) { log('daily SPADLO:', e); }
+  try { await runCleanup(); } catch (e) { log('úklid SPADL:', e); }
 } finally {
   await browser.close().catch(() => {});
 }
