@@ -2,9 +2,11 @@ name: fotobot
 
 on:
   schedule:
-    # 5:40 UTC = 7:40 v Praze v letním čase, 6:40 v zimním. Běží Po–Pá,
-    # tedy 20 minut před Stalkerem, aby měl čerstvé fotky.
-    - cron: "40 5 * * 1-5"
+    # 3:30 UTC = 5:30 v Praze v letním čase, 4:30 v zimním. Běží Po–Pá.
+    # Stalker startuje v 8:00 pražského času, takže rezerva je dvě a půl hodiny.
+    # Cron na GitHubu je jen orientační a ve špičce startuje i o dvacet minut
+    # později — proto ta velká rezerva.
+    - cron: "30 3 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
@@ -17,7 +19,9 @@ concurrency:
 jobs:
   shoot:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    # Celý běh dnes trvá kolem hodiny (focení ~20 min, rozšíření ~35 min).
+    # Původních 40 minut ho zabíjelo uprostřed.
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
@@ -44,17 +48,9 @@ jobs:
           OWN_SITEMAP_URL: ${{ secrets.OWN_SITEMAP_URL }}
         run: node shoot.mjs
 
-      - name: Feedy, ceníky a e-maily konkurence
-        continue-on-error: true
-        run: node extras.mjs
-
-      - name: Ukliď staré jednorázové fotky (starší než 30 dní)
-        run: |
-          find queue-shots -mindepth 1 -maxdepth 1 -type d -mtime +30 -exec rm -rf {} + 2>/dev/null || true
-          find changed -mindepth 1 -maxdepth 1 -type d -mtime +120 -exec rm -rf {} + 2>/dev/null || true
-          find emails -mindepth 1 -maxdepth 1 -type d -mtime +45 -exec rm -rf {} + 2>/dev/null || true
-          find pricing-shots -mindepth 1 -maxdepth 1 -type d -mtime +120 -exec rm -rf {} + 2>/dev/null || true
-
+      # POJISTKA: fotky se commitnou hned po focení. Kdyby se rozšíření
+      # zaseklo nebo doběhlo do timeoutu, fotky už jsou v repu a Stalker
+      # má z čeho brát.
       - name: Commitni fotky
         run: |
           git config user.name "fotobot"
@@ -65,5 +61,34 @@ jobs:
           else
             CHANGED=$(node -e "const r=require('./report.json');console.log(r.counts.changed+'/'+r.counts.targets)")
             git commit -m "fotky $(date -u +%F) (zmeneno ${CHANGED})"
+            git push
+          fi
+
+      - name: Feedy, ceníky, e-maily konkurence a datovaný archiv
+        continue-on-error: true
+        run: node extras.mjs
+
+      - name: Ukliď staré jednorázové fotky
+        # Hlavní úklid (60 dní, všechny datované složky) si dělá extras.mjs sám.
+        # Tohle je jen záloha pro případ, že by rozšíření nedoběhlo.
+        run: |
+          find queue-shots -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
+          find changed -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
+          find emails -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
+          find pricing-shots -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
+          find daily -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
+          find rescue -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
+
+      - name: Commitni rozšíření a úklid
+        if: always()
+        run: |
+          git config user.name "fotobot"
+          git config user.email "fotobot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Rozšíření nic nezměnilo, necommituju."
+          else
+            git commit -m "rozsireni $(date -u +%F)"
+            git pull --rebase
             git push
           fi
