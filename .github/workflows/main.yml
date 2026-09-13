@@ -17,7 +17,7 @@ concurrency:
 jobs:
   shoot:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -44,10 +44,16 @@ jobs:
           OWN_SITEMAP_URL: ${{ secrets.OWN_SITEMAP_URL }}
         run: node shoot.mjs
 
+      - name: Feedy, ceníky a e-maily konkurence
+        continue-on-error: true
+        run: node extras.mjs
+
       - name: Ukliď staré jednorázové fotky (starší než 30 dní)
         run: |
           find queue-shots -mindepth 1 -maxdepth 1 -type d -mtime +30 -exec rm -rf {} + 2>/dev/null || true
           find changed -mindepth 1 -maxdepth 1 -type d -mtime +120 -exec rm -rf {} + 2>/dev/null || true
+          find emails -mindepth 1 -maxdepth 1 -type d -mtime +45 -exec rm -rf {} + 2>/dev/null || true
+          find pricing-shots -mindepth 1 -maxdepth 1 -type d -mtime +120 -exec rm -rf {} + 2>/dev/null || true
 
       - name: Commitni fotky
         run: |
