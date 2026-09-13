@@ -1,0 +1,122 @@
+{
+  "mailerlite": {
+    "prices": [
+      "$10.80",
+      "$22.50",
+      "$25",
+      "$270.00",
+      "$12",
+      "$129.60"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.mailerlite.com/pricing"
+  },
+  "omnisend": {
+    "prices": [
+      "$0.007",
+      "$11.20",
+      "$48.00",
+      "$33.60",
+      "$41.30",
+      "$177.00",
+      "$123.90",
+      "$50",
+      "$0.0085",
+      "$400",
+      "$79"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.omnisend.com/pricing/"
+  },
+  "activecampaign": {
+    "prices": [
+      "$145",
+      "$79",
+      "$49",
+      "$15"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.activecampaign.com/pricing"
+  },
+  "getresponse": {
+    "prices": [
+      "$19",
+      "$15.58",
+      "$41",
+      "$59",
+      "$48.38",
+      "$127",
+      "$69",
+      "$56.58",
+      "$149",
+      "$13"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.getresponse.com/pricing"
+  },
+  "constantcontact": {
+    "prices": [],
+    "date": "2026-09-13",
+    "url": "https://www.constantcontact.com/pricing"
+  },
+  "aweber": {
+    "prices": [
+      "$599",
+      "$20.00",
+      "$79",
+      "$12.50"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.aweber.com/pricing.htm"
+  },
+  "moosend": {
+    "prices": [],
+    "date": "2026-09-13",
+    "url": "https://moosend.com/pricing/"
+  },
+  "sender": {
+    "prices": [
+      "$6.30",
+      "$108",
+      "$75.60",
+      "$10.50",
+      "$180",
+      "$126",
+      "$10",
+      "$0.015",
+      "$29",
+      "$5.80"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.sender.net/pricing/"
+  },
+  "emailoctopus": {
+    "prices": [
+      "$12"
+    ],
+    "date": "2026-09-13",
+    "url": "https://emailoctopus.com/pricing"
+  },
+  "mailjet": {
+    "prices": [
+      "$19",
+      "$29"
+    ],
+    "date": "2026-09-13",
+    "url": "https://www.mailjet.com/pricing/"
+  },
+  "flodesk": {
+    "prices": [
+      "$ 0 25 19 32",
+      "$ 0 28 25 39",
+      "$ 0 54 49 87"
+    ],
+    "date": "2026-09-13",
+    "url": "https://flodesk.com/pricing"
+  },
+  "loops": {
+    "prices": [],
+    "date": "2026-09-13",
+    "url": "https://loops.so/pricing"
+  }
+}

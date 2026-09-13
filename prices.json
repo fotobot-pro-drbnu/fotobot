@@ -1,0 +1,163 @@
+{
+  "generatedAt": "2026-09-13T07:04:15.364Z",
+  "checked": [
+    {
+      "key": "mailerlite",
+      "url": "https://www.mailerlite.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$10.80",
+        "$22.50",
+        "$25",
+        "$270.00",
+        "$12",
+        "$129.60"
+      ],
+      "shot": "pricing-shots/2026-09-13/mailerlite.jpg"
+    },
+    {
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$0.007",
+        "$11.20",
+        "$48.00",
+        "$33.60",
+        "$41.30",
+        "$177.00",
+        "$123.90",
+        "$50",
+        "$0.0085",
+        "$400",
+        "$79"
+      ],
+      "shot": "pricing-shots/2026-09-13/omnisend.jpg"
+    },
+    {
+      "key": "activecampaign",
+      "url": "https://www.activecampaign.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$145",
+        "$79",
+        "$49",
+        "$15"
+      ],
+      "shot": "pricing-shots/2026-09-13/activecampaign.jpg"
+    },
+    {
+      "key": "getresponse",
+      "url": "https://www.getresponse.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$19",
+        "$15.58",
+        "$41",
+        "$59",
+        "$48.38",
+        "$127",
+        "$69",
+        "$56.58",
+        "$149",
+        "$13"
+      ],
+      "shot": "pricing-shots/2026-09-13/getresponse.jpg"
+    },
+    {
+      "key": "constantcontact",
+      "url": "https://www.constantcontact.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/constantcontact.jpg"
+    },
+    {
+      "key": "aweber",
+      "url": "https://www.aweber.com/pricing.htm",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$599",
+        "$20.00",
+        "$79",
+        "$12.50"
+      ],
+      "shot": "pricing-shots/2026-09-13/aweber.jpg"
+    },
+    {
+      "key": "moosend",
+      "url": "https://moosend.com/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/moosend.jpg"
+    },
+    {
+      "key": "sender",
+      "url": "https://www.sender.net/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$6.30",
+        "$108",
+        "$75.60",
+        "$10.50",
+        "$180",
+        "$126",
+        "$10",
+        "$0.015",
+        "$29",
+        "$5.80"
+      ],
+      "shot": "pricing-shots/2026-09-13/sender.jpg"
+    },
+    {
+      "key": "emailoctopus",
+      "url": "https://emailoctopus.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$12"
+      ],
+      "shot": "pricing-shots/2026-09-13/emailoctopus.jpg"
+    },
+    {
+      "key": "mailjet",
+      "url": "https://www.mailjet.com/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$19",
+        "$29"
+      ],
+      "shot": "pricing-shots/2026-09-13/mailjet.jpg"
+    },
+    {
+      "key": "flodesk",
+      "url": "https://flodesk.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$ 0 25 19 32",
+        "$ 0 28 25 39",
+        "$ 0 54 49 87"
+      ],
+      "shot": "pricing-shots/2026-09-13/flodesk.jpg"
+    },
+    {
+      "key": "loops",
+      "url": "https://loops.so/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/loops.jpg"
+    }
+  ],
+  "changes": [],
+  "errors": []
+}

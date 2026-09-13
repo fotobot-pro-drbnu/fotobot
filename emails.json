@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-09-13T07:05:08.339Z",
+  "brands": [
+    {
+      "key": "activecampaign",
+      "name": "ActiveCampaign",
+      "source": "archiv",
+      "found": [
+        {
+          "source": "archiv",
+          "url": "https://www.activecampaign.com/newsletter",
+          "title": "Blog | ActiveCampaign",
+          "shot": "emails/2026-09-13/activecampaign--archiv.jpg"
+        }
+      ]
+    }
+  ],
+  "nothing": [
+    {
+      "key": "mailerlite",
+      "name": "MailerLite"
+    },
+    {
+      "key": "constantcontact",
+      "name": "Constant Contact"
+    },
+    {
+      "key": "campaignmonitor",
+      "name": "Campaign Monitor"
+    },
+    {
+      "key": "getresponse",
+      "name": "GetResponse"
+    },
+    {
+      "key": "beehiiv",
+      "name": "beehiiv"
+    },
+    {
+      "key": "kit",
+      "name": "Kit"
+    },
+    {
+      "key": "loops",
+      "name": "Loops"
+    }
+  ],
+  "notes": [
+    "U těchto značek se dnes nepodařilo najít žádný veřejný e-mail. Když se to opakuje, je to samo o sobě zjištění: ta značka svoje kampaně veřejně nevystavuje."
+  ]
+}

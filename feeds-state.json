@@ -1,0 +1,62 @@
+{
+  "mediar": {
+    "feed": "https://www.mediar.cz/feed/",
+    "ok": "2026-09-13T07:02:02.488Z"
+  },
+  "mediaguru": {
+    "feed": "https://www.mediaguru.cz/rss",
+    "ok": "2026-09-13T07:02:05.640Z"
+  },
+  "brandnew": {
+    "feed": "https://www.underconsideration.com/brandnew/atom.xml",
+    "ok": "2026-09-13T07:02:23.769Z"
+  },
+  "logodesigner": {
+    "feed": "https://www.logo-designer.co/feed",
+    "ok": "2026-09-13T07:02:26.577Z"
+  },
+  "marketingdive": {
+    "feed": "https://www.marketingdive.com/feeds/news/",
+    "ok": "2026-09-13T07:02:26.677Z"
+  },
+  "emailgeeks": {
+    "feed": "https://www.litmus.com/feed",
+    "ok": "2026-09-13T07:02:27.172Z"
+  },
+  "omnisend": {
+    "feed": "https://www.omnisend.com/blog/feed",
+    "ok": "2026-09-13T07:02:54.594Z"
+  },
+  "getresponse": {
+    "feed": "https://www.getresponse.com/blog/feed",
+    "ok": "2026-09-13T07:03:18.312Z"
+  },
+  "aweber": {
+    "feed": "https://blog.aweber.com/feed",
+    "ok": "2026-09-13T07:03:18.797Z"
+  },
+  "dotdigital": {
+    "feed": "https://dotdigital.com/feed",
+    "ok": "2026-09-13T07:03:28.858Z"
+  },
+  "netcore": {
+    "feed": "https://netcore.ai/feed",
+    "ok": "2026-09-13T07:03:30.420Z"
+  },
+  "cleverreach": {
+    "feed": "https://www.cleverreach.com/feed",
+    "ok": "2026-09-13T07:03:31.371Z"
+  },
+  "boldem": {
+    "feed": "https://www.boldem.cz/feed",
+    "ok": "2026-09-13T07:03:48.524Z"
+  },
+  "targito": {
+    "feed": "https://www.targito.com/feed",
+    "ok": "2026-09-13T07:03:55.739Z"
+  },
+  "samba-ai": {
+    "feed": "https://samba.ai/feed",
+    "ok": "2026-09-13T07:03:57.724Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "mailerlite": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=mailerlite": 1,
+      "https://emaillove.com/?s=mailerlite": 1,
+      "https://www.mailerlite.com/newsletter": 1,
+      "https://www.mailerlite.com/newsletter-archive": 1,
+      "https://www.mailerlite.com/emails": 1,
+      "https://www.mailerlite.com/email-archive": 1,
+      "https://www.mailerlite.com/resources/newsletter": 1,
+      "https://mailerlite.beehiiv.com/archive": 1,
+      "https://mailerlite.substack.com/archive": 1
+    },
+    "working": null
+  },
+  "activecampaign": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=activecampaign": 1,
+      "https://emaillove.com/?s=activecampaign": 1,
+      "https://www.activecampaign.com/newsletter": 0
+    },
+    "working": "https://www.activecampaign.com/newsletter"
+  },
+  "constantcontact": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=constant%20contact": 1,
+      "https://emaillove.com/?s=constant%20contact": 1,
+      "https://www.constantcontact.com/newsletter": 1,
+      "https://www.constantcontact.com/newsletter-archive": 1,
+      "https://www.constantcontact.com/emails": 1,
+      "https://www.constantcontact.com/email-archive": 1,
+      "https://www.constantcontact.com/resources/newsletter": 1,
+      "https://constantcontact.beehiiv.com/archive": 1,
+      "https://constantcontact.substack.com/archive": 1
+    },
+    "working": null
+  },
+  "campaignmonitor": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=campaign%20monitor": 1,
+      "https://emaillove.com/?s=campaign%20monitor": 1,
+      "https://www.campaignmonitor.com/newsletter": 1,
+      "https://www.campaignmonitor.com/newsletter-archive": 1,
+      "https://www.campaignmonitor.com/emails": 1,
+      "https://www.campaignmonitor.com/email-archive": 1,
+      "https://www.campaignmonitor.com/resources/newsletter": 1,
+      "https://campaignmonitor.beehiiv.com/archive": 1,
+      "https://campaignmonitor.substack.com/archive": 1
+    },
+    "working": null
+  },
+  "getresponse": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=getresponse": 1,
+      "https://emaillove.com/?s=getresponse": 1,
+      "https://www.getresponse.com/newsletter": 1,
+      "https://www.getresponse.com/newsletter-archive": 1,
+      "https://www.getresponse.com/emails": 1,
+      "https://www.getresponse.com/email-archive": 1,
+      "https://www.getresponse.com/resources/newsletter": 1,
+      "https://getresponse.beehiiv.com/archive": 1,
+      "https://getresponse.substack.com/archive": 1
+    },
+    "working": null
+  },
+  "beehiiv": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=beehiiv": 1,
+      "https://emaillove.com/?s=beehiiv": 1,
+      "https://www.beehiiv.com/newsletter": 1,
+      "https://www.beehiiv.com/newsletter-archive": 1,
+      "https://www.beehiiv.com/emails": 1,
+      "https://www.beehiiv.com/email-archive": 1,
+      "https://www.beehiiv.com/resources/newsletter": 1,
+      "https://beehiiv.beehiiv.com/archive": 1,
+      "https://beehiiv.substack.com/archive": 1
+    },
+    "working": null
+  },
+  "kit": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=convertkit": 1,
+      "https://emaillove.com/?s=convertkit": 1,
+      "https://kit.com/newsletter": 1,
+      "https://kit.com/newsletter-archive": 1,
+      "https://kit.com/emails": 1,
+      "https://kit.com/email-archive": 1,
+      "https://kit.com/resources/newsletter": 1,
+      "https://kit.beehiiv.com/archive": 1,
+      "https://kit.substack.com/archive": 1
+    },
+    "working": null
+  },
+  "loops": {
+    "seen": [],
+    "fails": {
+      "https://reallygoodemails.com/search?q=loops.so": 1,
+      "https://emaillove.com/?s=loops.so": 1,
+      "https://loops.so/newsletter": 1,
+      "https://loops.so/newsletter-archive": 1,
+      "https://loops.so/emails": 1,
+      "https://loops.so/email-archive": 1,
+      "https://loops.so/resources/newsletter": 1,
+      "https://loops.beehiiv.com/archive": 1,
+      "https://loops.substack.com/archive": 1
+    },
+    "working": null
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "generatedAt": "2026-09-13T07:02:01.281Z",
+  "maxAgeHours": 48,
+  "groups": {
+    "cz-marketing": {
+      "label": "Český marketingový tisk",
+      "count": 10,
+      "items": [
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Páteční jedničkou Všechnopárty, poté seriál Na tělo",
+          "url": "https://www.mediaguru.cz/patecni-jednickou-vsechnoparty-pote-serial-na-telo",
+          "date": "Sat, 12 Sep 2026 09:20:00 +0200",
+          "ts": 1789197600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Nejposlouchanějším slovenským rádiem zůstává Expres",
+          "url": "https://www.mediaguru.cz/nejposlouchanejsim-slovenskym-radiem-zustava-expres",
+          "date": "Sat, 12 Sep 2026 09:05:00 +0200",
+          "ts": 1789196700000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Fortuna vrací do kampaně Lucky Boxy, spoty vytvořila AI",
+          "url": "https://www.mediaguru.cz/fortuna-vraci-do-kampane-lucky-boxy-spoty-vytvorila-ai",
+          "date": "Fri, 11 Sep 2026 16:10:00 +0200",
+          "ts": 1789135800000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Marketing Lasselsbergeru přebírá Petra Sinkulová",
+          "url": "https://www.mediar.cz/marketing-lasselsbergeru-prebira-petra-sinkulova/",
+          "date": "Fri, 11 Sep 2026 11:35:34 +0000",
+          "ts": 1789126534000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Vision Thing uvádí AI plánovač kampaní pro DOOH, regionální TV i online",
+          "url": "https://www.mediaguru.cz/vision-thing-uvadi-ai-planovac-kampani-pro-dooh-regionalni-tv-i-online",
+          "date": "Fri, 11 Sep 2026 13:25:00 +0200",
+          "ts": 1789125900000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "AI umí vytvořit skoro cokoliv. AppParade 38 se ptá, co má smysl vytvářet",
+          "url": "https://www.mediar.cz/ai-umi-vytvorit-skoro-cokoliv-appparade-38-se-pta-co-ma-smysl-vytvaret/",
+          "date": "Fri, 11 Sep 2026 11:00:36 +0000",
+          "ts": 1789124436000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Nevypínej, nebuď… Svět motorů vysvětluje, proč nevypínat asistenty",
+          "url": "https://www.mediaguru.cz/nevypinej-nebud-svet-motoru-vysvetluje-proc-nevypinat-asistenty",
+          "date": "Fri, 11 Sep 2026 11:50:00 +0200",
+          "ts": 1789120200000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Garmin spustil s Jiřím Procházkou výzvu, soutěží o hodinky",
+          "url": "https://www.mediaguru.cz/garmin-spustil-s-jirim-prochazkou-vyzvu-soutezi-o-hodinky",
+          "date": "Fri, 11 Sep 2026 11:35:00 +0200",
+          "ts": 1789119300000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "JustWatch už není pouze katalogem obsahu VOD služeb",
+          "url": "https://www.mediaguru.cz/justwatch-uz-neni-pouze-katalogem-obsahu-vod-sluzeb",
+          "date": "Fri, 11 Sep 2026 10:45:00 +0200",
+          "ts": 1789116300000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Boží plán si vzal ve čtvrtek večer vedení zpět",
+          "url": "https://www.mediaguru.cz/bozi-plan-si-vzal-ve-ctvrtek-vecer-vedeni-zpet",
+          "date": "Fri, 11 Sep 2026 09:30:00 +0200",
+          "ts": 1789111800000
+        }
+      ]
+    },
+    "design": {
+      "label": "Design a identity",
+      "count": 0,
+      "items": []
+    },
+    "obor": {
+      "label": "Oborový tisk",
+      "count": 4,
+      "items": [
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Cadbury pairs crystal clutch with comedy series for major US campaign",
+          "url": "https://www.marketingdive.com/news/cadbury-pairs-crystal-clutch-with-comedy-series-for-major-us-campaign/830112/",
+          "date": "Fri, 11 Sep 2026 11:08:00 -0400",
+          "ts": 1789139280000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Hilton CMO Mark Weinstein steps down",
+          "url": "https://www.marketingdive.com/news/hilton-cmo-mark-weinstein-steps-down/830161/",
+          "date": "Fri, 11 Sep 2026 10:34:00 -0400",
+          "ts": 1789137240000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
+          "url": "https://www.marketingdive.com/news/old-navys-mrbeast-deal-boosts-engagement-amid-bigger-bet-on-creators/830100/",
+          "date": "Fri, 11 Sep 2026 09:00:00 -0400",
+          "ts": 1789131600000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Campaign Trail: Cheez-It convenes Couch Committee for college football",
+          "url": "https://www.marketingdive.com/news/campaign-trail-cheez-it-convenes-couch-committee-for-college-football/830011/",
+          "date": "Fri, 11 Sep 2026 08:00:00 -0400",
+          "ts": 1789128000000
+        }
+      ]
+    },
+    "konkurence": {
+      "label": "Blogy a newsroomy konkurence",
+      "count": 1,
+      "items": [
+        {
+          "source": "netcore",
+          "name": "Netcore",
+          "title": "7 Muhurat Trading Headaches Every Broking Marketer Feels &#8211; And How to Fix Them Before Diwali 2026",
+          "url": "https://netcore.ai/blog/7-muhurat-trading-headaches-every-broking-marketer-feels-and-how-to-fix-them-before-diwali-2026/",
+          "date": "Fri, 11 Sep 2026 12:50:11 +0000",
+          "ts": 1789131011000
+        }
+      ]
+    }
+  },
+  "discovered": {
+    "mediaguru": "https://www.mediaguru.cz/rss",
+    "brandnew": "https://www.underconsideration.com/brandnew/atom.xml",
+    "logodesigner": "https://www.logo-designer.co/feed",
+    "emailgeeks": "https://www.litmus.com/feed",
+    "omnisend": "https://www.omnisend.com/blog/feed",
+    "getresponse": "https://www.getresponse.com/blog/feed",
+    "aweber": "https://blog.aweber.com/feed",
+    "dotdigital": "https://dotdigital.com/feed",
+    "netcore": "https://netcore.ai/feed",
+    "cleverreach": "https://www.cleverreach.com/feed",
+    "boldem": "https://www.boldem.cz/feed",
+    "targito": "https://www.targito.com/feed",
+    "samba-ai": "https://samba.ai/feed"
+  },
+  "failed": [
+    {
+      "key": "mam",
+      "name": "Marketing & Media",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "tyinternety",
+      "name": "Tyinternety",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "marketingsales",
+      "name": "Marketing Sales Media",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "itsnicethat",
+      "name": "It's Nice That",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "designweek",
+      "name": "Design Week",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "creativereview",
+      "name": "Creative Review",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "martech",
+      "name": "MarTech",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "mailchimp",
+      "name": "Mailchimp",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "klaviyo",
+      "name": "Klaviyo",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "brevo",
+      "name": "Brevo",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "mailerlite",
+      "name": "MailerLite",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "activecampaign",
+      "name": "ActiveCampaign",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "constantcontact",
+      "name": "Constant Contact",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "beehiiv",
+      "name": "beehiiv",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "kit",
+      "name": "Kit",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "loops",
+      "name": "Loops",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "customerio",
+      "name": "Customer.io",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "rapidmail",
+      "name": "rapidmail",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "smartemailing",
+      "name": "SmartEmailing",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "leadhub",
+      "name": "Leadhub",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "emailkampane",
+      "name": "Emailkampane.cz",
+      "reason": "feed nenalezen"
+    },
+    {
+      "key": "quanda",
+      "name": "Quanda",
+      "reason": "feed nenalezen"
+    }
+  ]
+}
