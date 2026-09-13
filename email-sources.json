@@ -1,22 +1,17 @@
 {
-  "_comment": "Hledání SKUTEČNÝCH e-mailů konkurence. Milled má obsah za přihlašovací zdí (ověřeno 12. 9. 2026), takže se jde třemi jinými cestami: (1) kurátorské galerie, které mezi značkami vedou i e-mailingové nástroje, (2) veřejné archivy newsletterů na doméně značky, (3) archivy hostované na beehiiv/substack. Robot všechny cesty jen ZKOUŠÍ — co se povede, zapíše do email-sources-state.json a příště jde rovnou tam. Co se nepovede třikrát po sobě, přestane zkoušet a napíše to do reportu.",
-  "perDay": 8,
-  "maxShotsPerBrand": 3,
-  "galleries": [
-    {
-      "key": "rge",
-      "name": "Really Good Emails",
-      "searchUrl": "https://reallygoodemails.com/search?q={q}",
-      "itemPattern": "/emails/",
-      "note": "5775 značek, mezi nimi Klaviyo, Mailchimp, Campaign Monitor, Constant Contact, ActiveCampaign, HubSpot. Stránka se dokresluje JavaScriptem, takže se musí renderovat prohlížečem, ne prostým fetchem."
-    },
-    {
-      "key": "emaillove",
-      "name": "Email Love",
-      "searchUrl": "https://emaillove.com/?s={q}",
-      "itemPattern": "/email-inspiration-from-",
-      "note": "8500+ značek, kategorie SaaS. Detail e-mailu má adresu /email-inspiration-from-<znacka>-<id>."
-    }
+  "_comment": "Verze 2. První běh ukázal, že hledání podle značky (?q=, ?s=) ve vzornících nevrací nic — výsledky se dokreslují JavaScriptem až po odeslání dotazu. Nová strategie: projít rovnou KATALOGOVÉ stránky, posbírat z nich odkazy na jednotlivé e-maily a značku poznat z adresy (u Email Love je doslova v URL: /email-inspiration-from-<znacka>-<id>). Konkurenti mají přednost, zbytek se bere jako designová inspirace. Když katalog nevrátí nic, robot vyfotí sám ten katalog, ať je příště vidět, na co koukal.",
+  "catalogsPerDay": 3,
+  "maxShotsPerRun": 7,
+  "maxOtherShots": 3,
+  "archiveBrandsPerDay": 6,
+  "catalogs": [
+    { "key": "rge-newsletter", "name": "Really Good Emails — newslettery", "url": "https://reallygoodemails.com/categories/newsletter", "itemPattern": "/emails/" },
+    { "key": "rge-welcome", "name": "Really Good Emails — welcome", "url": "https://reallygoodemails.com/categories/welcome", "itemPattern": "/emails/" },
+    { "key": "rge-promo", "name": "Really Good Emails — promo", "url": "https://reallygoodemails.com/categories/promotion", "itemPattern": "/emails/" },
+    { "key": "rge-cart", "name": "Really Good Emails — opuštěný košík", "url": "https://reallygoodemails.com/categories/abandoned-cart", "itemPattern": "/emails/" },
+    { "key": "emaillove-newsletter", "name": "Email Love — newslettery", "url": "https://emaillove.com/inspiration/newsletter", "itemPattern": "/email-inspiration-from-" },
+    { "key": "emaillove-saas", "name": "Email Love — SaaS", "url": "https://emaillove.com/brands?cat=saas", "itemPattern": "/email-inspiration-from-" },
+    { "key": "emaillove-bf", "name": "Email Love — Black Friday", "url": "https://emaillove.com/inspiration/black-friday", "itemPattern": "/email-inspiration-from-" }
   ],
   "archiveTemplates": [
     "{site}/newsletter",
@@ -24,29 +19,31 @@
     "{site}/emails",
     "{site}/email-archive",
     "{site}/resources/newsletter",
+    "{site}/blog/newsletter",
     "https://{slug}.beehiiv.com/archive",
     "https://{slug}.substack.com/archive"
   ],
   "brands": [
-    { "key": "mailchimp", "name": "Mailchimp", "slug": "mailchimp", "q": "mailchimp", "site": "https://mailchimp.com" },
-    { "key": "klaviyo", "name": "Klaviyo", "slug": "klaviyo", "q": "klaviyo", "site": "https://www.klaviyo.com" },
-    { "key": "brevo", "name": "Brevo", "slug": "brevo", "q": "brevo", "site": "https://www.brevo.com" },
-    { "key": "omnisend", "name": "Omnisend", "slug": "omnisend", "q": "omnisend", "site": "https://www.omnisend.com" },
-    { "key": "mailerlite", "name": "MailerLite", "slug": "mailerlite", "q": "mailerlite", "site": "https://www.mailerlite.com" },
-    { "key": "activecampaign", "name": "ActiveCampaign", "slug": "activecampaign", "q": "activecampaign", "site": "https://www.activecampaign.com" },
-    { "key": "constantcontact", "name": "Constant Contact", "slug": "constantcontact", "q": "constant contact", "site": "https://www.constantcontact.com" },
-    { "key": "campaignmonitor", "name": "Campaign Monitor", "slug": "campaignmonitor", "q": "campaign monitor", "site": "https://www.campaignmonitor.com" },
-    { "key": "getresponse", "name": "GetResponse", "slug": "getresponse", "q": "getresponse", "site": "https://www.getresponse.com" },
-    { "key": "beehiiv", "name": "beehiiv", "slug": "beehiiv", "q": "beehiiv", "site": "https://www.beehiiv.com" },
-    { "key": "kit", "name": "Kit", "slug": "kit", "q": "convertkit", "site": "https://kit.com" },
-    { "key": "loops", "name": "Loops", "slug": "loops", "q": "loops.so", "site": "https://loops.so" },
-    { "key": "flodesk", "name": "Flodesk", "slug": "flodesk", "q": "flodesk", "site": "https://flodesk.com" },
-    { "key": "customerio", "name": "Customer.io", "slug": "customerio", "q": "customer.io", "site": "https://customer.io" },
-    { "key": "litmus", "name": "Litmus", "slug": "litmus", "q": "litmus", "site": "https://www.litmus.com" },
-    { "key": "dotdigital", "name": "Dotdigital", "slug": "dotdigital", "q": "dotdigital", "site": "https://dotdigital.com" },
-    { "key": "smartemailing", "name": "SmartEmailing", "slug": "smartemailing", "q": "smartemailing", "site": "https://www.smartemailing.cz" },
-    { "key": "leadhub", "name": "Leadhub", "slug": "leadhub", "q": "leadhub", "site": "https://www.leadhub.co" },
-    { "key": "targito", "name": "Targito", "slug": "targito", "q": "targito", "site": "https://www.targito.com" },
-    { "key": "boldem", "name": "Boldem", "slug": "boldem", "q": "boldem", "site": "https://www.boldem.cz" }
+    { "key": "mailchimp", "name": "Mailchimp", "slug": "mailchimp", "site": "https://mailchimp.com", "aliases": ["mailchimp", "intuit-mailchimp"] },
+    { "key": "klaviyo", "name": "Klaviyo", "slug": "klaviyo", "site": "https://www.klaviyo.com", "aliases": ["klaviyo"] },
+    { "key": "brevo", "name": "Brevo", "slug": "brevo", "site": "https://www.brevo.com", "aliases": ["brevo", "sendinblue"] },
+    { "key": "omnisend", "name": "Omnisend", "slug": "omnisend", "site": "https://www.omnisend.com", "aliases": ["omnisend"] },
+    { "key": "mailerlite", "name": "MailerLite", "slug": "mailerlite", "site": "https://www.mailerlite.com", "aliases": ["mailerlite"] },
+    { "key": "activecampaign", "name": "ActiveCampaign", "slug": "activecampaign", "site": "https://www.activecampaign.com", "aliases": ["activecampaign", "active-campaign"] },
+    { "key": "constantcontact", "name": "Constant Contact", "slug": "constantcontact", "site": "https://www.constantcontact.com", "aliases": ["constantcontact", "constant-contact"] },
+    { "key": "campaignmonitor", "name": "Campaign Monitor", "slug": "campaignmonitor", "site": "https://www.campaignmonitor.com", "aliases": ["campaignmonitor", "campaign-monitor"] },
+    { "key": "getresponse", "name": "GetResponse", "slug": "getresponse", "site": "https://www.getresponse.com", "aliases": ["getresponse"] },
+    { "key": "beehiiv", "name": "beehiiv", "slug": "beehiiv", "site": "https://www.beehiiv.com", "aliases": ["beehiiv"] },
+    { "key": "kit", "name": "Kit", "slug": "kit", "site": "https://kit.com", "aliases": ["convertkit", "kit-com"] },
+    { "key": "loops", "name": "Loops", "slug": "loops", "site": "https://loops.so", "aliases": ["loops-so", "loops"] },
+    { "key": "flodesk", "name": "Flodesk", "slug": "flodesk", "site": "https://flodesk.com", "aliases": ["flodesk"] },
+    { "key": "customerio", "name": "Customer.io", "slug": "customerio", "site": "https://customer.io", "aliases": ["customer-io", "customerio"] },
+    { "key": "litmus", "name": "Litmus", "slug": "litmus", "site": "https://www.litmus.com", "aliases": ["litmus"] },
+    { "key": "dotdigital", "name": "Dotdigital", "slug": "dotdigital", "site": "https://dotdigital.com", "aliases": ["dotdigital"] },
+    { "key": "hubspot", "name": "HubSpot", "slug": "hubspot", "site": "https://www.hubspot.com", "aliases": ["hubspot"] },
+    { "key": "smartemailing", "name": "SmartEmailing", "slug": "smartemailing", "site": "https://www.smartemailing.cz", "aliases": ["smartemailing"] },
+    { "key": "leadhub", "name": "Leadhub", "slug": "leadhub", "site": "https://www.leadhub.co", "aliases": ["leadhub"] },
+    { "key": "targito", "name": "Targito", "slug": "targito", "site": "https://www.targito.com", "aliases": ["targito"] },
+    { "key": "boldem", "name": "Boldem", "slug": "boldem", "site": "https://www.boldem.cz", "aliases": ["boldem"] }
   ]
 }

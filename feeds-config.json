@@ -1,5 +1,5 @@
 {
-  "_comment": "Zdroje pro RSS vrstvu. U položek stačí uvést 'site' (doménu) — robot si sám zkusí obvyklé cesty k feedu (/feed, /rss, /blog/feed, /blog/rss.xml, /feed.xml, /atom.xml, /news/feed) a tu funkční si zapamatuje do feeds-state.json. Když znáš přesnou adresu feedu, dej ji do 'feed' a zkoušení se přeskočí.",
+  "_comment": "Zdroje pro RSS vrstvu. 'feed' = přesná adresa (ověřená ručně), 'site' = robot si cestu k feedu najde sám (zkouší /feed, /rss, /blog/feed a další). Když prostý fetch selže (Cloudflare, blokace robotů), zkusí to znovu přes prohlížeč — tím projdou i weby, které jinak vracejí 403.",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
@@ -8,26 +8,29 @@
         { "key": "mediar", "name": "Médiář", "feed": "https://www.mediar.cz/feed/" },
         { "key": "mam", "name": "Marketing & Media", "feed": "https://mam.cz/rss/" },
         { "key": "mediaguru", "name": "MediaGuru", "site": "https://www.mediaguru.cz" },
-        { "key": "tyinternety", "name": "Tyinternety", "site": "https://tyinternety.cz" },
-        { "key": "marketingsales", "name": "Marketing Sales Media", "site": "https://marketingsales.tyinternety.cz" }
+        { "key": "tyinternety", "name": "Tyinternety", "site": "https://www.tyinternety.cz" },
+        { "key": "ecommerce-bridge", "name": "Ecommerce Bridge", "site": "https://ecommercebridge.cz" },
+        { "key": "shoptet-blog", "name": "Shoptet blog", "site": "https://blog.shoptet.cz" }
       ]
     },
     "design": {
       "label": "Design a identity",
       "sources": [
-        { "key": "itsnicethat", "name": "It's Nice That", "site": "https://www.itsnicethat.com" },
-        { "key": "designweek", "name": "Design Week", "site": "https://www.designweek.co.uk" },
+        { "key": "designweek", "name": "Design Week", "feed": "https://www.designweek.co.uk/feed/" },
+        { "key": "creativereview", "name": "Creative Review", "feed": "https://www.creativereview.co.uk/feed/" },
         { "key": "brandnew", "name": "Brand New", "site": "https://www.underconsideration.com/brandnew" },
-        { "key": "creativereview", "name": "Creative Review", "site": "https://www.creativereview.co.uk" },
-        { "key": "logodesigner", "name": "Logo Designer", "site": "https://www.logo-designer.co" }
+        { "key": "logodesigner", "name": "Logo Designer", "site": "https://www.logo-designer.co" },
+        { "key": "itsnicethat", "name": "It's Nice That", "site": "https://www.itsnicethat.com" },
+        { "key": "thebrandingjournal", "name": "The Branding Journal", "site": "https://www.thebrandingjournal.com" }
       ]
     },
     "obor": {
       "label": "Oborový tisk",
       "sources": [
         { "key": "marketingdive", "name": "Marketing Dive", "feed": "https://www.marketingdive.com/feeds/news/" },
-        { "key": "martech", "name": "MarTech", "site": "https://martech.org" },
-        { "key": "emailgeeks", "name": "Litmus blog", "site": "https://www.litmus.com" }
+        { "key": "martech", "name": "MarTech", "feed": "https://martech.org/feed/" },
+        { "key": "litmus", "name": "Litmus", "site": "https://www.litmus.com" },
+        { "key": "emailonacid", "name": "Email on Acid", "site": "https://www.emailonacid.com" }
       ]
     },
     "konkurence": {
@@ -50,13 +53,15 @@
         { "key": "netcore", "name": "Netcore", "site": "https://netcore.ai" },
         { "key": "cleverreach", "name": "CleverReach", "site": "https://www.cleverreach.com" },
         { "key": "rapidmail", "name": "rapidmail", "site": "https://www.rapidmail.de" },
+        { "key": "klaviyo-news", "name": "Klaviyo newsroom", "site": "https://www.klaviyo.com/news" },
         { "key": "smartemailing", "name": "SmartEmailing", "site": "https://www.smartemailing.cz" },
         { "key": "boldem", "name": "Boldem", "site": "https://www.boldem.cz" },
         { "key": "leadhub", "name": "Leadhub", "site": "https://www.leadhub.co" },
         { "key": "targito", "name": "Targito", "site": "https://www.targito.com" },
         { "key": "samba-ai", "name": "Samba.ai", "site": "https://samba.ai" },
         { "key": "emailkampane", "name": "Emailkampane.cz", "site": "https://www.emailkampane.cz" },
-        { "key": "quanda", "name": "Quanda", "site": "https://www.quanda.cz" }
+        { "key": "quanda", "name": "Quanda", "site": "https://www.quanda.cz" },
+        { "key": "emailmachine", "name": "Email Machine", "site": "https://www.emailmachine.cz" }
       ]
     }
   }
