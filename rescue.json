@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T19:19:24.886Z",
-  "pacienti": 3,
+  "generatedAt": "2026-09-13T19:55:31.810Z",
+  "pacienti": 1,
   "zachraneno": [
     {
       "key": "targito",
@@ -15,18 +15,5 @@
       }
     }
   ],
-  "neuspech": [
-    {
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/",
-      "duvod": "spadlo",
-      "error": "TimeoutError: page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.smartemailing.cz/\", waiting until \"commit\"\n"
-    },
-    {
-      "key": "cleverreach",
-      "url": "https://www.cleverreach.com/en/",
-      "duvod": "spadlo",
-      "error": "TimeoutError: page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.cleverreach.com/en/\", waiting until \"commit\"\n"
-    }
-  ]
+  "neuspech": []
 }

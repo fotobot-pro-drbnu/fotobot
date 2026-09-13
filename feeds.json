@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:49:48.238Z",
+  "generatedAt": "2026-09-13T19:46:56.694Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
@@ -78,9 +78,214 @@
       "label": "Blogy a newsroomy konkurence",
       "count": 0,
       "items": []
+    },
+    "cz-design": {
+      "label": "Český design a byznys",
+      "count": 24,
+      "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Střet firem s nepříjemnou realitou, velké seriálové výročí a nápad, co vznikl u piva",
+          "url": "https://cc.cz/stret-firem-s-neprijemnou-realitou-velke-serialove-vyroci-a-napad-co-vznikl-u-piva/",
+          "date": "Sun, 13 Sep 2026 15:30:16 +0000",
+          "ts": 1789313416000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Rusové předběhli Američany a přistáli na Měsíci jako první. Apple podle toho natočil napínavý seriál",
+          "url": "https://cc.cz/rusove-predbehli-americany-a-pristali-na-mesici-jako-prvni-apple-podle-toho-natocil-napinavy-serial/",
+          "date": "Sun, 13 Sep 2026 13:31:27 +0000",
+          "ts": 1789306287000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Ukázalo se, že za peníze si koupíte všechno. Kromě diváků. Velkolepý saúdský projekt skončil krachem",
+          "url": "https://cc.cz/ukazalo-se-ze-za-penize-si-koupite-vsechno-krome-divaku-velkolepy-saudsky-projekt-skoncil-krachem/",
+          "date": "Sun, 13 Sep 2026 11:15:02 +0000",
+          "ts": 1789298102000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Chalupu po sudetských Němcích opravoval 25 let. Teď je k prodeji, v ceně je i vinárna, udírna a možná duch",
+          "url": "https://cc.cz/chalupu-po-sudetskych-nemcich-opravoval-25-let-ted-je-k-prodeji-v-cene-je-i-vinarna-udirna-a-mozna-duch/",
+          "date": "Sun, 13 Sep 2026 09:04:18 +0000",
+          "ts": 1789290258000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "Peanuts books from Determined Productions",
+          "url": "https://fontsinuse.com/uses/79685/peanuts-books-from-determined-productions",
+          "date": "Sun, 13 Sep 2026 08:48:47 +0000",
+          "ts": 1789289327000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "Die sexte Versuchung by Ferry Hirschmann",
+          "url": "https://fontsinuse.com/uses/79508/die-sexte-versuchung-by-ferry-hirschmann",
+          "date": "Sun, 13 Sep 2026 08:45:22 +0000",
+          "ts": 1789289122000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme",
+          "url": "https://cc.cz/schopnosti-ai-zacaly-desit-i-sefy-firem-ktere-ji-vyviji-vyjimecne-se-shodli-a-slibuji-zpomalime/",
+          "date": "Sun, 13 Sep 2026 05:21:32 +0000",
+          "ts": 1789276892000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Začala blogem o životě v Norsku, po návratu rozjela první byznys. Dnes s manželem vedou dvě milionové firmy",
+          "url": "https://cc.cz/zacala-blogem-o-zivote-v-norsku-po-navratu-rozjela-prvni-byznys-dnes-s-manzelem-vedou-dve-milionove-firmy/",
+          "date": "Sun, 13 Sep 2026 05:03:16 +0000",
+          "ts": 1789275796000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Nové Diablo, nový StarCraft, nový Warcraft. Podívejte se na první trailery trojnásobného herního překvapení",
+          "url": "https://cc.cz/nove-diablo-novy-starcraft-je-tady-dvojnasobne-herni-prekvapeni-podivejte-se-na-trailery-i-datum-vydani/",
+          "date": "Sat, 12 Sep 2026 19:52:01 +0000",
+          "ts": 1789242721000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Pár po šedesátce si postavil dům, který z ulice působí obyčejně. Z druhé strany se ale otevírá do přírody",
+          "url": "https://cc.cz/par-po-sedesatce-si-postavil-dum-ktery-z-ulice-pusobi-obycejne-z-druhe-strany-se-ale-otevira-do-prirody/",
+          "date": "Sat, 12 Sep 2026 15:13:04 +0000",
+          "ts": 1789225984000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Na sítích vydělává už 10 let, peníze dává i do nemovitostí. Díky nim teď můžu studovat v Londýně, říká",
+          "url": "https://cc.cz/na-sitich-vydelava-uz-10-let-penize-dava-i-do-nemovitosti-diky-nim-ted-muzu-studovat-v-londyne-rika/",
+          "date": "Sat, 12 Sep 2026 13:10:19 +0000",
+          "ts": 1789218619000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Romantika a Barbie styl? Kdepak. Vyzkoušeli jsme Mini Cooper Cabrio na výletě i při nákupu poliček",
+          "url": "https://cc.cz/romantika-a-barbie-styl-kdepak-vyzkouseli-jsme-mini-cooper-cabrio-na-vylete-i-pri-nakupu-policek/",
+          "date": "Sat, 12 Sep 2026 10:56:40 +0000",
+          "ts": 1789210600000
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Špindlerův Mlýn – společná identita města a skiareálu",
+          "url": "http://www.font.cz/design/spindleruv-mlyn-spolecna-identita-mesta-a-skiarealu.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Jiří Balcar v Alšově jihočeské galerii",
+          "url": "http://www.font.cz/design/jiri-balcar-v-alsove-jihoceske-galerii.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Florbal Litovel s novou identitou",
+          "url": "http://www.font.cz/design/florbal-litovel-s-novou-identitou.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Font 208 se již tiskne!",
+          "url": "http://www.font.cz/ostatni/font-208-se-jiz-tiskne.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Model Young Package 2026 na festivalu Meat Design Ostrava",
+          "url": "http://www.font.cz/akce-vystavy/model-young-package-2026-na-festivalu-meat-design-ostrava.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Hračkářství Bambule mění tvář",
+          "url": "http://www.font.cz/logo/hrackarstvi-bambule-meni-tvar.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Další fotbalový klub mění logo – FK Pardubice",
+          "url": "http://www.font.cz/design/dalsi-fotbalovy-klub-meni-logo-fk-pardubice.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "FC Zbrojovka Brno vstupuje do nové éry",
+          "url": "http://www.font.cz/design/fc-zbrojovka-brno-vstupuje-do-nove-ery.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Letní výprodej Fontů",
+          "url": "http://www.font.cz/ostatni/letni-vyprodej-fontu-2026.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "M&amp;M Reality s novou vizuální identitou",
+          "url": "http://www.font.cz/design/m-m-reality-s-novou-vizualni-identitou.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Norové s image drsných vikingů na MS řádí",
+          "url": "http://www.font.cz/design/norove-s-image-drsnych-vikingu-na-ms-radi.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Nová vizuální identita Úzkokolejky",
+          "url": "http://www.font.cz/design/nova-vizualni-identita-uzkokolejky.html",
+          "date": "",
+          "ts": null
+        }
+      ]
+    },
+    "changelogy": {
+      "label": "Veřejné changelogy (ověřený RSS)",
+      "count": 0,
+      "items": []
     }
   },
-  "discovered": {},
+  "discovered": {
+    "czechcrunch": "https://cc.cz/feed"
+  },
   "viaBrowser": [],
   "blokovano": [
     {
@@ -176,11 +381,6 @@
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
-      "key": "cleverreach",
-      "name": "CleverReach",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
       "key": "rapidmail",
       "name": "rapidmail",
       "reason": "feed nenalezen ani přes prohlížeč"
@@ -188,11 +388,6 @@
     {
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "smartemailing",
-      "name": "SmartEmailing",
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
@@ -208,6 +403,16 @@
     {
       "key": "quanda",
       "name": "Quanda",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "czechdesign-graficky",
+      "name": "CzechDesign — grafický design",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "czechdesign-sklizen",
+      "name": "CzechDesign — grafická sklizeň",
       "reason": "feed nenalezen ani přes prohlížeč"
     }
   ]
