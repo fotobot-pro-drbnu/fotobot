@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-13T09:52:44.889Z",
+  "generatedAt": "2026-09-13T19:18:24.830Z",
   "konkurence": [],
   "inspirace": [
     {
       "katalog": "rge-cart",
-      "url": "https://reallygoodemails.com/emails/closer-look-loved",
-      "title": "A closer look at what you loved. from Schoolhouse - Desktop Email View | Really Good Emails",
+      "url": "https://reallygoodemails.com/emails/build-the-perfect-bedroom",
+      "title": "Build the perfect bedroom. from Thuma - Desktop Email View | Really Good Emails",
       "shot": "emails/2026-09-13/inspirace--rge-cart-1.jpg"
     },
     {
       "katalog": "rge-cart",
-      "url": "https://reallygoodemails.com/emails/howdy-we-saved-your-spot",
-      "title": "Howdy. We saved your spot. from Howdy - Desktop Email View | Really Good Emails",
+      "url": "https://reallygoodemails.com/emails/did-you-see-something-you-liked-blueland",
+      "title": "Did you see something you liked? from Blueland - Desktop Email View | Really Good Emails",
       "shot": "emails/2026-09-13/inspirace--rge-cart-2.jpg"
     },
     {
       "katalog": "rge-cart",
-      "url": "https://reallygoodemails.com/emails/how-can-we-help",
-      "title": "How can we help? from Rarify - Desktop Email View | Really Good Emails",
+      "url": "https://reallygoodemails.com/emails/did-a-bug-crash-your-order",
+      "title": "Browse Abandonment from Pestie - Desktop Email View | Really Good Emails",
       "shot": "emails/2026-09-13/inspirace--rge-cart-3.jpg"
     }
   ],
@@ -29,20 +29,16 @@
       "odkazu": 50
     },
     {
-      "key": "emaillove-newsletter",
-      "name": "Email Love — newslettery",
-      "url": "https://emaillove.com/inspiration/newsletter",
-      "odkazu": 0,
-      "shot": "emails/2026-09-13/_katalog--emaillove-newsletter.jpg",
-      "poznamka": "žádné odkazy na jednotlivé e-maily — katalog vyfocen jako důkaz"
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
+      "odkazu": 50
     },
     {
-      "key": "emaillove-saas",
-      "name": "Email Love — SaaS",
-      "url": "https://emaillove.com/brands?cat=saas",
-      "odkazu": 0,
-      "shot": "emails/2026-09-13/_katalog--emaillove-saas.jpg",
-      "poznamka": "žádné odkazy na jednotlivé e-maily — katalog vyfocen jako důkaz"
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
+      "odkazu": 50
     }
   ],
   "archivy": [

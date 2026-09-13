@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-13T09:45:48.591Z",
+  "generatedAt": "2026-09-13T18:49:48.238Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
-      "count": 11,
+      "count": 7,
       "items": [
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Influencer marketing vzrostl skoro o&#160;třetinu, tradiční formáty ztrácejí účinnost",
+          "url": "https://www.mediar.cz/influencer-marketing-vzrostl-skoro-o-tretinu-tradicni-formaty-ztraceji-ucinnost/",
+          "date": "Sun, 13 Sep 2026 15:40:04 +0000",
+          "ts": 1789314004000
+        },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
@@ -53,46 +61,6 @@
           "url": "https://www.mediaguru.cz/nejposlouchanejsim-slovenskym-radiem-zustava-expres",
           "date": "Sat, 12 Sep 2026 09:05:00 +0200",
           "ts": 1789196700000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Fortuna vrací do kampaně Lucky Boxy, spoty vytvořila AI",
-          "url": "https://www.mediaguru.cz/fortuna-vraci-do-kampane-lucky-boxy-spoty-vytvorila-ai",
-          "date": "Fri, 11 Sep 2026 16:10:00 +0200",
-          "ts": 1789135800000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Marketing Lasselsbergeru přebírá Petra Sinkulová",
-          "url": "https://www.mediar.cz/marketing-lasselsbergeru-prebira-petra-sinkulova/",
-          "date": "Fri, 11 Sep 2026 11:35:34 +0000",
-          "ts": 1789126534000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Vision Thing uvádí AI plánovač kampaní pro DOOH, regionální TV i online",
-          "url": "https://www.mediaguru.cz/vision-thing-uvadi-ai-planovac-kampani-pro-dooh-regionalni-tv-i-online",
-          "date": "Fri, 11 Sep 2026 13:25:00 +0200",
-          "ts": 1789125900000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "AI umí vytvořit skoro cokoliv. AppParade 38 se ptá, co má smysl vytvářet",
-          "url": "https://www.mediar.cz/ai-umi-vytvorit-skoro-cokoliv-appparade-38-se-pta-co-ma-smysl-vytvaret/",
-          "date": "Fri, 11 Sep 2026 11:00:36 +0000",
-          "ts": 1789124436000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Nevypínej, nebuď… Svět motorů vysvětluje, proč nevypínat asistenty",
-          "url": "https://www.mediaguru.cz/nevypinej-nebud-svet-motoru-vysvetluje-proc-nevypinat-asistenty",
-          "date": "Fri, 11 Sep 2026 11:50:00 +0200",
-          "ts": 1789120200000
         }
       ]
     },
@@ -103,87 +71,63 @@
     },
     "obor": {
       "label": "Oborový tisk",
-      "count": 4,
-      "items": [
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Cadbury pairs crystal clutch with comedy series for major US campaign",
-          "url": "https://www.marketingdive.com/news/cadbury-pairs-crystal-clutch-with-comedy-series-for-major-us-campaign/830112/",
-          "date": "Fri, 11 Sep 2026 11:08:00 -0400",
-          "ts": 1789139280000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Hilton CMO Mark Weinstein steps down",
-          "url": "https://www.marketingdive.com/news/hilton-cmo-mark-weinstein-steps-down/830161/",
-          "date": "Fri, 11 Sep 2026 10:34:00 -0400",
-          "ts": 1789137240000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
-          "url": "https://www.marketingdive.com/news/old-navys-mrbeast-deal-boosts-engagement-amid-bigger-bet-on-creators/830100/",
-          "date": "Fri, 11 Sep 2026 09:00:00 -0400",
-          "ts": 1789131600000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Campaign Trail: Cheez-It convenes Couch Committee for college football",
-          "url": "https://www.marketingdive.com/news/campaign-trail-cheez-it-convenes-couch-committee-for-college-football/830011/",
-          "date": "Fri, 11 Sep 2026 08:00:00 -0400",
-          "ts": 1789128000000
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
-      "count": 1,
-      "items": [
-        {
-          "source": "netcore",
-          "name": "Netcore",
-          "title": "7 Muhurat Trading Headaches Every Broking Marketer Feels &#8211; And How to Fix Them Before Diwali 2026",
-          "url": "https://netcore.ai/blog/7-muhurat-trading-headaches-every-broking-marketer-feels-and-how-to-fix-them-before-diwali-2026/",
-          "date": "Fri, 11 Sep 2026 12:50:11 +0000",
-          "ts": 1789131011000
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   },
-  "discovered": {
-    "ecommerce-bridge": "https://ecommercebridge.cz/feed",
-    "shoptet-blog": "https://blog.shoptet.cz/feed",
-    "litmus": "https://www.litmus.com/feed",
-    "smartemailing": "https://www.smartemailing.cz/feed",
-    "boldem": "https://www.boldem.cz/feed",
-    "emailmachine": "https://www.emailmachine.cz/feed"
-  },
-  "viaBrowser": [
-    "boldem"
-  ],
-  "failed": [
+  "discovered": {},
+  "viaBrowser": [],
+  "blokovano": [
     {
       "key": "mam",
       "name": "Marketing & Media",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "tyinternety",
-      "name": "Tyinternety",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "status": 429
     },
     {
       "key": "designweek",
       "name": "Design Week",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "status": 403
     },
     {
       "key": "creativereview",
       "name": "Creative Review",
+      "status": 403
+    },
+    {
+      "key": "martech",
+      "name": "MarTech",
+      "status": 403
+    },
+    {
+      "key": "mailerlite",
+      "name": "MailerLite",
+      "status": 429
+    },
+    {
+      "key": "activecampaign",
+      "name": "ActiveCampaign",
+      "status": 429
+    },
+    {
+      "key": "constantcontact",
+      "name": "Constant Contact",
+      "status": 403
+    },
+    {
+      "key": "kit",
+      "name": "Kit",
+      "status": 403
+    }
+  ],
+  "failed": [
+    {
+      "key": "tyinternety",
+      "name": "Tyinternety",
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
@@ -194,11 +138,6 @@
     {
       "key": "thebrandingjournal",
       "name": "The Branding Journal",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "martech",
-      "name": "MarTech",
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
@@ -222,28 +161,8 @@
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
-      "key": "mailerlite",
-      "name": "MailerLite",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "activecampaign",
-      "name": "ActiveCampaign",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "constantcontact",
-      "name": "Constant Contact",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
       "key": "beehiiv",
       "name": "beehiiv",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "kit",
-      "name": "Kit",
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
@@ -257,6 +176,11 @@
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
+      "key": "cleverreach",
+      "name": "CleverReach",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
       "key": "rapidmail",
       "name": "rapidmail",
       "reason": "feed nenalezen ani přes prohlížeč"
@@ -264,6 +188,11 @@
     {
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "smartemailing",
+      "name": "SmartEmailing",
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {

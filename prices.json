@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T09:51:36.621Z",
+  "generatedAt": "2026-09-13T19:17:14.618Z",
   "checked": [
     {
       "key": "smartmailer",
@@ -89,7 +89,14 @@
       "url": "https://www.mailerlite.com/pricing",
       "own": false,
       "cz": false,
-      "prices": [],
+      "prices": [
+        "$10.80",
+        "$22.50",
+        "$25",
+        "$270.00",
+        "$12",
+        "$129.60"
+      ],
       "shot": "pricing-shots/2026-09-13/mailerlite.jpg"
     },
     {
@@ -189,25 +196,43 @@
       "shot": "pricing-shots/2026-09-13/nas-web.jpg"
     }
   ],
-  "changes": [
+  "changes": [],
+  "nenacteno": [
     {
-      "key": "mailerlite",
-      "url": "https://www.mailerlite.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-09-13/mailerlite.jpg",
-      "added": [],
-      "removed": [
-        "$10.80",
-        "$22.50",
-        "$25",
-        "$270.00",
-        "$12",
-        "$129.60"
-      ],
-      "since": "2026-09-13",
-      "history": []
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "shot": "pricing-shots/2026-09-13/smartmailer.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "shot": "pricing-shots/2026-09-13/intelimail.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "shot": "pricing-shots/2026-09-13/quanda.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "mailkit",
+      "url": "https://www.mailkit.com/cz/cenik",
+      "shot": "pricing-shots/2026-09-13/mailkit.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "clipsan",
+      "url": "https://www.clipsan.com/cenik",
+      "shot": "pricing-shots/2026-09-13/clipsan.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "klaviyo",
+      "url": "https://www.klaviyo.com/pricing",
+      "shot": "pricing-shots/2026-09-13/klaviyo.jpg",
+      "drzeloPredtim": 0
     }
   ],
   "errors": []

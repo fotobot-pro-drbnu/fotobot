@@ -116,7 +116,10 @@
   "seen": [
     "https://reallygoodemails.com/emails/closer-look-loved",
     "https://reallygoodemails.com/emails/howdy-we-saved-your-spot",
-    "https://reallygoodemails.com/emails/how-can-we-help"
+    "https://reallygoodemails.com/emails/how-can-we-help",
+    "https://reallygoodemails.com/emails/build-the-perfect-bedroom",
+    "https://reallygoodemails.com/emails/did-you-see-something-you-liked-blueland",
+    "https://reallygoodemails.com/emails/did-a-bug-crash-your-order"
   ],
   "catalogs": {
     "rge-cart": {
@@ -131,6 +134,16 @@
     "emaillove-saas": {
       "fails": 1,
       "date": "2026-09-13"
+    },
+    "rge-transactional": {
+      "fails": 0,
+      "date": "2026-09-13",
+      "odkazu": 50
+    },
+    "rge-announcement": {
+      "fails": 0,
+      "date": "2026-09-13",
+      "odkazu": 50
     }
   },
   "archives": {
@@ -143,14 +156,14 @@
     "mailerlite": {
       "working": null,
       "fails": {
-        "https://www.mailerlite.com/newsletter": 1,
-        "https://www.mailerlite.com/newsletter-archive": 1,
-        "https://www.mailerlite.com/emails": 1,
-        "https://www.mailerlite.com/email-archive": 1,
-        "https://www.mailerlite.com/resources/newsletter": 1,
-        "https://www.mailerlite.com/blog/newsletter": 1,
-        "https://mailerlite.beehiiv.com/archive": 1,
-        "https://mailerlite.substack.com/archive": 1
+        "https://www.mailerlite.com/newsletter": 2,
+        "https://www.mailerlite.com/newsletter-archive": 2,
+        "https://www.mailerlite.com/emails": 2,
+        "https://www.mailerlite.com/email-archive": 2,
+        "https://www.mailerlite.com/resources/newsletter": 2,
+        "https://www.mailerlite.com/blog/newsletter": 2,
+        "https://mailerlite.beehiiv.com/archive": 2,
+        "https://mailerlite.substack.com/archive": 2
       }
     },
     "activecampaign": {
@@ -162,40 +175,40 @@
     "constantcontact": {
       "working": null,
       "fails": {
-        "https://www.constantcontact.com/newsletter": 1,
-        "https://www.constantcontact.com/newsletter-archive": 1,
-        "https://www.constantcontact.com/emails": 1,
-        "https://www.constantcontact.com/email-archive": 1,
-        "https://www.constantcontact.com/resources/newsletter": 1,
-        "https://www.constantcontact.com/blog/newsletter": 1,
-        "https://constantcontact.beehiiv.com/archive": 1,
-        "https://constantcontact.substack.com/archive": 1
+        "https://www.constantcontact.com/newsletter": 2,
+        "https://www.constantcontact.com/newsletter-archive": 2,
+        "https://www.constantcontact.com/emails": 2,
+        "https://www.constantcontact.com/email-archive": 2,
+        "https://www.constantcontact.com/resources/newsletter": 2,
+        "https://www.constantcontact.com/blog/newsletter": 2,
+        "https://constantcontact.beehiiv.com/archive": 2,
+        "https://constantcontact.substack.com/archive": 2
       }
     },
     "campaignmonitor": {
       "working": null,
       "fails": {
-        "https://www.campaignmonitor.com/newsletter": 1,
-        "https://www.campaignmonitor.com/newsletter-archive": 1,
-        "https://www.campaignmonitor.com/emails": 1,
-        "https://www.campaignmonitor.com/email-archive": 1,
-        "https://www.campaignmonitor.com/resources/newsletter": 1,
-        "https://www.campaignmonitor.com/blog/newsletter": 1,
-        "https://campaignmonitor.beehiiv.com/archive": 1,
-        "https://campaignmonitor.substack.com/archive": 1
+        "https://www.campaignmonitor.com/newsletter": 2,
+        "https://www.campaignmonitor.com/newsletter-archive": 2,
+        "https://www.campaignmonitor.com/emails": 2,
+        "https://www.campaignmonitor.com/email-archive": 2,
+        "https://www.campaignmonitor.com/resources/newsletter": 2,
+        "https://www.campaignmonitor.com/blog/newsletter": 2,
+        "https://campaignmonitor.beehiiv.com/archive": 2,
+        "https://campaignmonitor.substack.com/archive": 2
       }
     },
     "getresponse": {
       "working": null,
       "fails": {
-        "https://www.getresponse.com/newsletter": 1,
-        "https://www.getresponse.com/newsletter-archive": 1,
-        "https://www.getresponse.com/emails": 1,
-        "https://www.getresponse.com/email-archive": 1,
-        "https://www.getresponse.com/resources/newsletter": 1,
-        "https://www.getresponse.com/blog/newsletter": 1,
-        "https://getresponse.beehiiv.com/archive": 1,
-        "https://getresponse.substack.com/archive": 1
+        "https://www.getresponse.com/newsletter": 2,
+        "https://www.getresponse.com/newsletter-archive": 2,
+        "https://www.getresponse.com/emails": 2,
+        "https://www.getresponse.com/email-archive": 2,
+        "https://www.getresponse.com/resources/newsletter": 2,
+        "https://www.getresponse.com/blog/newsletter": 2,
+        "https://getresponse.beehiiv.com/archive": 2,
+        "https://getresponse.substack.com/archive": 2
       }
     }
   }

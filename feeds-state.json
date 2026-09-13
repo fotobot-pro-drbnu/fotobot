@@ -2,27 +2,27 @@
   "mediar": {
     "feed": "https://www.mediar.cz/feed/",
     "via": "fetch",
-    "ok": "2026-09-13T09:45:49.656Z"
+    "ok": "2026-09-13T18:49:49.227Z"
   },
   "mediaguru": {
     "feed": "https://www.mediaguru.cz/rss",
     "via": "fetch",
-    "ok": "2026-09-13T09:45:51.299Z"
+    "ok": "2026-09-13T18:49:51.545Z"
   },
   "brandnew": {
     "feed": "https://www.underconsideration.com/brandnew/atom.xml",
     "via": "fetch",
-    "ok": "2026-09-13T09:46:09.055Z"
+    "ok": "2026-09-13T18:50:10.205Z"
   },
   "logodesigner": {
     "feed": "https://www.logo-designer.co/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:46:11.174Z"
+    "ok": "2026-09-13T18:50:13.012Z"
   },
   "marketingdive": {
     "feed": "https://www.marketingdive.com/feeds/news/",
     "via": "fetch",
-    "ok": "2026-09-13T09:46:40.274Z"
+    "ok": "2026-09-13T18:50:42.526Z"
   },
   "emailgeeks": {
     "feed": "https://www.litmus.com/feed",
@@ -31,27 +31,27 @@
   "omnisend": {
     "feed": "https://www.omnisend.com/blog/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:47:47.626Z"
+    "ok": "2026-09-13T18:51:58.804Z"
   },
   "getresponse": {
     "feed": "https://www.getresponse.com/blog/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:48:07.747Z"
+    "ok": "2026-09-13T18:52:16.471Z"
   },
   "aweber": {
     "feed": "https://blog.aweber.com/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:48:09.495Z"
+    "ok": "2026-09-13T18:52:18.393Z"
   },
   "dotdigital": {
     "feed": "https://dotdigital.com/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:48:34.382Z"
+    "ok": "2026-09-13T18:52:42.784Z"
   },
   "netcore": {
     "feed": "https://netcore.ai/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:48:35.901Z"
+    "ok": "2026-09-13T18:52:44.780Z"
   },
   "cleverreach": {
     "feed": "https://www.cleverreach.com/feed",
@@ -60,33 +60,33 @@
   },
   "boldem": {
     "feed": "https://www.boldem.cz/feed",
-    "via": "browser",
-    "ok": "2026-09-13T09:49:36.868Z"
+    "via": "fetch",
+    "ok": "2026-09-13T19:15:13.613Z"
   },
   "targito": {
     "feed": "https://www.targito.com/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:50:08.577Z"
+    "ok": "2026-09-13T19:15:45.441Z"
   },
   "samba-ai": {
     "feed": "https://samba.ai/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:50:10.702Z"
+    "ok": "2026-09-13T19:15:47.519Z"
   },
   "ecommerce-bridge": {
     "feed": "https://ecommercebridge.cz/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:46:05.816Z"
+    "ok": "2026-09-13T18:50:07.087Z"
   },
   "shoptet-blog": {
     "feed": "https://blog.shoptet.cz/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:46:08.348Z"
+    "ok": "2026-09-13T18:50:09.649Z"
   },
   "litmus": {
     "feed": "https://www.litmus.com/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:46:40.443Z"
+    "ok": "2026-09-13T18:50:42.870Z"
   },
   "smartemailing": {
     "feed": "https://www.smartemailing.cz/feed",
@@ -96,6 +96,6 @@
   "emailmachine": {
     "feed": "https://www.emailmachine.cz/feed",
     "via": "fetch",
-    "ok": "2026-09-13T09:51:36.618Z"
+    "ok": "2026-09-13T19:17:14.614Z"
   }
 }
