@@ -201,11 +201,15 @@ async function runFeeds(browser) {
   const cfg = await readJson('feeds-config.json', null);
   if (!cfg || !cfg.groups) { log('feeds: chybí konfigurace feeds-config.json'); return; }
   const state = await readJson('feeds-state.json', {});
-  const maxAge = (cfg.maxAgeHours || 48) * 3600000;
+  const defaultMaxAge = (cfg.maxAgeHours || 48) * 3600000;
   const now = Date.now();
   const result = { generatedAt: new Date().toISOString(), maxAgeHours: cfg.maxAgeHours || 48, groups: {}, discovered: {}, viaBrowser: [], blokovano: [], failed: [] };
 
   for (const [gk, group] of Object.entries(cfg.groups)) {
+    // Changelogy vycházejí jednou za týden až měsíc, ne denně. S plošným
+    // oknem 48 h by ta skupina byla skoro vždycky prázdná — proto si každá
+    // skupina může říct o vlastní okno.
+    const maxAge = group.maxAgeHours ? group.maxAgeHours * 3600000 : defaultMaxAge;
     const items = [];
     for (const src of group.sources) {
       let feedUrl = src.feed || state[src.key]?.feed || null;
@@ -257,7 +261,7 @@ async function runFeeds(browser) {
       }
     }
     items.sort((a, b) => (b.ts || 0) - (a.ts || 0));
-    result.groups[gk] = { label: group.label, count: items.length, items: items.slice(0, 40) };
+    result.groups[gk] = { label: group.label, oknoHodin: maxAge / 3600000, count: items.length, items: items.slice(0, group.maxItems || 40) };
   }
 
   await writeJson('feeds-state.json', state);

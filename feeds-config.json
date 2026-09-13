@@ -265,7 +265,8 @@
           "name": "PRINT Magazine",
           "feed": "https://www.printmag.com/feed/"
         }
-      ]
+      ],
+      "maxItems": 15
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
@@ -290,7 +291,9 @@
           "name": "Brevo dev changelog",
           "feed": "https://developers.brevo.com/changelog.rss"
         }
-      ]
+      ],
+      "maxAgeHours": 336,
+      "maxItems": 25
     }
   }
 }
