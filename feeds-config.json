@@ -1,67 +1,295 @@
 {
-  "_comment": "Zdroje pro RSS vrstvu. 'feed' = přesná adresa (ověřená ručně), 'site' = robot si cestu k feedu najde sám (zkouší /feed, /rss, /blog/feed a další). Když prostý fetch selže (Cloudflare, blokace robotů), zkusí to znovu přes prohlížeč — tím projdou i weby, které jinak vracejí 403.",
+  "_comment": "Zdroje pro RSS vrstvu. 'feed' = přesná adresa (ověřená ručně), 'site' = robot si cestu k feedu najde sám (zkouší /feed, /rss, /blog/feed a další). Když prostý fetch selže (Cloudflare, blokace robotů), zkusí to znovu přes prohlížeč — tím projdou i weby, které jinak vracejí 403. Verze 3 (13.9.2026): přidány skupiny 'cz-design' (Cyrilem vyžádané české designové zdroje) a 'changelogy' (veřejné changelogy konkurence s ověřeným RSS).",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "sources": [
-        { "key": "mediar", "name": "Médiář", "feed": "https://www.mediar.cz/feed/" },
-        { "key": "mam", "name": "Marketing & Media", "feed": "https://mam.cz/rss/" },
-        { "key": "mediaguru", "name": "MediaGuru", "site": "https://www.mediaguru.cz" },
-        { "key": "tyinternety", "name": "Tyinternety", "site": "https://www.tyinternety.cz" },
-        { "key": "ecommerce-bridge", "name": "Ecommerce Bridge", "site": "https://ecommercebridge.cz" },
-        { "key": "shoptet-blog", "name": "Shoptet blog", "site": "https://blog.shoptet.cz" }
+        {
+          "key": "mediar",
+          "name": "Médiář",
+          "feed": "https://www.mediar.cz/feed/"
+        },
+        {
+          "key": "mam",
+          "name": "Marketing & Media",
+          "feed": "https://mam.cz/rss/"
+        },
+        {
+          "key": "mediaguru",
+          "name": "MediaGuru",
+          "site": "https://www.mediaguru.cz"
+        },
+        {
+          "key": "tyinternety",
+          "name": "Tyinternety",
+          "site": "https://www.tyinternety.cz"
+        },
+        {
+          "key": "ecommerce-bridge",
+          "name": "Ecommerce Bridge",
+          "site": "https://ecommercebridge.cz"
+        },
+        {
+          "key": "shoptet-blog",
+          "name": "Shoptet blog",
+          "site": "https://blog.shoptet.cz"
+        }
       ]
     },
     "design": {
       "label": "Design a identity",
       "sources": [
-        { "key": "designweek", "name": "Design Week", "feed": "https://www.designweek.co.uk/feed/" },
-        { "key": "creativereview", "name": "Creative Review", "feed": "https://www.creativereview.co.uk/feed/" },
-        { "key": "brandnew", "name": "Brand New", "site": "https://www.underconsideration.com/brandnew" },
-        { "key": "logodesigner", "name": "Logo Designer", "site": "https://www.logo-designer.co" },
-        { "key": "itsnicethat", "name": "It's Nice That", "site": "https://www.itsnicethat.com" },
-        { "key": "thebrandingjournal", "name": "The Branding Journal", "site": "https://www.thebrandingjournal.com" }
+        {
+          "key": "designweek",
+          "name": "Design Week",
+          "feed": "https://www.designweek.co.uk/feed/"
+        },
+        {
+          "key": "creativereview",
+          "name": "Creative Review",
+          "feed": "https://www.creativereview.co.uk/feed/"
+        },
+        {
+          "key": "brandnew",
+          "name": "Brand New",
+          "site": "https://www.underconsideration.com/brandnew"
+        },
+        {
+          "key": "logodesigner",
+          "name": "Logo Designer",
+          "site": "https://www.logo-designer.co"
+        },
+        {
+          "key": "itsnicethat",
+          "name": "It's Nice That",
+          "site": "https://www.itsnicethat.com"
+        },
+        {
+          "key": "thebrandingjournal",
+          "name": "The Branding Journal",
+          "site": "https://www.thebrandingjournal.com"
+        }
       ]
     },
     "obor": {
       "label": "Oborový tisk",
       "sources": [
-        { "key": "marketingdive", "name": "Marketing Dive", "feed": "https://www.marketingdive.com/feeds/news/" },
-        { "key": "martech", "name": "MarTech", "feed": "https://martech.org/feed/" },
-        { "key": "litmus", "name": "Litmus", "site": "https://www.litmus.com" },
-        { "key": "emailonacid", "name": "Email on Acid", "site": "https://www.emailonacid.com" }
+        {
+          "key": "marketingdive",
+          "name": "Marketing Dive",
+          "feed": "https://www.marketingdive.com/feeds/news/"
+        },
+        {
+          "key": "martech",
+          "name": "MarTech",
+          "feed": "https://martech.org/feed/"
+        },
+        {
+          "key": "litmus",
+          "name": "Litmus",
+          "site": "https://www.litmus.com"
+        },
+        {
+          "key": "emailonacid",
+          "name": "Email on Acid",
+          "site": "https://www.emailonacid.com"
+        }
       ]
     },
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
       "sources": [
-        { "key": "mailchimp", "name": "Mailchimp", "site": "https://mailchimp.com" },
-        { "key": "klaviyo", "name": "Klaviyo", "site": "https://www.klaviyo.com" },
-        { "key": "brevo", "name": "Brevo", "site": "https://www.brevo.com" },
-        { "key": "mailerlite", "name": "MailerLite", "site": "https://www.mailerlite.com" },
-        { "key": "omnisend", "name": "Omnisend", "site": "https://www.omnisend.com" },
-        { "key": "activecampaign", "name": "ActiveCampaign", "site": "https://www.activecampaign.com" },
-        { "key": "getresponse", "name": "GetResponse", "site": "https://www.getresponse.com" },
-        { "key": "constantcontact", "name": "Constant Contact", "site": "https://www.constantcontact.com" },
-        { "key": "aweber", "name": "AWeber", "site": "https://blog.aweber.com" },
-        { "key": "beehiiv", "name": "beehiiv", "site": "https://blog.beehiiv.com" },
-        { "key": "kit", "name": "Kit", "site": "https://kit.com" },
-        { "key": "loops", "name": "Loops", "site": "https://loops.so" },
-        { "key": "customerio", "name": "Customer.io", "site": "https://customer.io" },
-        { "key": "dotdigital", "name": "Dotdigital", "site": "https://dotdigital.com" },
-        { "key": "netcore", "name": "Netcore", "site": "https://netcore.ai" },
-        { "key": "cleverreach", "name": "CleverReach", "site": "https://www.cleverreach.com" },
-        { "key": "rapidmail", "name": "rapidmail", "site": "https://www.rapidmail.de" },
-        { "key": "klaviyo-news", "name": "Klaviyo newsroom", "site": "https://www.klaviyo.com/news" },
-        { "key": "smartemailing", "name": "SmartEmailing", "site": "https://www.smartemailing.cz" },
-        { "key": "boldem", "name": "Boldem", "site": "https://www.boldem.cz" },
-        { "key": "leadhub", "name": "Leadhub", "site": "https://www.leadhub.co" },
-        { "key": "targito", "name": "Targito", "site": "https://www.targito.com" },
-        { "key": "samba-ai", "name": "Samba.ai", "site": "https://samba.ai" },
-        { "key": "emailkampane", "name": "Emailkampane.cz", "site": "https://www.emailkampane.cz" },
-        { "key": "quanda", "name": "Quanda", "site": "https://www.quanda.cz" },
-        { "key": "emailmachine", "name": "Email Machine", "site": "https://www.emailmachine.cz" }
+        {
+          "key": "mailchimp",
+          "name": "Mailchimp",
+          "site": "https://mailchimp.com"
+        },
+        {
+          "key": "klaviyo",
+          "name": "Klaviyo",
+          "site": "https://www.klaviyo.com"
+        },
+        {
+          "key": "brevo",
+          "name": "Brevo",
+          "site": "https://www.brevo.com"
+        },
+        {
+          "key": "mailerlite",
+          "name": "MailerLite",
+          "site": "https://www.mailerlite.com"
+        },
+        {
+          "key": "omnisend",
+          "name": "Omnisend",
+          "site": "https://www.omnisend.com"
+        },
+        {
+          "key": "activecampaign",
+          "name": "ActiveCampaign",
+          "site": "https://www.activecampaign.com"
+        },
+        {
+          "key": "getresponse",
+          "name": "GetResponse",
+          "site": "https://www.getresponse.com"
+        },
+        {
+          "key": "constantcontact",
+          "name": "Constant Contact",
+          "site": "https://www.constantcontact.com"
+        },
+        {
+          "key": "aweber",
+          "name": "AWeber",
+          "site": "https://blog.aweber.com"
+        },
+        {
+          "key": "beehiiv",
+          "name": "beehiiv",
+          "site": "https://blog.beehiiv.com"
+        },
+        {
+          "key": "kit",
+          "name": "Kit",
+          "site": "https://kit.com"
+        },
+        {
+          "key": "loops",
+          "name": "Loops",
+          "site": "https://loops.so"
+        },
+        {
+          "key": "customerio",
+          "name": "Customer.io",
+          "site": "https://customer.io"
+        },
+        {
+          "key": "dotdigital",
+          "name": "Dotdigital",
+          "site": "https://dotdigital.com"
+        },
+        {
+          "key": "netcore",
+          "name": "Netcore",
+          "site": "https://netcore.ai"
+        },
+        {
+          "key": "cleverreach",
+          "name": "CleverReach",
+          "site": "https://www.cleverreach.com"
+        },
+        {
+          "key": "rapidmail",
+          "name": "rapidmail",
+          "site": "https://www.rapidmail.de"
+        },
+        {
+          "key": "klaviyo-news",
+          "name": "Klaviyo newsroom",
+          "site": "https://www.klaviyo.com/news"
+        },
+        {
+          "key": "smartemailing",
+          "name": "SmartEmailing",
+          "site": "https://www.smartemailing.cz"
+        },
+        {
+          "key": "boldem",
+          "name": "Boldem",
+          "site": "https://www.boldem.cz"
+        },
+        {
+          "key": "leadhub",
+          "name": "Leadhub",
+          "site": "https://www.leadhub.co"
+        },
+        {
+          "key": "targito",
+          "name": "Targito",
+          "site": "https://www.targito.com"
+        },
+        {
+          "key": "samba-ai",
+          "name": "Samba.ai",
+          "site": "https://samba.ai"
+        },
+        {
+          "key": "emailkampane",
+          "name": "Emailkampane.cz",
+          "site": "https://www.emailkampane.cz"
+        },
+        {
+          "key": "quanda",
+          "name": "Quanda",
+          "site": "https://www.quanda.cz"
+        },
+        {
+          "key": "emailmachine",
+          "name": "Email Machine",
+          "site": "https://www.emailmachine.cz"
+        }
+      ]
+    },
+    "cz-design": {
+      "label": "Český design a byznys",
+      "sources": [
+        {
+          "key": "czechdesign-graficky",
+          "name": "CzechDesign — grafický design",
+          "site": "https://www.czechdesign.cz/graficky-design"
+        },
+        {
+          "key": "czechdesign-sklizen",
+          "name": "CzechDesign — grafická sklizeň",
+          "site": "https://www.czechdesign.cz/rubriky/graficka-sklizen"
+        },
+        {
+          "key": "czechcrunch",
+          "name": "CzechCrunch",
+          "site": "https://cc.cz"
+        },
+        {
+          "key": "font-cz",
+          "name": "Font.cz",
+          "feed": "https://www.font.cz/rss-clanky.html"
+        },
+        {
+          "key": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "feed": "https://fontsinuse.com/staff-picks.rss"
+        },
+        {
+          "key": "printmag",
+          "name": "PRINT Magazine",
+          "feed": "https://www.printmag.com/feed/"
+        }
+      ]
+    },
+    "changelogy": {
+      "label": "Veřejné changelogy (ověřený RSS)",
+      "sources": [
+        {
+          "key": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "feed": "https://ecomail.cz/changelog/rss.xml"
+        },
+        {
+          "key": "chl-kit",
+          "name": "Kit changelog",
+          "feed": "https://updates.kit.com/rss"
+        },
+        {
+          "key": "chl-netcore",
+          "name": "Netcore changelog",
+          "feed": "https://updates.netcorecloud.com/api/v1/changelog/feed.rss"
+        },
+        {
+          "key": "chl-brevo",
+          "name": "Brevo dev changelog",
+          "feed": "https://developers.brevo.com/changelog.rss"
+        }
       ]
     }
   }
