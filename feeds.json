@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-13T19:46:56.694Z",
+  "generatedAt": "2026-09-13T23:06:36.209Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
+      "oknoHodin": 48,
       "count": 7,
       "items": [
         {
@@ -66,21 +67,25 @@
     },
     "design": {
       "label": "Design a identity",
+      "oknoHodin": 48,
       "count": 0,
       "items": []
     },
     "obor": {
       "label": "Oborový tisk",
+      "oknoHodin": 48,
       "count": 0,
       "items": []
     },
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
+      "oknoHodin": 48,
       "count": 0,
       "items": []
     },
     "cz-design": {
       "label": "Český design a byznys",
+      "oknoHodin": 48,
       "count": 24,
       "items": [
         {
@@ -202,91 +207,141 @@
           "url": "http://www.font.cz/design/florbal-litovel-s-novou-identitou.html",
           "date": "",
           "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Font 208 se již tiskne!",
-          "url": "http://www.font.cz/ostatni/font-208-se-jiz-tiskne.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Model Young Package 2026 na festivalu Meat Design Ostrava",
-          "url": "http://www.font.cz/akce-vystavy/model-young-package-2026-na-festivalu-meat-design-ostrava.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Hračkářství Bambule mění tvář",
-          "url": "http://www.font.cz/logo/hrackarstvi-bambule-meni-tvar.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Další fotbalový klub mění logo – FK Pardubice",
-          "url": "http://www.font.cz/design/dalsi-fotbalovy-klub-meni-logo-fk-pardubice.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "FC Zbrojovka Brno vstupuje do nové éry",
-          "url": "http://www.font.cz/design/fc-zbrojovka-brno-vstupuje-do-nove-ery.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Letní výprodej Fontů",
-          "url": "http://www.font.cz/ostatni/letni-vyprodej-fontu-2026.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "M&amp;M Reality s novou vizuální identitou",
-          "url": "http://www.font.cz/design/m-m-reality-s-novou-vizualni-identitou.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Norové s image drsných vikingů na MS řádí",
-          "url": "http://www.font.cz/design/norove-s-image-drsnych-vikingu-na-ms-radi.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Nová vizuální identita Úzkokolejky",
-          "url": "http://www.font.cz/design/nova-vizualni-identita-uzkokolejky.html",
-          "date": "",
-          "ts": null
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
-      "count": 0,
-      "items": []
+      "oknoHodin": 336,
+      "count": 15,
+      "items": [
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] Agentury: přesun EMA kreditů mezi agenturou a podúčty",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Mon, 07 Sep 2026 09:00:00 GMT",
+          "ts": 1788771600000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Oprava] Přehled: časy odpovídají zbytku aplikace",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Mon, 07 Sep 2026 09:00:00 GMT",
+          "ts": 1788771600000
+        },
+        {
+          "source": "chl-kit",
+          "name": "Kit changelog",
+          "title": "Choose your sponsorship format to fit your newsletter",
+          "url": "https://kit.updates.page/changelog/EZaCly-choose-your-sponsorship-format-to-fit-your-newsletter",
+          "date": "Fri, 04 Sep 2026 17:47:50 +0000",
+          "ts": 1788544070000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Oprava] Eshop-rychle: produktový kód v objednávce odpovídá katalogu",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Fri, 04 Sep 2026 09:00:00 GMT",
+          "ts": 1788512400000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Vylepšení] Automatizace: export obsáhlé automatizace je rychlejší",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Thu, 03 Sep 2026 09:00:00 GMT",
+          "ts": 1788426000000
+        },
+        {
+          "source": "chl-brevo",
+          "name": "Brevo dev changelog",
+          "title": "September 3, 2026",
+          "url": "https://developers.brevo.com/changelog/2026/9/3",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+          "ts": 1788393600000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] Automatizace: funkce NOW() a podpora času v poli Datum",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Tue, 01 Sep 2026 09:00:00 GMT",
+          "ts": 1788253200000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Vylepšení] Segmentace: vyloučení z nadřazeného segmentu funguje správně",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Tue, 01 Sep 2026 09:00:00 GMT",
+          "ts": 1788253200000
+        },
+        {
+          "source": "chl-kit",
+          "name": "Kit changelog",
+          "title": "Webhooks 2.0",
+          "url": "https://kit.updates.page/changelog/PwrCLv-webhooks-2-0",
+          "date": "Tue, 01 Sep 2026 04:41:18 +0000",
+          "ts": 1788237678000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] API: pole next popisuje návaznost kroků v automatizaci",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
+          "ts": 1788166800000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] API: nový endpoint pro výpis produktových feedů",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
+          "ts": 1788166800000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] API: šablonu lze vytvořit přímo z MJML definice",
+          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
+          "ts": 1788166800000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] Segmentace a automatizace: dynamické schéma custom eventů s typovanými operátory a autosuggestem",
+          "url": "https://ecomail.cz/changelog/dynamicke-schema-eventu-dark-mode-ab-test-opravy/",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
+          "ts": 1788166800000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] Editor: náhled šablony v dark mode",
+          "url": "https://ecomail.cz/changelog/dynamicke-schema-eventu-dark-mode-ab-test-opravy/",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
+          "ts": 1788166800000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Novinka] A/B kampaně: možnost vyhodnotit test okamžitě",
+          "url": "https://ecomail.cz/changelog/dynamicke-schema-eventu-dark-mode-ab-test-opravy/",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
+          "ts": 1788166800000
+        }
+      ]
     }
   },
-  "discovered": {
-    "czechcrunch": "https://cc.cz/feed"
-  },
-  "viaBrowser": [],
+  "discovered": {},
+  "viaBrowser": [
+    "ecommerce-bridge"
+  ],
   "blokovano": [
     {
       "key": "mam",
@@ -311,11 +366,6 @@
     {
       "key": "mailerlite",
       "name": "MailerLite",
-      "status": 429
-    },
-    {
-      "key": "activecampaign",
-      "name": "ActiveCampaign",
       "status": 429
     },
     {
@@ -366,6 +416,11 @@
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
+      "key": "activecampaign",
+      "name": "ActiveCampaign",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
       "key": "beehiiv",
       "name": "beehiiv",
       "reason": "feed nenalezen ani přes prohlížeč"
@@ -381,6 +436,11 @@
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
+      "key": "cleverreach",
+      "name": "CleverReach",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
       "key": "rapidmail",
       "name": "rapidmail",
       "reason": "feed nenalezen ani přes prohlížeč"
@@ -388,6 +448,11 @@
     {
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "smartemailing",
+      "name": "SmartEmailing",
       "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
