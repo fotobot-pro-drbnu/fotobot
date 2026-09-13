@@ -1,0 +1,52 @@
+{
+  "_comment": "Hledání SKUTEČNÝCH e-mailů konkurence. Milled má obsah za přihlašovací zdí (ověřeno 12. 9. 2026), takže se jde třemi jinými cestami: (1) kurátorské galerie, které mezi značkami vedou i e-mailingové nástroje, (2) veřejné archivy newsletterů na doméně značky, (3) archivy hostované na beehiiv/substack. Robot všechny cesty jen ZKOUŠÍ — co se povede, zapíše do email-sources-state.json a příště jde rovnou tam. Co se nepovede třikrát po sobě, přestane zkoušet a napíše to do reportu.",
+  "perDay": 8,
+  "maxShotsPerBrand": 3,
+  "galleries": [
+    {
+      "key": "rge",
+      "name": "Really Good Emails",
+      "searchUrl": "https://reallygoodemails.com/search?q={q}",
+      "itemPattern": "/emails/",
+      "note": "5775 značek, mezi nimi Klaviyo, Mailchimp, Campaign Monitor, Constant Contact, ActiveCampaign, HubSpot. Stránka se dokresluje JavaScriptem, takže se musí renderovat prohlížečem, ne prostým fetchem."
+    },
+    {
+      "key": "emaillove",
+      "name": "Email Love",
+      "searchUrl": "https://emaillove.com/?s={q}",
+      "itemPattern": "/email-inspiration-from-",
+      "note": "8500+ značek, kategorie SaaS. Detail e-mailu má adresu /email-inspiration-from-<znacka>-<id>."
+    }
+  ],
+  "archiveTemplates": [
+    "{site}/newsletter",
+    "{site}/newsletter-archive",
+    "{site}/emails",
+    "{site}/email-archive",
+    "{site}/resources/newsletter",
+    "https://{slug}.beehiiv.com/archive",
+    "https://{slug}.substack.com/archive"
+  ],
+  "brands": [
+    { "key": "mailchimp", "name": "Mailchimp", "slug": "mailchimp", "q": "mailchimp", "site": "https://mailchimp.com" },
+    { "key": "klaviyo", "name": "Klaviyo", "slug": "klaviyo", "q": "klaviyo", "site": "https://www.klaviyo.com" },
+    { "key": "brevo", "name": "Brevo", "slug": "brevo", "q": "brevo", "site": "https://www.brevo.com" },
+    { "key": "omnisend", "name": "Omnisend", "slug": "omnisend", "q": "omnisend", "site": "https://www.omnisend.com" },
+    { "key": "mailerlite", "name": "MailerLite", "slug": "mailerlite", "q": "mailerlite", "site": "https://www.mailerlite.com" },
+    { "key": "activecampaign", "name": "ActiveCampaign", "slug": "activecampaign", "q": "activecampaign", "site": "https://www.activecampaign.com" },
+    { "key": "constantcontact", "name": "Constant Contact", "slug": "constantcontact", "q": "constant contact", "site": "https://www.constantcontact.com" },
+    { "key": "campaignmonitor", "name": "Campaign Monitor", "slug": "campaignmonitor", "q": "campaign monitor", "site": "https://www.campaignmonitor.com" },
+    { "key": "getresponse", "name": "GetResponse", "slug": "getresponse", "q": "getresponse", "site": "https://www.getresponse.com" },
+    { "key": "beehiiv", "name": "beehiiv", "slug": "beehiiv", "q": "beehiiv", "site": "https://www.beehiiv.com" },
+    { "key": "kit", "name": "Kit", "slug": "kit", "q": "convertkit", "site": "https://kit.com" },
+    { "key": "loops", "name": "Loops", "slug": "loops", "q": "loops.so", "site": "https://loops.so" },
+    { "key": "flodesk", "name": "Flodesk", "slug": "flodesk", "q": "flodesk", "site": "https://flodesk.com" },
+    { "key": "customerio", "name": "Customer.io", "slug": "customerio", "q": "customer.io", "site": "https://customer.io" },
+    { "key": "litmus", "name": "Litmus", "slug": "litmus", "q": "litmus", "site": "https://www.litmus.com" },
+    { "key": "dotdigital", "name": "Dotdigital", "slug": "dotdigital", "q": "dotdigital", "site": "https://dotdigital.com" },
+    { "key": "smartemailing", "name": "SmartEmailing", "slug": "smartemailing", "q": "smartemailing", "site": "https://www.smartemailing.cz" },
+    { "key": "leadhub", "name": "Leadhub", "slug": "leadhub", "q": "leadhub", "site": "https://www.leadhub.co" },
+    { "key": "targito", "name": "Targito", "slug": "targito", "q": "targito", "site": "https://www.targito.com" },
+    { "key": "boldem", "name": "Boldem", "slug": "boldem", "q": "boldem", "site": "https://www.boldem.cz" }
+  ]
+}
