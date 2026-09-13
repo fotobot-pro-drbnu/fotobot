@@ -112,5 +112,91 @@
       "https://loops.substack.com/archive": 1
     },
     "working": null
+  },
+  "seen": [
+    "https://reallygoodemails.com/emails/closer-look-loved",
+    "https://reallygoodemails.com/emails/howdy-we-saved-your-spot",
+    "https://reallygoodemails.com/emails/how-can-we-help"
+  ],
+  "catalogs": {
+    "rge-cart": {
+      "fails": 0,
+      "date": "2026-09-13",
+      "odkazu": 50
+    },
+    "emaillove-newsletter": {
+      "fails": 1,
+      "date": "2026-09-13"
+    },
+    "emaillove-saas": {
+      "fails": 1,
+      "date": "2026-09-13"
+    }
+  },
+  "archives": {
+    "omnisend": {
+      "working": "https://www.omnisend.com/newsletter",
+      "fails": {
+        "https://www.omnisend.com/newsletter": 0
+      }
+    },
+    "mailerlite": {
+      "working": null,
+      "fails": {
+        "https://www.mailerlite.com/newsletter": 1,
+        "https://www.mailerlite.com/newsletter-archive": 1,
+        "https://www.mailerlite.com/emails": 1,
+        "https://www.mailerlite.com/email-archive": 1,
+        "https://www.mailerlite.com/resources/newsletter": 1,
+        "https://www.mailerlite.com/blog/newsletter": 1,
+        "https://mailerlite.beehiiv.com/archive": 1,
+        "https://mailerlite.substack.com/archive": 1
+      }
+    },
+    "activecampaign": {
+      "working": "https://www.activecampaign.com/newsletter",
+      "fails": {
+        "https://www.activecampaign.com/newsletter": 0
+      }
+    },
+    "constantcontact": {
+      "working": null,
+      "fails": {
+        "https://www.constantcontact.com/newsletter": 1,
+        "https://www.constantcontact.com/newsletter-archive": 1,
+        "https://www.constantcontact.com/emails": 1,
+        "https://www.constantcontact.com/email-archive": 1,
+        "https://www.constantcontact.com/resources/newsletter": 1,
+        "https://www.constantcontact.com/blog/newsletter": 1,
+        "https://constantcontact.beehiiv.com/archive": 1,
+        "https://constantcontact.substack.com/archive": 1
+      }
+    },
+    "campaignmonitor": {
+      "working": null,
+      "fails": {
+        "https://www.campaignmonitor.com/newsletter": 1,
+        "https://www.campaignmonitor.com/newsletter-archive": 1,
+        "https://www.campaignmonitor.com/emails": 1,
+        "https://www.campaignmonitor.com/email-archive": 1,
+        "https://www.campaignmonitor.com/resources/newsletter": 1,
+        "https://www.campaignmonitor.com/blog/newsletter": 1,
+        "https://campaignmonitor.beehiiv.com/archive": 1,
+        "https://campaignmonitor.substack.com/archive": 1
+      }
+    },
+    "getresponse": {
+      "working": null,
+      "fails": {
+        "https://www.getresponse.com/newsletter": 1,
+        "https://www.getresponse.com/newsletter-archive": 1,
+        "https://www.getresponse.com/emails": 1,
+        "https://www.getresponse.com/email-archive": 1,
+        "https://www.getresponse.com/resources/newsletter": 1,
+        "https://www.getresponse.com/blog/newsletter": 1,
+        "https://getresponse.beehiiv.com/archive": 1,
+        "https://getresponse.substack.com/archive": 1
+      }
+    }
   }
 }

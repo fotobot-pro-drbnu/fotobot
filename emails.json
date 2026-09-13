@@ -1,51 +1,65 @@
 {
-  "generatedAt": "2026-09-13T07:05:08.339Z",
-  "brands": [
+  "generatedAt": "2026-09-13T09:52:44.889Z",
+  "konkurence": [],
+  "inspirace": [
     {
+      "katalog": "rge-cart",
+      "url": "https://reallygoodemails.com/emails/closer-look-loved",
+      "title": "A closer look at what you loved. from Schoolhouse - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-13/inspirace--rge-cart-1.jpg"
+    },
+    {
+      "katalog": "rge-cart",
+      "url": "https://reallygoodemails.com/emails/howdy-we-saved-your-spot",
+      "title": "Howdy. We saved your spot. from Howdy - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-13/inspirace--rge-cart-2.jpg"
+    },
+    {
+      "katalog": "rge-cart",
+      "url": "https://reallygoodemails.com/emails/how-can-we-help",
+      "title": "How can we help? from Rarify - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-13/inspirace--rge-cart-3.jpg"
+    }
+  ],
+  "katalogy": [
+    {
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "odkazu": 50
+    },
+    {
+      "key": "emaillove-newsletter",
+      "name": "Email Love — newslettery",
+      "url": "https://emaillove.com/inspiration/newsletter",
+      "odkazu": 0,
+      "shot": "emails/2026-09-13/_katalog--emaillove-newsletter.jpg",
+      "poznamka": "žádné odkazy na jednotlivé e-maily — katalog vyfocen jako důkaz"
+    },
+    {
+      "key": "emaillove-saas",
+      "name": "Email Love — SaaS",
+      "url": "https://emaillove.com/brands?cat=saas",
+      "odkazu": 0,
+      "shot": "emails/2026-09-13/_katalog--emaillove-saas.jpg",
+      "poznamka": "žádné odkazy na jednotlivé e-maily — katalog vyfocen jako důkaz"
+    }
+  ],
+  "archivy": [
+    {
+      "znacka": "Omnisend",
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/newsletter",
+      "title": "Free and Customizable Email Newsletter Templates",
+      "shot": "emails/2026-09-13/omnisend--archiv.jpg"
+    },
+    {
+      "znacka": "ActiveCampaign",
       "key": "activecampaign",
-      "name": "ActiveCampaign",
-      "source": "archiv",
-      "found": [
-        {
-          "source": "archiv",
-          "url": "https://www.activecampaign.com/newsletter",
-          "title": "Blog | ActiveCampaign",
-          "shot": "emails/2026-09-13/activecampaign--archiv.jpg"
-        }
-      ]
+      "url": "https://www.activecampaign.com/newsletter",
+      "title": "Blog | ActiveCampaign",
+      "shot": "emails/2026-09-13/activecampaign--archiv.jpg"
     }
   ],
-  "nothing": [
-    {
-      "key": "mailerlite",
-      "name": "MailerLite"
-    },
-    {
-      "key": "constantcontact",
-      "name": "Constant Contact"
-    },
-    {
-      "key": "campaignmonitor",
-      "name": "Campaign Monitor"
-    },
-    {
-      "key": "getresponse",
-      "name": "GetResponse"
-    },
-    {
-      "key": "beehiiv",
-      "name": "beehiiv"
-    },
-    {
-      "key": "kit",
-      "name": "Kit"
-    },
-    {
-      "key": "loops",
-      "name": "Loops"
-    }
-  ],
-  "notes": [
-    "U těchto značek se dnes nepodařilo najít žádný veřejný e-mail. Když se to opakuje, je to samo o sobě zjištění: ta značka svoje kampaně veřejně nevystavuje."
-  ]
+  "poznamky": []
 }

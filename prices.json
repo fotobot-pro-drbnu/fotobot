@@ -1,19 +1,95 @@
 {
-  "generatedAt": "2026-09-13T07:04:15.364Z",
+  "generatedAt": "2026-09-13T09:51:36.621Z",
   "checked": [
+    {
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/smartmailer.jpg"
+    },
+    {
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/intelimail.jpg"
+    },
+    {
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/quanda.jpg"
+    },
+    {
+      "key": "mailkit",
+      "url": "https://www.mailkit.com/cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/mailkit.jpg"
+    },
+    {
+      "key": "clipsan",
+      "url": "https://www.clipsan.com/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/clipsan.jpg"
+    },
+    {
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/pricing/marketing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$20",
+        "$ 297 50",
+        "$297.50",
+        "$350",
+        "$13",
+        "$299"
+      ],
+      "shot": "pricing-shots/2026-09-13/mailchimp.jpg"
+    },
+    {
+      "key": "klaviyo",
+      "url": "https://www.klaviyo.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/klaviyo.jpg"
+    },
+    {
+      "key": "brevo",
+      "url": "https://www.brevo.com/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$8 .08",
+        "$10.80",
+        "$27.92",
+        "$18",
+        "$16 .17",
+        "$499",
+        "$449 .08",
+        "$58.50",
+        "$0.00",
+        "$8.08",
+        "$9.00"
+      ],
+      "shot": "pricing-shots/2026-09-13/brevo.jpg"
+    },
     {
       "key": "mailerlite",
       "url": "https://www.mailerlite.com/pricing",
       "own": false,
       "cz": false,
-      "prices": [
-        "$10.80",
-        "$22.50",
-        "$25",
-        "$270.00",
-        "$12",
-        "$129.60"
-      ],
+      "prices": [],
       "shot": "pricing-shots/2026-09-13/mailerlite.jpg"
     },
     {
@@ -69,95 +145,70 @@
       "shot": "pricing-shots/2026-09-13/getresponse.jpg"
     },
     {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-09-13/constantcontact.jpg"
-    },
-    {
-      "key": "aweber",
-      "url": "https://www.aweber.com/pricing.htm",
-      "own": false,
+      "key": "nas-web",
+      "url": "https://ecomail.cz/cenik/",
+      "own": true,
       "cz": false,
       "prices": [
-        "$599",
-        "$20.00",
-        "$79",
-        "$12.50"
+        "150 Kč",
+        "250 Kč",
+        "200 Kč",
+        "300 Kč",
+        "2 000 Kč",
+        "2 400 Kč",
+        "000 1 600 Kč",
+        "000 2 400 Kč",
+        "000 4 000 Kč",
+        "000 6 000 Kč",
+        "000 12 000 Kč",
+        "5 000 1 600 Kč",
+        "0 000 2 400 Kč",
+        "0 000 4 000 Kč",
+        "0 000 6 000 Kč",
+        "1,10 Kč",
+        "2 750,00 Kč",
+        "1,30 Kč",
+        "3 250,00 Kč",
+        "1,60 Kč",
+        "4 000,00 Kč",
+        "1,40 Kč",
+        "2,20 Kč",
+        "2,10 Kč",
+        "2,40 Kč",
+        "1,90 Kč",
+        "4,40 Kč",
+        "1,20 Kč",
+        "1,50 Kč",
+        "1,92 Kč",
+        "1,70 Kč",
+        "0,90 Kč",
+        "2,00 Kč",
+        "3,00 Kč",
+        "5,40 Kč"
       ],
-      "shot": "pricing-shots/2026-09-13/aweber.jpg"
-    },
-    {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-09-13/moosend.jpg"
-    },
-    {
-      "key": "sender",
-      "url": "https://www.sender.net/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$6.30",
-        "$108",
-        "$75.60",
-        "$10.50",
-        "$180",
-        "$126",
-        "$10",
-        "$0.015",
-        "$29",
-        "$5.80"
-      ],
-      "shot": "pricing-shots/2026-09-13/sender.jpg"
-    },
-    {
-      "key": "emailoctopus",
-      "url": "https://emailoctopus.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$12"
-      ],
-      "shot": "pricing-shots/2026-09-13/emailoctopus.jpg"
-    },
-    {
-      "key": "mailjet",
-      "url": "https://www.mailjet.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$19",
-        "$29"
-      ],
-      "shot": "pricing-shots/2026-09-13/mailjet.jpg"
-    },
-    {
-      "key": "flodesk",
-      "url": "https://flodesk.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$ 0 25 19 32",
-        "$ 0 28 25 39",
-        "$ 0 54 49 87"
-      ],
-      "shot": "pricing-shots/2026-09-13/flodesk.jpg"
-    },
-    {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-09-13/loops.jpg"
+      "shot": "pricing-shots/2026-09-13/nas-web.jpg"
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "key": "mailerlite",
+      "url": "https://www.mailerlite.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-13/mailerlite.jpg",
+      "added": [],
+      "removed": [
+        "$10.80",
+        "$22.50",
+        "$25",
+        "$270.00",
+        "$12",
+        "$129.60"
+      ],
+      "since": "2026-09-13",
+      "history": []
+    }
+  ],
   "errors": []
 }

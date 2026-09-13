@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-09-13T07:02:01.281Z",
+  "generatedAt": "2026-09-13T09:45:48.591Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Austrálie chce dát uživatelům větší kontrolu nad sociálními sítěmi",
+          "url": "https://www.mediaguru.cz/australie-chce-dat-uzivatelum-vetsi-kontrolu-nad-socialnimi-sitemi",
+          "date": "Sun, 13 Sep 2026 09:45:00 +0200",
+          "ts": 1789285500000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "V sobotním večeru zvítězili Chalupáři",
+          "url": "https://www.mediaguru.cz/v-sobotnim-veceru-zvitezili-chalupari",
+          "date": "Sun, 13 Sep 2026 09:30:00 +0200",
+          "ts": 1789284600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "CzechTourism láká Američany, aby v Česku zůstali déle",
+          "url": "https://www.mediaguru.cz/czechtourism-laka-americany-aby-v-cesku-zustali-dele",
+          "date": "Sun, 13 Sep 2026 09:20:00 +0200",
+          "ts": 1789284000000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Hlavním tématem letošního POPAI Day bude zákaznická pozornost",
+          "url": "https://www.mediaguru.cz/hlavnim-tematem-letosniho-popai-day-bude-zakaznicka-pozornost",
+          "date": "Sun, 13 Sep 2026 09:15:00 +0200",
+          "ts": 1789283700000
+        },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
@@ -61,30 +93,6 @@
           "url": "https://www.mediaguru.cz/nevypinej-nebud-svet-motoru-vysvetluje-proc-nevypinat-asistenty",
           "date": "Fri, 11 Sep 2026 11:50:00 +0200",
           "ts": 1789120200000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Garmin spustil s Jiřím Procházkou výzvu, soutěží o hodinky",
-          "url": "https://www.mediaguru.cz/garmin-spustil-s-jirim-prochazkou-vyzvu-soutezi-o-hodinky",
-          "date": "Fri, 11 Sep 2026 11:35:00 +0200",
-          "ts": 1789119300000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "JustWatch už není pouze katalogem obsahu VOD služeb",
-          "url": "https://www.mediaguru.cz/justwatch-uz-neni-pouze-katalogem-obsahu-vod-sluzeb",
-          "date": "Fri, 11 Sep 2026 10:45:00 +0200",
-          "ts": 1789116300000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Boží plán si vzal ve čtvrtek večer vedení zpět",
-          "url": "https://www.mediaguru.cz/bozi-plan-si-vzal-ve-ctvrtek-vecer-vedeni-zpet",
-          "date": "Fri, 11 Sep 2026 09:30:00 +0200",
-          "ts": 1789111800000
         }
       ]
     },
@@ -147,130 +155,131 @@
     }
   },
   "discovered": {
-    "mediaguru": "https://www.mediaguru.cz/rss",
-    "brandnew": "https://www.underconsideration.com/brandnew/atom.xml",
-    "logodesigner": "https://www.logo-designer.co/feed",
-    "emailgeeks": "https://www.litmus.com/feed",
-    "omnisend": "https://www.omnisend.com/blog/feed",
-    "getresponse": "https://www.getresponse.com/blog/feed",
-    "aweber": "https://blog.aweber.com/feed",
-    "dotdigital": "https://dotdigital.com/feed",
-    "netcore": "https://netcore.ai/feed",
-    "cleverreach": "https://www.cleverreach.com/feed",
+    "ecommerce-bridge": "https://ecommercebridge.cz/feed",
+    "shoptet-blog": "https://blog.shoptet.cz/feed",
+    "litmus": "https://www.litmus.com/feed",
+    "smartemailing": "https://www.smartemailing.cz/feed",
     "boldem": "https://www.boldem.cz/feed",
-    "targito": "https://www.targito.com/feed",
-    "samba-ai": "https://samba.ai/feed"
+    "emailmachine": "https://www.emailmachine.cz/feed"
   },
+  "viaBrowser": [
+    "boldem"
+  ],
   "failed": [
     {
       "key": "mam",
       "name": "Marketing & Media",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "tyinternety",
       "name": "Tyinternety",
-      "reason": "feed nenalezen"
-    },
-    {
-      "key": "marketingsales",
-      "name": "Marketing Sales Media",
-      "reason": "feed nenalezen"
-    },
-    {
-      "key": "itsnicethat",
-      "name": "It's Nice That",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "designweek",
       "name": "Design Week",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "creativereview",
       "name": "Creative Review",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "itsnicethat",
+      "name": "It's Nice That",
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "thebrandingjournal",
+      "name": "The Branding Journal",
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "martech",
       "name": "MarTech",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
+    },
+    {
+      "key": "emailonacid",
+      "name": "Email on Acid",
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "mailchimp",
       "name": "Mailchimp",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "klaviyo",
       "name": "Klaviyo",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "brevo",
       "name": "Brevo",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "mailerlite",
       "name": "MailerLite",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "activecampaign",
       "name": "ActiveCampaign",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "constantcontact",
       "name": "Constant Contact",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "beehiiv",
       "name": "beehiiv",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "kit",
       "name": "Kit",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "loops",
       "name": "Loops",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "customerio",
       "name": "Customer.io",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "rapidmail",
       "name": "rapidmail",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
-      "key": "smartemailing",
-      "name": "SmartEmailing",
-      "reason": "feed nenalezen"
+      "key": "klaviyo-news",
+      "name": "Klaviyo newsroom",
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "leadhub",
       "name": "Leadhub",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "emailkampane",
       "name": "Emailkampane.cz",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "quanda",
       "name": "Quanda",
-      "reason": "feed nenalezen"
+      "reason": "feed nenalezen ani přes prohlížeč"
     }
   ]
 }
