@@ -1,12 +1,60 @@
 {
-  "generatedAt": "2026-09-14T09:18:03.923Z",
+  "generatedAt": "2026-09-14T13:47:27.473Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 15,
+      "count": 18,
       "items": [
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Kozub rozšiřuje spolupráci s Evropou 2, spustil videocast s Jordanem",
+          "url": "https://www.mediaguru.cz/kozub-rozsiruje-spolupraci-s-evropou-2-spustil-videocast-s-jordanem",
+          "date": "Mon, 14 Sep 2026 15:20:00 +0200",
+          "ts": 1789392000000
+        },
+        {
+          "source": "shoptet-blog",
+          "name": "Shoptet blog",
+          "title": "Jak využít AI v marketingu e-shopu. Návod, jak snadno na texty, obrázky i videa",
+          "url": "https://blog.shoptet.cz/ai-marketing-eshop/",
+          "date": "Mon, 14 Sep 2026 11:00:00 +0000",
+          "ts": 1789383600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Mezi dalšími soutěžícími Zrádců jsou novinářka Pokorná a youtuber Špaček",
+          "url": "https://www.mediaguru.cz/prima-zverejnila-posledni-soutezici-v-reality-zradci-ucastni-se-i-pokorna",
+          "date": "Mon, 14 Sep 2026 12:35:00 +0200",
+          "ts": 1789382100000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "V show Zrádci bude i&#160;Zdíša čili Zdislava Pokorná, investigativní reportérka Deníku N",
+          "url": "https://www.mediar.cz/v-show-zradci-bude-i-zdisa-cili-zdislava-pokorna-investigativni-reporterka-deniku-n/",
+          "date": "Mon, 14 Sep 2026 10:30:48 +0000",
+          "ts": 1789381848000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Kostková a Eben po dvaceti letech skončí ve StarDance",
+          "url": "https://www.mediaguru.cz/eben-a-kostkova-po-dvaceti-letech-skonci-ve-stardance",
+          "date": "Mon, 14 Sep 2026 12:10:00 +0200",
+          "ts": 1789380600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "StarDance ukázala nové promo, má i novou aplikaci. ČT potvrdila další ročník",
+          "url": "https://www.mediaguru.cz/stardance-ukazala-nove-promo-ma-i-novou-aplikaci-ct-potvrdila-dalsi-rocnik",
+          "date": "Mon, 14 Sep 2026 11:40:00 +0200",
+          "ts": 1789378800000
+        },
         {
           "source": "ecommerce-bridge",
           "name": "Ecommerce Bridge",
@@ -22,6 +70,14 @@
           "url": "https://www.mediaguru.cz/kina-se-poprve-zapoji-do-kino-dnu-vstupne-bude-za-stovku",
           "date": "Mon, 14 Sep 2026 10:45:00 +0200",
           "ts": 1789375500000
+        },
+        {
+          "source": "ecommerce-bridge",
+          "name": "Ecommerce Bridge",
+          "title": "Ecommerce Bridge UPDATE 37/2026",
+          "url": "https://www.ecommercebridge.cz/ecommerce-bridge-update-37-2026/",
+          "date": "Mon, 14 Sep 2026 08:30:19 +0000",
+          "ts": 1789374619000
         },
         {
           "source": "mediaguru",
@@ -94,38 +150,6 @@
           "url": "https://www.mediar.cz/influencer-marketing-vzrostl-skoro-o-tretinu-tradicni-formaty-ztraceji-ucinnost/",
           "date": "Sun, 13 Sep 2026 15:40:04 +0000",
           "ts": 1789314004000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Austrálie chce dát uživatelům větší kontrolu nad sociálními sítěmi",
-          "url": "https://www.mediaguru.cz/australie-chce-dat-uzivatelum-vetsi-kontrolu-nad-socialnimi-sitemi",
-          "date": "Sun, 13 Sep 2026 09:45:00 +0200",
-          "ts": 1789285500000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "CzechTourism láká Američany, aby v Česku zůstali déle",
-          "url": "https://www.mediaguru.cz/czechtourism-laka-americany-aby-v-cesku-zustali-dele",
-          "date": "Sun, 13 Sep 2026 09:35:00 +0200",
-          "ts": 1789284900000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "V sobotním večeru zvítězili Chalupáři",
-          "url": "https://www.mediaguru.cz/v-sobotnim-veceru-zvitezili-chalupari",
-          "date": "Sun, 13 Sep 2026 09:30:00 +0200",
-          "ts": 1789284600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Hlavním tématem letošního POPAI Day bude zákaznická pozornost",
-          "url": "https://www.mediaguru.cz/hlavnim-tematem-letosniho-popai-day-bude-zakaznicka-pozornost",
-          "date": "Sun, 13 Sep 2026 09:15:00 +0200",
-          "ts": 1789283700000
         }
       ]
     },
@@ -138,20 +162,102 @@
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 0,
-      "items": []
+      "count": 3,
+      "items": [
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "The AI content tsunami: Creation is solved. Governance is the hard part",
+          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-solved-governance-is-the-hard-part/830184/",
+          "date": "Mon, 14 Sep 2026 09:09:27 -0400",
+          "ts": 1789391367000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "IHOP bites into little treat trend with Katseye-soundtracked campaign",
+          "url": "https://www.marketingdive.com/news/ihop-bites-into-little-treat-trend-with-katseye-soundtracked-campaign/830014/",
+          "date": "Mon, 14 Sep 2026 08:00:00 -0400",
+          "ts": 1789387200000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "How Columbia’s marketing breaks through with fax machines, flat Earth",
+          "url": "https://www.marketingdive.com/news/how-columbias-marketing-breaks-through-with-fax-machines-flat-earth/829991/",
+          "date": "Mon, 14 Sep 2026 08:00:00 -0400",
+          "ts": 1789387200000
+        }
+      ]
     },
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
       "oknoHodin": 48,
-      "count": 0,
-      "items": []
+      "count": 3,
+      "items": [
+        {
+          "source": "omnisend",
+          "name": "Omnisend",
+          "title": "Brevo vs. GetResponse: which one is right for your business in 2026",
+          "url": "https://www.omnisend.com/blog/brevo-vs-getresponse/",
+          "date": "Mon, 14 Sep 2026 11:40:24 +0000",
+          "ts": 1789386024000
+        },
+        {
+          "source": "omnisend",
+          "name": "Omnisend",
+          "title": "Brevo vs. Constant Contact: Which one should you choose in 2026?",
+          "url": "https://www.omnisend.com/blog/brevo-vs-constant-contact/",
+          "date": "Mon, 14 Sep 2026 10:11:17 +0000",
+          "ts": 1789380677000
+        },
+        {
+          "source": "dotdigital",
+          "name": "Dotdigital",
+          "title": "Why referral programs perform best as part of an integrated marketing strategy",
+          "url": "https://dotdigital.com/blog/why-referral-programs-perform-best-as-part-of-an-integrated-marketing-strategy/",
+          "date": "Mon, 14 Sep 2026 09:30:54 +0000",
+          "ts": 1789378254000
+        }
+      ]
     },
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Tady je 7 bodů, jak nově oceňovat firmy. Rostou tržby na zaměstnance? A umí firma „zabíjet“?",
+          "url": "https://cc.cz/tady-je-7-bodu-jak-nove-ocenovat-firmy-rostou-trzby-na-zamestnance-a-umi-firma-zabijet/",
+          "date": "Mon, 14 Sep 2026 12:51:39 +0000",
+          "ts": 1789390299000
+        },
+        {
+          "source": "printmag",
+          "name": "PRINT Magazine",
+          "title": "The Daily Heller: Plus ça Change, Plus c’est la Même Chose",
+          "url": "https://www.printmag.com/daily-heller/the-daily-heller-plus-ca-change-plus-cest-la-meme-chose/",
+          "date": "Mon, 14 Sep 2026 11:00:00 +0000",
+          "ts": 1789383600000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Z ruiny po „králi plísňových džínů“ je sídlo skupiny miliardáře Igora Faita. Uvnitř má i sbírku umění",
+          "url": "https://cc.cz/z-ruiny-po-krali-plisnovych-dzinu-je-sidlo-skupiny-miliardare-igora-faita-uvnitr-ma-i-sbirku-umeni/",
+          "date": "Mon, 14 Sep 2026 10:48:07 +0000",
+          "ts": 1789382887000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Konec plastových karet. Hotely Orea jsou první síť v Česku, kde odemknete pokoj telefonem nebo hodinkami",
+          "url": "https://cc.cz/konec-plastovych-karet-hotely-orea-jsou-prvni-sit-v-cesku-kde-odemknete-pokoj-telefonem-nebo-hodinkami/",
+          "date": "Mon, 14 Sep 2026 09:27:08 +0000",
+          "ts": 1789378028000
+        },
         {
           "source": "fontsinuse",
           "name": "Fonts In Use — staff picks",
@@ -233,42 +339,10 @@
           "ts": 1789289122000
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme",
-          "url": "https://cc.cz/schopnosti-ai-zacaly-desit-i-sefy-firem-ktere-ji-vyviji-vyjimecne-se-shodli-a-slibuji-zpomalime/",
-          "date": "Sun, 13 Sep 2026 05:21:32 +0000",
-          "ts": 1789276892000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Začala blogem o životě v Norsku, po návratu rozjela první byznys. Dnes s manželem vedou dvě milionové firmy",
-          "url": "https://cc.cz/zacala-blogem-o-zivote-v-norsku-po-navratu-rozjela-prvni-byznys-dnes-s-manzelem-vedou-dve-milionove-firmy/",
-          "date": "Sun, 13 Sep 2026 05:03:16 +0000",
-          "ts": 1789275796000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Nové Diablo, nový StarCraft, nový Warcraft. Podívejte se na první trailery trojnásobného herního překvapení",
-          "url": "https://cc.cz/nove-diablo-novy-starcraft-je-tady-dvojnasobne-herni-prekvapeni-podivejte-se-na-trailery-i-datum-vydani/",
-          "date": "Sat, 12 Sep 2026 19:52:01 +0000",
-          "ts": 1789242721000
-        },
-        {
           "source": "font-cz",
           "name": "Font.cz",
           "title": "Špindlerův Mlýn – společná identita města a skiareálu",
           "url": "http://www.font.cz/design/spindleruv-mlyn-spolecna-identita-mesta-a-skiarealu.html",
-          "date": "",
-          "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Jiří Balcar v Alšově jihočeské galerii",
-          "url": "http://www.font.cz/design/jiri-balcar-v-alsove-jihoceske-galerii.html",
           "date": "",
           "ts": null
         }
@@ -277,7 +351,7 @@
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "source": "chl-ecomail",
@@ -328,6 +402,14 @@
           "ts": 1788393600000
         },
         {
+          "source": "chl-brevo",
+          "name": "Brevo dev changelog",
+          "title": "September 2, 2026",
+          "url": "https://developers.brevo.com/changelog/2026/9/2",
+          "date": "Wed, 02 Sep 2026 00:00:00 GMT",
+          "ts": 1788307200000
+        },
+        {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
           "title": "[Novinka] Automatizace: funkce NOW() a podpora času v poli Datum",
@@ -355,7 +437,9 @@
     }
   },
   "discovered": {},
-  "viaBrowser": [],
+  "viaBrowser": [
+    "ecommerce-bridge"
+  ],
   "blokovano": [
     {
       "key": "mam",
@@ -398,11 +482,6 @@
       "key": "tyinternety",
       "name": "Tyinternety",
       "reason": "feed se nenašel, další hledání až po 2026-09-27"
-    },
-    {
-      "key": "brandnew",
-      "name": "Brand New",
-      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "itsnicethat",
