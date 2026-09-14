@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-14T14:15:24.818Z",
+  "generatedAt": "2026-09-14T15:00:24.105Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 18,
+      "count": 15,
       "items": [
         {
           "source": "mediaguru",
@@ -56,14 +56,6 @@
           "ts": 1789378800000
         },
         {
-          "source": "ecommerce-bridge",
-          "name": "Ecommerce Bridge",
-          "title": "Čeká nás nejsilnější kvartál roku: Kde ulovíte nejvíce zákazníků?",
-          "url": "https://www.ecommercebridge.cz/ceka-nas-nejsilnejsi-kvartal-roku-kde-ulovite-nejvice-zakazniku/",
-          "date": "Mon, 14 Sep 2026 08:48:21 +0000",
-          "ts": 1789375701000
-        },
-        {
           "source": "mediaguru",
           "name": "MediaGuru",
           "title": "Kina se poprvé zapojí do Kino dnů, vstupné bude za stovku",
@@ -72,28 +64,12 @@
           "ts": 1789375500000
         },
         {
-          "source": "ecommerce-bridge",
-          "name": "Ecommerce Bridge",
-          "title": "Ecommerce Bridge UPDATE 37/2026",
-          "url": "https://www.ecommercebridge.cz/ecommerce-bridge-update-37-2026/",
-          "date": "Mon, 14 Sep 2026 08:30:19 +0000",
-          "ts": 1789374619000
-        },
-        {
           "source": "mediaguru",
           "name": "MediaGuru",
           "title": "Media:list zajistí korporátní komunikaci Albatros Media",
           "url": "https://www.mediaguru.cz/media-list-zajisti-korporatni-komunikaci-albatros-media",
           "date": "Mon, 14 Sep 2026 10:15:00 +0200",
           "ts": 1789373700000
-        },
-        {
-          "source": "ecommerce-bridge",
-          "name": "Ecommerce Bridge",
-          "title": "Novinky z e-commerce 37/2026: Děti plní košíky dospělých, čínské zásilky ztrácejí cenovou výhodu, Magento má kritickou chybu",
-          "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-37-2026-deti-plni-kosiky-dospelych-cinske-zasilky-ztraceji-cenovou-vyhodu-magento-ma-kritickou-chybu/",
-          "date": "Mon, 14 Sep 2026 07:55:37 +0000",
-          "ts": 1789372537000
         },
         {
           "source": "mediaguru",
@@ -167,18 +143,18 @@
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
-          "title": "How the New York Jets extends OOH marketing for better storytelling",
-          "url": "https://www.marketingdive.com/news/how-the-new-york-jets-extends-ooh-marketing-for-better-storytelling/830049/",
-          "date": "Mon, 14 Sep 2026 10:00:00 -0400",
-          "ts": 1789394400000
+          "title": "Googles upgrades Meridian with agentic AI, upper-funnel capabilities",
+          "url": "https://www.marketingdive.com/news/googles-upgrades-meridian-with-agentic-ai-upper-funnel-capabilities/830253/",
+          "date": "Mon, 14 Sep 2026 10:24:00 -0400",
+          "ts": 1789395840000
         },
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
-          "title": "The AI content tsunami: Creation is the easy part",
-          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
-          "date": "Mon, 14 Sep 2026 09:09:27 -0400",
-          "ts": 1789391367000
+          "title": "How the New York Jets extends OOH marketing for better storytelling",
+          "url": "https://www.marketingdive.com/news/how-the-new-york-jets-extends-ooh-marketing-for-better-storytelling/830049/",
+          "date": "Mon, 14 Sep 2026 10:00:00 -0400",
+          "ts": 1789394400000
         },
         {
           "source": "marketingdive",
@@ -234,6 +210,14 @@
       "oknoHodin": 48,
       "count": 26,
       "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Online lékař na Slovensku. Česká aplikace už naplno pronikla do tamního zdravotního systému a chce dál",
+          "url": "https://cc.cz/online-lekar-na-slovensku-ceska-aplikace-uz-naplno-pronikla-do-tamniho-zdravotniho-systemu-a-chce-dal/",
+          "date": "Mon, 14 Sep 2026 14:57:33 +0000",
+          "ts": 1789397853000
+        },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
@@ -321,14 +305,6 @@
           "url": "https://cc.cz/rusove-predbehli-americany-a-pristali-na-mesici-jako-prvni-apple-podle-toho-natocil-napinavy-serial/",
           "date": "Sun, 13 Sep 2026 13:31:27 +0000",
           "ts": 1789306287000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Ukázalo se, že za peníze si koupíte všechno. Kromě diváků. Velkolepý saúdský projekt skončil krachem",
-          "url": "https://cc.cz/ukazalo-se-ze-za-penize-si-koupite-vsechno-krome-divaku-velkolepy-saudsky-projekt-skoncil-krachem/",
-          "date": "Sun, 13 Sep 2026 11:15:02 +0000",
-          "ts": 1789298102000
         },
         {
           "source": "fontsinuse",
@@ -548,11 +524,6 @@
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
       "reason": "feed se nenašel, další hledání až po 2026-09-27"
-    },
-    {
-      "key": "smartemailing",
-      "name": "SmartEmailing",
-      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "leadhub",

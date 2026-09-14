@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-09-14T14:23:54.720Z",
+  "generatedAt": "2026-09-14T15:06:56.539Z",
   "pacienti": 2,
   "zachraneno": [
+    {
+      "key": "boldem",
+      "url": "https://boldem.cz/",
+      "duvod": "rozbitá fotka",
+      "shot": "rescue/2026-09-14/boldem.jpg",
+      "health": {
+        "imgTotal": 82,
+        "imgBroken": 43,
+        "h1": "Boldem CDP systém pro marketingovou komunikaci",
+        "ruleCount": 17
+      }
+    },
     {
       "key": "targito",
       "url": "https://www.targito.com/",
@@ -9,18 +21,11 @@
       "shot": "rescue/2026-09-14/targito.jpg",
       "health": {
         "imgTotal": 72,
-        "imgBroken": 38,
+        "imgBroken": 40,
         "h1": "",
         "ruleCount": 81
       }
     }
   ],
-  "neuspech": [
-    {
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/",
-      "duvod": "spadlo",
-      "error": "TimeoutError: page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.smartemailing.cz/\", waiting until \"commit\"\n"
-    }
-  ]
+  "neuspech": []
 }
