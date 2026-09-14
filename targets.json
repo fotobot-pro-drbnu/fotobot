@@ -295,4 +295,6 @@
     "key": "listmonk",
     "url": "https://listmonk.app/"
   }
+  { "key": "czechdesign-kalendar", "url": "https://www.czechdesign.cz/kalendar-akci", "cz": true, "settle": 6000 }
+  { "key": "czechdesign-graficky", "url": "https://www.czechdesign.cz/graficky-design", "cz": true }
 ]
