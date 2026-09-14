@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T23:06:36.209Z",
+  "generatedAt": "2026-09-14T03:48:42.443Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
@@ -213,7 +213,7 @@
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 15,
+      "count": 16,
       "items": [
         {
           "source": "chl-ecomail",
@@ -262,6 +262,14 @@
           "url": "https://developers.brevo.com/changelog/2026/9/3",
           "date": "Thu, 03 Sep 2026 00:00:00 GMT",
           "ts": 1788393600000
+        },
+        {
+          "source": "chl-brevo",
+          "name": "Brevo dev changelog",
+          "title": "September 2, 2026",
+          "url": "https://developers.brevo.com/changelog/2026/9/2",
+          "date": "Wed, 02 Sep 2026 00:00:00 GMT",
+          "ts": 1788307200000
         },
         {
           "source": "chl-ecomail",
@@ -339,9 +347,7 @@
     }
   },
   "discovered": {},
-  "viaBrowser": [
-    "ecommerce-bridge"
-  ],
+  "viaBrowser": [],
   "blokovano": [
     {
       "key": "mam",
@@ -383,102 +389,97 @@
     {
       "key": "tyinternety",
       "name": "Tyinternety",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "itsnicethat",
       "name": "It's Nice That",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "thebrandingjournal",
       "name": "The Branding Journal",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "emailonacid",
       "name": "Email on Acid",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "mailchimp",
       "name": "Mailchimp",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "klaviyo",
       "name": "Klaviyo",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "brevo",
       "name": "Brevo",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "activecampaign",
       "name": "ActiveCampaign",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "beehiiv",
       "name": "beehiiv",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "loops",
       "name": "Loops",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "customerio",
       "name": "Customer.io",
-      "reason": "feed nenalezen ani přes prohlížeč"
-    },
-    {
-      "key": "cleverreach",
-      "name": "CleverReach",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "rapidmail",
       "name": "rapidmail",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "smartemailing",
       "name": "SmartEmailing",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "leadhub",
       "name": "Leadhub",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "emailkampane",
       "name": "Emailkampane.cz",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "quanda",
       "name": "Quanda",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "czechdesign-graficky",
       "name": "CzechDesign — grafický design",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {
       "key": "czechdesign-sklizen",
       "name": "CzechDesign — grafická sklizeň",
-      "reason": "feed nenalezen ani přes prohlížeč"
+      "reason": "feed se nenašel, další hledání až po 2026-09-27"
     }
   ]
 }

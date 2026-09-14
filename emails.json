@@ -1,60 +1,95 @@
 {
-  "generatedAt": "2026-09-13T23:31:15.422Z",
-  "konkurence": [],
+  "generatedAt": "2026-09-14T03:55:24.291Z",
+  "konkurence": [
+    {
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/mailchimp-sms-marketing",
+      "title": "A little SMS goes a long way from MailChimp - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/mailchimp--rge-onboarding-1.jpg"
+    },
+    {
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/mailchimp-email-sms-marketing",
+      "title": "Admit it, you’re on your phone from MailChimp - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/mailchimp--rge-onboarding-2.jpg"
+    },
+    {
+      "znacka": "Kit",
+      "key": "kit",
+      "katalog": "rge-newsletter",
+      "url": "https://reallygoodemails.com/emails/yep-kitchen-sichuan-heat-erjingtiao",
+      "title": "The secret to Sichuan Heat 👀🔥 from Yep Kitchen - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/kit--rge-newsletter-3.jpg"
+    },
+    {
+      "znacka": "Kit",
+      "key": "kit",
+      "katalog": "rge-newsletter",
+      "url": "https://reallygoodemails.com/emails/graza-chef-kitchen-hacks",
+      "title": "3 chef-approved cooking hacks from Graza - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/kit--rge-newsletter-4.jpg"
+    },
+    {
+      "znacka": "Kit",
+      "key": "kit",
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/youfoodz-welcome-meal-kit-discount",
+      "title": "Welcome to your fresh start from Youfoodz - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/kit--rge-welcome-5.jpg"
+    }
+  ],
   "inspirace": [
     {
-      "katalog": "rge-cart",
-      "url": "https://reallygoodemails.com/emails/bb-come-back",
-      "title": "BB COME BACK 💕 from Boy Smells - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-13/inspirace--rge-cart-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/greenhouse-welcome",
+      "title": "Welcome to MyGreenhouse. Start your search. from Greenhouse - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-cart",
-      "url": "https://reallygoodemails.com/emails/youre-just-a-few-clicks-away",
-      "title": "You're just a few clicks away... 💌 from Postable - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-13/inspirace--rge-cart-2.jpg"
-    },
-    {
-      "katalog": "rge-cart",
-      "url": "https://reallygoodemails.com/emails/almost-gone-supernatural-sweater-cardigan",
-      "title": "[Test] ALMOST GONE: Supernatural Sweater Cardigan from Alo Yoga - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-13/inspirace--rge-cart-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/orangefit-account-activation",
+      "title": "Welkom bij de club! from Orangefit - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/inspirace--rge-onboarding-2.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 50
     },
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
       "odkazu": 50
     },
     {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 50
     }
   ],
   "archivy": [
     {
-      "znacka": "Omnisend",
-      "key": "omnisend",
-      "url": "https://www.omnisend.com/newsletter",
-      "title": "Free and Customizable Email Newsletter Templates",
-      "shot": "emails/2026-09-13/omnisend--archiv.jpg"
+      "znacka": "Flodesk",
+      "key": "flodesk",
+      "url": "https://flodesk.com/emails",
+      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
+      "shot": "emails/2026-09-14/flodesk--archiv.jpg"
     },
     {
-      "znacka": "ActiveCampaign",
-      "key": "activecampaign",
-      "url": "https://www.activecampaign.com/newsletter",
-      "title": "Blog | ActiveCampaign",
-      "shot": "emails/2026-09-13/activecampaign--archiv.jpg"
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "url": "https://customer.io/blog/newsletter",
+      "title": "Learn with Customer.io",
+      "shot": "emails/2026-09-14/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
