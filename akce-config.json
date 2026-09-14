@@ -1,0 +1,35 @@
+{
+  "poznamka": "Zdroje kalendářů akcí. Scraper běží prohlížečem, takže projde i tam, kam WebFetch nesmí (czechdesign vrací robotům 403). Pořadí = priorita; při dlouhém běhu se odřízne konec.",
+  "maxCelkemDetailu": 14,
+  "oknoDnu": 75,
+  "zdroje": [
+    {
+      "key": "czechdesign-kalendar",
+      "nazev": "CZECHDESIGN — kalendář akcí",
+      "url": "https://www.czechdesign.cz/kalendar-akci",
+      "detailObsahuje": "/kalendar-akci/",
+      "maxDetailu": 8,
+      "settleMs": 6000,
+      "enabled": true
+    },
+    {
+      "key": "czechdesign-graficky",
+      "nazev": "CZECHDESIGN — grafický design",
+      "url": "https://www.czechdesign.cz/graficky-design",
+      "detailObsahuje": "/aktuality/",
+      "maxDetailu": 4,
+      "settleMs": 5000,
+      "enabled": true
+    },
+    {
+      "key": "goout-talk-praha",
+      "nazev": "GoOut — přednášky v Praze",
+      "url": "https://goout.net/cs/praha/akce/leznyvlkk/?genres=talk",
+      "detailObsahuje": "goout.net/cs/",
+      "maxDetailu": 4,
+      "settleMs": 7000,
+      "enabled": false,
+      "poznamka": "Vypnuto: GoOut se dokresluje JS a v EN verzi píše datum DD/MM. Zapnout, až bude potřeba a ověří se, že výpis vrací položky."
+    }
+  ]
+}
