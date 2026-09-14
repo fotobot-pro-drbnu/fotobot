@@ -68,6 +68,10 @@ jobs:
         continue-on-error: true
         run: node extras.mjs
 
+      - name: Kalendáře akcí (přednášky a talky)
+        continue-on-error: true
+        run: node akce.mjs
+
       - name: Ukliď staré jednorázové fotky
         # Hlavní úklid (60 dní, všechny datované složky) si dělá extras.mjs sám.
         # Tohle je jen záloha pro případ, že by rozšíření nedoběhlo.
