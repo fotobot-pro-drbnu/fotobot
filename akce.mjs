@@ -131,8 +131,9 @@ const SBER_ODKAZY = (vzory) => {
       : true;
     for (let i = 0; i < 4 && box.parentElement; i++) {
       if (!jednoznacny(box.parentElement)) break;
-      box = box.parentElement;
-      if ((box.innerText || '').trim().length > 40) break;
+      const vetsi = box.parentElement;
+      if ((vetsi.innerText || '').trim().length > 1200) break;
+      box = vetsi;
     }
     const titul = ((a.innerText || '').trim()
       || (box.querySelector('h1,h2,h3,h4')?.innerText || '').trim()
