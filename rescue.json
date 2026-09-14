@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T13:54:09.110Z",
-  "pacienti": 1,
+  "generatedAt": "2026-09-14T14:23:54.720Z",
+  "pacienti": 2,
   "zachraneno": [
     {
       "key": "targito",
@@ -9,11 +9,18 @@
       "shot": "rescue/2026-09-14/targito.jpg",
       "health": {
         "imgTotal": 72,
-        "imgBroken": 40,
+        "imgBroken": 38,
         "h1": "",
         "ruleCount": 81
       }
     }
   ],
-  "neuspech": []
+  "neuspech": [
+    {
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/",
+      "duvod": "spadlo",
+      "error": "TimeoutError: page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.smartemailing.cz/\", waiting until \"commit\"\n"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T13:47:27.473Z",
+  "generatedAt": "2026-09-14T14:15:24.818Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
@@ -162,13 +162,21 @@
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
-          "title": "The AI content tsunami: Creation is solved. Governance is the hard part",
-          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-solved-governance-is-the-hard-part/830184/",
+          "title": "How the New York Jets extends OOH marketing for better storytelling",
+          "url": "https://www.marketingdive.com/news/how-the-new-york-jets-extends-ooh-marketing-for-better-storytelling/830049/",
+          "date": "Mon, 14 Sep 2026 10:00:00 -0400",
+          "ts": 1789394400000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "The AI content tsunami: Creation is the easy part",
+          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
           "date": "Mon, 14 Sep 2026 09:09:27 -0400",
           "ts": 1789391367000
         },
@@ -226,6 +234,14 @@
       "oknoHodin": 48,
       "count": 26,
       "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Poptávka po proteinech roste, výrobci nestíhají a ceny stoupají o desítky procent. Zdražuje se už i v Česku",
+          "url": "https://cc.cz/poptavka-po-proteinech-roste-vyrobci-nestihaji-a-ceny-stoupaji-o-desitky-procent-zdrazuje-se-uz-i-v-cesku/",
+          "date": "Mon, 14 Sep 2026 14:10:37 +0000",
+          "ts": 1789395037000
+        },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
@@ -313,14 +329,6 @@
           "url": "https://cc.cz/ukazalo-se-ze-za-penize-si-koupite-vsechno-krome-divaku-velkolepy-saudsky-projekt-skoncil-krachem/",
           "date": "Sun, 13 Sep 2026 11:15:02 +0000",
           "ts": 1789298102000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Chalupu po sudetských Němcích opravoval 25 let. Teď je k prodeji, v ceně je i vinárna, udírna a možná duch",
-          "url": "https://cc.cz/chalupu-po-sudetskych-nemcich-opravoval-25-let-ted-je-k-prodeji-v-cene-je-i-vinarna-udirna-a-mozna-duch/",
-          "date": "Sun, 13 Sep 2026 09:04:18 +0000",
-          "ts": 1789290258000
         },
         {
           "source": "fontsinuse",
@@ -437,9 +445,7 @@
     }
   },
   "discovered": {},
-  "viaBrowser": [
-    "ecommerce-bridge"
-  ],
+  "viaBrowser": [],
   "blokovano": [
     {
       "key": "mam",
@@ -542,6 +548,11 @@
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
       "reason": "feed se nenašel, další hledání až po 2026-09-27"
+    },
+    {
+      "key": "smartemailing",
+      "name": "SmartEmailing",
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "leadhub",
