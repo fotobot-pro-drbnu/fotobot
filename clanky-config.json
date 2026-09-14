@@ -1,0 +1,28 @@
+{
+  "poznamka": "Weby, které nás blokují pro prostý fetch, ale prohlížeč runneru na ně projde. Pořadí = priorita; při dlouhém běhu se odřízne konec. Když je u zdroje blokovano:true dva běhy po sobě, vypnout (enabled:false) a nehlásit to znovu jako vadu.",
+  "oknoDnu": 10,
+  "maxCelkemDetailu": 12,
+  "zdroje": [
+    {
+      "key": "ecommercebridge",
+      "nazev": "Ecommerce Bridge Česko",
+      "url": "https://www.ecommercebridge.cz/",
+      "feedKandidati": [
+        "https://www.ecommercebridge.cz/feed/",
+        "https://www.ecommercebridge.cz/rss",
+        "https://www.ecommercebridge.cz/feed/rss2/"
+      ],
+      "detailObsahuje": "ecommercebridge.cz/",
+      "vynechatVzory": [
+        "/autor", "/autori", "/kategorie", "/rubrika", "/tag", "/stitek",
+        "/podcast", "/casopis", "/predplatne", "/eshop", "/o-nas", "/kontakt",
+        "/prihlaseni", "/registrace", "/newsletter", "/page/", "/wp-", "?"
+      ],
+      "tydenniVzor": "https://www.ecommercebridge.cz/ecommerce-bridge-update-{tyden}-{rok}/",
+      "tydenPosun": -1,
+      "maxDetailu": 6,
+      "settleMs": 6000,
+      "enabled": true
+    }
+  ]
+}
