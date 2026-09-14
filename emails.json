@@ -1,59 +1,24 @@
 {
-  "generatedAt": "2026-09-14T03:55:24.291Z",
-  "konkurence": [
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/mailchimp-sms-marketing",
-      "title": "A little SMS goes a long way from MailChimp - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-14/mailchimp--rge-onboarding-1.jpg"
-    },
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/mailchimp-email-sms-marketing",
-      "title": "Admit it, you’re on your phone from MailChimp - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-14/mailchimp--rge-onboarding-2.jpg"
-    },
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-newsletter",
-      "url": "https://reallygoodemails.com/emails/yep-kitchen-sichuan-heat-erjingtiao",
-      "title": "The secret to Sichuan Heat 👀🔥 from Yep Kitchen - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-14/kit--rge-newsletter-3.jpg"
-    },
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-newsletter",
-      "url": "https://reallygoodemails.com/emails/graza-chef-kitchen-hacks",
-      "title": "3 chef-approved cooking hacks from Graza - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-14/kit--rge-newsletter-4.jpg"
-    },
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/youfoodz-welcome-meal-kit-discount",
-      "title": "Welcome to your fresh start from Youfoodz - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-14/kit--rge-welcome-5.jpg"
-    }
-  ],
+  "generatedAt": "2026-09-14T09:25:42.276Z",
+  "konkurence": [],
   "inspirace": [
     {
       "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/greenhouse-welcome",
-      "title": "Welcome to MyGreenhouse. Start your search. from Greenhouse - Desktop Email View | Really Good Emails",
+      "url": "https://reallygoodemails.com/emails/eden-medical-support",
+      "title": "Our Three Promises to You from Eden - Desktop Email View | Really Good Emails",
       "shot": "emails/2026-09-14/inspirace--rge-onboarding-1.jpg"
     },
     {
       "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/orangefit-account-activation",
-      "title": "Welkom bij de club! from Orangefit - Desktop Email View | Really Good Emails",
+      "url": "https://reallygoodemails.com/emails/target-welcome-account",
+      "title": "Welcome to Target! from Target - Desktop Email View | Really Good Emails",
       "shot": "emails/2026-09-14/inspirace--rge-onboarding-2.jpg"
+    },
+    {
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/ferrari-subscription-thanks",
+      "title": "Thank you! Ferrari.com from Ferrari - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-14/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [

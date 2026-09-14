@@ -1,12 +1,92 @@
 {
-  "generatedAt": "2026-09-14T03:48:42.443Z",
+  "generatedAt": "2026-09-14T09:18:03.923Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 7,
+      "count": 15,
       "items": [
+        {
+          "source": "ecommerce-bridge",
+          "name": "Ecommerce Bridge",
+          "title": "Čeká nás nejsilnější kvartál roku: Kde ulovíte nejvíce zákazníků?",
+          "url": "https://www.ecommercebridge.cz/ceka-nas-nejsilnejsi-kvartal-roku-kde-ulovite-nejvice-zakazniku/",
+          "date": "Mon, 14 Sep 2026 08:48:21 +0000",
+          "ts": 1789375701000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Kina se poprvé zapojí do Kino dnů, vstupné bude za stovku",
+          "url": "https://www.mediaguru.cz/kina-se-poprve-zapoji-do-kino-dnu-vstupne-bude-za-stovku",
+          "date": "Mon, 14 Sep 2026 10:45:00 +0200",
+          "ts": 1789375500000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Media:list zajistí korporátní komunikaci Albatros Media",
+          "url": "https://www.mediaguru.cz/media-list-zajisti-korporatni-komunikaci-albatros-media",
+          "date": "Mon, 14 Sep 2026 10:15:00 +0200",
+          "ts": 1789373700000
+        },
+        {
+          "source": "ecommerce-bridge",
+          "name": "Ecommerce Bridge",
+          "title": "Novinky z e-commerce 37/2026: Děti plní košíky dospělých, čínské zásilky ztrácejí cenovou výhodu, Magento má kritickou chybu",
+          "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-37-2026-deti-plni-kosiky-dospelych-cinske-zasilky-ztraceji-cenovou-vyhodu-magento-ma-kritickou-chybu/",
+          "date": "Mon, 14 Sep 2026 07:55:37 +0000",
+          "ts": 1789372537000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Docent potvrzuje v neděli vedení, zvyšuje náskok",
+          "url": "https://www.mediaguru.cz/docent-potvrzuje-v-nedeli-vedeni-zvysuje-naskok",
+          "date": "Mon, 14 Sep 2026 09:20:00 +0200",
+          "ts": 1789370400000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Objem influencer marketingu loni vzrostl na dvě miliardy korun",
+          "url": "https://www.mediaguru.cz/objem-influencer-marketingu-loni-vzrostl-na-dve-miliardy-korun",
+          "date": "Mon, 14 Sep 2026 07:20:00 +0200",
+          "ts": 1789363200000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Služby MGM+ a Lionsgate+ už fungují i v Česku, přišly přes Amazon",
+          "url": "https://www.mediaguru.cz/sluzby-mgm-a-lionsgate-uz-funguji-i-v-cesku-prisly-pres-amazon",
+          "date": "Mon, 14 Sep 2026 07:10:00 +0200",
+          "ts": 1789362600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Finské OOH roste. Pomáhají mu digitalizace, programatik i kvalitní data",
+          "url": "https://www.mediaguru.cz/finske-ooh-roste-pomahaji-mu-digitalizace-programatik-i-kvalitni-data",
+          "date": "Mon, 14 Sep 2026 07:05:00 +0200",
+          "ts": 1789362300000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Niceboy chce být víc než značkou sluchátek, kampaň podpořila další kategorie",
+          "url": "https://www.mediaguru.cz/niceboy-chce-byt-vic-nez-znackou-sluchatek-kampan-podporila-dalsi-kategorie",
+          "date": "Mon, 14 Sep 2026 07:00:00 +0200",
+          "ts": 1789362000000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Evropský parlament řešil tlaky na média veřejné služby, věnoval se i Česku",
+          "url": "https://www.mediaguru.cz/evropsky-parlament-resil-tlaky-na-media-verejne-sluzby-venoval-se-i-cesku",
+          "date": "Mon, 14 Sep 2026 06:55:00 +0200",
+          "ts": 1789361700000
+        },
         {
           "source": "mediar",
           "name": "Médiář",
@@ -26,6 +106,14 @@
         {
           "source": "mediaguru",
           "name": "MediaGuru",
+          "title": "CzechTourism láká Američany, aby v Česku zůstali déle",
+          "url": "https://www.mediaguru.cz/czechtourism-laka-americany-aby-v-cesku-zustali-dele",
+          "date": "Sun, 13 Sep 2026 09:35:00 +0200",
+          "ts": 1789284900000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
           "title": "V sobotním večeru zvítězili Chalupáři",
           "url": "https://www.mediaguru.cz/v-sobotnim-veceru-zvitezili-chalupari",
           "date": "Sun, 13 Sep 2026 09:30:00 +0200",
@@ -34,34 +122,10 @@
         {
           "source": "mediaguru",
           "name": "MediaGuru",
-          "title": "CzechTourism láká Američany, aby v Česku zůstali déle",
-          "url": "https://www.mediaguru.cz/czechtourism-laka-americany-aby-v-cesku-zustali-dele",
-          "date": "Sun, 13 Sep 2026 09:20:00 +0200",
-          "ts": 1789284000000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
           "title": "Hlavním tématem letošního POPAI Day bude zákaznická pozornost",
           "url": "https://www.mediaguru.cz/hlavnim-tematem-letosniho-popai-day-bude-zakaznicka-pozornost",
           "date": "Sun, 13 Sep 2026 09:15:00 +0200",
           "ts": 1789283700000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Páteční jedničkou Všechnopárty, poté seriál Na tělo",
-          "url": "https://www.mediaguru.cz/patecni-jednickou-vsechnoparty-pote-serial-na-telo",
-          "date": "Sat, 12 Sep 2026 09:20:00 +0200",
-          "ts": 1789197600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Nejposlouchanějším slovenským rádiem zůstává Expres",
-          "url": "https://www.mediaguru.cz/nejposlouchanejsim-slovenskym-radiem-zustava-expres",
-          "date": "Sat, 12 Sep 2026 09:05:00 +0200",
-          "ts": 1789196700000
         }
       ]
     },
@@ -86,8 +150,40 @@
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "Do Fogo ao Rio by Isabel Carvalho",
+          "url": "https://fontsinuse.com/uses/79480/do-fogo-ao-rio-by-isabel-carvalho",
+          "date": "Mon, 14 Sep 2026 07:55:21 +0000",
+          "ts": 1789372521000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Nedařilo se mu v podnikání, tak ve volné chvíli vytvořil doslova zbytečnou aplikaci. Vydělal na ní miliony",
+          "url": "https://cc.cz/nedarilo-se-mu-v-podnikani-tak-ve-volne-chvili-vytvoril-doslova-zbytecnou-aplikaci-vydelal-na-ni-miliony/",
+          "date": "Mon, 14 Sep 2026 05:32:35 +0000",
+          "ts": 1789363955000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "V hokeji se válčí. Potlačte ega, Dědek může zajistit víc peněz všem, říká majitel Energie Šenkypl",
+          "url": "https://cc.cz/v-hokeji-se-valci-potlacte-ega-dedek-muze-zajistit-vic-penez-vsem-rika-majitel-energie-senkypl/",
+          "date": "Mon, 14 Sep 2026 04:49:09 +0000",
+          "ts": 1789361349000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Třikrát zkrachoval, pak rozjel síť řeznictví i muzea Lega. Doma už nebylo kam šlápnout, směje se sběratel",
+          "url": "https://cc.cz/trikrat-zkrachoval-pak-rozjel-sit-reznictvi-i-muzea-lega-doma-uz-nebylo-kam-slapnout-smeje-se-sberatel/",
+          "date": "Mon, 14 Sep 2026 04:21:12 +0000",
+          "ts": 1789359672000
+        },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
@@ -99,7 +195,7 @@
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Rusové předběhli Američany a přistáli na Měsíci jako první. Apple podle toho natočil napínavý seriál",
+          "title": "Rusové ve vesmírném závodu porazili Američany a přistáli na Měsíci první. Apple z toho udělal skvělý seriál",
           "url": "https://cc.cz/rusove-predbehli-americany-a-pristali-na-mesici-jako-prvni-apple-podle-toho-natocil-napinavy-serial/",
           "date": "Sun, 13 Sep 2026 13:31:27 +0000",
           "ts": 1789306287000
@@ -161,30 +257,6 @@
           "ts": 1789242721000
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Pár po šedesátce si postavil dům, který z ulice působí obyčejně. Z druhé strany se ale otevírá do přírody",
-          "url": "https://cc.cz/par-po-sedesatce-si-postavil-dum-ktery-z-ulice-pusobi-obycejne-z-druhe-strany-se-ale-otevira-do-prirody/",
-          "date": "Sat, 12 Sep 2026 15:13:04 +0000",
-          "ts": 1789225984000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Na sítích vydělává už 10 let, peníze dává i do nemovitostí. Díky nim teď můžu studovat v Londýně, říká",
-          "url": "https://cc.cz/na-sitich-vydelava-uz-10-let-penize-dava-i-do-nemovitosti-diky-nim-ted-muzu-studovat-v-londyne-rika/",
-          "date": "Sat, 12 Sep 2026 13:10:19 +0000",
-          "ts": 1789218619000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Romantika a Barbie styl? Kdepak. Vyzkoušeli jsme Mini Cooper Cabrio na výletě i při nákupu poliček",
-          "url": "https://cc.cz/romantika-a-barbie-styl-kdepak-vyzkouseli-jsme-mini-cooper-cabrio-na-vylete-i-pri-nakupu-policek/",
-          "date": "Sat, 12 Sep 2026 10:56:40 +0000",
-          "ts": 1789210600000
-        },
-        {
           "source": "font-cz",
           "name": "Font.cz",
           "title": "Špindlerův Mlýn – společná identita města a skiareálu",
@@ -199,21 +271,13 @@
           "url": "http://www.font.cz/design/jiri-balcar-v-alsove-jihoceske-galerii.html",
           "date": "",
           "ts": null
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Florbal Litovel s novou identitou",
-          "url": "http://www.font.cz/design/florbal-litovel-s-novou-identitou.html",
-          "date": "",
-          "ts": null
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 16,
+      "count": 9,
       "items": [
         {
           "source": "chl-ecomail",
@@ -264,14 +328,6 @@
           "ts": 1788393600000
         },
         {
-          "source": "chl-brevo",
-          "name": "Brevo dev changelog",
-          "title": "September 2, 2026",
-          "url": "https://developers.brevo.com/changelog/2026/9/2",
-          "date": "Wed, 02 Sep 2026 00:00:00 GMT",
-          "ts": 1788307200000
-        },
-        {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
           "title": "[Novinka] Automatizace: funkce NOW() a podpora času v poli Datum",
@@ -294,54 +350,6 @@
           "url": "https://kit.updates.page/changelog/PwrCLv-webhooks-2-0",
           "date": "Tue, 01 Sep 2026 04:41:18 +0000",
           "ts": 1788237678000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] API: pole next popisuje návaznost kroků v automatizaci",
-          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
-          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
-          "ts": 1788166800000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] API: nový endpoint pro výpis produktových feedů",
-          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
-          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
-          "ts": 1788166800000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] API: šablonu lze vytvořit přímo z MJML definice",
-          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
-          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
-          "ts": 1788166800000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] Segmentace a automatizace: dynamické schéma custom eventů s typovanými operátory a autosuggestem",
-          "url": "https://ecomail.cz/changelog/dynamicke-schema-eventu-dark-mode-ab-test-opravy/",
-          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
-          "ts": 1788166800000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] Editor: náhled šablony v dark mode",
-          "url": "https://ecomail.cz/changelog/dynamicke-schema-eventu-dark-mode-ab-test-opravy/",
-          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
-          "ts": 1788166800000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] A/B kampaně: možnost vyhodnotit test okamžitě",
-          "url": "https://ecomail.cz/changelog/dynamicke-schema-eventu-dark-mode-ab-test-opravy/",
-          "date": "Mon, 31 Aug 2026 09:00:00 GMT",
-          "ts": 1788166800000
         }
       ]
     }
@@ -390,6 +398,11 @@
       "key": "tyinternety",
       "name": "Tyinternety",
       "reason": "feed se nenašel, další hledání až po 2026-09-27"
+    },
+    {
+      "key": "brandnew",
+      "name": "Brand New",
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "itsnicethat",
@@ -449,11 +462,6 @@
     {
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
-      "reason": "feed se nenašel, další hledání až po 2026-09-27"
-    },
-    {
-      "key": "smartemailing",
-      "name": "SmartEmailing",
       "reason": "feed se nenašel, další hledání až po 2026-09-27"
     },
     {

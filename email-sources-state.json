@@ -132,7 +132,10 @@
     "https://reallygoodemails.com/emails/graza-chef-kitchen-hacks",
     "https://reallygoodemails.com/emails/youfoodz-welcome-meal-kit-discount",
     "https://reallygoodemails.com/emails/greenhouse-welcome",
-    "https://reallygoodemails.com/emails/orangefit-account-activation"
+    "https://reallygoodemails.com/emails/orangefit-account-activation",
+    "https://reallygoodemails.com/emails/eden-medical-support",
+    "https://reallygoodemails.com/emails/target-welcome-account",
+    "https://reallygoodemails.com/emails/ferrari-subscription-thanks"
   ],
   "catalogs": {
     "rge-cart": {
@@ -242,40 +245,40 @@
     "beehiiv": {
       "working": null,
       "fails": {
-        "https://www.beehiiv.com/newsletter": 1,
-        "https://www.beehiiv.com/newsletter-archive": 1,
-        "https://www.beehiiv.com/emails": 1,
-        "https://www.beehiiv.com/email-archive": 1,
-        "https://www.beehiiv.com/resources/newsletter": 1,
-        "https://www.beehiiv.com/blog/newsletter": 1,
-        "https://beehiiv.beehiiv.com/archive": 1,
-        "https://beehiiv.substack.com/archive": 1
+        "https://www.beehiiv.com/newsletter": 2,
+        "https://www.beehiiv.com/newsletter-archive": 2,
+        "https://www.beehiiv.com/emails": 2,
+        "https://www.beehiiv.com/email-archive": 2,
+        "https://www.beehiiv.com/resources/newsletter": 2,
+        "https://www.beehiiv.com/blog/newsletter": 2,
+        "https://beehiiv.beehiiv.com/archive": 2,
+        "https://beehiiv.substack.com/archive": 2
       }
     },
     "kit": {
       "working": null,
       "fails": {
-        "https://kit.com/newsletter": 1,
-        "https://kit.com/newsletter-archive": 1,
-        "https://kit.com/emails": 1,
-        "https://kit.com/email-archive": 1,
-        "https://kit.com/resources/newsletter": 1,
-        "https://kit.com/blog/newsletter": 1,
-        "https://kit.beehiiv.com/archive": 1,
-        "https://kit.substack.com/archive": 1
+        "https://kit.com/newsletter": 2,
+        "https://kit.com/newsletter-archive": 2,
+        "https://kit.com/emails": 2,
+        "https://kit.com/email-archive": 2,
+        "https://kit.com/resources/newsletter": 2,
+        "https://kit.com/blog/newsletter": 2,
+        "https://kit.beehiiv.com/archive": 2,
+        "https://kit.substack.com/archive": 2
       }
     },
     "loops": {
       "working": null,
       "fails": {
-        "https://loops.so/newsletter": 1,
-        "https://loops.so/newsletter-archive": 1,
-        "https://loops.so/emails": 1,
-        "https://loops.so/email-archive": 1,
-        "https://loops.so/resources/newsletter": 1,
-        "https://loops.so/blog/newsletter": 1,
-        "https://loops.beehiiv.com/archive": 1,
-        "https://loops.substack.com/archive": 1
+        "https://loops.so/newsletter": 2,
+        "https://loops.so/newsletter-archive": 2,
+        "https://loops.so/emails": 2,
+        "https://loops.so/email-archive": 2,
+        "https://loops.so/resources/newsletter": 2,
+        "https://loops.so/blog/newsletter": 2,
+        "https://loops.beehiiv.com/archive": 2,
+        "https://loops.substack.com/archive": 2
       }
     },
     "flodesk": {
@@ -300,14 +303,14 @@
     "litmus": {
       "working": null,
       "fails": {
-        "https://www.litmus.com/newsletter": 1,
-        "https://www.litmus.com/newsletter-archive": 1,
-        "https://www.litmus.com/emails": 1,
-        "https://www.litmus.com/email-archive": 1,
-        "https://www.litmus.com/resources/newsletter": 1,
-        "https://www.litmus.com/blog/newsletter": 1,
-        "https://litmus.beehiiv.com/archive": 1,
-        "https://litmus.substack.com/archive": 1
+        "https://www.litmus.com/newsletter": 2,
+        "https://www.litmus.com/newsletter-archive": 2,
+        "https://www.litmus.com/emails": 2,
+        "https://www.litmus.com/email-archive": 2,
+        "https://www.litmus.com/resources/newsletter": 2,
+        "https://www.litmus.com/blog/newsletter": 2,
+        "https://litmus.beehiiv.com/archive": 2,
+        "https://litmus.substack.com/archive": 2
       }
     }
   }
