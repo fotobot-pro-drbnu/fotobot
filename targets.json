@@ -296,5 +296,10 @@
     "url": "https://listmonk.app/"
   },
   { "key": "czechdesign-kalendar", "url": "https://www.czechdesign.cz/kalendar-akci", "cz": true, "settle": 6000 },
-  { "key": "czechdesign-graficky", "url": "https://www.czechdesign.cz/graficky-design", "cz": true }
+  {"key": "czechdesign-graficky", "url": "https://www.czechdesign.cz/graficky-design", "cz": true},
+  {"key": "nas-ebooky", "url": "https://ecomail.cz/ebooky/", "cz": true, "settle": 6000},
+  {"key": "nas-adresar-partneru", "url": "https://ecomail.cz/certifikace-partneri/", "cz": true, "settle": 6000},
+  {"key": "smartemailing-brozura", "url": "https://www.smartemailing.cz/brozura/", "cz": true, "settle": 6000},
+  {"key": "beehiiv-shop", "url": "https://shop.beehiiv.com/collections/all"},
+  {"key": "loops-resources", "url": "https://loops.so/resources"}
 ]
