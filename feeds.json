@@ -1,12 +1,28 @@
 {
-  "generatedAt": "2026-09-14T15:00:24.105Z",
+  "generatedAt": "2026-09-15T03:47:56.107Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "StarDance po 20 letech vymění moderátory. K&#160;hlasování přibude mobilní aplikace",
+          "url": "https://www.mediar.cz/stardance-po-20-letech-vymeni-moderatory-k-hlasovani-pribude-mobilni-aplikace/",
+          "date": "Mon, 14 Sep 2026 20:15:56 +0000",
+          "ts": 1789416956000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Westfield Černý Most rozšiřuje nabídku obchodů",
+          "url": "https://www.mediaguru.cz/westfield-cerny-most-rozsiruje-nabidku-obchodu",
+          "date": "Mon, 14 Sep 2026 21:30:00 +0200",
+          "ts": 1789414200000
+        },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
@@ -112,14 +128,6 @@
           "ts": 1789362000000
         },
         {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Evropský parlament řešil tlaky na média veřejné služby, věnoval se i Česku",
-          "url": "https://www.mediaguru.cz/evropsky-parlament-resil-tlaky-na-media-verejne-sluzby-venoval-se-i-cesku",
-          "date": "Mon, 14 Sep 2026 06:55:00 +0200",
-          "ts": 1789361700000
-        },
-        {
           "source": "mediar",
           "name": "Médiář",
           "title": "Influencer marketing vzrostl skoro o&#160;třetinu, tradiční formáty ztrácejí účinnost",
@@ -132,14 +140,39 @@
     "design": {
       "label": "Design a identity",
       "oknoHodin": 48,
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "source": "logodesigner",
+          "name": "Logo Designer",
+          "title": "Retinal Degeneration Fund Gets New Name and Logo",
+          "url": "https://www.logo-designer.co/retinal-degeneration-fund-gets-new-name-and-logo-design/",
+          "date": "Mon, 14 Sep 2026 18:54:05 +0000",
+          "ts": 1789412045000
+        }
+      ]
     },
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 4,
+      "count": 6,
       "items": [
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Target hires ex-Hilton CMO as chief marketing and guest experience officer",
+          "url": "https://www.marketingdive.com/news/target-hires-ex-hilton-cmo-as-chief-marketing-and-guest-experience-officer/830353/",
+          "date": "Mon, 14 Sep 2026 16:37:14 -0400",
+          "ts": 1789418234000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "The AI content tsunami: Creation is the easy part",
+          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
+          "date": "Mon, 14 Sep 2026 12:06:00 -0400",
+          "ts": 1789401960000
+        },
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
@@ -208,8 +241,16 @@
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "source": "printmag",
+          "name": "PRINT Magazine",
+          "title": "Grace Baldwin Reimagines Forgotten Ephemera as &#8220;Bigatures&#8221; in Her Giant Junk Drawer Project",
+          "url": "https://www.printmag.com/designer-interviews/grace-baldwin-giant-junk-drawer/",
+          "date": "Mon, 14 Sep 2026 20:51:55 +0000",
+          "ts": 1789419115000
+        },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
@@ -321,22 +362,46 @@
           "url": "https://fontsinuse.com/uses/79508/die-sexte-versuchung-by-ferry-hirschmann",
           "date": "Sun, 13 Sep 2026 08:45:22 +0000",
           "ts": 1789289122000
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Špindlerův Mlýn – společná identita města a skiareálu",
-          "url": "http://www.font.cz/design/spindleruv-mlyn-spolecna-identita-mesta-a-skiarealu.html",
-          "date": "",
-          "ts": null
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 10,
+      "count": 12,
       "items": [
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Oprava] Slevové kupony: tři opravy v propisování, exportu a importu",
+          "url": "https://ecomail.cz/changelog/api-filtrace-statistik-opravy-kuponu/",
+          "date": "Wed, 09 Sep 2026 09:00:00 GMT",
+          "ts": 1788944400000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Oprava] Automatizace: šablona s nedostupným produktem se odešle",
+          "url": "https://ecomail.cz/changelog/api-filtrace-statistik-opravy-kuponu/",
+          "date": "Tue, 08 Sep 2026 09:00:00 GMT",
+          "ts": 1788858000000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Oprava] Ecwid: jméno kontaktu se načítá správně",
+          "url": "https://ecomail.cz/changelog/api-filtrace-statistik-opravy-kuponu/",
+          "date": "Tue, 08 Sep 2026 09:00:00 GMT",
+          "ts": 1788858000000
+        },
+        {
+          "source": "chl-ecomail",
+          "name": "Ecomail changelog (náš)",
+          "title": "[Vylepšení] API: statistiky kampaní a automatizací lze filtrovat podle data",
+          "url": "https://ecomail.cz/changelog/api-filtrace-statistik-opravy-kuponu/",
+          "date": "Mon, 07 Sep 2026 09:00:00 GMT",
+          "ts": 1788771600000
+        },
         {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
@@ -368,22 +433,6 @@
           "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
           "date": "Fri, 04 Sep 2026 09:00:00 GMT",
           "ts": 1788512400000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Vylepšení] Automatizace: export obsáhlé automatizace je rychlejší",
-          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
-          "date": "Thu, 03 Sep 2026 09:00:00 GMT",
-          "ts": 1788426000000
-        },
-        {
-          "source": "chl-brevo",
-          "name": "Brevo dev changelog",
-          "title": "September 3, 2026",
-          "url": "https://developers.brevo.com/changelog/2026/9/3",
-          "date": "Thu, 03 Sep 2026 00:00:00 GMT",
-          "ts": 1788393600000
         },
         {
           "source": "chl-brevo",

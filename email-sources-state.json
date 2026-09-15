@@ -144,12 +144,16 @@
     "https://reallygoodemails.com/emails/care-com-career-opportunity",
     "https://reallygoodemails.com/emails/canva-recommended-templates",
     "https://reallygoodemails.com/emails/its-gamma-time",
-    "https://reallygoodemails.com/emails/rab-outdoor-gear-advice"
+    "https://reallygoodemails.com/emails/rab-outdoor-gear-advice",
+    "https://reallygoodemails.com/emails/mailchimp-sms-marketing-promo",
+    "https://reallygoodemails.com/emails/starbucks-iced-pumpkin-cream-shaken-espresso",
+    "https://reallygoodemails.com/emails/designer-lens-ome-dezin",
+    "https://reallygoodemails.com/emails/branch-labor-day-office-bundles"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-09-13",
+      "date": "2026-09-15",
       "odkazu": 50
     },
     "emaillove-newsletter": {
@@ -162,7 +166,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-09-13",
+      "date": "2026-09-15",
       "odkazu": 50
     },
     "rge-announcement": {
@@ -183,6 +187,11 @@
     "rge-welcome": {
       "fails": 0,
       "date": "2026-09-14",
+      "odkazu": 50
+    },
+    "rge-promo": {
+      "fails": 0,
+      "date": "2026-09-15",
       "odkazu": 50
     }
   },
@@ -320,6 +329,65 @@
         "https://www.litmus.com/blog/newsletter": 3,
         "https://litmus.beehiiv.com/archive": 3,
         "https://litmus.substack.com/archive": 3
+      }
+    },
+    "dotdigital": {
+      "working": "https://dotdigital.com/blog/newsletter",
+      "fails": {
+        "https://dotdigital.com/newsletter": 1,
+        "https://dotdigital.com/newsletter-archive": 1,
+        "https://dotdigital.com/emails": 1,
+        "https://dotdigital.com/email-archive": 1,
+        "https://dotdigital.com/resources/newsletter": 1,
+        "https://dotdigital.com/blog/newsletter": 0
+      }
+    },
+    "hubspot": {
+      "working": null,
+      "fails": {
+        "https://www.hubspot.com/newsletter": 1,
+        "https://www.hubspot.com/newsletter-archive": 1,
+        "https://www.hubspot.com/emails": 1,
+        "https://www.hubspot.com/email-archive": 1,
+        "https://www.hubspot.com/resources/newsletter": 1,
+        "https://www.hubspot.com/blog/newsletter": 1,
+        "https://hubspot.beehiiv.com/archive": 1,
+        "https://hubspot.substack.com/archive": 1
+      }
+    },
+    "smartemailing": {
+      "working": "https://www.smartemailing.cz/newsletter",
+      "fails": {
+        "https://www.smartemailing.cz/newsletter": 0
+      }
+    },
+    "leadhub": {
+      "working": null,
+      "fails": {
+        "https://www.leadhub.co/newsletter": 1,
+        "https://www.leadhub.co/newsletter-archive": 1,
+        "https://www.leadhub.co/emails": 1,
+        "https://www.leadhub.co/email-archive": 1,
+        "https://www.leadhub.co/resources/newsletter": 1,
+        "https://www.leadhub.co/blog/newsletter": 1,
+        "https://leadhub.beehiiv.com/archive": 1,
+        "https://leadhub.substack.com/archive": 1
+      }
+    },
+    "targito": {
+      "working": "https://www.targito.com/newsletter",
+      "fails": {
+        "https://www.targito.com/newsletter": 0
+      }
+    },
+    "boldem": {
+      "working": "https://www.boldem.cz/resources/newsletter",
+      "fails": {
+        "https://www.boldem.cz/newsletter": 1,
+        "https://www.boldem.cz/newsletter-archive": 1,
+        "https://www.boldem.cz/emails": 1,
+        "https://www.boldem.cz/email-archive": 1,
+        "https://www.boldem.cz/resources/newsletter": 0
       }
     }
   }
