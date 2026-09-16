@@ -1,12 +1,132 @@
 {
-  "generatedAt": "2026-09-15T03:47:56.107Z",
+  "generatedAt": "2026-09-16T03:47:15.479Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 16,
+      "count": 20,
       "items": [
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Jizerská 50 vstupuje do jubilejního 60. ročníku s&#160;novým logem a&#160;grafikou",
+          "url": "https://www.mediar.cz/jizerska-50-vstupuje-do-jubilejniho-60-rocniku-s-novym-logem-a-grafikou/",
+          "date": "Tue, 15 Sep 2026 21:20:02 +0000",
+          "ts": 1789507202000
+        },
+        {
+          "source": "shoptet-blog",
+          "name": "Shoptet blog",
+          "title": "SEO a AI viditelnost: 5 způsobů, jak získat více zákazníků i bez specialisty",
+          "url": "https://blog.shoptet.cz/seo-a-ai-viditelnost-5-zpusobu-jak-ziskat-vice-zakazniku/",
+          "date": "Tue, 15 Sep 2026 20:00:03 +0000",
+          "ts": 1789502403000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Radiohouse znovu vyčlení sto milionů na podporu regionálních firem",
+          "url": "https://www.mediaguru.cz/radiohouse-znovu-vycleni-100-milionu-na-podporu-regionalnich-firem",
+          "date": "Tue, 15 Sep 2026 16:35:00 +0200",
+          "ts": 1789482900000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Comcast a Paramount zvažují, co dál se SkyShowtime. Ve hře je i ukončení",
+          "url": "https://www.mediaguru.cz/comcast-a-paramount-zvazuji-co-dal-se-skyshowtime-ve-hre-je-i-ukonceni",
+          "date": "Tue, 15 Sep 2026 15:55:00 +0200",
+          "ts": 1789480500000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Putovní textařskou trofej Zlaté pero převzal Martin Polakovič, už podruhé",
+          "url": "https://www.mediar.cz/putovni-textarskou-trofej-zlate-pero-prevzal-martin-polakovic-uz-podruhe/",
+          "date": "Tue, 15 Sep 2026 13:15:27 +0000",
+          "ts": 1789478127000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Media:list zajistí PR pro skupinu Albatros Media",
+          "url": "https://www.mediar.cz/medialist-zajisti-pr-pro-skupinu-albatros-media/",
+          "date": "Tue, 15 Sep 2026 12:00:30 +0000",
+          "ts": 1789473630000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "ČT koupila práva na maratony v&#160;Kapském městě, Sydney, Šanghaji a&#160;Berlíně do roku 2028",
+          "url": "https://www.mediar.cz/ct-koupila-prava-na-maratony-v-kapskem-meste-sydney-sanghaji-a-berline-do-roku-2028/",
+          "date": "Tue, 15 Sep 2026 11:40:58 +0000",
+          "ts": 1789472458000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "SledováníTV vyřadilo videotéku Prima+ z tarifů, nabízí ji pouze samostatně",
+          "url": "https://www.mediaguru.cz/sledovanitv-vyradilo-videoteku-prima-z-tarifu-nabizi-ji-pouze-samostatne",
+          "date": "Tue, 15 Sep 2026 11:30:00 +0200",
+          "ts": 1789464600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Mafra spouští službu GEO pro viditelnost značek v odpovědích AI",
+          "url": "https://www.mediaguru.cz/mafra-spousti-sluzbu-geo-pro-viditelnost-znacek-v-odpovedich-ai",
+          "date": "Tue, 15 Sep 2026 11:25:00 +0200",
+          "ts": 1789464300000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Hokejová Tipsport extraliga startuje. Přinesou ji Oneplay, ČT i Tipsport TV",
+          "url": "https://www.mediaguru.cz/hokejova-tipsport-liga-startuje-prinesou-ji-oneplay-ct-i-tipsport-tv",
+          "date": "Tue, 15 Sep 2026 11:10:00 +0200",
+          "ts": 1789463400000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Vodafone TV přidala do nabídky TN Live, následovala Magentu",
+          "url": "https://www.mediaguru.cz/vodafone-tv-pridala-do-nabidky-tn-live-nasledovala-magentu",
+          "date": "Tue, 15 Sep 2026 10:45:00 +0200",
+          "ts": 1789461900000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Kriminálka Anděl dál zůstává v pondělí večer ve vedení",
+          "url": "https://www.mediaguru.cz/kriminalka-andel-dal-zustava-v-pondeli-vecer-ve-vedeni",
+          "date": "Tue, 15 Sep 2026 09:20:00 +0200",
+          "ts": 1789456800000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "CNC vydává knižní publikaci Václav Moravec: Vlastním hlasem",
+          "url": "https://www.mediaguru.cz/cnc-vydava-knizni-publikaci-vaclav-moravec-vlastnim-hlasem",
+          "date": "Tue, 15 Sep 2026 07:25:00 +0200",
+          "ts": 1789449900000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "MTA nebo MMM? Špatná otázka, na kterou marketéři stále hledají odpověď",
+          "url": "https://www.mediaguru.cz/mta-nebo-mmm-spatna-otazka-na-kterou-marketeri-stale-hledaji-odpoved",
+          "date": "Tue, 15 Sep 2026 07:05:00 +0200",
+          "ts": 1789448700000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Ženy 40+ jsou silnou skupinou českého internetu, ovlivňují nákupy",
+          "url": "https://www.mediaguru.cz/zeny-40-jsou-silnou-skupinou-ceskeho-internetu-ovlivnuji-nakupy",
+          "date": "Tue, 15 Sep 2026 07:00:00 +0200",
+          "ts": 1789448400000
+        },
         {
           "source": "mediar",
           "name": "Médiář",
@@ -18,7 +138,7 @@
         {
           "source": "mediaguru",
           "name": "MediaGuru",
-          "title": "Westfield Černý Most rozšiřuje nabídku obchodů",
+          "title": "Westfield Černý Most přidává další obchody",
           "url": "https://www.mediaguru.cz/westfield-cerny-most-rozsiruje-nabidku-obchodu",
           "date": "Mon, 14 Sep 2026 21:30:00 +0200",
           "ts": 1789414200000
@@ -40,100 +160,12 @@
           "ts": 1789383600000
         },
         {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Mezi dalšími soutěžícími Zrádců jsou novinářka Pokorná a youtuber Špaček",
-          "url": "https://www.mediaguru.cz/prima-zverejnila-posledni-soutezici-v-reality-zradci-ucastni-se-i-pokorna",
-          "date": "Mon, 14 Sep 2026 12:35:00 +0200",
-          "ts": 1789382100000
-        },
-        {
           "source": "mediar",
           "name": "Médiář",
           "title": "V show Zrádci bude i&#160;Zdíša čili Zdislava Pokorná, investigativní reportérka Deníku N",
           "url": "https://www.mediar.cz/v-show-zradci-bude-i-zdisa-cili-zdislava-pokorna-investigativni-reporterka-deniku-n/",
           "date": "Mon, 14 Sep 2026 10:30:48 +0000",
           "ts": 1789381848000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Kostková a Eben po dvaceti letech skončí ve StarDance",
-          "url": "https://www.mediaguru.cz/eben-a-kostkova-po-dvaceti-letech-skonci-ve-stardance",
-          "date": "Mon, 14 Sep 2026 12:10:00 +0200",
-          "ts": 1789380600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "StarDance ukázala nové promo, má i novou aplikaci. ČT potvrdila další ročník",
-          "url": "https://www.mediaguru.cz/stardance-ukazala-nove-promo-ma-i-novou-aplikaci-ct-potvrdila-dalsi-rocnik",
-          "date": "Mon, 14 Sep 2026 11:40:00 +0200",
-          "ts": 1789378800000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Kina se poprvé zapojí do Kino dnů, vstupné bude za stovku",
-          "url": "https://www.mediaguru.cz/kina-se-poprve-zapoji-do-kino-dnu-vstupne-bude-za-stovku",
-          "date": "Mon, 14 Sep 2026 10:45:00 +0200",
-          "ts": 1789375500000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Media:list zajistí korporátní komunikaci Albatros Media",
-          "url": "https://www.mediaguru.cz/media-list-zajisti-korporatni-komunikaci-albatros-media",
-          "date": "Mon, 14 Sep 2026 10:15:00 +0200",
-          "ts": 1789373700000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Docent potvrzuje v neděli vedení, zvyšuje náskok",
-          "url": "https://www.mediaguru.cz/docent-potvrzuje-v-nedeli-vedeni-zvysuje-naskok",
-          "date": "Mon, 14 Sep 2026 09:20:00 +0200",
-          "ts": 1789370400000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Objem influencer marketingu loni vzrostl na dvě miliardy korun",
-          "url": "https://www.mediaguru.cz/objem-influencer-marketingu-loni-vzrostl-na-dve-miliardy-korun",
-          "date": "Mon, 14 Sep 2026 07:20:00 +0200",
-          "ts": 1789363200000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Služby MGM+ a Lionsgate+ už fungují i v Česku, přišly přes Amazon",
-          "url": "https://www.mediaguru.cz/sluzby-mgm-a-lionsgate-uz-funguji-i-v-cesku-prisly-pres-amazon",
-          "date": "Mon, 14 Sep 2026 07:10:00 +0200",
-          "ts": 1789362600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Finské OOH roste. Pomáhají mu digitalizace, programatik i kvalitní data",
-          "url": "https://www.mediaguru.cz/finske-ooh-roste-pomahaji-mu-digitalizace-programatik-i-kvalitni-data",
-          "date": "Mon, 14 Sep 2026 07:05:00 +0200",
-          "ts": 1789362300000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Niceboy chce být víc než značkou sluchátek, kampaň podpořila další kategorie",
-          "url": "https://www.mediaguru.cz/niceboy-chce-byt-vic-nez-znackou-sluchatek-kampan-podporila-dalsi-kategorie",
-          "date": "Mon, 14 Sep 2026 07:00:00 +0200",
-          "ts": 1789362000000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Influencer marketing vzrostl skoro o&#160;třetinu, tradiční formáty ztrácejí účinnost",
-          "url": "https://www.mediar.cz/influencer-marketing-vzrostl-skoro-o-tretinu-tradicni-formaty-ztraceji-ucinnost/",
-          "date": "Sun, 13 Sep 2026 15:40:04 +0000",
-          "ts": 1789314004000
         }
       ]
     },
@@ -155,8 +187,32 @@
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 6,
+      "count": 9,
       "items": [
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Why Lowe’s CMO Jen Wilson added digital commerce to her portfolio",
+          "url": "https://www.marketingdive.com/news/why-lowes-cmo-jen-wilson-added-digital-commerce-to-her-portfolio/830308/",
+          "date": "Tue, 15 Sep 2026 10:05:00 -0400",
+          "ts": 1789481100000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Jersey Mike’s kicks off NFL campaign as digital marketing spend surges",
+          "url": "https://www.marketingdive.com/news/jersey-mikes-kicks-off-nfl-campaign-as-digital-marketing-spend-surges/830330/",
+          "date": "Tue, 15 Sep 2026 08:50:00 -0400",
+          "ts": 1789476600000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "How Carter’s is refreshing its brand to reach Gen Z, millennial parents",
+          "url": "https://www.marketingdive.com/news/how-carters-is-refreshing-its-brand-to-reach-gen-z-millennial-parents/830313/",
+          "date": "Tue, 15 Sep 2026 06:00:00 -0400",
+          "ts": 1789466400000
+        },
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
@@ -241,8 +297,112 @@
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Simona Kijonková investuje desítky milionů do robotické chirurgie. Cílem je zkrátit fronty na operace",
+          "url": "https://cc.cz/simona-kijonkova-investuje-desitky-milionu-do-roboticke-chirurgie-cilem-je-zkratit-fronty-na-operace/",
+          "date": "Tue, 15 Sep 2026 14:50:56 +0000",
+          "ts": 1789483856000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Druhé výrazné propouštění v jednom roce. Oracle se tentokrát se zaměstnanci rozloučil mailem v šest ráno",
+          "url": "https://cc.cz/druhe-vyrazne-propousteni-v-jednom-roce-oracle-se-tentokrat-se-zamestnanci-rozloucil-mailem-v-sest-rano/",
+          "date": "Tue, 15 Sep 2026 13:48:11 +0000",
+          "ts": 1789480091000
+        },
+        {
+          "source": "printmag",
+          "name": "PRINT Magazine",
+          "title": "Beach Blankets, Bell-Bottoms &#038; Bold Type",
+          "url": "https://www.printmag.com/type-tuesday/beach-blankets-bell-bottoms-bold-type/",
+          "date": "Tue, 15 Sep 2026 13:00:00 +0000",
+          "ts": 1789477200000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Hybrid, který zvládne na baterku 200 kilometrů. Volvo nevzdává benzin a jeho vlajková SUV dojedou dál",
+          "url": "https://cc.cz/hybrid-ktery-zvladne-na-baterku-200-kilometru-volvo-nevzdava-benzin-a-jeho-vlajkova-suv-dojedou-dal/",
+          "date": "Tue, 15 Sep 2026 12:57:47 +0000",
+          "ts": 1789477067000
+        },
+        {
+          "source": "printmag",
+          "name": "PRINT Magazine",
+          "title": "What Matters to Johanna Augustin",
+          "url": "https://www.printmag.com/what-matters/what-matters-to-johanna-augustin/",
+          "date": "Tue, 15 Sep 2026 12:30:00 +0000",
+          "ts": 1789475400000
+        },
+        {
+          "source": "printmag",
+          "name": "PRINT Magazine",
+          "title": "The Daily Heller: About Civilization as We Knew It",
+          "url": "https://www.printmag.com/daily-heller/the-daily-heller-about-civilization/",
+          "date": "Tue, 15 Sep 2026 12:00:00 +0000",
+          "ts": 1789473600000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Havlův podpis i jeho typické srdce. Moser připomíná prezidentovy nedožité devadesátiny novou kolekcí",
+          "url": "https://cc.cz/havluv-podpis-i-jeho-typicke-srdce-moser-pripomina-prezidentovy-nedozite-devadesatiny-novou-kolekci/",
+          "date": "Tue, 15 Sep 2026 11:45:40 +0000",
+          "ts": 1789472740000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Elon Musk, nebo nic. Neznámá dvojice si vybojovala jeho přízeň a ve SpaceX dnes drží podíl za 850 miliard",
+          "url": "https://cc.cz/elon-musk-nebo-nic-neznama-dvojice-si-vybojovala-jeho-prizen-a-ve-spacex-dnes-drzi-podil-za-850-miliard/",
+          "date": "Tue, 15 Sep 2026 10:26:27 +0000",
+          "ts": 1789467987000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Virtuální pacient nikdy nezemře. Umělá inteligence učí Čechy první pomoc, cílem je vytrénovat milion lidí",
+          "url": "https://cc.cz/virtualni-pacient-nikdy-nezemre-umela-inteligence-uci-cechy-prvni-pomoc-cilem-je-vytrenovat-milion-lidi/",
+          "date": "Tue, 15 Sep 2026 09:34:21 +0000",
+          "ts": 1789464861000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Chodím s nimi do divočiny, města i na kutě. Nové hodinky od Googlu jsou skvělé, ale přišly příliš brzy",
+          "url": "https://cc.cz/chodim-s-nimi-do-divociny-mesta-i-na-kute-nove-hodinky-od-googlu-jsou-skvele-ale-prisly-prilis-brzy/",
+          "date": "Tue, 15 Sep 2026 07:54:05 +0000",
+          "ts": 1789458845000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "V Brně studuje medicínu a k tomu rozběhl startup, který se až překvapivě uchytil. Zaujal 300 tisíc lidí",
+          "url": "https://cc.cz/v-brne-studuje-medicinu-a-k-tomu-rozbehl-startup-ktery-se-az-prekvapive-uchytil-zaujal-300-tisic-lidi/",
+          "date": "Tue, 15 Sep 2026 04:35:39 +0000",
+          "ts": 1789446939000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Je mu teprve třináct let, hraje Minecraft a po škole vyrábí šperky. Set s diamanty prodal za 70 tisíc korun",
+          "url": "https://cc.cz/je-mu-teprve-trinact-let-hraje-minecraft-a-po-skole-vyrabi-sperky-set-s-diamanty-prodal-za-70-tisic-korun/",
+          "date": "Tue, 15 Sep 2026 04:35:07 +0000",
+          "ts": 1789446907000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Gastroprůvodce po Dejvicích a Bubenči. Víme, kde si dáte raky, burgery jako z Ameriky i pivo s nápadem",
+          "url": "https://cc.cz/gastropruvodce-po-dejvicich-a-bubenci-vime-kde-si-date-raky-burgery-jako-z-ameriky-i-pivo-s-napadem/",
+          "date": "Tue, 15 Sep 2026 04:34:33 +0000",
+          "ts": 1789446873000
+        },
         {
           "source": "printmag",
           "name": "PRINT Magazine",
@@ -252,123 +412,19 @@
           "ts": 1789419115000
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Online lékař na Slovensku. Česká aplikace už naplno pronikla do tamního zdravotního systému a chce dál",
-          "url": "https://cc.cz/online-lekar-na-slovensku-ceska-aplikace-uz-naplno-pronikla-do-tamniho-zdravotniho-systemu-a-chce-dal/",
-          "date": "Mon, 14 Sep 2026 14:57:33 +0000",
-          "ts": 1789397853000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Poptávka po proteinech roste, výrobci nestíhají a ceny stoupají o desítky procent. Zdražuje se už i v Česku",
-          "url": "https://cc.cz/poptavka-po-proteinech-roste-vyrobci-nestihaji-a-ceny-stoupaji-o-desitky-procent-zdrazuje-se-uz-i-v-cesku/",
-          "date": "Mon, 14 Sep 2026 14:10:37 +0000",
-          "ts": 1789395037000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Tady je 7 bodů, jak nově oceňovat firmy. Rostou tržby na zaměstnance? A umí firma „zabíjet“?",
-          "url": "https://cc.cz/tady-je-7-bodu-jak-nove-ocenovat-firmy-rostou-trzby-na-zamestnance-a-umi-firma-zabijet/",
-          "date": "Mon, 14 Sep 2026 12:51:39 +0000",
-          "ts": 1789390299000
-        },
-        {
           "source": "printmag",
           "name": "PRINT Magazine",
           "title": "The Daily Heller: Plus ça Change, Plus c’est la Même Chose",
           "url": "https://www.printmag.com/daily-heller/the-daily-heller-plus-ca-change-plus-cest-la-meme-chose/",
           "date": "Mon, 14 Sep 2026 11:00:00 +0000",
           "ts": 1789383600000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Z ruiny po „králi plísňových džínů“ je sídlo skupiny miliardáře Igora Faita. Uvnitř má i sbírku umění",
-          "url": "https://cc.cz/z-ruiny-po-krali-plisnovych-dzinu-je-sidlo-skupiny-miliardare-igora-faita-uvnitr-ma-i-sbirku-umeni/",
-          "date": "Mon, 14 Sep 2026 10:48:07 +0000",
-          "ts": 1789382887000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Konec plastových karet. Hotely Orea jsou první síť v Česku, kde odemknete pokoj telefonem nebo hodinkami",
-          "url": "https://cc.cz/konec-plastovych-karet-hotely-orea-jsou-prvni-sit-v-cesku-kde-odemknete-pokoj-telefonem-nebo-hodinkami/",
-          "date": "Mon, 14 Sep 2026 09:27:08 +0000",
-          "ts": 1789378028000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Do Fogo ao Rio by Isabel Carvalho",
-          "url": "https://fontsinuse.com/uses/79480/do-fogo-ao-rio-by-isabel-carvalho",
-          "date": "Mon, 14 Sep 2026 07:55:21 +0000",
-          "ts": 1789372521000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Nedařilo se mu v podnikání, tak ve volné chvíli vytvořil doslova zbytečnou aplikaci. Vydělal na ní miliony",
-          "url": "https://cc.cz/nedarilo-se-mu-v-podnikani-tak-ve-volne-chvili-vytvoril-doslova-zbytecnou-aplikaci-vydelal-na-ni-miliony/",
-          "date": "Mon, 14 Sep 2026 05:32:35 +0000",
-          "ts": 1789363955000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "V hokeji se válčí. Potlačte ega, Dědek může zajistit víc peněz všem, říká majitel Energie Šenkypl",
-          "url": "https://cc.cz/v-hokeji-se-valci-potlacte-ega-dedek-muze-zajistit-vic-penez-vsem-rika-majitel-energie-senkypl/",
-          "date": "Mon, 14 Sep 2026 04:49:09 +0000",
-          "ts": 1789361349000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Třikrát zkrachoval, pak rozjel síť řeznictví i muzea Lega. Doma už nebylo kam šlápnout, směje se sběratel",
-          "url": "https://cc.cz/trikrat-zkrachoval-pak-rozjel-sit-reznictvi-i-muzea-lega-doma-uz-nebylo-kam-slapnout-smeje-se-sberatel/",
-          "date": "Mon, 14 Sep 2026 04:21:12 +0000",
-          "ts": 1789359672000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Střet firem s nepříjemnou realitou, velké seriálové výročí a nápad, co vznikl u piva",
-          "url": "https://cc.cz/stret-firem-s-neprijemnou-realitou-velke-serialove-vyroci-a-napad-co-vznikl-u-piva/",
-          "date": "Sun, 13 Sep 2026 15:30:16 +0000",
-          "ts": 1789313416000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Rusové ve vesmírném závodu porazili Američany a přistáli na Měsíci první. Apple z toho udělal skvělý seriál",
-          "url": "https://cc.cz/rusove-predbehli-americany-a-pristali-na-mesici-jako-prvni-apple-podle-toho-natocil-napinavy-serial/",
-          "date": "Sun, 13 Sep 2026 13:31:27 +0000",
-          "ts": 1789306287000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Peanuts books from Determined Productions",
-          "url": "https://fontsinuse.com/uses/79685/peanuts-books-from-determined-productions",
-          "date": "Sun, 13 Sep 2026 08:48:47 +0000",
-          "ts": 1789289327000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Die sexte Versuchung by Ferry Hirschmann",
-          "url": "https://fontsinuse.com/uses/79508/die-sexte-versuchung-by-ferry-hirschmann",
-          "date": "Sun, 13 Sep 2026 08:45:22 +0000",
-          "ts": 1789289122000
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 12,
+      "count": 9,
       "items": [
         {
           "source": "chl-ecomail",
@@ -437,34 +493,10 @@
         {
           "source": "chl-brevo",
           "name": "Brevo dev changelog",
-          "title": "September 2, 2026",
-          "url": "https://developers.brevo.com/changelog/2026/9/2",
-          "date": "Wed, 02 Sep 2026 00:00:00 GMT",
-          "ts": 1788307200000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Novinka] Automatizace: funkce NOW() a podpora času v poli Datum",
-          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
-          "date": "Tue, 01 Sep 2026 09:00:00 GMT",
-          "ts": 1788253200000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Vylepšení] Segmentace: vyloučení z nadřazeného segmentu funguje správně",
-          "url": "https://ecomail.cz/changelog/api-next-automatizace-now-ema-kredity-opravy/",
-          "date": "Tue, 01 Sep 2026 09:00:00 GMT",
-          "ts": 1788253200000
-        },
-        {
-          "source": "chl-kit",
-          "name": "Kit changelog",
-          "title": "Webhooks 2.0",
-          "url": "https://kit.updates.page/changelog/PwrCLv-webhooks-2-0",
-          "date": "Tue, 01 Sep 2026 04:41:18 +0000",
-          "ts": 1788237678000
+          "title": "September 3, 2026",
+          "url": "https://developers.brevo.com/changelog/2026/9/3",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+          "ts": 1788393600000
         }
       ]
     }

@@ -1,83 +1,84 @@
 {
-  "generatedAt": "2026-09-15T03:54:02.286Z",
+  "generatedAt": "2026-09-16T03:52:30.901Z",
   "konkurence": [
     {
       "znacka": "Mailchimp",
       "key": "mailchimp",
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/mailchimp-sms-marketing-promo",
-      "title": "Your next sale is waiting! from MailChimp - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-15/mailchimp--rge-promo-1.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/mailchimp-latest-updates-heavy-lifting",
+      "title": "THE LATEST: Updates that do the heavy-lifting from MailChimp - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-16/mailchimp--rge-announcement-1.jpg"
+    },
+    {
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/customerio-terminal-native-access",
+      "title": "Build campaigns from an LLM or your terminal from Customer.io - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-16/customerio--rge-onboarding-2.jpg"
     }
   ],
   "inspirace": [
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/starbucks-iced-pumpkin-cream-shaken-espresso",
-      "title": "Shaking up the fall menu 🍂 from Starbucks - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-15/inspirace--rge-promo-1.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/rep-colorado-fitness-showroom-opening",
+      "title": "Opening This Month — REP’s Colorado Showroom from REP - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-16/inspirace--rge-announcement-1.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/designer-lens-ome-dezin",
-      "title": "Designer Lens: Ome Dezin from Lumens - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-15/inspirace--rge-promo-2.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/introducing-spring-2026",
+      "title": "Introducing Spring 2026 from Tracksmith - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-16/inspirace--rge-announcement-2.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/branch-labor-day-office-bundles",
-      "title": "A package deal from Branch - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-15/inspirace--rge-promo-3.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/zapier-zapconnect-build-off",
+      "title": "We're cooking up something special 👀 from Zapier - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-16/inspirace--rge-announcement-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
-      "odkazu": 50
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
+      "odkazu": 100
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
-      "odkazu": 50
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 100
     },
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 50
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-09-15/dotdigital--archiv.jpg"
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/blog/newsletter",
+      "title": "Marketing Resources | Mailchimp",
+      "shot": "emails/2026-09-16/mailchimp--archiv.jpg"
     },
     {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-09-15/smartemailing--archiv.jpg"
+      "znacka": "Omnisend",
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/newsletter",
+      "title": "Free and Customizable Email Newsletter Templates",
+      "shot": "emails/2026-09-16/omnisend--archiv.jpg"
     },
     {
-      "znacka": "Targito",
-      "key": "targito",
-      "url": "https://www.targito.com/newsletter",
-      "title": "Newsletter - Targito",
-      "shot": "emails/2026-09-15/targito--archiv.jpg"
-    },
-    {
-      "znacka": "Boldem",
-      "key": "boldem",
-      "url": "https://www.boldem.cz/resources/newsletter",
-      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
-      "shot": "emails/2026-09-15/boldem--archiv.jpg"
+      "znacka": "ActiveCampaign",
+      "key": "activecampaign",
+      "url": "https://www.activecampaign.com/newsletter",
+      "title": "Blog | ActiveCampaign",
+      "shot": "emails/2026-09-16/activecampaign--archiv.jpg"
     }
   ],
   "poznamky": []

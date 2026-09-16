@@ -148,7 +148,12 @@
     "https://reallygoodemails.com/emails/mailchimp-sms-marketing-promo",
     "https://reallygoodemails.com/emails/starbucks-iced-pumpkin-cream-shaken-espresso",
     "https://reallygoodemails.com/emails/designer-lens-ome-dezin",
-    "https://reallygoodemails.com/emails/branch-labor-day-office-bundles"
+    "https://reallygoodemails.com/emails/branch-labor-day-office-bundles",
+    "https://reallygoodemails.com/emails/mailchimp-latest-updates-heavy-lifting",
+    "https://reallygoodemails.com/emails/customerio-terminal-native-access",
+    "https://reallygoodemails.com/emails/rep-colorado-fitness-showroom-opening",
+    "https://reallygoodemails.com/emails/introducing-spring-2026",
+    "https://reallygoodemails.com/emails/zapier-zapconnect-build-off"
   ],
   "catalogs": {
     "rge-cart": {
@@ -171,18 +176,18 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-09-13",
-      "odkazu": 50
+      "date": "2026-09-16",
+      "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-09-14",
-      "odkazu": 50
+      "date": "2026-09-16",
+      "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-09-14",
-      "odkazu": 50
+      "date": "2026-09-16",
+      "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
@@ -388,6 +393,43 @@
         "https://www.boldem.cz/emails": 1,
         "https://www.boldem.cz/email-archive": 1,
         "https://www.boldem.cz/resources/newsletter": 0
+      }
+    },
+    "mailchimp": {
+      "working": "https://mailchimp.com/blog/newsletter",
+      "fails": {
+        "https://mailchimp.com/newsletter": 1,
+        "https://mailchimp.com/newsletter-archive": 1,
+        "https://mailchimp.com/emails": 1,
+        "https://mailchimp.com/email-archive": 1,
+        "https://mailchimp.com/resources/newsletter": 1,
+        "https://mailchimp.com/blog/newsletter": 0
+      }
+    },
+    "klaviyo": {
+      "working": null,
+      "fails": {
+        "https://www.klaviyo.com/newsletter": 1,
+        "https://www.klaviyo.com/newsletter-archive": 1,
+        "https://www.klaviyo.com/emails": 1,
+        "https://www.klaviyo.com/email-archive": 1,
+        "https://www.klaviyo.com/resources/newsletter": 1,
+        "https://www.klaviyo.com/blog/newsletter": 1,
+        "https://klaviyo.beehiiv.com/archive": 1,
+        "https://klaviyo.substack.com/archive": 1
+      }
+    },
+    "brevo": {
+      "working": null,
+      "fails": {
+        "https://www.brevo.com/newsletter": 1,
+        "https://www.brevo.com/newsletter-archive": 1,
+        "https://www.brevo.com/emails": 1,
+        "https://www.brevo.com/email-archive": 1,
+        "https://www.brevo.com/resources/newsletter": 1,
+        "https://www.brevo.com/blog/newsletter": 1,
+        "https://brevo.beehiiv.com/archive": 1,
+        "https://brevo.substack.com/archive": 1
       }
     }
   }
