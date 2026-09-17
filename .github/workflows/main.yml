@@ -21,7 +21,10 @@ jobs:
     runs-on: ubuntu-latest
     # Celý běh dnes trvá kolem hodiny (focení ~20 min, rozšíření ~35 min).
     # Původních 40 minut ho zabíjelo uprostřed.
-    timeout-minutes: 90
+    # 150 min místo 90: 17.9.2026 se job zabil uprostřed rozšíření a ceníky,
+    # e-maily, záchranka ani datovaný archiv vůbec neproběhly. Rozpočty fází
+    # v extras.mjs to řeší uvnitř, tohle je jen strop, o který se nemá zavadit.
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
 
@@ -67,6 +70,22 @@ jobs:
       - name: Feedy, ceníky, e-maily konkurence a datovaný archiv
         continue-on-error: true
         run: node extras.mjs
+
+      # POJISTKA 2: co vyrobilo rozšíření, se commitne hned — ať to nespadne
+      # s případným zaseknutím akce.mjs nebo clanky.mjs.
+      - name: Commitni rozšíření
+        if: always()
+        run: |
+          git config user.name "fotobot"
+          git config user.email "fotobot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Rozšíření nic nezměnilo, necommituju."
+          else
+            git commit -m "rozsireni $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi
 
       - name: Kalendáře akcí (přednášky a talky)
         continue-on-error: true
