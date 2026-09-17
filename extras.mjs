@@ -47,6 +47,20 @@ const MIN_HOST_GAP = 2500;
 // Když u zdroje nenajdeme feed, nezkoušíme těch patnáct adres znovu každý
 // den — počká se dva týdny. Šetří to čas běhu i nervy protistrany.
 const NO_FEED_COOLDOWN_DAYS = 14;
+// Když nás zdroj vyhodí (403/429), NEHLEDÁME u něj adresu feedu znovu hned
+// druhý den. Feed známe, jen nás nepustili — a projít kvůli tomu patnáct
+// kandidátních cest stálo 17.9.2026 asi třináct minut běhu. Blokací přibývá,
+// takže bez tohohle rozpočet běhu pomalu roste, až narazí na timeout jobu.
+const BLOCK_COOLDOWN_DAYS = 3;
+
+// ROZPOČET FÁZÍ (minuty od startu extras.mjs). Není to timeout, je to
+// kooperativní kontrola na začátku každé položky: když fáze přeteče, dokončí
+// se a zapíše svůj JSON s tím, co stihla, a pustí další fázi k práci.
+// Důvod: 17.9.2026 sežraly feedy tolik času, že se job zabil uprostřed
+// a ceníky, e-maily, záchranka ani datovaný archiv vůbec neproběhly.
+const BUDGET = { feeds: 22, prices: 42, emails: 58, rescue: 66 };
+const T0 = Date.now();
+const past = (min) => Date.now() - T0 > min * 60000;
 
 const log = (...a) => console.log(...a);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -212,13 +226,30 @@ async function runFeeds(browser) {
     const maxAge = group.maxAgeHours ? group.maxAgeHours * 3600000 : defaultMaxAge;
     const items = [];
     for (const src of group.sources) {
+      // Rozpočet fáze: co se nevejde, se dnes přeskočí, ať zbyde čas na ceníky,
+      // e-maily a archiv. Zdroje se střídají podle pořadí v konfiguraci.
+      if (past(BUDGET.feeds)) {
+        result.failed.push({ key: src.key, name: src.name, reason: 'nestihlo se v rozpočtu fáze feedy' });
+        continue;
+      }
+
+      // Zapamatovaná blokace: nezkoušet vůbec, dokud cooldown neuplyne.
+      const blokUntil = state[src.key]?.blockedUntil;
+      if (blokUntil && Date.parse(blokUntil) > now) {
+        result.blokovano.push({ key: src.key, name: src.name, status: state[src.key].blockedStatus || 0, poznamka: `blokace zapamatovaná, další pokus po ${blokUntil.slice(0, 10)}` });
+        continue;
+      }
+
       let feedUrl = src.feed || state[src.key]?.feed || null;
       let got = feedUrl ? await grabFeed(browser, feedUrl) : null;
 
       const cooldown = state[src.key]?.noFeedUntil;
       const naLedu = cooldown && Date.parse(cooldown) > now;
 
-      if ((!got || got.blocked) && src.site && !naLedu) {   // hledání adresy feedu
+      // POZOR: blokace už sem NEPATŘÍ. Dřív tu stálo `(!got || got.blocked)`,
+      // takže i zdroj se známým feedem, který nás jen vyhodil, prohledal
+      // patnáct cest — u 429 s osmivteřinovým čekáním u každé.
+      if (!got && src.site && !naLedu) {   // hledání adresy feedu
         // Nejdřív prostým fetchem přes všechny kandidáty — levné a rychlé.
         for (const p of FEED_PATHS) {
           const cand = src.site.replace(/\/$/, '') + p;
@@ -247,8 +278,9 @@ async function runFeeds(browser) {
         continue;
       }
       if (got && got.blocked) {
+        state[src.key] = { ...(state[src.key] || {}), feed: feedUrl, blockedStatus: got.status, blockedUntil: new Date(now + BLOCK_COOLDOWN_DAYS * 86400000).toISOString() };
         result.blokovano.push({ key: src.key, name: src.name, status: got.status });
-        log(`feeds: ${src.key} NÁS BLOKUJE (${got.status})`);
+        log(`feeds: ${src.key} NÁS BLOKUJE (${got.status}) — další pokus za ${BLOCK_COOLDOWN_DAYS} dny`);
         continue;
       }
       if (!got) { result.failed.push({ key: src.key, name: src.name, reason: 'feed nenalezen ani přes prohlížeč' }); continue; }
@@ -291,12 +323,19 @@ async function runPrices(browser) {
   const result = { generatedAt: new Date().toISOString(), checked: [], changes: [], nenacteno: [], errors: [] };
 
   for (const t of todays) {
+    if (past(BUDGET.prices)) {
+      result.errors.push({ key: t.key, url: t.url, error: 'nestihlo se v rozpočtu fáze ceníky' });
+      continue;
+    }
     const ctx = await browser.newContext({ userAgent: UA, viewport: { width: 1440, height: 1400 }, locale: 'cs-CZ' });
     const page = await ctx.newPage();
     try {
-      await page.goto(t.url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
+      await page.goto(t.url, { waitUntil: t.waitUntil || 'domcontentloaded', timeout: t.navTimeout || NAV_TIMEOUT });
       await page.addStyleTag({ content: HIDE_COOKIES }).catch(() => {});
-      await page.waitForTimeout(SETTLE_MS);
+      // Některé ceníky (hlavně české) dokreslují ceny JavaScriptem později než
+      // za 3,5 s. Pět ze šesti českých ceníků končilo dva dny po sobě
+      // v `nenacteno` — proto per-target `settle` v pricing.json.
+      await page.waitForTimeout(t.settle || SETTLE_MS);
       const text = await page.evaluate(() => document.body.innerText.slice(0, 20000));
       const prices = extractPrices(text);
       const shot = `pricing-shots/${TODAY}/${t.key}.jpg`;
@@ -593,6 +632,7 @@ async function runRescue(browser) {
     ...(report.suspicious || []).map((x) => ({ ...x, duvod: 'rozbitá fotka' })),
   ].slice(0, 5);
   const result = { generatedAt: new Date().toISOString(), pacienti: patients.length, zachraneno: [], neuspech: [] };
+  if (past(BUDGET.rescue)) { log('rescue: přeskočeno, rozpočet běhu vyčerpán'); await writeJson('rescue.json', { ...result, poznamka: 'přeskočeno, rozpočet běhu vyčerpán' }); return; }
   if (!patients.length) { await writeJson('rescue.json', result); log('rescue: nic k záchraně'); return; }
   await ensureDir(`rescue/${TODAY}`);
 
@@ -633,13 +673,17 @@ async function runRescue(browser) {
 
 const browser = await chromium.launch({ args: ['--no-sandbox', '--disable-dev-shm-usage'] });
 try {
+  // POŘADÍ JE ZÁMĚRNÉ. Datovaný archiv jde PRVNÍ: nepotřebuje síť, trvá
+  // minutu a je to hlavní zásobárna vizuálních nálezů pro Stalkera. Když se
+  // běh později zabije, tohle už je hotové. 17.9.2026 běžel jako pátý
+  // v pořadí a kvůli tomu nevznikl vůbec.
+  try { await runDaily(); } catch (e) { log('daily SPADLO:', e); }
   try { await runFeeds(browser); } catch (e) { log('feeds SPADLO:', e); }
   try { await runPrices(browser); } catch (e) { log('prices SPADLO:', e); }
   try { await runEmails(browser); } catch (e) { log('emails SPADLO:', e); }
   try { await runRescue(browser); } catch (e) { log('rescue SPADLO:', e); }
-  try { await runDaily(); } catch (e) { log('daily SPADLO:', e); }
   try { await runCleanup(); } catch (e) { log('úklid SPADL:', e); }
 } finally {
   await browser.close().catch(() => {});
 }
-log('extras: hotovo');
+log(`extras: hotovo za ${Math.round((Date.now() - T0) / 60000)} min`);

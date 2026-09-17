@@ -15,7 +15,10 @@
     "key": "smartemailing",
     "url": "https://www.smartemailing.cz/",
     "cz": true,
-    "full": true
+    "full": true,
+    "waitUntil": "commit",
+    "navTimeout": 90000,
+    "settle": 12000
   },
   {
     "key": "boldem",
@@ -299,7 +302,7 @@
   {"key": "czechdesign-graficky", "url": "https://www.czechdesign.cz/graficky-design", "cz": true},
   {"key": "nas-ebooky", "url": "https://ecomail.cz/ebooky/", "cz": true, "settle": 6000},
   {"key": "nas-adresar-partneru", "url": "https://ecomail.cz/certifikace-partneri/", "cz": true, "settle": 6000},
-  {"key": "smartemailing-brozura", "url": "https://www.smartemailing.cz/brozura/", "cz": true, "settle": 6000},
+  {"key": "smartemailing-brozura", "url": "https://www.smartemailing.cz/brozura/", "cz": true, "settle": 12000, "waitUntil": "commit", "navTimeout": 90000},
   {"key": "beehiiv-shop", "url": "https://shop.beehiiv.com/collections/all"},
   {"key": "loops-resources", "url": "https://loops.so/resources"}
 ]

@@ -129,7 +129,10 @@ async function shoot(browser, target, { isQueue = false, isDeep = false } = {}) 
   });
 
   try {
-    const resp = await page.goto(target.url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
+    // Per-target přetížení. smartemailing.cz nestihne `domcontentloaded` do
+    // 60 s a padal dva dny po sobě; s `commit` se čeká jen na hlavičky
+    // odpovědi a zbytek se dožene v `settle`. Stejný trik používá záchranka.
+    const resp = await page.goto(target.url, { waitUntil: target.waitUntil || 'domcontentloaded', timeout: target.navTimeout || NAV_TIMEOUT });
     result.status = resp ? resp.status() : null;
     result.finalUrl = page.url();
     await page.waitForLoadState('load', { timeout: 20000 }).catch(() => {});
