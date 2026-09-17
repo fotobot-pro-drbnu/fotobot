@@ -153,13 +153,17 @@
     "https://reallygoodemails.com/emails/customerio-terminal-native-access",
     "https://reallygoodemails.com/emails/rep-colorado-fitness-showroom-opening",
     "https://reallygoodemails.com/emails/introducing-spring-2026",
-    "https://reallygoodemails.com/emails/zapier-zapconnect-build-off"
+    "https://reallygoodemails.com/emails/zapier-zapconnect-build-off",
+    "https://reallygoodemails.com/emails/beehiiv-summer-release",
+    "https://reallygoodemails.com/emails/norda-welcome-trail-running",
+    "https://reallygoodemails.com/emails/womp-welcome-onboarding",
+    "https://reallygoodemails.com/emails/osmo-supply-welcome-newsletter"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-09-15",
-      "odkazu": 50
+      "date": "2026-09-17",
+      "odkazu": 100
     },
     "emaillove-newsletter": {
       "fails": 1,
@@ -191,13 +195,13 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-09-14",
-      "odkazu": 50
+      "date": "2026-09-17",
+      "odkazu": 100
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-09-15",
-      "odkazu": 50
+      "date": "2026-09-17",
+      "odkazu": 100
     }
   },
   "archives": {

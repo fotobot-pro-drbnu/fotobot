@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-09-16T03:53:44.496Z",
-  "pacienti": 1,
+  "generatedAt": "2026-09-17T09:16:19.277Z",
+  "pacienti": 2,
   "zachraneno": [
+    {
+      "key": "smartemailing-brozura",
+      "url": "https://www.smartemailing.cz/brozura/",
+      "duvod": "spadlo",
+      "shot": "rescue/2026-09-17/smartemailing-brozura.jpg",
+      "health": {
+        "imgTotal": 20,
+        "imgBroken": 1,
+        "h1": "Automatizační desatero",
+        "ruleCount": 93
+      }
+    },
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-09-16/targito.jpg",
+      "shot": "rescue/2026-09-17/targito.jpg",
       "health": {
         "imgTotal": 72,
         "imgBroken": 40,

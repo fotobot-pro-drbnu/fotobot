@@ -1,12 +1,52 @@
 {
-  "generatedAt": "2026-09-17T03:50:52.359Z",
+  "generatedAt": "2026-09-17T09:09:49.211Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 21,
+      "count": 22,
       "items": [
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Marks & Spencer otevřel nový Melantrich v globálním konceptu",
+          "url": "https://www.mediaguru.cz/marks-spencer-otevrel-novy-melantrich-v-globalnim-konceptu",
+          "date": "Thu, 17 Sep 2026 11:05:00 +0200",
+          "ts": 1789635900000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Aktuálně.cz odlehčilo, uvedlo ženský podcast Prskavky",
+          "url": "https://www.mediaguru.cz/aktualne-cz-odlehcilo-uvedlo-zensky-podcast-prskavky",
+          "date": "Thu, 17 Sep 2026 10:45:00 +0200",
+          "ts": 1789634700000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Striktní pravidla v&#160;ČT: do zpráv nesmí nikdo, kdo kandiduje v&#160;komunálních volbách",
+          "url": "https://www.mediar.cz/striktni-pravidla-v-ct-do-zprav-nesmi-nikdo-kdo-kandiduje-v-komunalnich-volbach/",
+          "date": "Thu, 17 Sep 2026 07:40:29 +0000",
+          "ts": 1789630829000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Středeční večer pro Kriminálku Slapy, u mladších SuperStar",
+          "url": "https://www.mediaguru.cz/stredecni-vecer-pro-kriminalku-slapy-u-mladsich-superstar",
+          "date": "Thu, 17 Sep 2026 09:25:00 +0200",
+          "ts": 1789629900000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "LCG New Media zajistí pro YUN Probiotherapy digitální marketing",
+          "url": "https://www.mediaguru.cz/lcg-new-media-zajisti-pro-yun-probiotherapy-digitalni-marketing",
+          "date": "Thu, 17 Sep 2026 08:45:00 +0200",
+          "ts": 1789627500000
+        },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
@@ -94,38 +134,6 @@
           "url": "https://www.mediaguru.cz/coccolino-uvedlo-wonder-wash-na-eventu-s-petimetrovou-vezi-z-pracek",
           "date": "Wed, 16 Sep 2026 11:25:00 +0200",
           "ts": 1789550700000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Billa vrací do své aplikace Zrádce, soutěží se i o Toyotu Yaris",
-          "url": "https://www.mediaguru.cz/billa-vraci-do-sve-aplikace-zradce-soutezi-se-i-o-toyotu-yaris",
-          "date": "Wed, 16 Sep 2026 10:05:00 +0200",
-          "ts": 1789545900000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Úterní přetahovanou vyhrálo s menším odstupem Polabí",
-          "url": "https://www.mediaguru.cz/uterni-pretahovanou-vyhralo-s-mensim-odstupem-polabi",
-          "date": "Wed, 16 Sep 2026 09:10:00 +0200",
-          "ts": 1789542600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Od zábavy ke globálnímu průmyslu. Značky si v gamingu musí najít vlastní místo",
-          "url": "https://www.mediaguru.cz/od-zabavy-ke-globalnimu-prumyslu-znacky-si-v-gamingu-musi-najit-vlastni-misto",
-          "date": "Wed, 16 Sep 2026 07:30:00 +0200",
-          "ts": 1789536600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Český rozhlas posiluje systém krizového vysílání, podepsal memoranda s IZS",
-          "url": "https://www.mediaguru.cz/cesky-rozhlas-posiluje-system-krizoveho-vysilani-podepsal-memoranda-s-izs",
-          "date": "Wed, 16 Sep 2026 07:20:00 +0200",
-          "ts": 1789536000000
         },
         {
           "source": "mediar",
@@ -242,8 +250,16 @@
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
       "oknoHodin": 48,
-      "count": 4,
+      "count": 5,
       "items": [
+        {
+          "source": "omnisend",
+          "name": "Omnisend",
+          "title": "Email marketing strategy: Data-driven plan to boost revenue",
+          "url": "https://www.omnisend.com/blog/email-marketing-strategy/",
+          "date": "Thu, 17 Sep 2026 02:29:00 +0000",
+          "ts": 1789612140000
+        },
         {
           "source": "omnisend",
           "name": "Omnisend",
@@ -281,8 +297,56 @@
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Brněnská startupová ofenziva. Miliardář Igor Fait a spol. investovali během měsíce přes 150 milionů",
+          "url": "https://cc.cz/brnenska-startupova-ofenziva-miliardar-igor-fait-a-spol-investovali-behem-mesice-pres-150-milionu/",
+          "date": "Thu, 17 Sep 2026 07:35:52 +0000",
+          "ts": 1789630552000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "Roof magazine covers",
+          "url": "https://fontsinuse.com/uses/79581/roof-magazine-covers",
+          "date": "Thu, 17 Sep 2026 07:18:24 +0000",
+          "ts": 1789629504000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Od dovozu ovoce z Thajska po Šantovku a vinařství v Bordeaux. Zemřel olomoucký podnikatel Richard Morávek",
+          "url": "https://cc.cz/od-dovozu-ovoce-z-thajska-po-santovku-a-vinarstvi-v-bordeaux-zemrel-olomoucky-podnikatel-richard-moravek/",
+          "date": "Thu, 17 Sep 2026 05:56:36 +0000",
+          "ts": 1789624596000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Šestiletý projekt se blíží do finále. Češi pomáhají udělat z vlaků londýnského metra stroj na peníze",
+          "url": "https://cc.cz/sestilety-projekt-se-blizi-do-finale-cesi-pomahaji-udelat-z-vlaku-londynskeho-metra-stroj-na-penize/",
+          "date": "Thu, 17 Sep 2026 04:56:51 +0000",
+          "ts": 1789621011000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Hrajete si s nimi nejspíš i vy nebo vaše děti. Jsou měkké, voňavé a levné, ale mohou být i nebezpečné",
+          "url": "https://cc.cz/hrajete-si-s-nimi-nejspis-i-vy-nebo-vase-deti-jsou-mekke-vonave-a-levne-ale-mohou-byt-i-nebezpecne/",
+          "date": "Thu, 17 Sep 2026 04:28:13 +0000",
+          "ts": 1789619293000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Už podruhé prodal svou firmu, ale nechtěl jen investovat. Tak zůstal a celý byznys nově řídí z Madridu",
+          "url": "https://cc.cz/uz-podruhe-prodal-svou-firmu-ale-nechtel-jen-investovat-tak-zustal-a-cely-byznys-nove-ridi-z-madridu/",
+          "date": "Thu, 17 Sep 2026 04:26:24 +0000",
+          "ts": 1789619184000
+        },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
@@ -332,46 +396,6 @@
           "ts": 1789556400000
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Dřív je lovil, dnes zasvětil život jejich záchraně. Vombatí farmě v Austrálii pomáhá i česká technologie",
-          "url": "https://cc.cz/driv-je-lovil-dnes-zasvetil-zivot-jejich-zachrane-vombati-farme-v-australii-pomaha-i-ceska-technologie/",
-          "date": "Wed, 16 Sep 2026 09:55:36 +0000",
-          "ts": 1789552536000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva",
-          "url": "https://cc.cz/je-realne-zpomaleni-ai-pche-prijde-bramboracka-misto-debaty-o-tom-co-rozhodne-o-budoucnosti-lidstva/",
-          "date": "Wed, 16 Sep 2026 07:56:38 +0000",
-          "ts": 1789545398000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Přišel ze Sibiře, první pivo vařil v hrnci. S kamarádem pak rozjel Sibeerii, které už je Praha malá",
-          "url": "https://cc.cz/je-ze-sibire-a-ma-rad-pivo-s-kamaradem-proto-rozjel-sibeerii-praha-jim-uz-nestaci-ted-miri-dal/",
-          "date": "Wed, 16 Sep 2026 04:26:10 +0000",
-          "ts": 1789532770000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "AI mění firmy rychleji než nájemní smlouvy. Kancelář pronajatá na řadu let je proto stále větší sázka",
-          "url": "https://cc.cz/ai-meni-firmy-rychleji-nez-najemni-smlouvy-kancelar-pronajata-na-radu-let-je-proto-stale-vetsi-sazka/",
-          "date": "Wed, 16 Sep 2026 04:25:55 +0000",
-          "ts": 1789532755000
-        },
-        {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Simona Kijonková investuje desítky milionů do robotické chirurgie. Cílem je zkrátit fronty na operace",
-          "url": "https://cc.cz/simona-kijonkova-investuje-desitky-milionu-do-roboticke-chirurgie-cilem-je-zkratit-fronty-na-operace/",
-          "date": "Tue, 15 Sep 2026 14:50:56 +0000",
-          "ts": 1789483856000
-        },
-        {
           "source": "printmag",
           "name": "PRINT Magazine",
           "title": "Beach Blankets, Bell-Bottoms &#038; Bold Type",
@@ -394,22 +418,22 @@
           "url": "https://www.printmag.com/daily-heller/the-daily-heller-about-civilization/",
           "date": "Tue, 15 Sep 2026 12:00:00 +0000",
           "ts": 1789473600000
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "Další ročník festivalu LUSTR už brzy",
-          "url": "http://www.font.cz/akce-vystavy/dalsi-rocnik-festivalu-lustr-uz-brzy.html",
-          "date": "",
-          "ts": null
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "source": "chl-netcore",
+          "name": "Netcore changelog",
+          "title": "Product Block Comes to AMP Emails",
+          "url": "https://updates.netcorecloud.com/changelog/product-block-comes-to-amp-emails",
+          "date": "Thu, 17 Sep 2026 05:19:42 GMT",
+          "ts": 1789622382000
+        },
         {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
@@ -581,11 +605,6 @@
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
       "reason": "feed se nenašel, další hledání až po 2026-09-27"
-    },
-    {
-      "key": "smartemailing",
-      "name": "SmartEmailing",
-      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "leadhub",

@@ -1,85 +1,55 @@
 {
-  "generatedAt": "2026-09-16T03:52:30.901Z",
+  "generatedAt": "2026-09-17T09:15:40.300Z",
   "konkurence": [
     {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/mailchimp-latest-updates-heavy-lifting",
-      "title": "THE LATEST: Updates that do the heavy-lifting from MailChimp - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-16/mailchimp--rge-announcement-1.jpg"
-    },
-    {
-      "znacka": "Customer.io",
-      "key": "customerio",
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/customerio-terminal-native-access",
-      "title": "Build campaigns from an LLM or your terminal from Customer.io - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-16/customerio--rge-onboarding-2.jpg"
+      "znacka": "beehiiv",
+      "key": "beehiiv",
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/beehiiv-summer-release",
+      "title": "Inside our biggest release yet from beehiiv - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-17/beehiiv--rge-promo-1.jpg"
     }
   ],
   "inspirace": [
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/rep-colorado-fitness-showroom-opening",
-      "title": "Opening This Month — REP’s Colorado Showroom from REP - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-16/inspirace--rge-announcement-1.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/norda-welcome-trail-running",
+      "title": "Welcome to norda from norda - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-17/inspirace--rge-welcome-1.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/introducing-spring-2026",
-      "title": "Introducing Spring 2026 from Tracksmith - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-16/inspirace--rge-announcement-2.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/womp-welcome-onboarding",
+      "title": "✌️ Welcome to Womp! from Womp - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-17/inspirace--rge-welcome-2.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/zapier-zapconnect-build-off",
-      "title": "We're cooking up something special 👀 from Zapier - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-16/inspirace--rge-announcement-3.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/osmo-supply-welcome-newsletter",
+      "title": "Welcome to the Osmo Newsletter 👋 from Osmo Supply - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-17/inspirace--rge-welcome-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 100
     },
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
       "odkazu": 100
     }
   ],
-  "archivy": [
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "url": "https://mailchimp.com/blog/newsletter",
-      "title": "Marketing Resources | Mailchimp",
-      "shot": "emails/2026-09-16/mailchimp--archiv.jpg"
-    },
-    {
-      "znacka": "Omnisend",
-      "key": "omnisend",
-      "url": "https://www.omnisend.com/newsletter",
-      "title": "Free and Customizable Email Newsletter Templates",
-      "shot": "emails/2026-09-16/omnisend--archiv.jpg"
-    },
-    {
-      "znacka": "ActiveCampaign",
-      "key": "activecampaign",
-      "url": "https://www.activecampaign.com/newsletter",
-      "title": "Blog | ActiveCampaign",
-      "shot": "emails/2026-09-16/activecampaign--archiv.jpg"
-    }
-  ],
+  "archivy": [],
   "poznamky": []
 }
