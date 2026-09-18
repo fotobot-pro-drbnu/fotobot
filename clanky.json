@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T09:17:41.469Z",
+  "generatedAt": "2026-09-18T03:52:34.995Z",
   "verze": 1,
-  "datum": "2026-09-17",
-  "oknoOd": "2026-09-07",
+  "datum": "2026-09-18",
+  "oknoOd": "2026-09-08",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -21,6 +21,26 @@
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/lide-na-googlu-vyhledavaji-jinak-data-ukazuji-co-se-zmenilo/",
+      "datum": "2026-09-17",
+      "perex": "Lidé na Googlu používají delší a konkrétnější fráze. Data ukazují, že roste i jejich podíl na konverzích a význam pro kampaně.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Lidé na Googlu vyhledávají jinak. Data ukazují, co se změnilo",
+        "meta": {
+          "ogTitle": "Google vyhledávání se mění. Lidé používají delší fráze",
+          "ogDesc": "Lidé na Googlu používají delší a konkrétnější fráze. Data ukazují, že roste i jejich podíl na konverzích a význam pro kampaně.",
+          "published": "2026-09-17T09:50:35+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Lidé na Googlu vyhledávají jinak. Data ukazují, co se změnilo"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n3 min. doba čtení\nLidé na Googlu vyhledávají jinak. Data ukazují, co se změnilo\n\nZpůsob, jakým lidé vyhledávají na internetu, se mění. Namísto jednoho či dvou slov stále častěji popisují, co přesně potřebují, a do vyhledávání přidávají více souvislostí. Nová analýza reklamních dat ukazuje, že delší vyhledávání zároveň získávají větší podíl konverzí.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nLidé na Googlu vyhledávají jinak. Data ukazují, co se změnilo\nZdroj: ChatGPT\n\nVyplývá to z analýzy dat z Google Ads, kterou publikoval Search Engine Land. Autor Jason Tabeling sledoval vývoj vyhledávacích frází od ledna 2025 do srpna 2026 a porovnával jejich délku i podíl na konverzích.\n\nKrátké fráze ustupují delším\n\nNejvýraznější posun je vidět u velmi krátkých vyhledávání. Fráze s jedním nebo dvěma slovy tvořily na začátku sledovaného období 42 % zobrazení, v srpnu 2026 už jen 24 %. Naopak podíl tří- až čtyřslovných frází vzrostl z 33 % na 48 %. Ve sledovaných datech se tak staly nejčastějším typem vyhledávání.\n\nLidé tedy stále častěji nehledají pouze obecný pojem. Do vyhledávání přidávají vlastnost produktu, účel, cenu nebo další údaj, který zpřesňuje, co skutečně potřebují.\n\nDelší vyhledávání přinášejí i více konverzí\n\nJeště zajímavější je pohled na konverze. Podíl, který přinášejí krátké fráze, postupně klesá, zatímco delší vyhledávání získávají na významu.\n\nTří- až čtyřslovné fráze zvýšily svůj podíl na konverzích z 20 % na 46 %. U frází s pěti až šesti slovy vzrostl z 3 % na 9 % a u vyhledávání se sedmi a více slovy z 1 % na 4 %.\n\nDelší fráze často prozradí více o tom, co člověk hledá. Rozdíl je například mezi výrazem „běžecké boty“ a vyhledáváním „lehké běžecké boty na asfalt pro začátečníka“. V druhém případě je záměr mnohem jasnější a reklama i cílová stránka na něj mohou přesněji reagovat.\n\nMění AI způsob, jakým se ptáme Googlu?\n\nAutor analýzy dává tento vývoj do souvislosti s rostoucím používáním AI nástrojů. Lidé si u ChatGPT či AI vyhledávání zvykají psát celé otázky, vysvětlit problém a doplnit více podrobností.\n\nPodobné chování vidí i samotný Google. Podle jeho údajů jsou dotazy v AI Mode v průměru přibližně třikrát delší než při klasickém vyhledávání. Lidé v něm zároveň častěji formulují celé a podrobnější otázky namísto několika hesel.\n\nZatím však nelze říci, že právě AI způsobila změnu klasického vyhledávání. Data spíše naznačují, že způsob, jakým se lidé naučili komunikovat s AI nástroji, se může postupně přenášet i do běžného Googlu.\n\nMarketéři by měli koukat dál než na krátká klíčová slova\n\nPro inzerenty je podstatné zejména to, co lidé skutečně zadávají do vyhledávače. Report Search Terms může ukázat nejen používaná slova, ale i to, jak zákazníci popisují svůj problém, jaké vlastnosti produktu hledají a co je zajímá před nákupem.\n\nTo neznamená, že krátké a obecné fráze přestávají fungovat. Stále přinášají významnou část návštěvnosti i konverzí. Delší a konkrétnější vyhledávání však podle analyzovaných dat získávají stále větší váhu.\n\nPro e-shopy to může znamenat i potřebu upravit reklamní texty a cílové stránky. Pokud lidé své potřeby pojmenovávají přesněji, vyplatí se na ně stejně přesně odpovídat.\n\nData je proto třeba vnímat jako signál, nikoli jako obraz celého trhu. Pro marketéry je však dobrým důvodem podívat se do vlastních Search Terms a ověřit si, zda se podobná změna neodehrává i v"
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -125,21 +145,11 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/obaly-greenwashing-ci-kyberbezpecnost-ktere-evropske-regulace-musi-resit-vas-e-shop/",
-      "datum": "2026-09-15",
-      "perex": "⚠️ Zorientujte se v tom, které evropské regulace musí e-shop řešit v oblasti obalů, marketingu, bezpečnosti výrobků či dovozu.",
-      "autor": "Veronika Slezáková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Obaly, greenwashing či kyberbezpečnost. Které evropské regulace musí řešit váš e-shop?",
-        "meta": {
-          "ogTitle": "Které evropské regulace musí řešit váš e-shop?",
-          "ogDesc": "⚠️ Zorientujte se v tom, které evropské regulace musí e-shop řešit v oblasti obalů, marketingu, bezpečnosti výrobků či dovozu.",
-          "published": "2026-09-15T10:21:22+00:00",
-          "autor": "Veronika Slezáková",
-          "h1": "Obaly, greenwashing či kyberbezpečnost. Které evropské regulace musí řešit váš e-shop?"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n15. září 2026\n9 min. doba čtení\nObaly, greenwashing či kyberbezpečnost. Které evropské regulace musí řešit váš e-shop?\n\nPPWR, GPSR, NIS2, CRA či EUDR. Za zkratkami se skrývají pravidla, která zasahují do balení zásilek, produktových stránek, marketingu, reklamací i dovozu zboží. Netýkají se však všech firem. Připravili jsme proto praktický přehled, díky kterému se rychle zorientujete v tom, které regulace se mohou týkat právě vašeho e-shopu.\n\nVeronika Slezáková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Veronika?\nPřidat se\nÚvod\n/\nČlánky\n/\nObaly, greenwashing či kyberbezpečnost. Které evropské regulace musí řešit váš e-shop?\nZdroj: ChatGPT\n\nEvropská legislativa přináší firmám nové povinnosti v několika oblastech. Některá pravidla už platí, další se začínají uplatňovat právě v roce 2026 a na další mají firmy ještě čas se připravit.\n\nTo, která pravidla se firmy týkají, závisí především na tom, co prodává, odkud zboží dováží, jak ho balí a jaká tvrzení používá v marketingu.\n\nPPWR mění pravidla pro obaly\n\nNové evropské nařízení o obalech a obalových odpadech, známé jako PPWR, se začalo uplatňovat 12. srpna 2026. Řeší požadavky na složení, recyklovatelnost či minimalizaci obalů.\n\nPro e-commerce je důležitá právě poslední oblast. Pravidla se přímo věnují také obalům používaným při online prodeji. Nejpozději od roku 2030 má u skupinových, přepravních a e-commerce obalů platit maximální podíl prázdného prostoru 50 %.\n\nPozor! Do prázdného prostoru se počítají také výplně, například bublinková fólie, papírové odřezky či vzduchové polštářky. Přesný termín bude záviset také na prováděcích pravidlech, která ještě připraví Evropská komise.\n\nKoho se týká PPWR?\n\nPředevším firem, které uvádějí na trh balené výrobky, používají vlastní obaly nebo balí zboží k expedici.\n\nGPSR zpřísnilo pravidla pro bezpečnost výrobků\n\nGeneral Product Safety Regulation (GPSR) se uplatňuje už od prosince 2024. Týká se širokého spektra spotřebitelských výrobků a při online prodeji přineslo konkrétní požadavky na to, co musí zákazník vidět ještě před nákupem.\n\nV online nabídce má být například jasně uveden výrobce a jeho kontaktní údaje. Pokud výrobce nemá sídlo v EU, je třeba uvést také odpovědnou osobu v Unii. Součástí nabídky mají být rovněž informace umožňující identifikovat výrobek a relevantní upozornění či bezpečnostní informace.\n\nNestačí, že jsou potřebné údaje uvedené někde na obalu výrobku. Část z nich musí být dostupná už na produktové stránce.\n\nKoho se týká GPSR?\n\nE-shopů a dalších prodejců nepotravinářského spotřebního zboží, ale také výrobců a dovozců.\n\nEkologická tvrzení čekají přísnější pravidla\n\nVýrazy jako ekologický, zelený, šetrný k přírodě nebo životnímu prostředí či uhlíkově neutrální se v marketingu používají běžně. Podle evropské směrnice mají od 27. září 2026 začít platit přísnější pravidla.\n\nVycházejí ze směrnice o posílení postavení spotřebitelů v rámci zelené transformace. V Česku je má do zákona o ochraně spotřebitele a občanského zákoníku převést připravovaná novela, která však k polovině září 2026 ještě neprošla legislativním procesem.\n\nMezi nekalé praktiky se mají zařadit například obecná environmentální tvrzení, která firma nedokáže dostatečně doložit, nebo označení udržitelnosti, která nejsou založena na certifikačním systému nebo vytvořena orgánem veřejné moci. Omezení se týkají také tvrzení, že výrobek má neutrální nebo pozitivní dopad na klima, pokud jsou založ"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
@@ -175,16 +185,6 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-37-2026-deti-plni-kosiky-dospelych-cinske-zasilky-ztraceji-cenovou-vyhodu-magento-ma-kritickou-chybu/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/nemaji-vlastni-penize-ale-plni-kosiky-jak-deti-meni-slovensky-e-commerce/",
       "datum": null,
       "perex": null,
       "autor": null,
