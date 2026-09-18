@@ -1,55 +1,84 @@
 {
-  "generatedAt": "2026-09-17T09:15:40.300Z",
+  "generatedAt": "2026-09-18T03:50:17.520Z",
   "konkurence": [
     {
-      "znacka": "beehiiv",
-      "key": "beehiiv",
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/beehiiv-summer-release",
-      "title": "Inside our biggest release yet from beehiiv - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-17/beehiiv--rge-promo-1.jpg"
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/your-inactive-mailchimp-account-is-closing",
+      "title": "Your Inactive Mailchimp Account is Closing from MailChimp - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-18/mailchimp--rge-transactional-1.jpg"
     }
   ],
   "inspirace": [
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/norda-welcome-trail-running",
-      "title": "Welcome to norda from norda - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-17/inspirace--rge-welcome-1.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/copilot-experience-changing-important-information",
+      "title": "Your Copilot Experience Is Changing: Important Information from Microsoft - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-18/inspirace--rge-transactional-1.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/womp-welcome-onboarding",
-      "title": "✌️ Welcome to Womp! from Womp - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-17/inspirace--rge-welcome-2.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/november-cash-flow-digest-for-llc",
+      "title": "November cash flow digest for Magpie Mentors LLC from Mercury - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-18/inspirace--rge-transactional-2.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/osmo-supply-welcome-newsletter",
-      "title": "Welcome to the Osmo Newsletter 👋 from Osmo Supply - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-17/inspirace--rge-welcome-3.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/are-pippin-and-patch-running-low-on-food",
+      "title": "[TEST] Are Pippin and Patch running low on food? from Lyka - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-18/inspirace--rge-transactional-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
+      "odkazu": 150
+    },
+    {
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 100
     },
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 100
     }
   ],
-  "archivy": [],
+  "archivy": [
+    {
+      "znacka": "Flodesk",
+      "key": "flodesk",
+      "url": "https://flodesk.com/emails",
+      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
+      "shot": "emails/2026-09-18/flodesk--archiv.jpg"
+    },
+    {
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "url": "https://customer.io/blog/newsletter",
+      "title": "Learn with Customer.io",
+      "shot": "emails/2026-09-18/customerio--archiv.jpg"
+    },
+    {
+      "znacka": "Dotdigital",
+      "key": "dotdigital",
+      "url": "https://dotdigital.com/blog/newsletter",
+      "title": "Newsletters we loveand why, plus how to recreate them",
+      "shot": "emails/2026-09-18/dotdigital--archiv.jpg"
+    },
+    {
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-09-18/smartemailing--archiv.jpg"
+    }
+  ],
   "poznamky": []
 }

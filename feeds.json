@@ -1,12 +1,76 @@
 {
-  "generatedAt": "2026-09-17T09:09:49.211Z",
+  "generatedAt": "2026-09-18T03:47:01.450Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 22,
+      "count": 21,
       "items": [
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Soutěž Direct Impact Czech ovládly Triad a&#160;Sparta, Grand Prix získala Bouračka",
+          "url": "https://www.mediar.cz/direct-impact-czech-ovladly-triad-a-sparta-grand-prix-ziskala-bouracka/",
+          "date": "Thu, 17 Sep 2026 22:00:32 +0000",
+          "ts": 1789682432000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Stream.cz se od května 2027 otevře všem tvůrcům. Seznam nevylučuje návrat Kanceláře Blaník",
+          "url": "https://www.mediaguru.cz/stream-cz-se-od-kvetna-2027-otevre-vsem-tvurcum-seznam-nevylucuje-navrat-kancelare-blanik",
+          "date": "Thu, 17 Sep 2026 15:48:00 +0200",
+          "ts": 1789652880000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Seznam.cz chystá nový Stream, bude konkurovat HeroHero a&#160;Forendors",
+          "url": "https://www.mediar.cz/seznam-cz-chysta-novy-stream-bude-konkurovat-herohero-a-forendors/",
+          "date": "Thu, 17 Sep 2026 13:45:02 +0000",
+          "ts": 1789652702000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Vysílací rada stopla odebírání licencí Barrandov Kino a&#160;Krimi a&#160;obratem zahájila nové",
+          "url": "https://www.mediar.cz/vysilaci-rada-stopla-odebirani-licenci-barrandov-kino-a-krimi-a-obratem-zahajila-nove/",
+          "date": "Thu, 17 Sep 2026 12:40:11 +0000",
+          "ts": 1789648811000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Cetin uvádí novou generaci IPTV platformy Kuki",
+          "url": "https://www.mediaguru.cz/cetin-uvadi-novou-generaci-iptv-platformy-kuki",
+          "date": "Thu, 17 Sep 2026 12:40:00 +0200",
+          "ts": 1789641600000
+        },
+        {
+          "source": "shoptet-blog",
+          "name": "Shoptet blog",
+          "title": "Nová pravidla pro obaly: Co znamenají PPWR a EPR pro e-shopy",
+          "url": "https://blog.shoptet.cz/ppwr-epr-eshopy/",
+          "date": "Thu, 17 Sep 2026 10:25:24 +0000",
+          "ts": 1789640724000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Selekt Light jako náplast za absenci AMC+? Spíš podpora pro placenou televizi",
+          "url": "https://www.mediaguru.cz/selekt-light-jako-naplast-za-absenci-amc-spis-podpora-pro-placenou-tv",
+          "date": "Thu, 17 Sep 2026 12:15:00 +0200",
+          "ts": 1789640100000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Slovenský Denník N spustí rádio, do FM chce přes Top Rádio",
+          "url": "https://www.mediaguru.cz/slovensky-dennik-n-spusti-radio-do-fm-chce-pres-top-radio",
+          "date": "Thu, 17 Sep 2026 11:15:00 +0200",
+          "ts": 1789636500000
+        },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
@@ -104,84 +168,12 @@
           "ts": 1789566041000
         },
         {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Ředitel ČT Chudárek dostane plný bonus. Odmítl informace o rušení dětské tvorby",
-          "url": "https://www.mediaguru.cz/hynek-chudarek-dostane-plny-bonus-odmitl-ruseni-detske-tvorby",
-          "date": "Wed, 16 Sep 2026 15:25:00 +0200",
-          "ts": 1789565100000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Škoda Auto prodloužila partnerství s Národním divadlem do roku 2029",
-          "url": "https://www.mediaguru.cz/skoda-auto-prodlouzila-partnerstvi-s-narodnim-divadlem-do-roku-2029",
-          "date": "Wed, 16 Sep 2026 12:30:00 +0200",
-          "ts": 1789554600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Garmin spouští image kampaň, poprvé vznikla kompletně lokálně",
-          "url": "https://www.mediaguru.cz/garmin-spousti-image-kampan-poprve-vznikla-kompletne-lokalne",
-          "date": "Wed, 16 Sep 2026 12:00:00 +0200",
-          "ts": 1789552800000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Coccolino uvedlo Wonder Wash na eventu s pětimetrovou věží z praček",
-          "url": "https://www.mediaguru.cz/coccolino-uvedlo-wonder-wash-na-eventu-s-petimetrovou-vezi-z-pracek",
-          "date": "Wed, 16 Sep 2026 11:25:00 +0200",
-          "ts": 1789550700000
-        },
-        {
           "source": "mediar",
           "name": "Médiář",
           "title": "Krizová zpráva do 13 minut, za 40 minut kontinuál. Rozhlas se chystá na pohromy",
           "url": "https://www.mediar.cz/krizova-zprava-do-13-minut-za-40-minut-kontinual-rozhlas-se-chysta-na-pohromy/",
           "date": "Wed, 16 Sep 2026 03:55:19 +0000",
           "ts": 1789530919000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Jizerská 50 vstupuje do jubilejního 60. ročníku s&#160;novým logem a&#160;grafikou",
-          "url": "https://www.mediar.cz/jizerska-50-vstupuje-do-jubilejniho-60-rocniku-s-novym-logem-a-grafikou/",
-          "date": "Tue, 15 Sep 2026 21:20:02 +0000",
-          "ts": 1789507202000
-        },
-        {
-          "source": "shoptet-blog",
-          "name": "Shoptet blog",
-          "title": "SEO a AI viditelnost: 5 způsobů, jak získat více zákazníků i bez specialisty",
-          "url": "https://blog.shoptet.cz/seo-a-ai-viditelnost-5-zpusobu-jak-ziskat-vice-zakazniku/",
-          "date": "Tue, 15 Sep 2026 20:00:03 +0000",
-          "ts": 1789502403000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Putovní textařskou trofej Zlaté pero převzal Martin Polakovič, už podruhé",
-          "url": "https://www.mediar.cz/putovni-textarskou-trofej-zlate-pero-prevzal-martin-polakovic-uz-podruhe/",
-          "date": "Tue, 15 Sep 2026 13:15:27 +0000",
-          "ts": 1789478127000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Media:list zajistí PR pro skupinu Albatros Media",
-          "url": "https://www.mediar.cz/medialist-zajisti-pr-pro-skupinu-albatros-media/",
-          "date": "Tue, 15 Sep 2026 12:00:30 +0000",
-          "ts": 1789473630000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "ČT koupila práva na maratony v&#160;Kapském městě, Sydney, Šanghaji a&#160;Berlíně do roku 2028",
-          "url": "https://www.mediar.cz/ct-koupila-prava-na-maratony-v-kapskem-meste-sydney-sanghaji-a-berline-do-roku-2028/",
-          "date": "Tue, 15 Sep 2026 11:40:58 +0000",
-          "ts": 1789472458000
         }
       ]
     },
@@ -203,8 +195,40 @@
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Wonderful Pistachios spotlights first NIL roster in social campaign",
+          "url": "https://www.marketingdive.com/news/wonderful-pistachios-spotlights-first-nil-roster-in-social-campaign/830629/",
+          "date": "Thu, 17 Sep 2026 11:27:00 -0400",
+          "ts": 1789658820000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Meta streamlines creator, brand tie-ups with new marketing hub",
+          "url": "https://www.marketingdive.com/news/meta-streamlines-creator-brand-tie-ups-with-new-marketing-hub/830593/",
+          "date": "Thu, 17 Sep 2026 11:00:00 -0400",
+          "ts": 1789657200000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "How a popular burger drove Applebee’s to double down on cheese",
+          "url": "https://www.marketingdive.com/news/applebees-omcheese-platform-expansion/830642/",
+          "date": "Thu, 17 Sep 2026 09:30:00 -0400",
+          "ts": 1789651800000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Staples’ CMO on introducing a Hard Button amid bigger B2B push",
+          "url": "https://www.marketingdive.com/news/staples-cmo-on-introducing-a-hard-button-amid-bigger-b2b-push/830611/",
+          "date": "Thu, 17 Sep 2026 09:30:00 -0400",
+          "ts": 1789651800000
+        },
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
@@ -220,30 +244,6 @@
           "url": "https://www.marketingdive.com/news/sonos-brand-repositioning-trades-specs-for-vibes-in-hunt-for-comeback/830462/",
           "date": "Wed, 16 Sep 2026 08:00:00 -0400",
           "ts": 1789560000000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Why Lowe’s CMO Jen Wilson added digital commerce to her portfolio",
-          "url": "https://www.marketingdive.com/news/why-lowes-cmo-jen-wilson-added-digital-commerce-to-her-portfolio/830308/",
-          "date": "Tue, 15 Sep 2026 10:05:00 -0400",
-          "ts": 1789481100000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Jersey Mike’s kicks off NFL campaign as digital marketing spend surges",
-          "url": "https://www.marketingdive.com/news/jersey-mikes-kicks-off-nfl-campaign-as-digital-marketing-spend-surges/830330/",
-          "date": "Tue, 15 Sep 2026 08:50:00 -0400",
-          "ts": 1789476600000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "How Carter’s is refreshing its brand to reach Gen Z, millennial parents",
-          "url": "https://www.marketingdive.com/news/how-carters-is-refreshing-its-brand-to-reach-gen-z-millennial-parents/830313/",
-          "date": "Tue, 15 Sep 2026 06:00:00 -0400",
-          "ts": 1789466400000
         }
       ]
     },
@@ -297,8 +297,40 @@
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 27,
+      "count": 23,
       "items": [
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Během 23 hodin vyprodali dluhopisy za 750 milionů a říkají: Ani ty peníze nepotřebujeme, šlo o test",
+          "url": "https://cc.cz/behem-23-hodin-vyprodali-dluhopisy-za-750-milionu-a-rikaji-ani-ty-penize-nepotrebujeme-slo-o-test/",
+          "date": "Thu, 17 Sep 2026 17:57:00 +0000",
+          "ts": 1789667820000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Hororová komedie z ulic Karlína. Do českých kin dorazila povedená a krvavá novinka mistra žánru",
+          "url": "https://cc.cz/v-ulicich-prahy-natocili-poradnou-nechutarnu-kterou-ale-chcete-videt-budete-se-u-ni-bat-ale-taky-smat/",
+          "date": "Thu, 17 Sep 2026 13:25:54 +0000",
+          "ts": 1789651554000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Češi vytvořili nový díl kultovní série. Vezmou vás do středověké Kutné Hory, ale Kingdom Come to není",
+          "url": "https://cc.cz/cesi-vytvorili-novy-dil-kultovni-serie-vezmou-vas-do-stredoveke-kutne-hory-ale-kingdom-come-to-neni/",
+          "date": "Thu, 17 Sep 2026 11:35:09 +0000",
+          "ts": 1789644909000
+        },
+        {
+          "source": "czechcrunch",
+          "name": "CzechCrunch",
+          "title": "Koupili firmu, hned nato jim plány dvakrát zkazily změny v Googlu. Stagnující byznys i tak nakopli",
+          "url": "https://cc.cz/koupili-firmu-hned-nato-jim-plany-dvakrat-zkazily-zmeny-v-googlu-stagnujici-byznys-i-tak-nakopli/",
+          "date": "Thu, 17 Sep 2026 09:56:26 +0000",
+          "ts": 1789638986000
+        },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
@@ -356,76 +388,52 @@
           "ts": 1789586754000
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Zeptejte se pamětníků na cokoliv. Tento AI nástroj je zdarma a otevře vám tisíce hodin skutečných vzpomínek",
-          "url": "https://cc.cz/zeptejte-se-pametniku-na-cokoliv-tento-ai-nastroj-je-zdarma-a-otevre-vam-tisice-hodin-skutecnych-vzpominek/",
-          "date": "Wed, 16 Sep 2026 16:00:19 +0000",
-          "ts": 1789574419000
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Další ročník festivalu LUSTR už brzy",
+          "url": "http://www.font.cz/akce-vystavy/dalsi-rocnik-festivalu-lustr-uz-brzy.html",
+          "date": "",
+          "ts": null
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Nádraží Holešovice čeká velká proměna. Na nevzhledném místě vzniknou dvě nová náměstí i výšková budova",
-          "url": "https://cc.cz/nadrazi-holesovice-ceka-velka-promena-na-nevzhlednem-miste-vzniknou-dve-nova-namesti-i-vyskova-budova/",
-          "date": "Wed, 16 Sep 2026 14:22:48 +0000",
-          "ts": 1789568568000
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Špindlerův Mlýn – společná identita města a skiareálu",
+          "url": "http://www.font.cz/design/spindleruv-mlyn-spolecna-identita-mesta-a-skiarealu.html",
+          "date": "",
+          "ts": null
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Vytvořili rekordní hity o Spider-Manovi a teď krvavého Wolverina. Marvel nás v tom podpořil, říká režisér",
-          "url": "https://cc.cz/vytvorili-rekordni-hity-o-spider-manovi-a-ted-krvaveho-wolverina-marvel-nas-v-tom-podporil-rika-reziser/",
-          "date": "Wed, 16 Sep 2026 13:34:00 +0000",
-          "ts": 1789565640000
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Jiří Balcar v Alšově jihočeské galerii",
+          "url": "http://www.font.cz/design/jiri-balcar-v-alsove-jihoceske-galerii.html",
+          "date": "",
+          "ts": null
         },
         {
-          "source": "czechcrunch",
-          "name": "CzechCrunch",
-          "title": "Chtějí upozornit na reálné ceny e-shopů. Nově ukážou, kolik zboží stojí u konkurence i co jsou slevy a akce",
-          "url": "https://cc.cz/heureka-chce-upozornit-na-realne-ceny-nove-ukaze-kolik-zbozi-stoji-u-konkurence-i-co-jsou-slevy-a-akce/",
-          "date": "Wed, 16 Sep 2026 11:33:10 +0000",
-          "ts": 1789558390000
-        },
-        {
-          "source": "printmag",
-          "name": "PRINT Magazine",
-          "title": "The Daily Heller: Cycling Through the Digital and Back to Print",
-          "url": "https://www.printmag.com/uncategorized/the-daily-heller-xxxxx-2/",
-          "date": "Wed, 16 Sep 2026 11:00:00 +0000",
-          "ts": 1789556400000
-        },
-        {
-          "source": "printmag",
-          "name": "PRINT Magazine",
-          "title": "Beach Blankets, Bell-Bottoms &#038; Bold Type",
-          "url": "https://www.printmag.com/type-tuesday/beach-blankets-bell-bottoms-bold-type/",
-          "date": "Tue, 15 Sep 2026 13:00:00 +0000",
-          "ts": 1789477200000
-        },
-        {
-          "source": "printmag",
-          "name": "PRINT Magazine",
-          "title": "What Matters to Johanna Augustin",
-          "url": "https://www.printmag.com/what-matters/what-matters-to-johanna-augustin/",
-          "date": "Tue, 15 Sep 2026 12:30:00 +0000",
-          "ts": 1789475400000
-        },
-        {
-          "source": "printmag",
-          "name": "PRINT Magazine",
-          "title": "The Daily Heller: About Civilization as We Knew It",
-          "url": "https://www.printmag.com/daily-heller/the-daily-heller-about-civilization/",
-          "date": "Tue, 15 Sep 2026 12:00:00 +0000",
-          "ts": 1789473600000
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Florbal Litovel s novou identitou",
+          "url": "http://www.font.cz/design/florbal-litovel-s-novou-identitou.html",
+          "date": "",
+          "ts": null
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "source": "chl-netcore",
+          "name": "Netcore changelog",
+          "title": "Bring Real-Time Personalization to WhatsApp with Content Fetch",
+          "url": "https://updates.netcorecloud.com/changelog/bring-real-time-personalization-to-whatsapp-with-content-fetch",
+          "date": "Thu, 17 Sep 2026 11:49:30 GMT",
+          "ts": 1789645770000
+        },
         {
           "source": "chl-netcore",
           "name": "Netcore changelog",
@@ -502,41 +510,55 @@
     }
   },
   "discovered": {},
-  "viaBrowser": [],
+  "viaBrowser": [
+    "smartemailing"
+  ],
   "blokovano": [
     {
       "key": "mam",
       "name": "Marketing & Media",
-      "status": 429
+      "status": 429,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
     },
     {
       "key": "designweek",
       "name": "Design Week",
-      "status": 403
+      "status": 403,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
     },
     {
       "key": "creativereview",
       "name": "Creative Review",
-      "status": 403
+      "status": 403,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
     },
     {
       "key": "martech",
       "name": "MarTech",
-      "status": 403
+      "status": 403,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
     },
     {
       "key": "mailerlite",
       "name": "MailerLite",
-      "status": 429
+      "status": 429,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
     },
     {
       "key": "constantcontact",
       "name": "Constant Contact",
-      "status": 403
+      "status": 403,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
     },
     {
       "key": "kit",
       "name": "Kit",
+      "status": 403,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-09-20"
+    },
+    {
+      "key": "printmag",
+      "name": "PRINT Magazine",
       "status": 403
     }
   ],

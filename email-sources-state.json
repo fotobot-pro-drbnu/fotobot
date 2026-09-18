@@ -157,7 +157,11 @@
     "https://reallygoodemails.com/emails/beehiiv-summer-release",
     "https://reallygoodemails.com/emails/norda-welcome-trail-running",
     "https://reallygoodemails.com/emails/womp-welcome-onboarding",
-    "https://reallygoodemails.com/emails/osmo-supply-welcome-newsletter"
+    "https://reallygoodemails.com/emails/osmo-supply-welcome-newsletter",
+    "https://reallygoodemails.com/emails/your-inactive-mailchimp-account-is-closing",
+    "https://reallygoodemails.com/emails/copilot-experience-changing-important-information",
+    "https://reallygoodemails.com/emails/november-cash-flow-digest-for-llc",
+    "https://reallygoodemails.com/emails/are-pippin-and-patch-running-low-on-food"
   ],
   "catalogs": {
     "rge-cart": {
@@ -175,17 +179,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-09-15",
-      "odkazu": 50
+      "date": "2026-09-18",
+      "odkazu": 150
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-09-16",
+      "date": "2026-09-18",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-09-16",
+      "date": "2026-09-18",
       "odkazu": 100
     },
     "rge-newsletter": {
@@ -354,14 +358,14 @@
     "hubspot": {
       "working": null,
       "fails": {
-        "https://www.hubspot.com/newsletter": 1,
-        "https://www.hubspot.com/newsletter-archive": 1,
-        "https://www.hubspot.com/emails": 1,
-        "https://www.hubspot.com/email-archive": 1,
-        "https://www.hubspot.com/resources/newsletter": 1,
-        "https://www.hubspot.com/blog/newsletter": 1,
-        "https://hubspot.beehiiv.com/archive": 1,
-        "https://hubspot.substack.com/archive": 1
+        "https://www.hubspot.com/newsletter": 2,
+        "https://www.hubspot.com/newsletter-archive": 2,
+        "https://www.hubspot.com/emails": 2,
+        "https://www.hubspot.com/email-archive": 2,
+        "https://www.hubspot.com/resources/newsletter": 2,
+        "https://www.hubspot.com/blog/newsletter": 2,
+        "https://hubspot.beehiiv.com/archive": 2,
+        "https://hubspot.substack.com/archive": 2
       }
     },
     "smartemailing": {
