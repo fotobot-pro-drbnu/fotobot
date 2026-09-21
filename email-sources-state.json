@@ -161,7 +161,11 @@
     "https://reallygoodemails.com/emails/your-inactive-mailchimp-account-is-closing",
     "https://reallygoodemails.com/emails/copilot-experience-changing-important-information",
     "https://reallygoodemails.com/emails/november-cash-flow-digest-for-llc",
-    "https://reallygoodemails.com/emails/are-pippin-and-patch-running-low-on-food"
+    "https://reallygoodemails.com/emails/are-pippin-and-patch-running-low-on-food",
+    "https://reallygoodemails.com/emails/welcome-to-kits-newsletter",
+    "https://reallygoodemails.com/emails/cleo-bank-connection-onboarding",
+    "https://reallygoodemails.com/emails/monday-crm-trial-extension-onboarding",
+    "https://reallygoodemails.com/emails/wand-app-download-welcome"
   ],
   "catalogs": {
     "rge-cart": {
@@ -189,18 +193,18 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-09-16",
+      "date": "2026-09-21",
       "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-09-17",
-      "odkazu": 100
+      "date": "2026-09-21",
+      "odkazu": 150
     },
     "rge-promo": {
       "fails": 0,

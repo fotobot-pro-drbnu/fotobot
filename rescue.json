@@ -1,12 +1,36 @@
 {
-  "generatedAt": "2026-09-18T03:51:28.163Z",
-  "pacienti": 1,
+  "generatedAt": "2026-09-21T04:04:53.175Z",
+  "pacienti": 4,
   "zachraneno": [
+    {
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/",
+      "duvod": "spadlo",
+      "shot": "rescue/2026-09-21/smartemailing.jpg",
+      "health": {
+        "imgTotal": 59,
+        "imgBroken": 1,
+        "h1": "E-mail marketing, který skutečně vydělává",
+        "ruleCount": 99
+      }
+    },
+    {
+      "key": "smartemailing-brozura",
+      "url": "https://www.smartemailing.cz/brozura/",
+      "duvod": "spadlo",
+      "shot": "rescue/2026-09-21/smartemailing-brozura.jpg",
+      "health": {
+        "imgTotal": 20,
+        "imgBroken": 1,
+        "h1": "Automatizační desatero",
+        "ruleCount": 93
+      }
+    },
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-09-18/targito.jpg",
+      "shot": "rescue/2026-09-21/targito.jpg",
       "health": {
         "imgTotal": 72,
         "imgBroken": 40,
@@ -15,5 +39,12 @@
       }
     }
   ],
-  "neuspech": []
+  "neuspech": [
+    {
+      "key": "cleverreach",
+      "url": "https://www.cleverreach.com/en/",
+      "duvod": "spadlo",
+      "error": "TimeoutError: page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.cleverreach.com/en/\", waiting until \"commit\"\n"
+    }
+  ]
 }
