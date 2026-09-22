@@ -1,69 +1,74 @@
 {
-  "generatedAt": "2026-09-21T04:04:07.249Z",
-  "konkurence": [
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/welcome-to-kits-newsletter",
-      "title": "Welcome to Kit’s newsletter from kit: - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-21/kit--rge-welcome-1.jpg"
-    }
-  ],
+  "generatedAt": "2026-09-22T03:49:22.248Z",
+  "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/cleo-bank-connection-onboarding",
-      "title": "Your payday could come sooner from Cleo - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-21/inspirace--rge-onboarding-1.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/bmw-motorrad-10-percent-off-promo",
+      "title": "Smiles, save 10% on BMW Motorrad accessories. from BMW Motorrad - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-22/inspirace--rge-promo-1.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/monday-crm-trial-extension-onboarding",
-      "title": "monday CRM is easier than you think from monday.com - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-21/inspirace--rge-onboarding-2.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/minor-hotels-winback-discount",
+      "title": "We miss you, Mike. So we got you a present! from Minor Hotels - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-22/inspirace--rge-promo-2.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/wand-app-download-welcome",
-      "title": "Wand is ready for download. from Wand - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-21/inspirace--rge-onboarding-3.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/the-parking-spot-fall-rates-drop",
+      "title": "Rates are FALLING 🍂 from The Parking Spot - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-22/inspirace--rge-promo-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
       "odkazu": 100
     },
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
       "odkazu": 150
     }
   ],
   "archivy": [
     {
-      "znacka": "Flodesk",
-      "key": "flodesk",
-      "url": "https://flodesk.com/emails",
-      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-09-21/flodesk--archiv.jpg"
+      "znacka": "Dotdigital",
+      "key": "dotdigital",
+      "url": "https://dotdigital.com/blog/newsletter",
+      "title": "Newsletters we loveand why, plus how to recreate them",
+      "shot": "emails/2026-09-22/dotdigital--archiv.jpg"
     },
     {
-      "znacka": "Customer.io",
-      "key": "customerio",
-      "url": "https://customer.io/blog/newsletter",
-      "title": "Learn with Customer.io",
-      "shot": "emails/2026-09-21/customerio--archiv.jpg"
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-09-22/smartemailing--archiv.jpg"
+    },
+    {
+      "znacka": "Targito",
+      "key": "targito",
+      "url": "https://www.targito.com/newsletter",
+      "title": "Newsletter - Targito",
+      "shot": "emails/2026-09-22/targito--archiv.jpg"
+    },
+    {
+      "znacka": "Boldem",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/resources/newsletter",
+      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
+      "shot": "emails/2026-09-22/boldem--archiv.jpg"
     }
   ],
   "poznamky": []

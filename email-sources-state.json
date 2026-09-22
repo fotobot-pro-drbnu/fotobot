@@ -165,12 +165,15 @@
     "https://reallygoodemails.com/emails/welcome-to-kits-newsletter",
     "https://reallygoodemails.com/emails/cleo-bank-connection-onboarding",
     "https://reallygoodemails.com/emails/monday-crm-trial-extension-onboarding",
-    "https://reallygoodemails.com/emails/wand-app-download-welcome"
+    "https://reallygoodemails.com/emails/wand-app-download-welcome",
+    "https://reallygoodemails.com/emails/bmw-motorrad-10-percent-off-promo",
+    "https://reallygoodemails.com/emails/minor-hotels-winback-discount",
+    "https://reallygoodemails.com/emails/the-parking-spot-fall-rates-drop"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-09-17",
+      "date": "2026-09-22",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -183,7 +186,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-09-18",
+      "date": "2026-09-22",
       "odkazu": 150
     },
     "rge-announcement": {
@@ -208,7 +211,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-09-17",
+      "date": "2026-09-22",
       "odkazu": 100
     }
   },
@@ -362,14 +365,14 @@
     "hubspot": {
       "working": null,
       "fails": {
-        "https://www.hubspot.com/newsletter": 2,
-        "https://www.hubspot.com/newsletter-archive": 2,
-        "https://www.hubspot.com/emails": 2,
-        "https://www.hubspot.com/email-archive": 2,
-        "https://www.hubspot.com/resources/newsletter": 2,
-        "https://www.hubspot.com/blog/newsletter": 2,
-        "https://hubspot.beehiiv.com/archive": 2,
-        "https://hubspot.substack.com/archive": 2
+        "https://www.hubspot.com/newsletter": 3,
+        "https://www.hubspot.com/newsletter-archive": 3,
+        "https://www.hubspot.com/emails": 3,
+        "https://www.hubspot.com/email-archive": 3,
+        "https://www.hubspot.com/resources/newsletter": 3,
+        "https://www.hubspot.com/blog/newsletter": 3,
+        "https://hubspot.beehiiv.com/archive": 3,
+        "https://hubspot.substack.com/archive": 3
       }
     },
     "smartemailing": {
@@ -381,14 +384,14 @@
     "leadhub": {
       "working": null,
       "fails": {
-        "https://www.leadhub.co/newsletter": 1,
-        "https://www.leadhub.co/newsletter-archive": 1,
-        "https://www.leadhub.co/emails": 1,
-        "https://www.leadhub.co/email-archive": 1,
-        "https://www.leadhub.co/resources/newsletter": 1,
-        "https://www.leadhub.co/blog/newsletter": 1,
-        "https://leadhub.beehiiv.com/archive": 1,
-        "https://leadhub.substack.com/archive": 1
+        "https://www.leadhub.co/newsletter": 2,
+        "https://www.leadhub.co/newsletter-archive": 2,
+        "https://www.leadhub.co/emails": 2,
+        "https://www.leadhub.co/email-archive": 2,
+        "https://www.leadhub.co/resources/newsletter": 2,
+        "https://www.leadhub.co/blog/newsletter": 2,
+        "https://leadhub.beehiiv.com/archive": 2,
+        "https://leadhub.substack.com/archive": 2
       }
     },
     "targito": {
