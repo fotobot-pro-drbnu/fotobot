@@ -168,7 +168,10 @@
     "https://reallygoodemails.com/emails/wand-app-download-welcome",
     "https://reallygoodemails.com/emails/bmw-motorrad-10-percent-off-promo",
     "https://reallygoodemails.com/emails/minor-hotels-winback-discount",
-    "https://reallygoodemails.com/emails/the-parking-spot-fall-rates-drop"
+    "https://reallygoodemails.com/emails/the-parking-spot-fall-rates-drop",
+    "https://reallygoodemails.com/emails/frama-tokyo-store-opening",
+    "https://reallygoodemails.com/emails/shinola-skeleton-ice-monster-launch",
+    "https://reallygoodemails.com/emails/social-media-not-free"
   ],
   "catalogs": {
     "rge-cart": {
@@ -191,17 +194,17 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-09-18",
+      "date": "2026-09-23",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-09-21",
+      "date": "2026-09-23",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-09-21",
+      "date": "2026-09-23",
       "odkazu": 100
     },
     "rge-welcome": {
@@ -424,27 +427,27 @@
     "klaviyo": {
       "working": null,
       "fails": {
-        "https://www.klaviyo.com/newsletter": 1,
-        "https://www.klaviyo.com/newsletter-archive": 1,
-        "https://www.klaviyo.com/emails": 1,
-        "https://www.klaviyo.com/email-archive": 1,
-        "https://www.klaviyo.com/resources/newsletter": 1,
-        "https://www.klaviyo.com/blog/newsletter": 1,
-        "https://klaviyo.beehiiv.com/archive": 1,
-        "https://klaviyo.substack.com/archive": 1
+        "https://www.klaviyo.com/newsletter": 2,
+        "https://www.klaviyo.com/newsletter-archive": 2,
+        "https://www.klaviyo.com/emails": 2,
+        "https://www.klaviyo.com/email-archive": 2,
+        "https://www.klaviyo.com/resources/newsletter": 2,
+        "https://www.klaviyo.com/blog/newsletter": 2,
+        "https://klaviyo.beehiiv.com/archive": 2,
+        "https://klaviyo.substack.com/archive": 2
       }
     },
     "brevo": {
       "working": null,
       "fails": {
-        "https://www.brevo.com/newsletter": 1,
-        "https://www.brevo.com/newsletter-archive": 1,
-        "https://www.brevo.com/emails": 1,
-        "https://www.brevo.com/email-archive": 1,
-        "https://www.brevo.com/resources/newsletter": 1,
-        "https://www.brevo.com/blog/newsletter": 1,
-        "https://brevo.beehiiv.com/archive": 1,
-        "https://brevo.substack.com/archive": 1
+        "https://www.brevo.com/newsletter": 2,
+        "https://www.brevo.com/newsletter-archive": 2,
+        "https://www.brevo.com/emails": 2,
+        "https://www.brevo.com/email-archive": 2,
+        "https://www.brevo.com/resources/newsletter": 2,
+        "https://www.brevo.com/blog/newsletter": 2,
+        "https://brevo.beehiiv.com/archive": 2,
+        "https://brevo.substack.com/archive": 2
       }
     }
   }

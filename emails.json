@@ -1,74 +1,67 @@
 {
-  "generatedAt": "2026-09-22T03:49:22.248Z",
+  "generatedAt": "2026-09-23T03:51:06.616Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/bmw-motorrad-10-percent-off-promo",
-      "title": "Smiles, save 10% on BMW Motorrad accessories. from BMW Motorrad - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-22/inspirace--rge-promo-1.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/frama-tokyo-store-opening",
+      "title": "FRAMA Tokyo from Frama - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-23/inspirace--rge-announcement-1.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/minor-hotels-winback-discount",
-      "title": "We miss you, Mike. So we got you a present! from Minor Hotels - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-22/inspirace--rge-promo-2.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/shinola-skeleton-ice-monster-launch",
+      "title": "Skeleton Ice Monster is Here from Shinola - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-23/inspirace--rge-announcement-2.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/the-parking-spot-fall-rates-drop",
-      "title": "Rates are FALLING 🍂 from The Parking Spot - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-22/inspirace--rge-promo-3.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/social-media-not-free",
+      "title": "Social media is NOT free from Lush - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-23/inspirace--rge-announcement-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 100
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 100
     },
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 150
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-09-22/dotdigital--archiv.jpg"
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/blog/newsletter",
+      "title": "Marketing Resources | Mailchimp",
+      "shot": "emails/2026-09-23/mailchimp--archiv.jpg"
     },
     {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-09-22/smartemailing--archiv.jpg"
+      "znacka": "Omnisend",
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/newsletter",
+      "title": "Free and Customizable Email Newsletter Templates",
+      "shot": "emails/2026-09-23/omnisend--archiv.jpg"
     },
     {
-      "znacka": "Targito",
-      "key": "targito",
-      "url": "https://www.targito.com/newsletter",
-      "title": "Newsletter - Targito",
-      "shot": "emails/2026-09-22/targito--archiv.jpg"
-    },
-    {
-      "znacka": "Boldem",
-      "key": "boldem",
-      "url": "https://www.boldem.cz/resources/newsletter",
-      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
-      "shot": "emails/2026-09-22/boldem--archiv.jpg"
+      "znacka": "ActiveCampaign",
+      "key": "activecampaign",
+      "url": "https://www.activecampaign.com/newsletter",
+      "title": "Blog | ActiveCampaign",
+      "shot": "emails/2026-09-23/activecampaign--archiv.jpg"
     }
   ],
   "poznamky": []
