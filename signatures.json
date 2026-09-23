@@ -1,405 +1,405 @@
 {
   "smartemailing": {
     "pix": "kpORkZKSkpKSkpKRm5+dnaCbnZaRkpKSkpOTk5GRkpLq4fDx7e7u7u7u7u7u7+/v7u7u7u7u7u7n4+Pk8e3q7fjp4vT++/z8/Pz8/Pv6+fr8+vv7+/r8+vj5+PTo5+f4+ta0z/j//v///////fTv9f7y+/f58//z8//06ry9vPNNTU5KS01NTU1NTU1NT1BPTlBPUE9RUVRTU1hWUlFPUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIGBgUKEgwFAwMEDw4PDw8ODw8PDw8ODg4OEA8PEREUFhodGiElHBcVFxkMDAoJBQgGBQYHBAkMCwwNDhISFRgZGx0ZGhkeHBkbGQwIHyAvKCQuKS0zEwkMDA4SFTI2Njc2NDw+HxMeICEaDQgqNTYwNTk3NSoVCQwMCQ4nLiAmKE9zSCovGiIlJSYNBjZeSEdWV1xLBwkMDAwtKjIrIBg2lmclITwlIysqJgwHK1duW0kJAwULDAsMJ1o9Mi03Vjs6OEMoPCIjLyQWDAkaLiMlIg4MDAsLCwwtMSY4LzFogmtHKx82Iy0sFxEKCwgFBAUGDQ0ODw0PEiA3ITo5MT5NRy0eETEgKSYRDgsGIz42OTkqLCoqKi4aAxANLS4gIRgaGBYcOh8QDg0NCggYIh4bIFtjX15hZlpIT1FaamxvbmxuXC8sEQ0ODAsLBDtvamto5fDw7Pj///////3/0L/HwsbREAwODQwMCwwDQXp0dHLg4d/d3t3f3N7c3/ykgIyHh8MVDQ0MDAoKCgkTFxUSFdv78fj5+vr5+vn6/4BQZF5UvBYLDQwLCgsKCgoKCwoKkamiqKurq6urrKqqm5OUk5qPDAwNCwsKCw==",
-    "struct": "1edb4bdf367a6404c17f11b567d2cda8ef953964",
+    "struct": "049384283222979ee84424c53b06b7ddb029201a",
     "h1": "E-mail marketing, který skutečně vydělává",
-    "ts": "2026-09-22T03:47:23.311Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "boldem": {
     "pix": "mI2Ml5ycmZKRlpiRkJSakpGSmpGQlpiQm52XkZaTk5uHe3qEi4qIg4KGh4KChYiDgoOJg4KGh4OJi4aChoSEiUNFRUJBQUJDQkFCQ0NCQEFCQkBAPz4+Pzw8PT4+Pj49QD8+Pj8/Pz49PDw8PDw8PDs6OkFCQ0NDQ0NDQ0JCQkBGSUhHSUdIR0ZLTElJSUVBNy0lf5OPkI6OjIqLhYOLcEVGR0ZFR0hCXcfd7ejq6OXi4OHw9u3fpJSXl5eXmJ91Wl1cW1RSX1Rn5+nx9fHu7/Hu7/Do5vWkkZiZmZeRmHNPV1FWVldaTGzq29fd4efx8O7u8+3v+6WSlZeXknyBb1ZUT1NZV1ZOde/q5+fr+P38/Pr5+/7+noyQj5CRkphzVFxaVVtbWj9X69vf4ODU09LX3uLj6/ulkZSVk5WVl3NCRkNEQ0RGO1zp2tze29ja4uXu7O3s+aeUmJmUlpicdHSLhIWFhoaBnvDl5uTl6OXOxM/Y1dLnp5OWlpSTl5p0V2ViYmNjY115+vf17PH49qWTmZ6WjsGulZiZl5ebnnU9PT4+Pj8+N1j+//7///n08/j//////pyJjIyGi4+JXj8/Pz8/Pj83V+Xd3t/e5OLd2+/u7u7uVDU8Ozo6Ojo7QUFBQUFAQEBBSkpJSklJSkpKSUhISElAPz8/Pz8+Pj6Pj4+Pj4+Pj46Li4yMjIyLi4uMjIyMi46Pj4+Pj4+Pj5ubm5ubm5qeoKGin5+foKGhoqGioKChn5ybm5ubnJycmJiYmJiXm4B4eHqGeniCfHp5gHqFgHyEl5iYmJmXZH2ZmZmZmZmbjYSDg46Ii4eEhoOAgoiIgoqWmZmZmZl2iA==",
     "struct": "8bc6cba1be4d58aa6780ad37168be22705d4acc7",
     "h1": "Boldem CDP systém pro marketingovou komunikaci",
-    "ts": "2026-09-22T03:47:23.311Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "leadhub": {
-    "pix": "TD8SHyUhEAsLChAsSFdbWlhZQUtFNE52eHBYYVJSPxJMRhUjLigQCgwNG0NSS1BdXUoyIBkeL3JzdWFiXE4/FUFBGAgIByY5GR81RFxeYlhEOy4pKy4wOUlRVGFdSzcTOUMYERM2UlI2PVNWXWBjU15QPEU4NUFugHBpdmtYPiGFbEw4OWRnWT5Rbn1ca3pncWpWU0pRO1Jjc4eNinV3eauZfGhnZl4+NkiLnpWZnKCckoxlea6Xd1lEQU9ranZ6p6K3sqiKdWZeg62/wMK4rru0pHOKnpqkpZt/XDdTcm2oorC1tZqFWXHArsK9urensbaYZJiUmJicoKCjX0plYaqmmpuSi4uRkaSgoZ2cn4uIkIJppKCioKKio6NOV2dgq6Kxwq6tsby2vre6vcKura2mjJ6xmpqbnJ2hjj5odXqopKujn5CVo6OMcI6ll4eKh45vdlJXgImKhY1iN15eXKipqKmnlY2TZysZFF53Vlh0TzUlHR0uQ2+FjUs+SVFPpqixtayhn4llWFdIW3NVS4F+TzgfIDMwOExtUlhISECkoqGbk5ORimZhXVlTS1AydnpjZkYnOTIvLTlOWEs/RKChlpSWlpORgz0aExEeRy05WWRqaWJkSUhYU1NeWDtGlpmWlpSTkIqKRQgMDi5IPzxOWGNac4l8YkxETU5JP0aQkZGTk5CNiIOAZA4cTEU/LDZJTytCblYsMTc7PTw9QoqIio2NjIqIgn6AV0xDPkAwNUQ1LC06QUFFOTQ6OztDg4OEiImHh4KDg4SHhWs6Miw9RjU6PT87Pzw5ODs6NTp5eHN2h4+NjpCPj4uIimpfZ1BLNzlFRDhFQUBCRzk2NA==",
+    "pix": "TD8SHyUhEAsLChAsSFdbWlhZQUtFNE52eHBYYVJSPxJMRhUjLigQCgwNG0NSS1BdXUoyIBkeL3JzdWFiXE4/FUFBGAgIByY5GR81RFxeYlhEOy4pKy4wOUlRVGFdSzcTOUMYERM2UlI2PVNWXWBjU15QPEU4NUFugHBpdmtYPiGFbEw4OWRnWT5Rbn1ca3pncWpWU0pRO1Jjc4eNinV3eauZfGhnZl4+NkiLnpWZnKCckoxlea6Xd1lEQU9ranZ6p6K3sqiKdWZeg62/wMK4rru0pHOKnpqkpZt/XDdTcm2oorC1tZqFWXHArsK9urensbaYZJiUmJicoKCkX0tmYaqmmpuSi4uRkaSgoZ2cn4uIkIJppJ+hn6GhoqJNVmdgq6Kxwq6tsby2vre6vcKura2mjJ6xoaKgoqOolEBsd3qopKujn5CVo6OMcI6ll4eKh45vdlRagJGRjJRoOmRiXKipqKmnlY2TZysZFF53Vlh0TzUlHR82P2uDikg6R1FQpqixtayhn4llWFdIW3NVS4F+TzggHSohLUdnR1JOSECkoqGbk5ORimZhXVlTS1AydnpjZkYmOjMyLzxQVkc/RKChlpSWlpORgz0aExEeRy05WWRqaWJkSUdZUVRTSjxGlpmWlpSTkIqKRQgMDi5IPzxOWGNac4l7Z0pDTVRIPkaQkZGTk5CNiIOAZA4cTEU/LDZJTixBblU3NTY6P0A8Q4qIio2NjIqIgn6AV0xDPkAwNUQ2KjtdQj5DPTU5OjtDg4OEiImHh4KDg4SHhWs6Miw9RjY6QEA8Pjw5ODw6NTp5eHN2h4+NjpCPj4uIimpfZ1BLNzlEQzhFQUBCRzk2NA==",
     "struct": "6bdfbe437acfc57226a58f2562ae320f209782cc",
     "h1": "Měníme data na efektivní marketing",
-    "ts": "2026-09-22T03:47:23.311Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "targito": {
     "pix": "7+vr6+z5///////////////////////86e3x6vT29fz39PT29/3///////////////////////32+Pno6fv9/v////////////////////////////////z9/PPp9////v7+/v7///////////////////////7/6tvj6tzn///////////////////////////////////8+fn8///////////////////////////////////+//Pt6vb//v7+/////////////////////////////////fr9/vf5/vz////////////////////////////////08v7/+/z///////////////////////////////////X3//z+/v39//////////////////////////////////79/f39/fz////////////////////////////////w8P/+/v7+/v///////////v7//v7+/v7//v7+///+/v7+/f39/f38//////////////////////////////7/8/L//v7+/v72/f3+///+//bw/PD4+O/x+PL59vb38Pn59//9/f39/P7+/v///////Pr++/39+vv9+/38/Pz6/fv4+/7+/v7+//////////////////////////////7/8+n1//7+/v7///////////////////////////////7+///+/v7+/f////////////////////////////////3////////+/////////////////////////////////f////////7////////////////////////////////9/////////Q==",
     "struct": "9c8c6b7ffa4510af4589bc8c5cc2a4795d10ed48",
     "h1": "",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "incomaker": {
     "pix": "3tvT6P/+///////////////////////////////////t6efv8u/w9f/////////////////////////////////+///+/f7+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
     "struct": "2a825e7979a9766b660153634df97c44ca7e606b",
     "h1": "Not Found",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "emailkampane": {
     "pix": "7eLq//j4+P38+v35/vr4/f///////vv++fX/5MzRzN/j0uT/9/f3/Pv5/Pj++fb9/v7+/v79+v349f7iyc3J3f///vz9/v79/f39/vz9/f38/P39/f3+/f7//v7//////v7//////////////////////////////////v7+/v7//s/e1t3d5tvV4+Xe2dHk4OT6///////////////////82tPGwMTLwMHOyMG/w8jMxPP//v////////////////7Vze3s397k5d7i5e3l5ufl3fv//////////////////NTe7urh6OTk5OTn6OLm5eTm/P///////////////////v35+fr7//////////////////////////////////+ypauqpq/7//7+/v/+/v7+/v///////////////////+Pe4N/f5v7//////////////////////////////////v7+/v7///////////////////////////////////////////7////////////////////////////////8+/r6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vv7+/v7/Pj19vb29/r7+vv8+vv5+fr6+/r7+/z7+vz89/b29vX4+Pf39/jw5+Hm3t3n4ero5OPh5OPd3eLk3N3z+Pf39/j49/f3+PDk3OHV2eLe5OLf3tvh3Nja1uHZ1/L49/f2+Pj29ff29/r6+v38+/z7+/z8/fv8/fz9+vr89/b39/f5+Pb58fPy8vz29fj29PX19fX19vb29vfx6+3q8ff29vb49vf09PT09/b37fP5+Pj4+ff19vb29fno4ejo5uvx6w==",
     "struct": "5f19cb610369ae26e91e7dfbed126b7263ec0c7e",
     "h1": "",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "emailmachine": {
     "pix": "//Hj3+Dc3uH6////8/Pv8fby9PH1vZuu79nY197q6v//8OTb39na2/f//v719fLz9/X09Pe7obHv3dzb4+TZ//f6/P79/v7++Pb39/n6+vr5+fr6+//4+/v9/v79+/z29/b29vX29vb39/f39/f39/f39vnqdy5//fX29fb39vf4+vz7/fz5+Pj4+Pj4+Pj4+Pj3/8g9dmXm/Pf9+/f4+Pvv6ezj6PT5+Pj4+fn6+vr6+vf+6quljen9/t3i/vn6/Ozg39fe9P/9///+/vv6+vzt3u30x4Cn9PKdbOj++fr929Ld2tDEytXMyr7G9/r78drY6O3Tgafo69LF/vn6+vzf4Ojn4OHh6eHf4t33/Pr24enq4+ni4ODc7fn5+vr6+/Dp7uXp5urr6ejt7eTu/Pz66N/n6N7i48va+vv7+/v96dvi7Orr7O7r6e3q7u76/Pjo6/Xz5+/u2Nv7+/v7+/v18vb+/f39/f3+/f39/fv96OD53uXl2d3uwer9+vv7/+bKyub/+/z8/Pz8/Pz8+//XptvVv8i3zc+J3P/7/Pz99ezt9v79/f39/f39/f38//Sr1OzJ0Mzo0bj9/vz8/P7+///+/v7+/f79/f7+/vz8++PT09PR0by5w8PS8f/+/v39/f3+/f3//v/+//7+//3kzMPJxc3b2dvi6PH8/v7+/v7+/v///ev/7vH//f/T1f/+//7////////////+/v/////+/+Byrf/IctH/6V5p7v+Qq+z/uHve//z///////////7/7aXp///c7f/5naL8/uig2P/OfdL//P///////v39/f/06vD/9eTq//Lk5vb96uv1//z//v/8/f3+/w==",
     "struct": "4298975f907423f3a92957a0ba9b59d5e1bcd8aa",
     "h1": "pro e-mailové rozesílky",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "smartmailer": {
-    "pix": "7Ozs59/W7Ort7O/q7PHu7+7s6e/t7ujk7rmtrNj69/nt7e7p39Pu6Ozp8Obn8evv7Orm8e/w6eDvrZ+b0Pz3+u7u7vDy9vHz8/X29/j49/j39vXy8vHy9fP8///78/n67+7v8PDw8vP09fX19vf29/b19PT08/Ly8/X18/Xw+frw8fHw8fLz8/T19fb49/f3+Pf29vX19/n98Ov0+Pj3+fLy9Pv8+/z9/f79//3+//z49/f29fz//v7v5t3t8Pn28/PowMzV08G40MHM5djT5P349vX9//3Vrt2picq55vr29u+0rai7sKans6XZo7rF//n1+v//+qSm3aKzwdrw9vb6783Owru9v8e9xMO+sNr/9/b+////7uzFg8i8s/Px+Pruv8m6rdHDrr6nrb201f/19//+//X3+sl+nNja/O/3+Pju7/L28fb49/T49/X6+vL1/fv9787K6peTvdn57fr7+/b4+P7/+/r6+vr69/j3+vv////+/+2/zq7T3/vo+/3zvr2+vbjr//v8/Pr59/m7orC1srWx1M3K2O33+uL7/+yCgoWHetv//Pz6+fj38J7T0L/FlZnF+521/+zm4P39/fn39/v69vX0+Pn49vXquOrIyevp2sP/+fv/8drj/P39+vr6/Pv6+Pf5+ff09Ouv0s/9+//kxP/9//PY3OP9/f3+/v79/v36+/n39fLx84CQr8jBwqi5/+/g0tnf3/7+/v7+/v7+/Pr6+Pb08vDmuKKjoaCgnsXV0NPa3d3e/v7+/v7+/f37+vr49vLx7+Xp7Orm5eXj29fb3N3d3d7+/v7+/v79/fv6+ff18vDu7Ofl5OLh39/g39/f3d3c3A==",
+    "pix": "7Ozs59/W7Ort7O/q7PHu7+7s6e/t7ujk7rmtrNj69/nt7e7p39Pu6Ozp8Obn8evv7Orm8e/w6eDvrZ+b0Pz3+u7u7vDy9vHz8/X29/j49/j39vXy8vHy9fP8///78/n67+7v8PDw8vP09fX19vf29/b19PT08/Ly8/X18/Xw+frw8fLw8fLz8/T19fb49/f3+Pf29vX19/n98Ov0+Pj3+fLy9Pv8+/z9/f79//3+//z49/f29fz//v7v5t3t8Pn28/PowMzV08G40MHM5djT5P349vX9//3Vrt2picq55vr29e+0rai7sKans6XZo7rF//n1+v//+qSm3aKzwdrw9vb6783Owru9v8e9xMO+sNr/9/b+////7uzFg8i8s/Px+Pruv8m6rdHDrr6nrb201f/19//+//X3+sl+nNja/O/3+Pju7/L28fb49/T49/X6+vL1/fv9787K6peTvdn57fr7+/b4+P7/+/r6+vr69/j3+vv////+/+2/zq7T3/vo+/3zvr2+vbjr//v8/Pr59/m7orC1srWx1M3K2O33+uL7/+yCgoWHetv//Pz6+fj38J7T0L/FlZnF+521/+zm4P39/fn39/v69vX0+Pn49vXquOrIyevp2sP/+fv/8drj/P39+vr6/Pv6+Pf5+ff09Ouv0s/9+//kxP/9//PY3OP9/f3+/v79/v36+/n39fLx84CQr8jBwqi5/+/g0tnf3/7+/v7+/v7+/Pr6+Pb08vDmuKKjoaCgnsXV0NPa3d3e/v7+/v7+/f37+vr49vLx7+Xp7Orm5eXj29fb3N3d3d7+/v7+/v79/fv6+ff18vDu7Ofl5OLh39/g39/f3d3c3A==",
     "struct": "058e1d938385365783aa869297b1e210b102e27d",
     "h1": "SmartMailer pro e-mail kampaně.",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "intelimail": {
-    "pix": "/fz/8uXn5e3/9vny8vP69/b2+PP8+vbfxMXU+/z9/f34+Pn07+7u8/j19vLz8/b19PX18/f39Ozh4ef3+Pj4+PT09PX29vb08/T09PX19PT09PT18/T09vj49/T09PT09PT08/Pz9Pf2+Pf39fX29/b3+Pb59/f39/Tz9PT09PT09PT08/faxMS+zMfR07/KzNDEvMjDzsDD4fbz9PT09PT09PT09e7q593q5efo4uTh3dvc29/l3+Xr9fT09PT09PT09PT09fb2+Pbz8/b39vT29vPz+Pf49/X09PT09PT19fX19fX19fX09PnllZOWlpOS5fnz9PT09fX19fX19fX19fX19fX19fX19vDV1NbV1dXv9fX19fX19fX19fX19fX19fX19fX19fX19vz8+/z9+fb29PX19fPy9PX19fX19fX19fX19fX19fX28eTCrrfE3O/29fX18/L09fX19fX19fX19fX19fX19enSubHAvbKapOD29PX19fX19fX19fX19fX19fX19fTu3srC2cW4qpicquj39PX19fX19fX09PT09PT09PT09OTh3slno8CtpK+auO/18/T09PT09Pf39/f39/f39/f04tfhu1qf1p2Xg52k2fv29/f39/f3//////////////7w98yie8LEiYeIk6TB//3////////////////////////I5+JI4fGapKaiirv//v//////////////////////++P/wsmuoL3DtrR/xv/+/////////////////////////v+49MiTvqW2mIjn//7//////////////////////t7DuaCwlHuCnrGNzP///////////w==",
+    "pix": "/fz/8uXn5e3/9vny8vP69/b2+PP8+vbfxMXU+/z9/f34+Pn07+7u8/j19vLz8/b19PX18/f29Ozh4ef3+Pj4+PT09PX29vb08/P09fX18/T09PT18/T09vf49/T09PT09PT08/Pz9ff3+Pf29Pb29/f49/f59/f3+PXz9PT09PT09PT09PLMx7/Dy8jXysPKzszAvMjEzbzB2fP09PT09PT09PT09Ovr4uHs5enl4+Xg29zc2eHj4eTp8/T09PT09PT09PT09vb4+Pbz8/b39vX29vT0+Pf49/b09PT09PT19fX19fX19fT09PnllZSWlpOS5fnz9fT09fX19fX19fX19fX19fX19fX19vDV1NbV1dXv9fX19fX19fX19fX19fX19fX19fX19fX19vz8+/z9+fb29PX19fPy9PX19fX19fX19fX19fX19fX28eTCrrfE3O/29fX18/L09fX19fX19fX19fX19fX19enSubHAvbKapOD29PX19fX19fX19fX19fX19fX19fTu3srC2cW4qpicquj39PX19fX19fX09PT09PT09PT09OTh3slno8CtpK+auO/18/T09PT09Pf39/f39/f39/f04tfhu1qf1p2Xg52k2fv29/f39/f3//////////////7w98yie8LEiYeIk6TB//3////////////////////////I5+JI4fGapKaiirv//v//////////////////////++P/wsmuoL3DtrR/xv/+/////////////////////////v+49MiTvqW2mIjn//7//////////////////////t7DuaCwlHuCnrGNzP///////////w==",
     "struct": "b5b76b3582643c942041019e3168511d13ecc07f",
     "h1": "Inteligentné riešenia podávajú výkon|",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "quanda": {
     "pix": "4uTdwMzL7P78////+vzy3+j++fn5+/78/vLluLbe4uDh49u3yMvt/v345+Dh6erL5eLb8+La6/398uSWkdri4OHh3+Ld4vH+/f35+Pn9897v+vj99PT6/P7y5ejp4uHf4ODd2dne8P37/f/////14u///v/4+v36/fHk3d3f4efg4NzZ3Of5///////+//jo8//+//z9////9+rg3+Dh4+Df2tzKusrR0NXV1dzRvcHO39Ll2dXd1dPJw9Dh4N/d39/a2tLK2+HbzMrQ3NbKssfXy9fSzs7Z5NXL1t/f393f39rY2uf6/+LT1snV4dG80djTzNTO0Ov/+Orf3d/f3d/e2Nnl7fj68ff28vHn7PL9+vr/7PT28fzz493d397c3t7X4O30+v309vPv6d/i4N/f4PXu8vPx/fTk3Nze3dzd3dfc3Ov5+/++U5b76ert8fv7/7+c2f/99OPb293d3N3c1tTQ4vj4/OG1zsahqLfw5On73dfx/Prz5Nzd3tzb3NzW1M3p////////9/Tu5vj54+b6//f4//baz9Hb3dra29bS1uS6j4+QmJiXmZGChbO/vLa/qsLLvKS+p6jh19zZ0czZvRweMkU2Ky0tLjUobrSycJnAvYdnqMufluLZ/Pbs3+HFGLv68/Pt7u/s8fLs0c/s5c3g2ER11LTR+vv///////e95fbx/Pv09//+/v/9/P//+vrtx+j////////9/f7//////////fTx+//+/Pz//v7////////+/f7//////////P3+/v///////v7//////////vz+////////3Nn//u79////////+Nn//5uU+///////////+/r9/w==",
     "struct": "e8fbdb77a3c748415536d068427cc6dd4e0e86f9",
     "h1": "Marketingová aplikace pro automatizaci prodeje a zákaznické péče",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.844Z"
   },
   "mailkit": {
     "pix": "+fn5+vPLzNb5+fr07/fs+e/w+O73+Pnz8+rl9/n5+fn8+/v8+u3u8vz7/Pv3+/f8+Pj+/v////39/fz8/Pz8/P/9///+/f/+/v78+//9/v/+/+/h5Obl6Onp5fv//////v3///bEw8TZz7u+v8jj//v/lFp4YmZqf2JV5P/+///y7///98rFzdPY2dO/xdX3/v+WSWKHkG1unnze//7///v8///wwMvJzMvPztnb3/f+/5NuwdSkjKPkl9r//v///v7///nJv8jKy8jV8v/+//3/iGSWdHjl9fyQ1f/9///+/f//88rJzM29wMe3sMTJ+f/AipuhoNbc7MHo//7////9/f/yyM3LzPH78/fz+vn+//PPztHV1szm//3///////37/+Z7g4N65//+////////89vY3/j5+fv9/P///////f39/PPy8vP8/v7//v7+///9/Pz+/f39/Pz+///////9///////////////////////////////+//////////3+///09+vr7fj/9/j48v3///z1+/Py9/////////////3+/+z26ern7v/y8/Pq+P///PD47O35//////////////39/v769//+/v/////+/v7+/v7//v79/v/////////////+//bu//39/f39/f39/f79/v39/f39/f7//////////////////////////////////////////v3////////////8+vv8///////y8vPw8PT59u/z9f///v7///////////Dj4PT6+/7+/9S+ysbDxdPHuL7R//7//f/////////v6srk+uLA+f//zbi/tsr//v/////////9/g==",
     "struct": "c863ee54a595016c4a28688eaad7798d68cc23cc",
     "h1": "Česká e-mailingová\nplatforma se snadnou implementací a profesionální podporou.",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "clipsan": {
     "pix": "ysrKyMHHysrKysrKysrKysrKycjIyMjIyMjIycjKysrBwcK8t7zBwcHBwcHBwcHBv7+3r7Ovs7CwsLG0sb/Bwbm5ubi2t7i4uLi4uLi4ubjBycfGxsbGxsbGwsHBubm58fHx8fT09PT09PT09fXy98GTmpmampqampmusbjw8fH////42+Hh297d4N/Y3+L/g6PDv8XFxcTHubHAhu///v7+/v366NbO087OydLz9f+P5//+/////v/uxtmV6//9///++v39+vr4+/n7/v/9/43f//v58fz19fPl8pbq//7///3d3N7b3drc3OPy7+7/juD+9vX1+fb1/P7/l+j//v///NrU3dvU3NnY3O/u7P+O1fj1+OPN0+v7+f+S6P/+///95uL1/v7+/f7+///9/5Hm//7/7NDN8v/9/5Pn//7///3x7vDx7vDx8PT///v/f4KgnqGQdXh4maSlaO3//v///uTa3t7b297d5Pj4/f/VoKakqHpha6ClpaG8//////7/8OXp6evv9/L5+vn+//////7/y6u19//+//////////3p4uTh7Ozu+////////fv99d7LwMTY7P77/P///////une49zi6er8///////9/P/osLi7vK/P//3///////7/8ebq6fH4//v7+vz9//////rr6eXk5/P//v///////v/z5vHy7+/w8/r39fj/xMDVxLzD5uPe4+v0+v///////uTd4d3i3N/l5O7//f/Px8nDyM756+Pj5e/3///////+6ePm5OXk5eXj5u71///37P/+/9n0//bp7vv///////zj7ezs7ezs7u3r6er6/+nl9//QQqL/4Y+X6//+/w==",
     "struct": "d356334427b6ba4384bdc609d290eefb291214b9",
     "h1": "Chcete efektivně komunikovat se svými zákazníky?",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "samba-ai": {
     "pix": "5+bt5fD28PPx8/Pv8vPw9vj4+fr6+/r7+vfmzNDT2vTB19/Q5fbn7+js7eXp7ubz+fj5+vr6+fv579uws7fD8Pj4+vz59/n4+fj5+vn5+vj4+Pn6+/v6+vv9/f/////89fT09PX19fb29vb29vf29/j4+fr6+fr6+vr6+fn5+fv19fX19fX19fX29vb39/f3+Pf5+fv//Pj5+fn6+/v7+/X19fT09PT19PX19fb39/f3+vj7+eT1//7///37+/r68/T09/j39/T39Pn6+Pb3+Pnu9u55QU+128651/75+vr0+MKzvbzEy73Qq8LG0/3zzb/z2FNzPT5+mJTI//n6+vP3xbbAxbu7vL3M5+fu+8mSnszAjHpleJChrdX++vr78/TVzs3b0snUxuj9+fb6woCfh5SUXWWOjnZqs//5+/vz9OLX4d7X1NnY1MvS7fy/goeCmGKoxrmvoJTI/fr7+vP1z7zO0M3PzNHS1dLd+ciVhH+JbL7s0tjOyNDm+/n58vLq5+ro5uXd5ePk5fP6xqa2kHZwtd+vt9vS4fb4+fnw8eXb4OXy9vb19vb18vnCvuff39CkrFpRg4SZ8fr3+O/0xJyoueny8fLy8vPy+b/E/djh86qHPlCJjqX1+fj47+/w8fLy8PDx8fLz8/L3zbfIsbTNwq+httnu8/r3+Pju7u/v7+/w8PDw8fHy8/Pz7+719PD0+P36+Pr49vf39+3t7e7u7u/w8PDx8PHz8/P09PX29fX19PT19vb39/f37ezs7e3t7e7v7+/w8PDx8vLz8vP19PT09PT19fX19vft7u7u7u7u7+/w8PDx8fHy8/T08/T29fX19fX19fX29g==",
     "struct": "e99d3b20a3c580fa51ddaca24c9665b51a8b1b0d",
     "h1": "Maximize the Value of Every Customer",
-    "ts": "2026-09-22T03:47:23.312Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "mailchimp": {
-    "pix": "TUxOUlFTUVJQVFdXV1dXV1hXWFhYV1ZWVlZWVlVRUlI6N0C72tXV1tbU2NjW2NfX1dfW0dLRz8/Pz87Tuj84PWtjcfDk3+jg4eHe6O/p4eXy6fH//v///////v/vcmdzTUtU6OPU3dzX29bU39TU2N3V4v/7/P////38/+Y1JShEQEvp9+/v8fHv7/T6+Pf59/r7/v/+7vT4/v7/5iYVGUVBTOn//P7+/v79/v////////7/76Buk7Du///mKhkeREBK6e7o7enl9v/+//7+/v79/+7MzOPu+//7/+YoGB1EPknp+vT6+fn6+/v3/v/////+y+7+9vn5+PL66CsZH0RBSen/+v/+/v///vn+///+/+mn7fP06/zy+/7oOisgPDZC6Pn08/P08PT18/Tx9Pz/04Lp+P3/9/D5/+g8K5wvKjnn7ufv8vHu8PHw9O/0/v/Za9zp8vLy/f7/5zglp0E7ROj/9Pf8//////v6+vr2//t9yvbi3NrXqOTsMCo3PjpE6P/v7vH2/f/88u3w7PP+/8yElnZZRSti++gpJTM/OkTo/+/w7vL///zy7/Lx8Pb+/8RvY19wofH/5ScfMz86ROj/7e/v9v///PTw8vDw7vv+//nh7/3//P/lJBkvPztE5//w8PT////99PLz8ff////+///////+/+UjFCc8Nzfk//39/f7+/v7+/v7+/v7+/Pj5+fLx8vD/5CARHmhkau3//v/////////////////87/H22dTW0/LvZ11hdXN63/Pv7+7u7+/u7+/v7u7u7u7u7u7u7e3s8t56dndzbV9jYmJhX2RkZGNhYWVzc3Nzc3R0c3R0c2xramlxcg==",
-    "struct": "d51ae5ebc1bc2dabde232d93d8fbb215f719fb16",
+    "pix": "TUxOUlFTUVJQVFdXV1dXV1hXWFhYV1ZWVlZWVlVRUlI6N0C72tXV1tbU2NjW2NfX1dfW0dLRz8/Pz87Tuj84PWtjcfDk3+jg4eHe6O/p4eXy6fH//v///////v/vcmdzTUtU6OPU3dzX29bU39TU2N3V4v/7/P////38/+Y1JShEQEvp9+/v8fHv7/T6+Pf59/r7/v/+7vT4/v7/5iYVGUVBTOn//P7+/v79/v////////7/76Buk7Du///mKhkeREBK6e7o7enl9v/+//7+/v79/+7MzOPu+//7/+YoGB1EPknp+vT6+fn6+/v3/v/////+y+7+9vn5+PL66CsZH0RBSen/+v/+/v///vn+///+/+mn7fP06/zy+/7oOisgPDZC6Pn08/P08PT18/Tx9Pz/04Lp+P3/9/D5/+g8K5wvKjnn7ufv8vHu8PHw9O/0/v/Za9zp8vLy/f7/5zglp0E7ROj/9Pf8//////v6+vr2//t9yvbi3NrXqOTsMCo3PjpE6P/v7vH2/f/88u3w7PP+/8yElnZZRSti++gpJTM/OkTo/+/w7vL///zy7/Lx8Pb+/8RvY19wofH/5ScfMz86ROj/7e/v9v///PTw8vDw7vv+//nh7/3//P/lJBkvPjtE5//w8PT////99PLz8ff////+///////+/+UjFCc+OTnk//z9/f39/f39/f39/f7+/Pj4+fLx8e//5CITIC4pNej//v/////////////////98vT53NfZ1fXqMCEnIiAqyuni4+Pj4+Pj4+Pj4+Pj4+Pi4uPi4uLh6corISRZWVdaW1tbW1tbW1tbW1tbW1tbW1xcXFxcXFxcWldYWA==",
+    "struct": "1cc3c96cc1790c6da0533632232f40dbfb6a2846",
     "h1": "Email & SMS marketing minus the learning curve",
-    "ts": "2026-09-22T03:47:23.313Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "klaviyo": {
-    "pix": "//jn6PD4+fr19fn59fz39vj6//7/8Pb+7pWO4PTw/f//+OTl9vj6+fb1+fr2/Pj4+PL4+Pbg5ObkmJHb7en4/////////////////////v/0ubW6lXh5erPJyby7t8r///z39fn6/////////v/9//Cmo6iBYWFxpJ+enp6ZvP//6ert7e3x9fPy9f7///7/8JiEhXZnZ257enp7f2+j///cyNzXztDUz8vF9P/+/v/wgnmGiIqIiYyLjI2TdpL//97T4d7g2tz//v/////+/+12cH1+e3uAfnt8fYNpjP//5dXY2ODe4/H2+PT9//7/62tldHl0e4iAd3h3eF2F///a0dja1dzZ19PWzO///f/pYFdnbmxzeHhxbGxsUn////Hp6+fr6unr6ejq5/D//+dVT1lWb4J+e4BjVl1HeP//9vDy7/Dw8Pv99PDv8v3/5ElDTU1OUE9PUE1LUDtx///7/Pz9/f77yb/0//7//f/iPjg/Pj49Pj8/QEBEMGn//vTw9Pj3+fN7ZeH/+/38/984KiopKSopJSUmJikfZf////////////////////3/3CYfISAfIBkUExMRGBNb/+Df39/f4ODg397d3+Df3ePDNzIyMzMwLi4uMDE1K2HkjJOWlpWTkI2MjqKSi5WYmZeRk5uTkaKipKaajpSTjYteYWFhYV9eXl9fZ2JfY2ZmZF5gZGBeZWVmZ2Npa2dqZSgzMTAwMDEuJSMhJCUkJSMjJCYiJCQkISIbOKGaeadrHB0dHR0dHR4cHR0cHB0cHB0cHB0cHR0dHRsdLC4oLidAPz8/Pz8/OTQzNTk2Mjg4MzQ1NDY2NTc0QEBAQEBASQ==",
-    "struct": "2e8708b55b142696758af34ac58d9390761ac99b",
+    "pix": "//jn6PD4+fr19fn59fz39vj6//7/8Pb+7pWO4PTw/f//+OTl9vj6+fb1+fr2/Pj4+PL4+Pbg5ObkmJHb7en4/////////////////////v/0ubW6lXh5erPJyby7t8r///z39fn6/////////v/9//Cmo6iBYWFxpJ+enp6ZvP//6ert7e3x9fPy9f7///7/8JiEhXZnZ257enp7f2+j///cyNzXztDUz8vF9P/+/v/wgnmGiIqIiYyLjI2TdpL//97T4d7g2tz//v/////+/+12cH1+e3uAfnt8fYNpjP//5dXY2ODe4/H2+PT9//7/62tldHl0e4iAd3h3eF2F///a0dja1dzZ19PWzO///f/pYFdnbmxzeHhxbGxsUn////Hp6+fr6unr6ejq5/D//+dVT1lWb4J+e4BjVl1HeP//9vDy7/Dw8Pv99PDv8v3/5ElDTU1OUE9PUE1LUDtx///7/Pz9/f77yb/0//7//f/iPjg/Pj49Pj8/QEBEMGn//vTw9Pj3+fN7ZeH/+/38/984KiopKSopJSUmJikfZf////////////////////3/3CYfISAfHxkUExMRGBNb/+Df39/f4ODg397g3d/g3eTDNjIzMjMyLi8vLjA2K2HljJOWlpWTkIyOjI2ilIqUmJmckZKblJChoqSmmY2SjoteYWFhYV9eXmBfX2djX2NlZWNfX2RgXmVlZWhtaGdrZSgzMTAwMDEuJSQkIyQlJSMjIiYjIyMlIiIbN6CaeadrHB0dHR0dHR4cHR0cHB0cHB0dHB0dHRwdHRsdLC4oLidAPz8/Pz8/OTQzNTk2Mjg4MzQ1NDY2NTc0QEBAQEBASQ==",
+    "struct": "0311f15510a67d6edfe1e249e4a0a40284554698",
     "h1": "The AI marketing and service platform built to deliver personalized, omnichannel campaigns and 24/7 support—all from a single prompt.",
-    "ts": "2026-09-22T03:47:23.313Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "brevo": {
-    "pix": "7ODl5uHq4uLq4ufi4+vt7e3t7e3t7evi7b+Dicna2Ozs3+Tn5Ovl5evl6OXl7O3t7e3t7e3t6+LrwIeLzODd7O3w7u/u7fDv7O/u7u7t7e3t7e3t7ezs7+z0//7z7+/t7O7hwc/DxN7x7vDv7+7s7Ozt7e3t7/Dw9eS06Ovm+Pvs79/Bzsm+v8zLx8TH1fHv7+3t7e7q8PTs4cr64u3v9O3u5NbV1dbV1tfV0tXX3d7h7O3t7ujw9ezt+/3a7vLz7e3r4uLl4d3f397d3d3b2+Xt7e3u7O729PPv7Nzm8+/r9rpQW0um59nd3ejx8PDw7+3t7e3t6/bq5fDs4e/z8ev2uU5aSaLj1dfY5e3s7Ozt7ezv8uzw8ujg7PHd7ezw7e7p3eHh5ezt7e3s7e3t7e3t7Onh0+Pr9f39++/v8+/s8N3K087o7u3t7e3t7e3t7ezy0Iyfy+ru+O399PP/9Ozt7e3r6+3t7e3t7e3t7e3t7PHWlJ/I7+358e31/e/z8Ozt7e3t7e3t7e3s7e3s7O3s79al2u/w2dfe4/Lx9vb9+/z+/f39/Pz7+/z7+/z//fr98dz2///t7PX6/v7//v//9+Tk6env7fj/8/r/9dr0//LJ///g2P//7vL////////47e/s8/79/v/4+//55/b/+d7+//Ll/P/09v///////////////////v7///////////////////////////////////////////////7////+///+/v///////////////vj4/f38/Orv///////////////////////////////98PX//v38wM///v///////////////////////w==",
+    "pix": "7ODl5uHq4uLq4ufi4+vt7e3t7e3t7evi7b+Dicna2Ozs3+Tn5Ovl5evl6OXl7O3t7e3t7e3t6+LrwIeLzODd7O3w7u/u7fDv7O/u7u7t7e3t7e3t7ezs7+z0//7z7+/t7O7hwc/DxN7x7vDv7+7s7Ozt7e3t7/Dw9eS06Ovm+Pvs79/Bzsm+v8zLx8TH1fHv7+3t7e7q8PTs4cr64u3v9O3u5NbV1dbV1tfV0tXX3d7h7O3t7ujw9ezt+/3a7vLz7e3r4uLl4d3f397d3d3b2+Xt7e3u7O729PPv7Nzm8+/r9rpQW0um59nd3ejx8PDw7+3t7e3t6/bq5fDs4e/z8ev2uU5aSaLj1dfY5e3s7Ozt7ezv8uzw8ujg7PHd7ezw7e7p3eHh5ezt7e3s7e3t7e3t7Onh0+Pr9f39++/v8+/s8N3K087o7u3t7e3t7e3t7ezy0Iyfy+ru+O399PP/9Ozt7e3r6+3t7e3t7e3t7e3t7PHWlJ/I7+358e31/e/z8Ozt7e3t7e3t7e3t7e3s7O3s79al2u/w2dbe4/Lx9vb9+/z+/f39/Pz7+/z7+/3//Pr98dz2//7s7fb6/v7//v//9+Tk6env7fn/9v3/7t35/+HT//7W4v/86fb////////47e/s8/79/v/6/v/16Pv/7+T//uzq//zw+f/////////////////+/v///////////////////////////////////////////////v7///7+///+/v///////////////vj4/f38/Orv///////////////////////////////98PX//v38wM///v///////////////////////w==",
     "struct": "cbe979a8e15ac0aecb6dcae76a0e624dfac48c16",
     "h1": "Turn Every\nEmail\nSMS\nOrder\nInteraction\ninto a Lifetime Customer",
-    "ts": "2026-09-22T03:47:23.313Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "mailerlite": {
-    "pix": "///76eTp//fx//b4+vD9+/P9+vH7//j1+vjtx8f1//76+/fi6PT79fD48fL07fX07vXz7vDz8vP29ezQ0PP8+erq6+7u6+nr7N/d3Nzh29fa19riuaTS8Orr7fHy6+nm/Pz8+/r6+vv7/P39/Pv9/f38/fz7+vv7/Pv7+vr8/Pz////7/////v7+/vz//v3//v/+//////////////////7/7LWxrKzanKSYsJufoZOboef//v/////////////////649nQ1uvB0cjfzcLExNa87P/9/v7+/v7////////+//CrtcO+qZWxubfJn7GxrdD//v//////////////////9dri5ePf4uXk4+jk6+Xj6fXz9vX09PT0/f/////////98fTx8vTy8/Dx8fLx8/Tx7uzv8O7u7ev8///////+//O7vrjm//j9/v///////////////////////v////f788/Szuf18vf4+fr+/v7+/v7+/v7+/vXv+P//////+f7//////Pf8/Pv7/P//////////////59rq9PP1/v/4/v79/f3++P3+//7//v7+/v7+/v7+/v759v7++/z+//j39fX19fTu9Pb29vX19fX19fX19fX19P345Oj8+vX/+Pb19fX19O718fHx9Pb29vb29vX19fXy7urk5ezv9P/49vX19fX07vbd1NPo7+/v7+7w9fX19fHt8vLy8fP1/vj29fX19fTu9eji6O7s7e3u7O7z8/Pz8vz/////+PT/+Pb19fX19O/x2dnY2NjY2NjY2NbW1djt/P7+/v/45+D49vX19fX07/LW0tPT09PT09PT09PS1u79//////nl3w==",
-    "struct": "8841c5c4811dbb9889e0f4a6d8aee82e9d67f049",
+    "pix": "///76eTp//bz//f5+vD8/PT8/PH4//j1+vnuyMb1//76+/fi6PT78vD48fLz7fTw6vX27vP58/D19e3R0PP8+erq6+7u7Ofe4N3Z29nf06my2t/f3t7f3+Hq7fHy6+nm/Pz8+/n6+vz8/P39/Pv8+vr7/Pz8/fz8/Pv7+vr8/Pz////8/////v7//v3///7////+//////////////////7/7Kmrp5vZpZiPnqaYlZaGmbv//f/////////////////53tbNzurCycPU1by/wc6/yP/8/v7+/v7+/v/////+/++krbm7ooumrKzCj6Kwqbv//v//////////////////9NXf4+Ld4OHi3ejf6OPh5fX28/X29fX09vT8///////+8/bz8/X19fXx8/Xz9PX08PLt7/Dw7+3v7vv////+//O6vrfj//f8/v////////////////////////////f688/Szeb28/X4+vn6/v7+/v7+/v79/vby+P///v3/+f///////vn+/v39/f3/////////////593k8/T4///49fPz8/T18Pb3+Pn6+/v7+/v7+vn59vT29fX4+vLr//ailJyfo6emsLe+x9DW2tzb2tfPw7KWiPL/9fT/tDj99p+UnJ+jqKiyuMDI0tjc3drWzb2mi21ZkJSKiJViMPv2pZqhpKmtrbqvsLTI1NbUz8WznX5gRT2mt7Sxunov+varoKeqr7O1wcHDyNPV1M/GtZuBY0syNOz//vz/ryH79rKor7K3vL3J0tbW1dXU1NLPzMjDxa455v/7+f+qXOj2vLS5vMHGx9HU1NPU1NTU1NXW19fdxTno//78/6tz7A==",
+    "struct": "59a79ff5e661d1a146825358d39b7cebfa7ec853",
     "h1": "Create\nemail marketing\nautomations\nlanding pages\nsignup forms\nwebsites\nyour audience will love",
-    "ts": "2026-09-22T03:47:23.313Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "omnisend": {
     "pix": "9O/o7uzs5+zz9PT09PT19PT19PT08/Pz8/T08enl8fT/8+f38fj////+/////f7//v7////////y6fLmk4vk/2pqaGdnaWpqamhpaWlqaWppaWtqamxsbWhobGxgXmxvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEGDQ8NBAAEAwAAAAABAQMAAAABBAQEBAQEBAcIDBAWGR8jMSYfFQArZz03VUVQMnN0dE8AAgABAAAAAQULEg9Cp0kOJhwUAChuXmx6O3NMaXlzVwACAQABAgEAAwoUEF+yVxsiHRMAInRlYXVwd3lnWQAAAQIBCwMAAAEDCA4QSnU5MBEmKwAYP0M/O0dDOlJsCQUCAwA1VTkHAAEAAg4yIRkqCjY2ABEjJiUmEiUgJB05EwAEAB9XayABV1ciERgPGR8hOC0ACRgZFBEVDxQNCQIBAggPEi1MKh2Wvqw1GiAXFRIcJgADBAQBDA8NDwUCAQEDCRMWEjE4DS1ShnEWHBQYEREaAB9cUF0sBA0MCgIAAwQHDCYrCyktHhsfIBITFBgLDxIAN56Jn1APHBoRAwEDBQcGJD0aEhgiLhkiEg8NCwgZCwEBAAAABQkBAAEBAwUGBgkMDh4dExMVGREKCRQVHyQHAQAAAAAAAAAAAAAAAgMDBgYGBQUICQwKBAoVEAwNCRsECQgICAgICAgICgsODg4UExAQEBAREA8OGRQPERIWFcvi3t/f39/f39/d3t7d4N3f3t/f3d7g4ODh4OHg3+TM/////////////urv9O7/5vXv+fnp6/3////////////9/f39/f39/f39//7++/b4+Pb6/v///f39/f39/f39/Q==",
     "struct": "cf305c4c6dd3e21bd791813c254e2e917d99118f",
     "h1": "Email & SMS marketing",
-    "ts": "2026-09-22T03:47:23.313Z"
+    "ts": "2026-09-23T03:47:48.845Z"
   },
   "activecampaign": {
-    "pix": "CRYXGhQICBMPCxITDwoSEhQTDREQDgcMFwwPICdaRwgKEhMWFA4QGBgWGxwaFxoZGBYQEQ8OCQsRCwsVFzAnCAwMDhIXHiIlKSwuLi0sKSUgGxcSDg0LCQgJCQcGAgQJDhAUGh8kKS4yNDM2NTMvLCciGxYRCwwLCgoJCQkKCgkKEhogJy4zNDgykeTQ0tXSz83Nydd0AwkEBwoKCgoJCIdwXl5gYWaBezepoJ2NaWxtdXV6mpAEbYZuYWJlbniGt495am5tW5ubPpZNYkoZHSIxLDA/dwyPsFoaIR4hKkmTfGpqcn13iIY/mD4kLTk7PTs7MDV0DXuVYUNUZ2NIXk5mamldXGBMb0OVMxEbGRsmIVhvOWcReZZjPHiKd2l5WIeEZFF0ZYiLPZE1FRpQZFxuaIE6XhVyelcyYV0sMEJZi4BUanKnSH5BizQZHlZsVmRdgTpYF2x6WVxNTTogPkhgZG57YmxHe0GFMEdfSFFHTmKWO1UXeYNeTltfYEJBxMiutMOxq+OvOYAxJzUvMistMD4tVxWFpFkvS0lGOEPrzaqwqr3L39U6hTIXIiAgHhsXDShfFp2zWUFyaXFTRMZveZ63lX2SiSpQLB8lIyQjIyEdJ0QbccNmO2NhcWFWNDI6QU1LREwYKyQpMiApKyopLCotMCgULx4SDhANEhwQFBchKi8zOxUDCQIWnKinKg8SCQcJBhMQBAgICA0RBhQTFCArLjE6IxQXFB9qcW4oGhsUEhIQGRQJCgoKEBMIDxMYHCElKSwzNjY2MyYjIiwrKCMfGhYSCgkJCQkGHRMNFRkcISUnLCsoKSoqLCwqJSIeGRUQDQsKCQkJCQcdEg==",
-    "struct": "2b48ebc090dfb867b59dac37faa6791d61c843ce",
+    "pix": "CRYXGRMHBxIPChETDgoSERMSDRAQDgcMFwwPICdaRwgLFBYaGBMVHR0bISIfGx8dHBoUFBIPCgwRCwsVFzAnCBATFxwjKzAzNzk6Ojk4NDErJiEZFREPDAkJCQcGAgQJExgdJCowNTo8PTs8PDo3NC8rJR4YEg8ODAoJCQkKCgkRGyQsMjk9PD83lOXQ09bT0c7Py9h4BwwHCAoKCgoJCIlzYWFjY2iCfTqqoJyNaWxtdXV5mZIKboduYGJlbniGto55am1sW5uaP5ZNYkoZHSIxLDE/ehGQsFoaIR4hKkmTfGprcn53iYY/mD4kLTk7PTs7MDR3E3yVYUNUZ2NIXk5mamldXGBMbkGUMxEbGRsmIVhvOWkVepZjPHiKd2l5WIeEZFF0ZYiLPJE1FRpQZFxuaIE6YBlzelcyYV0sMEJZi4BUanKnSH5AizQZHlZsVmRdgTpaGm15WVxNTTogPkhgZG57YmxHe0CFMEdfSFFHTmKWO1YaeoNeTltfYEJBxMiutMOxq+OuN4AxJzUvMistMD4sWBiFpFkvS0lGOEPrzaqwqr3L39U4hDMXIiAgHhsXDShgGZ2zWUFyaXFTRMZveZ63lX2SiilQLB8lIyQjIyEeJ0QdccNmO2NhcWFWNTM6QEtJQksXKyQpMiApKyopLCotMCgUMB8SDhANEhwRFBchJy0wOBUDCQIWnKinKg8SCQcJBhMSBQgICA0RBhQTFB8oKy03IhMXFB9qcW4oGhoUEhIQGRUKCgoKEBMIDxMYGx8jJigwMjMzMSQhICoqJyMgGxcTCwkJCQkGHRMNFRgbHyMlKSglJicnKiooJCAdGRUQDgwKCQkJCQcdEg==",
+    "struct": "1e295292a38a25c7ffe00df1d507912d831336c6",
     "h1": "Cut 13 hours of marketing busywork each week¹ with autonomous marketing.",
-    "ts": "2026-09-22T03:47:23.313Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "getresponse": {
     "pix": "9/j05eLo8ujx6Ozx5vHp8/j39/f39unr5ezYu8n29/f39/bw7O707vTu8PTs8+/09/f39/f27/Ds8Onb4vf39/f39/n5+ff59/j4+Pr4+fj39/b1+Pf5+fn4+vz89/f39/f28/Hy8/Dy8vf39vf29/X55dny6ezu9vX29vX29/f2+urAzNDKzszK1/j39/f3/fv29PTu9fLy7uvt8vL29/b66ri9uLzOu7fD9fT29/nM4vfu7/P08NzS1tHg8Pf39vnuwLqzubbJzq6oyP/1+dHi6fDp4fbu4b+xx+nv9vf2++asu7/Hura8vre00vz04PP09Pfu8PL6xrLJ9PL49/f57szGzs/FzL+2yL3O9v+ZtvTh7Prv58Dy9ui3ve/49/jy3uDh3d3g3uXw7eru/OTp+fHm5fzkdtDl4M/E4/n39/Xu7/Lu7u3u9Pn4+Pj2+/ry+bSo+Ojn7OTjsLf19/f3+Pf39vT2//nXyszO5vj19/vz6uru39HT49Wctfn39/f39fT19PX49efj5OTu9/jxz7i6uL7r3NTq5+Ln9/f3+PTn6Ofp5+zv9Pz8/Pn4+fPTvsG+xPb08vf3+fn39/f3+Pz5+fr59e7u7+zq8O/s7/Hy8/D8+/n8+Pr39vf39/f14vHy7vXv5Ovk8O3b5u/o7Ojp6tPn7uT05vP49/f29/Pb7fHt9O7o8OXz8t7r9O7y7Orw0+Pr4fLn8vf19vv7/P/8/P37/f79/fz8/v78/fz9/vz//f3//P78+9Pw39/f39/f39/f39/e39/e39/f39/f397e39/f39/f1tydnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2fng==",
     "struct": "03b234dbf63157b375f1947348204e456200336a",
     "h1": "Convert more customers. Keep\nthem coming back.",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "campaignmonitor": {
-    "pix": "g4OBgYKBgYOFjY6MjIiHh4eIh4aOj4ODgoKCgoJ7f4Q3OT0+PT49Nzc6Pjs8Ozw8PDw8Oj47Nzc5Ojw5SWdINA8YKjU0Mi0QERIgGB0cHB0eGiAbIBIREBcdJCA+gToJ2tnX1tfV1tra2tjZ2djY2NjY2NjY2tjZ29vX1NHO1t3////////////////////////////////459/c297i6v39/Pv7/Pz7+/z8/P39/fz7+/v7/Pr649DQz8vPzs3M/////////v///////////Pv8+vv49/j28u3t19fQ0dH/27zOyc/a0NXbzr/z///8+/v7///17uv1//7/3c7R0f/btq+xrry7s7qssv7///r09fj/37qyvbbP//7bztHR/+bQ09LXyc3R0tXu////9/X4+f/CbJyjQ4r//ebQ0dH/7tPa193V1tzV1Oz8/v369/z7/541XWQzj//6+NTQ0f/r0dfa3tva0OT18/7+/P3//Pj/jSUyNC6Q//z61NDR//jt8PLy8/Tz+//+/f/+/f///v3q1dDP2Pf///rU0NH/x4KRlIuM6P/08v/55Oj8///8/f7//f7//v7/+tTQ0f/qvLCyravQ3tra3trL0Pr//P3///3+/v39/P/608/Q/vLf3N3Y0svP1tbV1tjb+/7+//////////////vb2Nr05OXn5+jp6unp6enp6Onz9/f39/f39/f39/f39Orq6vLz8/Pz8/Pz8/Pz8/T09PLy8vLy8vLy8vLy8vLz9PT09vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29g==",
+    "pix": "g4OBgYKBgYOFjY6MjIiHh4iIh4WOj4ODgoKCgoJ7f4Q3OT0+PT49Nzc5Oz07PDw8Ozw7PDs6Nzc5Ojw5SWdINA8YKjU0Mi0QERASHxgcHR8aHhsgEw8REBcdJCA+gToJ2tnX1tfV1tra2trY2djY2NnY2djZ2tjZ29vX1NHO1t3////////////////////////////////459/c297i6v39/Pv7/Pz7+/z8/P39/fz7+/v7/Pr649DQz8vPzs3M/////////v///////////Pv8+vv49/j28u3t19fQ0dH/27zOyc/a0NXbzr/z///8+/v7///17uv1//7/3c7R0f/btq+xrry7s7qssv7///r09fj/37qyvbbP//7bztHR/+bQ09LXyc3R0tXu////9/X4+f/CbJyjQ4r//ebQ0dH/7tPa193V1t3V1Oz8/v369/z7/541XWQzj//6+NTQ0f/r0dfa3tva0OT18/7+/P3//Pj/jSUyNC6Q//z61NDR//jt8PLy8/Tz+//+/f/+/f///v3q1dDP2Pf///rU0NH/x4KRlIuM6P/08v/55Oj8///8/f7//f7//v7/+tTQ0f/qvLCyravQ3tra3trL0Pr//P3///3+/v39/P/608/Q//Lf3N3Y0svP1tbV1tjb+/7+//////////////vb2Nr05OXn5+jp6unp6enp6Onz9/f39/f39/f39/f39Orq6vLz8/Pz8/Pz8/Pz8/T09PLy8vLy8vLy8vLy8vLz9PT09vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29g==",
     "struct": "49ff692c66cf3872103536099770aee2594c6b9b",
     "h1": "Maximize your email marketing potential.",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "constantcontact": {
-    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////z+/f3//vz8/f38/P3+/v/////////////////////66dvA0dHHyMHNysLM2Mbi//7///////////////////ze1dbY0dbU2dvQ6fr3+Pn7+/v7+////////////////uvq6e/08/L29fTz8/T08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+fj5//7+/v7+/v7////////////////////////89Ozs4+rw+////////////////w==",
+    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////z+/f3//vz8/f38/P3+/v/////////////////////66dvA0dHHyMHNysLM2Mbi//7///////////////////ze1dbY0dbU2dvQ6fr3+Pn7+/v7+////////////////uvq6e/08/L29fTz8/T08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pf6//7+/v7+/v7////////////////////////89O3r4+rw+////////////////w==",
     "struct": "88f3a0534411c9a2ad637f9fe0e5f2416aa0c1c8",
     "h1": "www.constantcontact.com",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "aweber": {
-    "pix": "GBgdICAeIEFGSjAqMjI0Ozc3Njo+OmKgl05ARUNGRkioqJeQkp+rsbKxra2mo6WlraWsqayqucfBl5OZray3uP3+4NTW6v35+vr7/PTx8/H68vj19fX07uvW19vv8Pn67ez1+fj28fPz8/Tw9fPu7+3v7u/u7u7w8PT08+/w7e3v8t/V2dfe2dXY0+LT3/bv8O/w8PDv8PDw7+/v7+/w8O/1zZ2lp7KdnqKZqJu04+7w8PDw8O/u7u7w8PDw8PDw7/XOscXG0cTEz8zBzr3C7/Dw8PDv8vn59u/w8PDw8PDw8ebe4eLi4uLg3+Th5OXw8PDw7/Ppn4zJ9O/v7/Dw8O/y4NXZ1dPW09bR3+bk5u/w8O/v8HBGM0DF+vPy8PDw7/Pfztru6Ojp6Ofo+vv58fDw8PHydoubHYHo2Obx8PDv9NSso7i1uLm5ube/v8Dp8fDu5/e9fqJyvdrU5PLv8O/x5reJi4yVlZWTiYiHi+Dz7vPEyeB6cMf/+fz27/Dw8PDu7/Hx8O/t8PLx8fHx8PDv9dPGhkZioK/w9fPv8PDw8O7p8/j2+PLp7Pj39/bw8O/1pI8+Mlh8Q5Ty8e/w8PDw7urw9vb18vDy9vb29fDw7/Kprn13i6VFVdzz7/Dw8PDx8PT+/v/////+/v7+8fDv8dLI0ujS4nZFxPbu8PDw8uTX2dfVz87O1NfX1tbs8PHxv6p8vuHes2Oj9e/w8O/y4MvOz8/Jx8nP0NDR1+3x8O3GnnTO8uBvapjz7+/w7/Dq3+Dg4ePh5e3r6+3z8O7x6MOikq69r1xlqPXu7O/y8vL09PTz8/Pz8/Pz8vHy8vLy72tLWV1cWMPt8vLy8g==",
+    "pix": "GBgdICAeIEFGSjAqMjI0Ozc3Njo+OmKgl05ARUNGRkioqJeQkp+rsbKxra2mo6WlraWsqayqucfBl5OZray3uP3+4NTW6v35+vr7/PTx8/H68vj19fX07uvW19vv8Pn67ez1+fj28fPz8/Tw9fPu7+3v7u/u7u7w8PT08+/w7e3v8t/V2dfe2dXY0+LT3/bv8O/w8PDv8PDw7+/v7+/w8O/1zZ2lp7KdnqKZqJu04+7w8PDw8O/u7u7w8PDw8PDw7/XOscXG0cTEz8zBzr3C7/Dw8PDv8vn59u/w8PDw8PDw8ebe4eLi4uLg3+Th5OXw8PDw7/Ppn4zJ9O/v7/Dw8O/y4NXZ1dPW09bR3+bk5u/w8O/v8HBGM0DF+vPy8PDw7/Pfztru6Ojp6Ofo+vv58fDw8PHydoubHYHo2Obx8PDv9NSso7i1uLm5ube/v8Dp8fDu5/e9fqJyvdrU5PLv8O/x5reJi4yVlZWTiYiHi+Dz7vPEyeB6cMf/+fz27/Dw8PDu7/Hx8O/t8PLx8fHx8PDv9dPGhkZioK/w9fPv8PDw8O7p8/j2+PLp7Pj39/bw8O/1pI8+Mlh8Q5Ty8e/w8PDw7urw9vb18vDy9vb29fDw7/Kprn13i6VFVdzz7/Dw8PDx8PT+/v/////+/v7+8fDv8dLI0ujS4nZFxPbu8PDw8uTX2dfVz87O1NfX1tbs8PHxv6p8vuHes2Oj9e/w8O/y4MvOz8/Jx8nP0NDR1+3x8O3GnnTO8uBvapjz7+/w7/Dq3+Dg4ePh5e3r6+3z8O7x6MOikq69r1xlqPXu7O/y8vL09PTz8/Pz8/Pz8vHy8vLy72tLWV1bWMPt8vLy8g==",
     "struct": "a0459ca0516ebc1a8514f96a56ae706137a9f7be",
     "h1": "Connect, automate, and sell your vision to the world",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "moosend": {
-    "pix": "8/X48OHf3+Hh3N7i3d7h4eHd3t7d4eDs7fH2/////fH88uzr8fzz+fny+ff1+PP1+/n7+/v8/P36+vKqqqe3/v3m5t3s/+35+Ov5+PH47e/++/7////+//b06W1xa4L+8vHx8e/t7+7u7+3u7+7v7+3u8u/v7+/v8PDx9/T1+PPtc2BkY2NgYF9eXV1dXVxcXVzR7OXm5uXk5OPi4+Lf7+tWUWFfXV5dXFxYQDw/Pj8+PMfv19TT0tPS1+bm5eDu7F9XWVhZVVRQUlJKTEdFRkZFyezd3t7e3dze4OHk4e7sYHqJf3Z7fHNqiXl7V0hMSUTK57G0rK+0sbOzqNLj7uxhd4aSdHlzbXt4dW9rbndmRMrmpay1qqytxOPd4N/u7GBvg3pSUE5MS0hISEdISEpIyuS4srLB5ePl4uDh3+7sYVNYVlZTUlBPTk5NTk9RTkvJ6+Hi4uLi4eHg3uLh7ulgU1dWVl1dWVpYWVhaWlNQS8jo1dfX2drZ1trf4+Hs9mBlfnt3VlFRUFFRUVFSUVJR0vXn6Orr6+7z8vL07/g6FC5EQT8ZExQTExQUFBUVFBQyOTU4ODg4Njo5OTk4OgAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwECBAAhMiwwMTAsKioxJxwfHRoaHiIiDgEDAwMDAwMAAAAAABMgHR0eHB8cGyAcFxkZCgsLDAsBAgEAAAAAAAAAAAAAEA8BIhIFGB4FECMJByQUCwAAAAAAAAAAAAAAAAAAAAAJHBUDAQECAgEBAgEBAgEAK0kuNEkjAAEAAAAAAAAAAAYSDgEAAAAAAAAAAAAAAAAfNCElNBkAAQAAAA==",
+    "pix": "8/X48OHf3+Hh3N7i3d7h4eHd3t7d4eDs7fH2/////fH88uzr8fzz+fny+ff1+PP1+/n7+/v8/P36+vKqqqe3/v3m5t3s/+35+Ov5+PH47e/++/7////+//b06W1xa4L+8vHx8e/t7+7u7+3u7+7v7+3u8u/v7+/v8PDx9/T1+PPtc2BkY2NgYF9eXV1dXVxcXVzR7OXm5uXk5OPi4+Lf7+tWUWFfXV5dXFxYQDw/Pj8+PMfv19TT0tPS1+bm5eDu7F9XWVhZVVRQUlJKTEdFRkZFyezd3t7e3dze4OHk4e7sYHqJf3Z7fHNqiXl7V0hMSUTK57G0rK+0sbOzqNLj7uxhd4aSdHlzbXt4dW9rbndmRMrmpay1qqytxOPd4N/u7GBvg3pSUE5MS0hISEdISEpIyuS4srLB5ePl4uDh3+7sYVNYVlZTUlBPTk5NTk9RTkvJ6+Hi4uLi4eHg3uLh7ulgU1dWVl1dWVpYWVhaWlNQS8jo1dfX2drZ1trf4+Hs9mBlfnt3VlFRUFFRUVFSUVJR0vXn6Orr6+7z8vL07/g6FC5EQT8ZExQTExQUFBUVFBQyOTU4ODg4Njo5OTk4OgAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwECBAAhMiwwMTAsKioxJxwfHRoaHiIiDgEDAwMDAwMAAAAAABMgHR0eHB8cGyAcFxkZCgsLDAsBAgEAAAABAQAAAAAAEA8BIhIFGB4FECMJByQUCwAAAAAAAAAAAAAAAAAAAAAJHBUDAQECAgEBAgEBAgEAK0kuNEkjAAABIBAAAAAAAAYSDgEAAAAAAAAAAAAAAAAfNCElNBkAAAEeDw==",
     "struct": "05a4a946751626337256fe494d375a04e584430e",
     "h1": "Send, Convert, Repeat: Delight your audience in every email​",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "sender": {
     "pix": "AwIEQLtXABMeHRsgHRsYGRsdHBENDg4JADCEIwQMAgN7en2g4aF2gomIhYiHhYaEhoeJg4CCgH94m72Fg4J6e///9/X1///////////////+/v7//v7//v/1vcO+5P/+/P318/T+/Pz9/Pz8/Pz8+/f59vf49fr3+fTZ1dLr//v///77/vr9/fj7/v3+/v//////////////////////////9ef97Pn95fP//v//////5d3e4uzr6uPj4uLg8P/+/v/f2dzf49zX1+bf1+3///ZcRzuH9OXo5ubn5+Xz///+/96+t9C6wLm4usm52///9FZNOon+6u717Oru6/X///7/4KzJxLe+ysbByMCuzP/voLivsOa1xLO15N3Y6v/+///17vLx8u3u8PLy7PL9//RkYk+Q65q2pKairdjl//7///Li5+Tm4+Pk5ebp7fH/9VtUQIvwsbbNz6TD2OX//v//+u3x7+7v8fDw+f/+/P/0X1RCje6eu8usktPM4f/+///y5fz//v/////////+//RhWEKL87zZ1rOv4Nbp//7///vv7u7y+Pv+/v////7/9F5VRon669/P3NvU5vf/////+/Tz8/X39////////v/2TzdtrbO/6uDe3uLn9P/////98u/v8fv////////+//ZQP0aT5NDx9+3w+Ov1///9/9CLnJmYjOL//v////7/9T8tHnf74eXn39vo4/L//f7/6L7CxMXE8P/+///////8p5mXtuTd3tjX1tjV7P/+///99/j///78/////////////////////v7//v7/gK7///////////////////////z7+/z+/v7///////+Ruw==",
-    "struct": "7069f27c1186c57b4c21f2551cb076fd256ff59f",
+    "struct": "9ae289ce6af361b7476f7b6aa4e8e460942302b5",
     "h1": "Email marketing that sells without the hassle",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "benchmarkemail": {
     "pix": "+fn5/f39+/r6+vv6+/v5+fn5+fn5+fv6+vr9//75+fn5+fnj7Ov29vb18/vy8/z+/v7+/v7/9fj3/M6ZxP/4+fn5+uXw7/f49vf1+/T1/f7+/v7+/v/2+ff9xoq6//f5+fn5/fz8+/r6/P/9///8/v38/f79/vz6+vr9//75+fn5+fn4+Pj4+PvmytnV3t7a2NnZ1dbX7/v4+ff19/n5+fn5+fn5+fn4+vDk5ubl393a4eTk5d3t+/j5+fn5+fn5+fn5+fn5+fn4+/79//nU3t3a/f/9/vv4+fn5+fn5+fn5+fn5+fn4+Pj29/Ho7e7t7u7s6vH39/j4+Pn5+fn5+fn5+fn5+Ozr6ufn5eTv6uzt7O/q6evr6+zv+fn5+fn5+fn5+fn5+vr6+vn+8XZnaGpndfD9+fn6+vn5+fn5+fn5+fn5+fn4+Pj4+PjuopSXlpOj8fn4+Pj4+fn5+fn5+fn5+fn5+vr6+vn78uj++/z4+f719/f3+Pj4+fn5+fn5+fn5+fny8fLx8fLx+Pb2+/z89fT7/v759vf2+Pn5+fn5+fn69u338fb39uji5eO7t7a2r7KysNXo5OT3+fn5+fn5+fr27ff0+Pj648XKx3pqeXVndGVgrc7G0vj5+fn5+fn5+vbv+PH39fzlys7Lo5GFhISOjJW+0MvU+Pn5+fn5+fn59u33+Pj4+uTJzcqnpKq0tr2rpsDOytT4+fn49/n5+fr27vf3+Pf55MnNy7WyvWZhr7mmwM7K1Pj5+P3++fn5+vbu+PH39fnkyczOz9qWQpJlxanAzsrU+Pj/yqv5+fn69vH6+Pn5/OXJzM7O0Xgsn2K6r8HOytT49/+8lA==",
     "struct": "29e0477de01fa85c763b49f42ed8f1781fd40895",
     "h1": "Effortless Email Marketing.\nZero B.S.",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "emailoctopus": {
-    "pix": "/czb5ePt+vj67+r48u336/H57ev1+vn5+vPy9K2exfz54ujv7PH6+fny7/f08Pfv8/fx8PX5+fn59fT1x7zW+ff7+/r8+/n5+fv//Pz++/78/f3+/Pr5+fn5+Pf+//z19vX29vb3+Pn68+Lw7t7v7+/j7+Hr9vj5+Pb29vDl7fX39/f29vf39/7ifJ2IiL6RjpKUj4uD6fz19vb26+Dm8/b29vf29vf3+ffy6snQxsbdz8jV7Nbz+/j09fTy7PDy9vX29/f29vb3+P/rpJaQn8OTlpP0//3s8Pvz8/Pz8e/29/Hm8vn29vf49+fu6Ovo6Ojp4er8und8z/vz8vDu7fb049vk9ff29vjz4d7m8O7u7Ozj6+uGb22J7O7w7e3s8uHh5+Hi9fj29/n6/7R5hYV5sv/awX5zgn6k5PHs7Ozk4fL28uHk8vf2+Pf/tniAgHa1/9S6pnFue6Tr7uzs693n9PX26Nvn+Pb3+fn9//////34/f7/yYOd6/Ls7Ovq5OLx9fHg4/D29ff49/b19/j39/n39fT65un17e3s6+rx4eLs5+n6//78/f3///76+fn5+fj39vP29fDu7ezr6vXz37fCvtPEwcTTyL7Ey/H7+fj4+Pb19fLy8u/t7Ovq9PXuparT3tbV2dLg197P8Pv4+/z7+vj08/Lx7uzs6+v08/XQyfH5+vr5+fr9+vz6+fnw7O7r7fj39vb19u7w7PT09eLh2NfY29vW2tra7vr5+fDr6urz///////o6d7s9Pb12Nnh2t3h4ODh4ePp+fn6+Pf8+v3s6OXh4OvXfOD29vbm6/j19vb3+Pj4+Pj5+fr28fT2/XR+Z1E1sfzX7g==",
+    "pix": "/czb5ePt+vj67+r48u336/H57ev1+vn5+vPy9K2exfz54ujv7PH6+fny7/f08Pfv8/fx8PX5+fn59fT1x7zW+ff7+/r8+/n5+fv//Pz++/78/f3+/Pr5+fn5+Pf+//z19vX29vb3+Pn68+Lw7t7v7+/j7+Hr9vj5+Pb29vDl7fX39/f29vf39/7ifJ2IiL6RjpKUj4uD6fz19vb26+Dm8/b29vf29vf3+ffy6snQxsbdz8jV7Nbz+/j09fTy7PDy9vX29/f29vb3+P/rpJaQn8OTlpP0//3s8Pvz8/Pz8e/29/Hm8vn29vf49+fu6Ovo6Ojp4er8und8z/vz8vDu7fb049vk9ff29vjz4d7m8O7u7Ozj6+uGb22J7O7w7e3s8uHh5+Hi9fj29/n6/7R5hYV5sv/awX5zgn6k5PHs7Ozk4fL28uHk8vf2+Pf/tniAgHa1/9S6pnFue6Tr7uzs693n9PX26Nvn+Pb3+fn9//////34/f7/yYOd6/Ls7Ovq5OLx9fHg4/D29ff49/b19/j39/n39fT65un17e3s6+rx4eLs5+n6//78/f3///76+fn5+fj39vP29fDu7ezr6vXz37fCvtPEwcTTyL7Ey/H7+Pn4+Pb29fLy8u/t7Ovq9PXuparT3tbV2dLg197P8Pv4+vv7+ff08/Lx7+3s6+v08/XQyfH5+vr5+fr9+vz6+fnz7/Du7/j29fX09O7w7PT09eLh2NfY29vW2tra7vr4+vDq6+ry//////7q697s9Pb12Nnh2t3h4ODh4ePp+fn5+Pj8+v3v7Onn5e7XfOD29vbm6/j19vb3+Pj4+Pj5+fr28fX2/IiQe2dSxvjY7g==",
     "struct": "82fbe5a66a98a5107119396360f90b9a4a3a77cd",
     "h1": "Email marketing made easy",
-    "ts": "2026-09-22T03:47:23.314Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "mailjet": {
-    "pix": "9PLp6PDw7+/x7vLu8PLy8vLy8vLy8vDr2dHT5+Hr8vT+/+rl8v/+/v///////////////////v/Lsr319Pn//tiao6GfoKCgn6GfoaCfn5+fn5+fn5+foKKjoqGioprYXwAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAF9cAAcDAwMCAAIAAQEAAAEAAAABAAAAAAAAAgMDAwcAXFsABAABABJHIzwbKyoqHCklNCAjKCkuMyMLAAAABABbWgAEAAEAFlwYTDw2UUk8QkpUKUlWV2BFWiAAAQAEAFpaAAQAAAEAJ1ZLREZGKVVMMDdDUzWiR1UbAAEAAAQAWloABAAAAAAKC0RKPyg+PkhWNUBJPlYxCwQAAAAABABaWgAEAAAAAAAANDkwJ0o6Pk0xPzwqLjkAAQAAAAAEAFpaAAQAAAAAAQEAAQAgQk5HV1NEFQABAAEAAAAAAAQAWloABAAAAAAAAAICAhEZGw0GCAgJAQIBAAAAAAAABABaWgAEAAAAAAAAAAACZoCDSwYgHQwCAAAAAAAAAAAEAFpaAAQAAAAAAAAAAAAICwoFAQICAgAAAAAAAAAAAAQAWloABAAAAAAAAAABDxEMDg4QDw8PFQEAAAAAAAAABABaWwAEAQEBAAAAAQEFBwcIBwYHBQYHAQEBAQABAAEFAFtaAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQACAAQAWmEABhAQCgMBCAUPEBIUEAEQEAMKCwoIBwYAEwIOGwZvwEAXho1hJhEyYam9wMS+rc7dZG6EgafCnlTYdr/35tLGMgx1kycpFSBkvarP1+Th7vh7fmRnrb+cjP+02f/85A==",
+    "pix": "9PLp6PDw7+/x7vLu8PLy8vLy8vLy8vDr2dHT5+Hr8vT+/+rl8v/+/v///////////////////v/Lsr319Pn//tiao6GfoKCgn6GfoaCfn5+fn5+fn5+foKKjoqGioprYXwAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAF9cAAcDAwMCAAIAAQEAAAEAAAABAAAAAAAAAgMDAwcAXFsABAABABJHIzwbKyoqHCklNCAjKCkuMyMLAAAABABbWgAEAAEAFlwYTDw2UUk8QkpUKUlWV2BFWiAAAQAEAFpaAAQAAAEAJ1ZLREZGKVVMMDdDUzWiR1UbAAEAAAQAWloABAAAAAAKC0RKPyg+PkhWNUBJPlYxCwQAAAAABABaWgAEAAAAAAAANDkwJ0o6Pk0xPzwqLjkAAQAAAAAEAFpaAAQAAAAAAQEAAQAgQk5HV1NEFQABAAEAAAAAAAQAWloABAAAAAAAAAICAhEZGw0GCAgJAQIBAAAAAAAABABaWgAEAAAAAAAAAAACZoCDSwYgHQwCAAAAAAAAAAAEAFpaAAQAAAAAAAAAAAAICwoFAQICAgAAAAAAAAAAAAQAWloABAAAAAAAAAABDxEMDg4QDw8PFQEAAAAAAAAABABaWwAEAQEBAAAAAQEFBwcIBwYHBQYHAQEBAQABAAEFAFtaAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAgACAAQAWmEABxEQCgMBCAUPERIVDwEQDwMKCwoIBwUAEwIOGwZvwD0Yh41hJREyYqq9wMO+rs7cYm+EgajCm1XYdMH35dHFMA13kiYpFSBnvanQ1+Th7vh6f2Norr+bjv6z2//74w==",
     "struct": "0102a6bbf6178db4a1d7df020a6ea380484b40a2",
     "h1": "The best email marketing software that’s built \n for devs and \n loved by marketers.",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "mailercloud": {
-    "pix": "9vPY2uPt7ePi3uDe2uDZ4Nne3tjh5OTl5N/gh36D4/ny8dTV1Oru5uXb3t/Y4dng2d7f1+Ll5ebk29tzbHDd+Orw+fn4+PPw7evn5ujn6ejp5+fp6Ofn6Ojp6/f5+ezr5err6u3z8u/w8O7q6urp6enr6uno6+vq6urt6+no6uvk5ufn6Orq6d7n5ODj5OHj5dvi4unh4Ovv8vPz8/P18+Tk5efo6evprKKhqZiqpaqnraOvssCmp/P09PTz8vLy5+Xn5ufq7e3r6Ovep666v6a1uLHi8e7p7/Dw7u7u7e7k5Obm6e3u7u/u8efEwsXHzb3Aw+bx7vHw8fDv7u3r6+Pj5ejs7+/v8ObW2t3e3uDi4ePj3dvr8vHx8O7s6ufn4uLk6ezv8fHw+Pj29PP28ufn6ejp6fTz8/Hw7urm4+Pk5OXo7O7w8PnFiZCOk4i68+rn5+jr7PPz8vDt6OLf4Ojo6uzu8PLv/4EQJB0pEGTy593b3ezn9PPz8O3o49/f7u7u7/Dy9PT08+Hg5eXg9PXt8/Xx7vL09PTy7uvm4+Px8fHy9PT09PP0+/bc2vns4vns3fT39fX19fTx7ero6PT09PX19fb2+Pn18NjZ8+zo9+jY8ff19vb29fTx7+3t9vb29fX19Pfs4vf1+Pn19ff0+Pr19fX29fT29fTy8vL19fX19Oji986j+NjG6PXp6PL06ujx9vDv7vD29fXz8/X19fX19fX28u718/L19vb29fX29fX29PX19fb29Pv79fX19fX39/f4+ff3+Pj39/f4+Pj49/f4+Pj29fP9v7v19fX19fn09vr5/PDz+ff49/r+/v36+vr6+vj18/+mnw==",
+    "pix": "9vPY2uPt7ePi3uDe2uDZ4Nne3tjh5OTl5N/gh36D4/ny8dTV1Oru5uXb3t/Y4dng2d7f1+Ll5ebk29tzbHDd+Orw+fn4+PPw7evn5ujn6ejp5+fp6Ofn6Ojp6/f5+ezr5err6u3z8u/w8O7q6urp6enr6uno6+vq6urt6+no6uvk5ufn6Orq6d7n5ODj5OHj5dvi4unh4Ovv8vPz8/P18+Tk5efo6evprKKhqZiqpaqnraOvssCmp/P09PTz8vLy5+Xn5ufq7e3r6Ovep666v6a1uLHi8e7p7/Dw7u7u7e7k5Obm6e3u7u/u8efEwsXHzb3Aw+bx7vHw8fDv7u3r6+Pj5ejs7+/v8ObW2t3e3uDi4ePj3dvr8vHx8O7s6ufn4uLk6ezv8fHw+Pj29PP28ufn6ejp6fTz8/Hw7urm4+Pk5OXo7O7w8PnFiZCOk4i68+rn5+jr7PPz8vDt6OLf4Ojo6uzu8PLv/4EQJB0pEGTy593b3ezn9PPz8O3o49/f7u7u7/Dy9PT08+Hg5eXg9PXt8/Xx7vL09PTy7uvm4+Px8fHy9PT09PP0+/bc2vns4vns3fT39fX19fTx7ero6PT09PX19fb2+Pn18NjZ8+zo9+jY8ff19vb29fTx7+3t9vb29fX19Pfs4vf1+Pn19ff0+Pr19fX29fT29fTy8vL19fX19Oji986j+NjG6PXp6PL06ujx9vDv7vD29fX08/X19fX19fX28u718/L19vb29fX29fX29PX19fb29Pv79fX19fX39/f4+ff3+Pj39/f4+Pj49/f4+Pj29fT7y8f19fX19fn09vr5/PDz+ff49/r+/v36+vr6+vj18/26sw==",
     "struct": "d0a9d44bd5fcb8fa2edae88f8b159af3688ac4be",
     "h1": "Email Marketing Platform That Delivers Results",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "elasticemail": {
     "pix": "7Ozq5Ojn5uvs6ufq6uTm4+Pm5ebp7Ozq5+zPu8Hk6Ofu7+vU293V6vDn3Onn2efc2ufk2+Xv7evl76+ElOTr6PDw8PPz8vPw8PHz8e3t7O/t7vLz8vDw8O/v8vPz8ezr8vLy8vLz8/Hz8vLy7uvr4unw8fHx8vPy9PPy8vLy8Oz09PT09PHw9/H39vb4+OrW9PX49/n28vnv9Pn09PTz7vb29vT/1Iqpl6Kty52kj72ypJ6io6KgrZSdqfD59vTw9/f3+PPV0L3M1NrRytzW3NfMyt3I09TG2dTV5PT49fP5+ff/xZKhoqKussGa1JumrKilnLifqqCsp6Sh6/319fz8/P30+v7+/f79/f377P39/f7r+vz8/vz8/v38+/b2/v7+/v7+9urt7ezr7Ovx7Ozr7O7u7+vr6+v5/v76+fn///7+/vvw7vLx8vX28vb07vX08vX48/P18vb+/fr6+vv6+vn5+fv7+/v7//////78//////////7///35+fn5+Pj4+Pj4+Pj49v/Uf4uAwP3y9fP2/fz9/f39+vj4+Pj4+Pj39/j4+Pj3/OCss6zV+/X39vj8/Pz8/Pv4+Pj4+Pf4+Pn59/f39/f3+v////39/Pz8/Pv7+/v7+Pf39/f5+fr6+vj29vb4+ff3+Pn5+vr9+vr6+/v6+vj29vb39/r5+fj5+fn5+uvf9tjb8uzz9LTw8Pzd6vj7+fn5+Pf4+Pj4+fTu8O/v6+Xt4N/m5Oft3e7u7+js8O/u7u3z9/j4+Pf8on2CgoKChYOGh4aGhoWJhYWFh4WFhISFfqL89/j49/yMhZ+UmJuTmX9ydHNzdHN0dHRzdHR0dHVuj/z3+A==",
     "struct": "3af02008ab37ab04e284f697baac6dd34e294444",
     "h1": "Modern email communication platform for growing businesses",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "sendpulse": {
-    "pix": "PDw6PkE+Ojs5OTc4Njc1NDUyMTAzMzAvLi8xOjYqKSk8PDpBREM7Ozo6ODo2ODc1NjIxMDQ1MS8vMTRCOyopKTw8Ozc2Njc2NjQ0MzM0MzIyMjIvLS4tLSoqKycpKykpPDw6REFAPD48PUE/OTQ0MzIxLDlALTAvQD44ODMrKSk8PDlOVFFQVklNXFA+MzQzMTk8NzswLy9HQDo5MikqKTw8OkhRUFJPTU1OQzM1NDMvPkw2OTIuMTFIPDw7MikpPDw6Sk1PTExPRUg6NDU0MjVLNzk3ODIvNEc7OTYuKSk8PDpNU1BSUkxQSTM0NDQyNEY4NzY2MS8xLzQ3OC0pKTw8OkBDQUFBPkA9Nzc2NjQwNFE7Ojk7NTM4OUFBPi8oPDw6QURCQUFAQUI/Ojk6NjE0OTUzNDQxMDI4OjYwKyk8PDs6OTg3NzU2NjMwMjMyMjItLCtESzw9PTEvLSgpKTw8OkZSUE5Sfnh5d35LMDMyMDlFNTQyLDArRU9COTEpPDw6Q01MSExwaWpobUYwMzIwOkQ1LzFJODY8PDUwKyk8PDs9Pj47NjAzNzgzMTQzMjEyNzIyNUg4NzcyLCkpKTw8Oj9CQUI8Nzo8Ojc1NDMyLztUOzw8MC0uLi8uKyopPTw7PDs7Ojk5NzY1NTY1NDMzMS8wLy8xLy8vLi0rKio5Ojk3NzY1NjUzNDMyMTEwLy8uLiwsKyspKSkoKCcmJU1DREREQ0JCQkBAPz8/Pj09PTw7Ozo5OTg3ODc3NjM+k46Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pjo6Ojo6Ojo6OjZOVlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlQ==",
-    "struct": "ced057691835955fae04a235b9c1cafd6cb71edc",
-    "h1": "Boost your digital marketing with a powerhouse of essential tools",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "pix": "HBwcIiYkHyAeHx4gHx8fHiAdHBwgIR8eHiAjMCobHBwcHBslKikfIB8gHyIfISAgIR0cHCIlIR4eJCg7MBocHBwcHB4fHyAgIB0cHBwbGxwbHBwcGxsbHBsYFxcaHBwcHBwbICMiHyIgHBobHR0dHRwbGx0cHB0cHzc1JBkcHBwcHBouLjM0LDI0MDIcGBgaHR8gFy9lZWdgR0I6OCMbHBwcGzA8QDg3PT09NzU3NCYfMCUiQpyNjo5zcXdUGBwcHBwcIyoqJSgpJystKiorICM7Iz1EjImJiF9KXkciHhwcHBsnLCorLSssLCssJyAZJ0IjJ0OQjJOcRztQWjIbHBwcHCImJSUgHyEfISkgHBsfLxsiOX1+g4FtkpObNBYdHBwbKDIwMUlHRkZIJhoeF1R0cHR4f3+Be2mPkJo0Fx0cHRk9WFBUjYOFg4o5Fh8VbpySl5adm52YdZOYojUWHRwcHCEiIyQoJicnJRscHRZnmo+NmY6cn51gcHh8LhgdHBwcIicnIBohJicnHhwdF090amZwZGxwcSwUGBcbHBwdHR0fIiAdHSAjIyMfHR0cGRYXGRYYFxcXGx0dHh0dHRgZGRoaGhoaGhsaGhoaGxwdHRwaHB4dHR0bGxwbGRkYNykrLzQ2MiswNDM1MCs0NzQzMSsxOTU0NTM0NDErKTeYkpOSkpOTk5OSk5OTlJOTk5OTlJOSkpOTk5OTk5OSmJqbmpqam5ubm5ubmpmZmZmZmZmZmpubm5uampqbm5uamZiam5uZmJiYmJmWiImKiIiKjIaUmZiYmJmbmpiYmJmZmpCKi5aZmJmZmZSYm5mZm5mKlpmZmZmalIySmZmZmQ==",
+    "struct": "c322356e278caebee78762d9e56acfb4a03b8dbc",
+    "h1": "AI-driven email and chatbot marketing platform",
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "sendx": {
     "pix": "AAwSCQAAAAAAAAEAAQIAAgIBAAABAQAAAQIDAA5hWQI0Q0tDODg4Ojk7QTk4Pzg5Pzk3Ozg9NjU3Oj49RH95N//+7vX29/jw9/T19//////////////////////++fn/+/3OytHZyMTQxLrg//z8/P38/P3+///////+/f3//vz9/tzd3c/2//7+/f39/v7+/v79/9rGzszKy/n//f79/f7+2ODTz+/7/f37/v/+/v7+/v7/2cXIyMbJ+P///v39//vhzdbZ3sDL2cW+1P7+/v///vz/4rOompN8cmXd//r+/9HZ4ejl8fP28+7y/v/////9/8y1yb22saSdk+X/+/3/4svN3dX0//7////+/////vz8ztHx5/7//////Pv7/v37+vj4+Pf49/n3/f///////vT09vLs8vbz6/b6+vv+/u7t7e3t7/Ds8O72+P7/+/Pu5uXs4tfR0uDs+f76+v7+7uru7u3v7+7t7u/t/f/gwdDHucrYfGRzkZrm6Pf6/v7x7O/u7/Hw7u/v7u73/93I+/Xr07R1obada+jR9vn+/u7s7PX59vb19vb18/r/2rfQzsTMn2xle3J57NT0+f7++Pr5/v///////////f/w39/b1+fjq6qssLv3zvX3/v/bwsK7s7zx+Pb29vz9/vfw8O3t8Pfw7e33//7b9Pb//+fY2NbR1fb6+fn5/Pv/2K22trSz5/n19vTz9fj29v///P7+/f7//f3+/v78+/3y4+Xk5OLy+ff39/b29fb2/v+ibouXbb/v5/77/Pz7+/3+/v79/Pn49/b29vb29vX//+rc5ufb8Pz6/Pz7+/v7+vn5+Pf39/b29vb29vX19Q==",
     "struct": "b99cd00983d71affa59af5268146ac58b0a36a80",
     "h1": "Send unlimited emails.\nLand in the inbox. That's it.",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "mailmodo": {
-    "pix": "//fc5ubl9v/+///28/3x9/zz/v/////69+WjqKWk7v//+ef19PP7///9/fj2/PT4+/b8/v39/fr37cbIxsbz/////////////////////////////////v/+//////79///+/v7+//7/0sve09LQz8XJy9bF0+T9/Pv6+vr5+Pf//////////v/TqsrIuqbBvq6strK1tv76+vr59vPv6v///////////////rTStLuntKqz+v/6/fv29PHr5NzY//////////Px8/Pw5ejo5NzX5eDu7u/m6O/n3dPNzNL/////////9uLW3ODe3d7i3tzb1tLVy9Lb2c7HxMjP2P///////////vz8+/r7+vv9/Pn08One1czDwcLFy9Ha//////////79/8yAioh/z/ru8e3d4MTBv8DBw8bL0dj///////////7/4ra6sqzX693V1dLJvcDAwMHCxsrP2P///////v7+/f3+//748N7Lv7W5u7q7u7y9vsHEytXe///////////////+9uvb0cvKysnHx8fIycvJw8vV29//////+dbGpY+KgnlwZ2FfX15cW1pYV1ZXVHLL1djd5f7+/v/ytbiZeXBoYl1aWFZUUlFPTk1LR0k8Jcja3eXr/v38/eau9v7z8vPw9PPw8/Ly8fPz8/n///M9veXl6+77+PTxzKD6/Ozd4t/j4eXy8vLx8/Tz9fv8+UWy8Ont7vPs4tuvk//+/fXx7uzu/f/z8vDw7/D8/v3/T6L36u3v4dbMz5qI//799fj2+Pv///D19/b5+v7//f9Zkfvq7vDQycTPiYT//fv18e3s7+r4/fLs7/Dv8P78/2p//ezv8g==",
+    "pix": "//fc5ubl9v/+///28/3x9/zz/v/////69+WjqKWk7v//+ef19PP7///9/fj2/PT4+/b8/v39/fr37cbIxsbz/////////////////////////////////v/+//////79///+/v7+//7/0sve09LQz8XJy9bF0+T9/Pv6+vr5+Pf//////////v/TqsrIuqbBvq6strK1tv76+vr59vPv6v///////////////rTStLuntKqz+v/6/fv29PHr5NzY//////////Px8/Pw5ejo5NzX5eDu7u/m6O/n3dPNzNL/////////9uLW3ODe3d7i3tzb1tLVy9Lb2c7HxMjP2P///////////vz8+/r7+vv9/Pn08One1czDwcLFy9Ha//////////79/8yAioh/z/ru8e3d4MTBv8DBw8bL0dj///////////7/4ra6sqzX693V1dLJvcDAwMHCxsrP2P///////v7+/f3+//748N7Lv7W5u7q7u7y9vsHEytXe///////////////+9uvb0cvKysnHx8fIycvJw8vV29//////+dbGpY+Kg3pxZ2FgX15cW1pYWFdXVHHL1djd5f7+/v/ytbiZeXBpY11aWVZUUlFPTkxLR0k8Jcja3eXr/v38/eau9v7z8vPw8/Pw8vLy8fPz8/n///M9veXl6+77+PTxzKD6/Ovd4t/j4eXy8vLx9PTz9fv8+UWx8Ont7vPs4tuuk//+/fXy7+3v/f/z8/Hw8PH8/v3/T6L36u3v4dbMz5uJ//799Pf2+Pr///D19vX4+v7//f9akfvq7vDQycTPiYT//fz18e7s7+r4/vPt8PDv8P78/2l//ezv8g==",
     "struct": "a8f0f15d44dade16dc23627ddca87c079b7c7d40",
     "h1": "Run Email Marketing\non Autopilot",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "drip": {
-    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////39/vr9/v3////////////////////////////////9zMnOxcjVwvX//f////////////////////////////zd1dXY0NXU2t3S6v36+vr7+/v7+////////////////uvq6e708/L19PPy8/P08vTz8vT1///////////////++Pj0+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+fj5//7+/v7+/v7////////////////////////89Ozr5Ovw+////////////////w==",
+    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////39/vr9/v3////////////////////////////////9zMnOxcjVwvX//f////////////////////////////zd1dXY0NXU2t3S6v36+vr7+/v7+////////////////uvq6e708/L19PPy8/P08vTz8vT1///////////////++Pj0+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj5//7+/v7+/v7////////////////////////89O3s5erv+////////////////w==",
     "struct": "99ce938a85d8aa677734421ae94399b8b997070b",
     "h1": "www.drip.com",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "kit": {
     "pix": "///////////////+/v////////////////////////////////////7/7cfL8f/+///////////////////////////////////78fH5//////////////////////////////////////vw8u3t/P//////////////////////////////////+u7w8fH09vX19vb8///////////////////////////69v/9/Pz//Pv7+/7///////////////////////////zu6/D49+L0//7//////////////////////////////Ovo8/ju3vP//v/////////////////////////////////////////////////////////////////////////+/v///v7//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
     "struct": "ba799b526929678b9802008ab9cc9b7de792d83c",
     "h1": "",
-    "ts": "2026-09-22T03:47:23.315Z"
+    "ts": "2026-09-23T03:47:48.846Z"
   },
   "beehiiv": {
-    "pix": "BwQSLiYODhAREBESDhQNFg4SCwYHCBANGBNxkI8fAQgIBw4gGg0NDg8ODxANEAsRDQ8KCAgJDgwTEERWVBUFCQcHBgEAAwMEAQEBAgYGBgUGBgcHBwcGBgUGAgAABgcHBwYKGBsZFRMgHhoYCQYHBwcHBwYFBgYHBwcJCQoIBwcIAh6Qho5/c19glpdFAAkHBwgIDxMTEgwLCwsKCAcHBwgBIHVya293ZFMJEhMHBwcJCw0XHx8dCAkLCggICAcHCAIdZnt7eXpqeTIBBAgHCAoOExccGBttaj8tJA0JBwcIAhpueIB3boBaVBsJBwcIEB4aFx41NZiQSz1FGAoIBwgDGW96VktIUkdVZUIHBwkRHxkUJSYkFRANCg0KDQkHBwYNJCUhIiYhGyEhFAcHCRI3LRMaECcsESQqDAkOCQcHBg0pJiwsJCwmJiMhEAYJEBYLERQQKjAaICAQCg0IBwcHCA0WGBITGxMPAwYIBwgOFxoWDw4RExEYEhAOCwgHCAMaek5MUUYfKiorGwYHBwsLDAwLDBQYExoVDwwIBwcIBBJINDM0MBseGxwTBgcHCAkKDA4ODAsMCgoJCQgHBwcHBgMFBQUGCwUEBAYIBwcHBwgICQkKCgkJCAcHBwcHBwcHCAcICAgHCAcHBwYHBwYGBgYFBQcHBwcIBwcHBwcHBwYGBgQCAwILGRYXHBIUGRgZGBweCgMFBgQEBgcIBwcHCw4LFxwaGQ4XFxMOJR8dFBkNCw0TExQNFBIOBwMGBwcOGBIrRUA9GC0rJxREPUIkJR0aDxkgIBEhIxQaHwwHBwYFBgQAAQEFAwMEBgEBAAMEBQYGBAMEBgMEAxgoDg==",
-    "struct": "93cdd6b4fcee4021abe97348479e1e6e92696cfc",
+    "pix": "BwQSLiYODhAREBESDhQNFg4SCwYHCBANGBNxkI8fAQgIBw4gGg0NDg8ODxANEAsRDQ8KCAgJDgwTEERWVBUFCQcHBgEAAwMEAQEBAgYGBgUGBgcHBwcGBgUGAgAABgcHBwYKGBsZFRMgHhoYCQYHBwcHBwYFBgYHBwcJCQoIBwcIAh6Qho5/c19glpdFAAkHBwgIDxMTEgwLCwsKCAcHBwgBIHVya293ZFMJEhMHBwcJCw0XHx8dCAkLCggICAcHCAIdZnt7eXpqeTIBBAgHCAoOExccGBttaj8tJA0JBwcIAhpueIB3boBaVBsJBwcIEB4aFx41NZiQSz1FGAoIBwgDGW96VktIUkdVZUIHBwkRHxkUJSYkFRANCg0KDQkHBwYNJCUhIiYhGyEhFAcHCRI3LRMaECcsESQqDAkOCQcHBg0pJiwsJCwmJiMhEAYJEBYLERQQKjAaICAQCg0IBwcHCA0WGBITGxMPAwYIBwgOFxoWDw4RExEYEhAOCwgHCAMaek5MUUYfKiorGwYHBwsLDAwLDBQYExoVDwwIBwcIBBJINDM0MBseGxwTBgcHCAkKDA4ODAsMCgoJCQgHBwcHBgMFBQUGCwUEBAYIBwcHBwgICQkKCgkJCAcHBwcHBwcHCAgICAgGCAcHBwYHBgYGBgYGBgcHBwgHBwcHBwcHBwcGBQUFAgUIGRgUGRMXHBcaGBoYCAIFBAcHBwcIBwcHBgwUExEdDRoXEB4dHBkRGBcQEicdGRIWCQkJBwMGBwgIECQfID4XLyoXOEJCMxouLCAdRT1AICgYFAgZHwwHBwcGAwQEAAUBAwYCAAACBQMDBAUAAQEEBAYHBBgoDg==",
+    "struct": "ba97b94961963ffdd027f42717bc77b71960da29",
     "h1": "NEWSLETTERS.\nPODCASTS.\nCOMMUNITY.\nONE PLATFORM.",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "flodesk": {
-    "pix": "zNDQy8vLy8vLy8i9wsHBw8DCwcG4xszLy8vLy9Lf3crt2dzx8vLy8vLy8vDn7Ono7ubr6e/y8vLy8vHyymR05fXf4Pj5+fn5+fn5+PH18/L27/Ty+Pr5+fn5+PrTc4Lt+P389/f39/f39/f3+fj5+fj6+Pn39/f39/f3+fv///j49/f4+Pj4+Pj29/f39/b39/b39/b39/j4+Pj49/T0+Pj4+Pj4+Pj4+f39/fz+/P3+/f37/f3++fj4+Pj4+Pj4+Pj4+Pj49/vrz+Tb3N/g1t7U4eTR3dfy+ff4+Pj4+Pj4+Pj4+Pj3/OSvvpjHv6+mrrWlwq+ut+L89/j4+Pj4+Pj4+Pj4+Pj3+++hqqu8sMG1zaSvrK7x+/f4+Pj4+Pj4+Pj4+Pj4+Pj58t3i1NjW3dDa1dXI2Pb4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5/fHy8PX5+/bx8fT++Pj4+Pj4+Pj4+Pf39/f39/f39/f29/X/xEtIwf/29vb39/b29vb29vb2+/v7+/v7+/v7+vv7+f/KU1LH//n7/Pv8///////////l5eXl5eXl5ubq7OXm5Ozx8ezk5ebl6uDKztDQ0NDQ0Kurq6urq6uooq+1nqSop6amp6iopZ+vbiMvIyIhIiIiiYqKiYqLh5qmr7Shn4iIiIWHiIWVoq5tJTZgZWZlZWVDP0VZSUE8fKuutKOVQDk+WUg6N3OmrWscO+//8uLs/k9iWl5fX0x+qq60o5NaamVgaWpcdamyhlRt3OnPrbqvU3JkY2h0XXurrrSli4nArZC6yJpvrrCRgpbAv8BWVZpMUGFvalNLfaqutKSOe7GqpKaui3Kps4RSa8CxkliBtQ==",
+    "pix": "zNDQy8vLy8vLy8i9wsHBw8DCwcG4xszLy8vLy9Lf3crt2dzx8vLy8vLy8vDn7Ono7ubr6e/y8vLy8vHyymR05fXf4Pj5+fn5+fn5+PH18/L27/Ty+Pr5+fn5+PrTc4Lt+P389/f39/f39/f3+fj5+fj6+Pn39/f39/f3+fv///j49/f4+Pj4+Pj29/f39/b39/b39/b39/j4+Pj49/T0+Pj4+Pj4+Pj4+f39/fz+/P3+/f37/f3++fj4+Pj4+Pj4+Pj4+Pj49/vrz+Tb3N/g1t7U4eTR3dfy+ff4+Pj4+Pj4+Pj4+Pj3/OSvvpjHv6+mrrWlwq+ut+L89/j4+Pj4+Pj4+Pj4+Pj3+++hqqu8sMG1zaSvrK7x+/f4+Pj4+Pj4+Pj4+Pj4+Pj58t3i1NjW3dDa1dXI2Pb4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5/fHy8PX5+/bx8fT++Pj4+Pj4+Pj4+Pf39/f39/f39/f2+PX/xEtIwf/29vb39/f29vb29vb2+/v7+/v7+/v7+/v6+f/KU1LH//n7/Pz7/P/////////n5eXl5eXl5ebm6uzl5ezx8ezk5eXm5ergys7Q0NDQ0Karq6urq6urqKKtt56kp6amp6ioqKWer24jLyMiIiIioImKiomKioiZpq22oaCHiIeFh4iGlKKubSY1YGVlZWeSQz9FWklAPHurrLWjlz86P1lHOjdypq5rHTfv//Xi6JJPYlpdYV9NfKustaOUWGllYWhqXHa1s4VYbdzqvq6/kVNyZGJodV96q6y1pYyGwK2Uu8Kcdr2nlIiWwMdWU7eTTFBhcGlSTXyrrLWljnW3qKWkrYtztbKFUmjBt4lWfQ==",
     "struct": "06b57699184211b152d51832a53429309d8d1656",
     "h1": "Email marketing that’s\ndifferent by design",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "loops": {
-    "pix": "/Pz8/Pz8/Pz8/fz8/P38/P38/Pz8/Pz9/Pz8/Pz8/Pz8/Pz8/Pz8/Pr5/vr7+Pz7+fz9+/z9+vn8/Pz8/Pz8/Pz8/Pz8/Pv+78/a1NPM09bU4dba39PR5v/7/Pz8/Pz8/Pz8/Pz8/Pz79enk7Pn6+Ozu7enr6/L5/Pz8/Pz8/Pz8/Pz8/Pz8/Pz9+v7ngXyQ7vDz+vv7/vz8/Pz8/Pz8/Pz8/Pz8/Pv8/Pv7/+yTi5/y8vX8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/fz9/fz+/f////7+//38/vz8/P38/Pz8/Pz8/Pz7/vHm8+Lx8+j18fH06PXn8+zq9er19vv8/Pz8/Pz8/Pz8+/j6+Pn7+Pr6+vv4+/j7+fj7+vv6/Pz8/Pz8/Pz8/Pz8/fz9/Pz9/Pz8/P38/fz8/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/A==",
+    "pix": "/Pn8/Pz8/Pz8/fz8/P38/P38/Pz8/Pz9/Pz8/PXq7fv89vv8/Pz8/Pr5/vr7+Pz7+fz9+/z9+vn8/Pv88uTo+/z4+fz8/Pv+78/a1NPM09bU4dba39PR5v/7/Pz9///8/Pn7/Pz8/Pz79enk7Pn6+Ozu7enr6/L5/Pz8/Pv7+/z8/Pz8/Pz8/Pz9+v7ngXyQ7vDz+vv7/vz8/Pz8/Pz8/Pz8/Pz8/Pv8/Pv7/+yTi5/y8vX8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/fz9/fz+/f////7+//38/vz8/P38/Pz8/Pz8/Pz7/vHm8+Lx8+j18fH06PXn8+zq9er19vv8/Pz8/Pz8/Pz8+/j6+Pn7+Pr6+vv4+/j7+fj7+vv6/Pz8/Pz8/Pz8/Pz8/fz9/Pz9/Pz8/P38/fz8/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/A==",
     "struct": "cec88b807b0030f84273f7c9391f1fcbc66a9779",
     "h1": "One platform for every email",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "customerio": {
     "pix": "8ODj5vz//////v/y7vvs9fbr+PLz///59ptqedzl4/f69fX2/f7+/v7+/vv6/Pn7/Pn8/Pr+/v393s3T8/Tz+/////////////////////////////////////////////jU1Oru7+/k7fHw8+H0//7+/v/+//////79/f7+/v///K+er62hz6yqpaOhsuX//v/////////////////////92/Hx8PT39e7h8+rq+/36+vr///////////////////musausz6iwnLG7zafWsJimqf7//////////////////vTu6vP07Ozn7dvw8Pjs1dzh//7////////////////95ePk4ODk3+Xt6/b//v/////////////////////////v6urz8PHw9//+//7//v7+/v//////////////////+3JbVLzv4ef6//7+////////////////////////////2c3Q6vHv8fb3/v////////////////7+///////////////+/v7+/fz////////////////////////////+/v7+/f/+/////////v7+/v7+//7+/v78/P3+/v7+/vr69PT69/jz8/X1+vn6+PTy9/j19PLz5bzS4+Tj5vn69/jrrdz99+7v8vT28Pn28e308ubt7e7fvNTg39zf9ff///G15f/89vv///////////////////r4+vb78u7//6StnoahqKebk5ego6Kio6OkpaWmpaagsMrGya+YlqOjNE9OS0pPUEtAQD5AQUE8PT0vKywsLiJtzbnKaj4/RzJBVU5HT1FSU1VYWFpPSklLRj09PT09PT0+PT0+NTA9Pg==",
     "struct": "f6e3cbac0041ae6fd0e15969987c6e4a6270e750",
     "h1": "More impact\nfrom every \ni\nn\n-\na\np\np",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "encharge": {
-    "pix": "/////////////////////////////////////////////////////////////////////////////////////////////vn+/Pv+/vz////////////////////////////////529fFycXF0PH//f////////////////////////////zd1NXY0NTU2d3S6v36+vr7+/v7+////////////////uvq6e7z9PP19PPy8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+fn5//7+/v7+/v7////////////////////////89Ozs5Orw+////////////////w==",
+    "pix": "/////////////////////////////////////////////////////////////////////////////////////////////vn+/Pv+/vz////////////////////////////////529fFycXF0PH//f////////////////////////////zd1NXY0NTU2d3S6v36+vr7+/v7+////////////////uvq6e7z9PP19PPy8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj6//7+/v7+/v7////////////////////////89O3r5Ovw+////////////////w==",
     "struct": "3a28dde2af3ee0d47f8f993f9030f66d0158f8e7",
     "h1": "encharge.io",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "ortto": {
-    "pix": "hYSAhIOFg4SEi42MjYmLjY2Ojo2LlpKGhYWFhYJ8hIU6QVNCRD9HPkRFQElBOz09PT09PT0/Pzs7Ozw4T3JDOhEYKRgZFBwVGRgUHBQRERITExMSEhERExMTFBAnShoQGRgVGBgZFxkXGBkXGBkZFhITEhYYHB8iJScoKykkLS8YGBkYGBgYGBgYGBgYGg9cs7G/vcfJys7P1Nna3eHh4hgYGBgYGBgYGBgYGBgbC4T/+v7//NDHzcrm//7/////GBgYGBgYGBgYGBgYGBsLivLh9fb68Ovr6PL9/f39/f0YGRkZGhkZGRkZGRgYGw6P8uDx8f327/jt7Pj+/v7//xkVEhQSFRYVFRYXGBgdEJf34/X1/fn2/v77/fn///v8FSY4LDcpIiUlIiAYGh8UmPTn+fb+9uLt9Pr77u7x9/wROop+jXaAaXiEXQ0VHxab9/X49f7459Ld9/7t2tfr/BUoU1NDW1NAQFJLUlIqFZzu8fn1/vX59Pr6+fP39/f6Fx0nLSYnJickKScrLiMWpfrv+fj/9OTr+v////////4XHCopLywsLDA/LRIVIBWt//b4+P768ff7/f78/P79/RcbJyYnJiUpJCgkGRkfE7D/9fj4/vzw9Pb69Pj29fT9GBgWFhYWFxcXFhYYGB0Rs//1+Pj++/r/7en/1dr//v4YGBgYGRgYGBgZGBgYGw+2//T4+P799uuknf6YqP/8/BgYGBgYGBgYGBgYGBgbDbn/9vj4/f/qh4KUxI2h6Pn/GBgYGBgYGBgYGBgYGBoPsvTv+fj9//G0rbbOsq7Bz94YGBgYGBgYGBgYGBgYGRGv7ubz+f3+/v////j+/v/Nzg==",
+    "pix": "hYSAhIOFg4SEi42MjYmLjY2Ojo2LlpKGhYWFhYJ8hIU6QVNCRD9HPkRFQElBOz09PT09PT0/Pzs7Ozw4T3JDOhEYKRgZFBwVGRgUHBQRERITExMSEhERExMTFBAnShoQGRgVGBgZFxkXGBkXGBkZFhITEhYYHB8iJScoKykkLS8YGBkYGBgYGBgYGBgYGg9cs7G/vcfJys7P1Nna3eHh4hgYGBgYGBgYGBgYGBgbC4T/+f7//NHHzcrm//7/////GBgYGBgYGBgYGBgYGBsLivLg9fb68Ovs6PL9/f39/f0YGRkZGhkZGRkZGRgYGw6P8uDx8f317/js7Pj+/v7//xkVEhQSFRYVFRYXGBgdEJf34/X1/fn2/v77/fn///v8FSY4LDcpIiUlIiAYGh8UmPTn+fb+9uLt9Pr77u7x9/wROop+jXaAaXiEXQ0VHxab9/X49f7459Ld9/7t2tfr/BUoU1NDW1NAQFJLUlIqFZzu8fn1/vX59Pr6+fP39vf6Fx0nLSYnJickKCcrLiMWpfrv+fj/9OTr+v////////4XHCopLywsLDBBLRIVIBWt//b4+P768ff7/f78/P79/RcbJyYnJiUpJCkkGRkfE7D/9fj4/vzw9Pb69Pj29fT9GBgWFhYWFxcXFhYYGB0Rs//1+Pj++/r/7en/1dr//v4YGBgYGRgYGBgZGBgYGw+2//T4+P799uuknf6YqP/8/BgYGBgYGBgYGBgYGBgbDbn/9vj4/f/qh4KUxI2h6Pn/GBgYGBgYGBgYGBgYGBoPsvTv+fj9//G0rbbOsq7Bz94YGBgYGBgYGBgYGBgYGRGv7ubz+f3+/v////j+/v/Nzg==",
     "struct": "72d9247d0baa704df054861ad0f32ad2469e67ac",
     "h1": "DRIVING GROWTH",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "sendlane": {
-    "pix": "///97+nh8fr2/f72+/72+f///////vf89vT09Pn+//////zm29fo9u77/+/2/u/0///////+7/vx5+vr9v7///X19fn7/Pn29/X19/b19/f19fX19fX49fb39/f19fX18fHx8PDw8PHx8fHx8fHw8fHx8fHx8fDx8fHx8fHx8fHy8vLy8vLy8vLy8vLz9fLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8+zY4/Lx8fHx8fLy8vLy8vPy8vLy8vLy8vLy8vLy8vLz697v8vT39vT08vHx8fHw7PHy8vLy8vLx8PDw8PDx8PDx9fLz+e35///7/fv6/+Sq/fLy8vLy8vr8/Pz8/Pn8/P318PXtytTn/P3b6//x5+j48/Ly8vPtp7S2rqi7r7C8oMH58Pn9/Pz8/On0/e7i9/zy8vLy8vK7trCyr7HBtbKh0Pfw9vLy/P7//P7///b7/fLy8vLz7K+9lI/G//b7+/328fH39/v16vvw6P/94df98/Ly8vPvwtC+wNf08PHw8PHy8fjz2/HU7vbp9+7/1+v38fLy8vP59vr69e/w8fLy8vLx+fTZ9+T79e3949zR+vPy8vLy8vb39/f4+fn38vLy8vH49+j9+P3+/f/77Pn98vLy8vLw1tLS0tHRztvz8vLy8vP1+PT29PT09PX49fPy8vLy8+ylnZ2dmZeQsPXx8vLy8vHx8fHx8fHx8fHx8fLy8vLy8/Px8fHy8vL08vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLz9PTz8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8PDx8+vg4ejz8PDy8vLy8vLy8vLy8vLx8fHy7/Dy8g==",
+    "pix": "///97+nh8fr2/f72+/72+f///////vf89vT09Pn+//////zm29fo9u77/+/2/u/0///////+7/vx5+vr9v7///X19fn7/Pn29/X19/b19/f19fX19fX49fb39/f19fX18fHx8PDw8PHx8fHx8fHw8fHx8fHx8fDx8fHx8fHx8fHy8vLy8vLy8vLy8vLz9fLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8+zY4/Lx8fHx8fLy8vLy8vPy8vLy8vLy8vLy8vLy8vLz697v8vT39vT08vHx8fHw7PHy8vLy8vLx8PDw8PDx8PDx9fLz+e35///7/fv6/+Sq/fLy8vLy8vr8/Pz8/Pn8/P318PXtytTn/P3b6//x5+j48/Ly8vPtp7S2rqi7r7C8oMH58Pn9/Pz8/On0/e7i9/zy8vLy8vK7trCyr7HBtbKh0Pfw9vLy/P7//P7///b7/fLy8vLz7K+9lI/G//b7+/328fH39/v16vvw6P/94df98/Ly8vPvwtC+wNf08PHw8PHy8fjz2/HU7vbp9+7/1+v38fLy8vP59vr69e/w8fLy8vLx+fTZ9+T79e3949zR+vPy8vLy8vb39/f4+fn38vLy8vH49+j9+P3+/f/77Pn98vLy8vLw1tLS0tHRztvz8vLy8vP1+PT29PT09PX49fPy8vLy8+ylnZ2dmZeQsPXx8vLy8vHx8fHx8fHx8fHx8fLy8vLy8/Px8vHy8vL08vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8/T08/Ly8vLy8vLy8vLy8vLy8vLy8vHx8fHy8vDw8fPp4OHo8+/x8vLy8vLy8vLy8vLx8Q==",
     "struct": "7be234002ac0f53a1aca6c87ec34327b37ddc554",
     "h1": "Smarter Email & SMS",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "privy": {
     "pix": "VlRVVlZWVlZWVltlZmVnZWhlZmhqW1ZWV1dWV1dOTVj83OX////////++Pr/+P78+f78+/36/v/+/P36/4F9/2BfX2BgYGBgYGBhYGFgYWFgYWFgYWBiYGBfYF9gUlFgHR0dHR0dHR0eGhYYGhcVGRkZFxgZFxUbHR0dHR0gIB0qKioqKiorJzpmWFNlWGNkY153dVtbZjYnKyoqKikpKigoKCgoKCgnK0xRT0pQX0xVTFNcSk1YPCgoKCgoKCgoKCgoKCgoJydiZ1ZhaW1SYnRqUF9xXGlrKyYoKCgoKCgoKCgoKCcsMkM8Ojk9Ozg+Ozs4Nz85PDwxLScoKCgoKCgoKCgoJzA1NTIzNTtHQERCRUg7MTU0NjkwJygoKCgoKCgoKCgoJyYmJyclKSUdHyQcISomJiYmJScoKCgoKCgoKCgoKCgoKCkoKCkkXYJyVZZrIykpKCgoKCgoKCgoKCgoKCgoKCgoKCgoKSN/sJtyzJAhKigoKCgoKCgoKCgoKCgoKCgoKCgoKCcyOCoqMi8oIzc3KSgoKCgoKCgoKCgoKCgoKCgoKCgoKCkpKykoKCsrKSkoKCgoKCgoKCgoKCgoKSkpKSkpKSkpKSgnLjk6LicpKSkpKSkpKSkpKSgoKSYjJSQjIyMjIyQjLDM2Pj84MysjJCQkJCMjIyMiJighSMjCxMbGxsfGxsXDwsHAwsXGxsbDw8PDxsbGxshHIR1a/+Xv////////++vu7/D8/////Ozr5/T////9/1kdHVn6zcrKy8vJ2/P37vfz8fD29/f27vP4+/v7+fj/Vx4dWvrGsKmuq73a9Pr18Orv+vr6+fzp4fr/7+j2/v9YHQ==",
     "struct": "fa6ef02694fcbb105b2ff41d0318d5e06e546ff0",
     "h1": "Turn Email & SMS into your best sales channel",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "smartrmail": {
     "pix": "Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLjExMTExMC4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uIyAgIB8oLy4uLi4uLi4uLi4uLi4uLi4uLi4uLi4wMDFmdHV0eEspLy4uLi4uLi4uLi4uLi4uLi4uLi8xLSgkLLTU0NDieCIxLi4uLi4uLi4uLi4uLi4uLi4uLCBAq5qOZHh8mpVRKC8uLi4uLi4uLi4uLi4uLi4uLikPP1i3xqNNWZq2SSYvLi4uLi4uLi4uLi4uLi4uLiw2MDOWf3bHg1lcZK6dWSovLi4uLi4uLi4uLi4uLi4uLE1FWKiOaIJwVVtBdrBxMS0uLi4uLi4uLi4uLi4uLi4tQk2An1tNSk59goWcmm01LS4uLi4uLi4uLi4uLi4uLiw7cHyheGRnfJC0tquuejItLi4uLi4uLi4uLi4uLi4vK1B4dou9fHWNpL6ujp13My0uLi4uLi4uLi4uLi4uLi8pXH5if8KmWleitZ+VkXM0LS4uLi4uLi4uLi4uLi4uLypCeWdjmZM9SZqknJy5ezItLi4uLi4uLi4uLi4uLi4uLjBkcnSHZlKRkVB+ibd+MS4uLi4uLi4uLi4uLi4uLi4wMztjhZCYsZBXT1hMUlw3LC4uLi4uLi4uLi4uLi4uLTElFzZhfWkyMS8/RDc3SDQtLi4uLi4uLi4uLi4uLi4uLiwhKDNMSysyMTI0Ky0zLi4uLi4uLi4uLi4uLi4uLi4uLzEwLSoqLy4uLi0vLi0uLg==",
     "struct": "0df7b83b59283d385862df44fcae47c2480e0f8c",
     "h1": "From signup to first send before your coffee gets cold",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "dotdigital": {
     "pix": "RFVUUVVFRUVFSEZGR0ZIRkZIRkZHSEZFRUVKWlhRVET4ys3J0PT19fLi7+3n7uHx6+Tx6uPh8fX0+buVnqy8/P/v7urt/v///vf8/Pj89v369fv69/T9//3/4s7T2+L/+vz9/v35+fr6/Pv7+/v8+vr+//78//v6//v9/////fr7+/v7+/z7+vr6+vr6+/v6/+O+2v/F4PnJ8vz3+fr6+/zu5ubp5O///v3+/v37+v/jgnWAtkqnrHPU//78+/v7/+Xh5OXk5+Dp6tvn6/z5/7x3iH2cr6CEftv3u/H9+vv/1Ky5trqysrnCwaPE//j/1n2BecC/iIGT6Kd75P/6+//MwMfZ2MnTzc/D5v/6+/v82bfQunqDf8/SsL3y8vv7/9DGv9DIxdDO2MHl//v8/Pz//f+ah4Fix7u5y9DI//v/wLi5tazv//7+//39/Pz8/Pr+6rjOhle7u7e5r9f/+/7y5Ono5fP39vb2+Pj8/f39+//AkY9sUae7srO28//8/u3m5+Xj5eXm5ePg4fX+/f3+966qeWSYv7bIstn//P3+7N7h3OPm4ePj5N7i7P79/P/eq7eHpKy7xPTf/P39/f739fbx8PHw8O/x7u/z/v79/8e3q7bodqnw//7+/v7+//Hi4fL58fPz/f/////+/v7/yLmi5/qW0f/8/f7+/v7/xJCNxeDGycny//z9/f7+/+7Dmcz//f7//f7+/v7+/v/+/Pz+//7//v7+/v7+/v3/4qS4//79/v3+/v7+/v7+y9L//f7+/v7+/v7+/v7+/v7//v/+/v79/v7+/v7+/v6tuf/8/v7+/v7///////////7+/f7//////////////w==",
     "struct": "2ccb71a5df7b42ba145dfcc4e24afe381c0c62ae",
     "h1": "Automation that frees you to be human",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "cleverreach": {
     "pix": "9vb3+fn5+Pj4+Pj4+fn5+fn4+fn4+Pn4+fb18+3u9fb38uTr6vD///////vv8vrw8/ry7vf47u/49PLwvbjt+Pb29/b19vf39/f39/b39/b29/b29/f29vb29vbx8fb29vb29vX39vX19fX19vb19vb19vb19vb1+fr29Pf39vb28/L49u/z9vb19ff39fb29vb29vb29PzFgvT+9fb29vrirrDCuK+5u9fX2tjS6fj19vb29vb3/6poqNX39vb29vPt6Ofq5+jo6uro6ery9vb29vf48+nHkFh7jsf89fb479ja5ern7Ozs6ujq6/f39vX39eXk15CSXoebm+749ffx4ODp7uvt7+3s7+3r6/T39ffpuKy7qK+ae4Kd4Pj29/Lo6ebh3+Hg3+Hg4eDe7vjz7/fj48yjoZdSXITo9fb47sbI7vLx9fj4+Pj4+Pj39friuLvl54uWYUacZbj/9PjsvsHr7+3z9fX19fX19fb2+ezS2PjZepFxb5l63fv19vb5+fTw8fPx8PP29vb29vb39/bvx6SHk4FZb8r/9Pb29fT09fb29vb19vb29vb29vb19fjEfpu9uJHB+fX29vb29vb29vb29vb29vb29vb29vb29vzi4/T1/v729vb29vb29vb29vb29vb29vb29vb29vb29vv69/b09Pb29vby8vLy8vLy8vLy8vLy8vLy8vLy8vLy8fLy8vP09PT19O/v7+/v7+/v7u/x8fLx8PHy8PDw8fLw7u/v8u3s7ezu7+/v7+/v7+/018bHxMjKw83FwsjGx9jy7+7q5uXl5Onv7+/v7+/v7eTh393d4N/e4ODf4N3f4ejt7+/v7u7v7w==",
     "struct": "ac6531768dfb074a481102c33dcf00079e83f945",
     "h1": "Your Intuitive Newsletter Tool for Successful Email Marketing",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "rapidmail": {
     "pix": "Ag8ZCwEOBQoJCw8LBgwCAQEBAQEBAQEBAQEHDj5ARBsCDxwLARIHCgwNEhAIEAMCAgICAgICAgEBAQoQRklOHwEAAAABAAEBAAAAAAAAAAAAAAAAAAAAAQEBAAEAAAAAAAABAQAAAAEZLhkRGhgZHSYdFBsYIxsFAAAAAAICAgEAAAAAAAAAAAY0RTJNRk9NUVMnUUEwTg8AAQAAAAAAAAAAAAAAAAAAADE/Mjg3HEU1QDEuNkAoAAEAAAAAAAAAAAAAAAAAAAAAKDUyKTAcMCo8Kz4yMyAAAAAAAAAAAAAAAAAAAAAAAAAABAkGAwYDBwYHCQoEAAAAAAAAAAAAAAIDAwMDAwMCAgMCARQeHB0JBAQDAgIBAAAAAAAAAAAAAAAAAAAAAAAAAAIAS3pycxwRHgwAAQEBAQEBAQEAAAAuXlhXVFhHJyofAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIry3fL//66Biom6xMLAwsLDxMTExMTDw8PDxMCwFgABhenO4Pb+ysjI0fXIy9HKycjIyMjHxsjKysrD5vcdAAKL/+zs7PD6+v7/wAoYRBQJDAsLCg8WIRcYGQB97hkAAov+6e7t7Ors/ffs7+3r7+/u7u7016HC8+zt7fDkHAACjP/p7u/w7vb/9u///v7+/v//+vLe0Kr0//7/+uMcAAKM//Dv8/r7///47//76un0///xvbespa7I//354xwAAo//+f/0+dafpLDw//CgoZfx//HMfWhPotT8//njHAACO3NvYtr14b7CyPH/8Iuhxf7/+8JGQ0lj4fz/+eMcAAJdxrAn1Pv7/f748P/62eTz//7/0nlZSU3F/v/54xwAAg==",
     "struct": "45b9a962936c085c56f873975dcbcf6c63060705",
     "h1": "The newsletter tool for anyone: simply good.",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "activetrail": {
-    "pix": "LCdFTDY8MCsrMzAxMDIzMTAxMTAzKysrLUpPRkc1KSssJlFaV1w7LC1FPEE9QUg/PT4/PUUsLCs2q7R6gEsmLFhVTEZEOzc4NS8uKikmISAjJCYiIyYnJSQmKigoKisrXFlVUUhRY1RPTUxIREJHVkU9OUxBQ0JITD8qKysrKytUUU5LQ1F4end5e3BfYHZ+bYRjeHl0WXB2bDUpKysrK05MSkZEPzgzNjE7QkJAOz4/REE7RDMjIyIlKysrKysrSUdFQ0JNS0pGREQ8NzQ1NDQvMjM3Oz08PTk6LSsrKytEQ0JBQD5BSUNDQUBPVlVaXG5scEI6Oz08MCwrKysrK0FAPz48Ojk3NTIuNWFwcoSCpaKsQyYsKysrKysrKysrPj49PDo5NzUyMS8rKikpKSosLSorKysrKysrKysrKys7Ozo5ODY0MiwqKSsrLSssLCwrKygpKisrKysrKysrKzg4NzY1MzEtSEc6KywlLisnJCksOjcxLSsrKysrKysrNTU0MzEwLyw/PjYsJViQWmdqPCFLSEAvKisrKysrKysxMTEvLy4tLCgnKiZGl6V7a5WXSyIpJycrKSkrKysrKy8vLi4qKSoqKiwsMYSToIMleauZNS08PTIyMi4rKysrLCwsKTg6ODw7MitNl56orJGfpqRQKUFKPkBANSorKysrKysqOT4+QkM2LEmGo7KvsbCsqVQnLSwsKCkqKyssLSsrKyspKCktKSoqKliKk6ioo5RXNSkwMTAsLCsrLCYhKysrKywsLSxDOjIsOWtaZHCAays/RURDLSorKywkVHErKysrKysrKUpDOismPm99fntMKC4tLi4rKysrLSNcfw==",
+    "pix": "LCdFTDY8MCsrMzAxMDIzMTAxMTAzKysrLUpPRkc1KSssJlFaV1w6KyxEO0A9QEg+PD0/O0QrKyo1qrR6gEsmLFhVTEZDPT09OjMzLy0qJykpKSgpJysrKysqKSgoKisrXFlVUEpGQj88OjczMC0sLCwsLCssKysrKysrKysrKytUUU5KRkJAPTs4NTEvLCsrKysrKyorKysrKysrKysrK05MSkZDQUE9Ozk2MjAtLi8uLS0uLS4tLS0sKysrKysrSUdFQ0FAPz07ODUyLy4vLy8wLi8wLy0uLy4sKysrKytEQ0JBQD07OTc0MDAuLS0tLSwsLCwrKysrKywrKysrK0FAPz48Ozk4NTIwMTIyMjMxLzAvLi0tLS0sLCsrKysrPj49PDo5NzUyMC4rLCwsLCsrLCwsLCwrKysrKysrKys7Ozo5ODY0MTAuKysrKysrKysrKysrKysrKysrKysrKzg4NzY1MzEvLy0sKysrKysqKysrLCwrKysrKysrKysrNTU0MzEwLy4tLCwrKy0vLS4uLCstLSwrKysrKysrKysxMTEvLy4sKysrKystLy8vLy8vLSsrKysrKysrKysrKy8vLy4sKysrKysrKy8vMC8rLzEwKyssLCwrKysrKysrLCwrKywsLCwsKystLzAxMjAxMjEtLCwtLCwsLCsrKysrKysrLCwsLSwsKy0vMTIyMjIxMS0rKysrKysrKyssLSsrKysrKysrKysrKy0vMDIxMTAtKysrKysrKysrLCYhKysrKysrKyssLCsrLC0tLi8vListLS0tKysrKywkVHErKysrKysrKywsLCsrLC8vLy8tKysrKysrKysrLSNcfw==",
     "struct": "5e0ffbf174ce6519aecf50cb12a5742fa2977ca7",
     "h1": "Everyone's talking about data,",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "mailup": {
     "pix": "9/j8/eXu+PH78fH48fny8fry/v///////fn7wqDl8/Xd3OLiztne2eDX193Y3trb4tzl6Orq6urr6eu+odvn53d3dnV3dXV2dHR1dHVzdnh2d3V1d3h4d3p9fIOHgH58cnJycnJybW5vcG5vcG5ubW5tbm9vbm1tbXBxb29wcHFzc3N0c3qYj4iAi4eGkoWPjYuLg4KEjY2Jd3N0dHR0dHNzc3NweqyqpZuxrpamra6oraucmZ2tqqp4cHNzc3Nzc3Nydn57dnh1fXh4e3l5eHh3dnl6eHh4d3p9dnJzc3Nzc3N0eXp5enp4eHx9fH57gIOEfnl6enl5d3l1c3Nzc3Nzc3NycnJycnNvlamlpKqIdnp0cnJycnJycnNzc3Nzc3Nzc3Nzc3NzdG6z1s/N15x3fndyc3NzdHNzc3Nzc3Nzc3Nzc3Nzc3Nzc25wcHFvb3Jxc3Rzc3Nyc3Rzc3Nzc3Nzc3NzdHRzc3NzdHNzc3R0c3JycXNzc3lwcXNzc3Nzc3NzcYWTh4J3b4KakJeIcnGEl46BdXNxpqqmgHB0c3N1dXV1dnh3dnV0d3p3eHd1dHl+fH12dXSAi4h4dHV1dWtra2trampqa2tqaWpqamtramlpaWtra2lnZ2pra2trm5ubm5ubm5ubm5ubm5ubm5qam5ubm5uam5ycm5ubm5v///////////////////////////////////////////39/f39/f39/f39/f39/P/gw9/07+3z4uvv+v39/f39///////////////////9/7Rpv6xZWKm/zub5/////////v/z9fv78fv7+vn1/v//69naUGmlZbPRqNH//f///w==",
     "struct": "9bb192ff596c342cf311766fdb47aa2f1e118c64",
     "h1": "Give your business a voice",
-    "ts": "2026-09-22T03:47:23.316Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "acumbamail": {
-    "pix": "bW1taWppaWxtbW1tbWxrbGtsa2xsa2xsaWRgUVpubW1tbW1paWlpbG1tbW1tbGxsa2xsbGxrbGxqZmJUXG5tbW1tbW5ubm5tbW1tbW1tbW1tbW1tbW1tbW5ub3FwbW1tbW1tbW1tbW1tbW1tbW1tbW1ubW1tbW1tbW1sbGxtbW1tbW1ub29ub25ub29vbW1tbGpubmxtbG1taG5ubW1tbW1tbWhnZ2pmaGhlaGdtbW5qYmRkYGJkZGRfYmFrbW1tb29wWU1YWlRaV1dTWm5tbmhkZmZbX2dmZGFiXmhubW1jYmROSFBJSURLWFdsbm1uaGJhYWRjYmxmaGpjaG5tbaSlpZaQlZSTkI9iV2xtbW5oZGdmaGhnaWZfYV1obm1t5+fx7+vv6fn//4pibm1tbmhkZmdoZGhpaGlpZWdubW3u4+bn5Ob5/v3/hWBtbG1uaGVnaWJYaWtnYWNeaG5tbe/Z3ODc2+/v8v+IY29tbW5oZWhnaGppZ2VlY2Jnbm1t79/j4uHm5uTm/28+R11vbWhkZmZnZF5nZGdoY2hubW3x4+bl5evx7+37hFxmam1uaGRnZmhjRWZoZ2hjaW5tbe3V2drY2dPU1viMZnFubW1rZWVlZWVjZWVmZmVrbW1t8N3o5uXp5ePk9Ypkb21tbW1ta25raG9tbG1rbG1tbW316/T29Pr9/P3/iWRvbW1tbW1tbW1tbW1tbW1tb25tbf79/P37/P///v+JZG9tbW1tbW1tbW1tbW1tbW5oaW5t69HX0tnh19rW6Itkb21tbWxrbW1tbG1tbW1sb0hOcWzAcYp7jJp1i3OljmJpZ2dqZmJrbGxka2ttbmZrZmdubQ==",
+    "pix": "bW1taWppaWxtbW1tbWxrbGtsa2xsa2xsaWRgUVpubW1tbW1paWlpbG1tbW1tbGxsa2xsbGxrbGxqZmJUXG5tbW1tbW5ubm5tbW1tbW1tbW1tbW1tbW1tbW5ub3FwbW1tbW1tbW1tbW1tbW1tbW1tbW1ubW1tbW1tbW1sbGxtbW1tbW1ub29ub25ub29vbW1tbGpubmttbG1uZ25ubW1tbW1tbWhnZ2pmaGhlaGdtbW5qYmRlZGVkZGRiY2NrbW1tb29wWU1YWlRaV1dTWm5tbmhkZmZaX2dlZF9fXGhubW1jYmROSFBJSURLWFdsbm1uaGJjY2RjZGxmaGlkZ25tbaSlpZaQlZSTkI9iV2xtbW5oZGVlZ2ZmaWZgYl5obm1t5+fx7+vv6fn//4pibm1tbmhkZmdpZ2hpaGdmY2dubW3u4+bn5Ob5/v3/hWBtbG1uaGVnaWJXaWtnY2VfaG5tbe/Z3ODc2+/v8v+IY29tbW5oZmloaWlpaGZkYmFobm1t79/j4uHm5uTm/28+R11vbWhkZmZnZV5nZGhnY2dubW3x4+bl5evx7+37hFxmam1uaGRnZmhjRWZnZ2hiaW5tbe3V2drY2dPU1viMZnFubW1rZWVlZWVjZGZmZmVrbW1t8N3o5uXp5ePk9Ypkb21tbW1ta25raG9tbG1rbG1tbW316/T29Pr9/P3/iWRvbW1tbW1tbW1tbW1tbW1tb25tbf79/P37/P///v+JZG9tbW1tbW1tbW1tbW1tbW5oaW5t69HX0tnh19rW6Itkb21tbWxrbW1tbG1tbW1sb0hOcWzAcYp7jJp1i3OljmJpZ2dqZmJrbGxka2ttbmZrZmdubQ==",
     "struct": "c7bf30d065b16b1348ff35f17377b4120d580744",
     "h1": "Easily send email and SMS campaigns and boost your business",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "expertsender": {
-    "pix": "aGZmZ2dpbm9vZ2dvcHBvdXZwb3BvaGlydG1qaGdnZ2g6VllPSjQ0QDk7QjQyMzM0NDMzMjM0Mzg5Q0k8UWJfPCsvLi0sKiorKisrKioqKioqKioqKikpKSkuLSouMjEqJCMjJCQkJCQkJCQkJCQkJCQkJCQkLS4uLiImLCopKSslJSUlJSUlJSUlJSUlJSUlJSUlJSQ1PEE7Yk0wNTQ0MyUlJSUlJSYmJSUlJSUlJiYlJSYmIyoyMT24eig2NDQ3JSUlJSYmKCgoKCkoKCYgICUrLyFfv8PJpLR/KDQzMzglJSUmJSY9Pzw5NT4/PT8/KiwxJlu8y6S5z54xNzc7PiUlJiUlJFFZYF1ZYFs5Oz0uKyQdRoqki6RvWy0uL0I3JSYmJSUlNzk8Pj8+OSQiJCk6oKa+uK/AnFVhb3BweXEmJSUlJSU9Q0RCRENBRUZEKULh7fJWXYKVr7Wmp6moqSUlJSUoKjk7Njg4LyssLjUoQuTv6ainyPjo/8Rye3l5JSYpLCwrVGZlTyMkJCUrLCk4gpHU/+fg4NfhuWaAkI4oKywsLCw2OTo1KScnKywsLCshGbn8v8uri4ucmJyfny0tLS0tLCopKistLSstLCwsLTErptnF07afpKSlpKOkKioqKiotLS4rKiorMisuLy8qKyksL2l/eX18enp6ensaGhoZIDo8MhobFD5uFE1kWx00MBgoNCEjNS4cExUUFM3Nzc3Nz9DOzc7O0M3Lzc3Nzc/Pzc3Ozs/Oz87Ozs7O///////+/f7//v7+///////////////////////////9/f38//LX3d3a3Nvj4d3h6//9/f39/f39/f39/f39/Q==",
+    "pix": "aGZmZ2dpbm9vZ2dvcHBvdXZwb3BvaGlydG1qaGdnZ2g6VllPSjQ0QDk7QjQyMzM0NDMzMjM0Mzg5Q0k8UWJfPCsvLi0sKiorKisrKioqKioqKioqKikpKSkuLSouMjEqJCMjJCQkJCQkJCQkJCQkJCQkJCQkLS4uLiImLCopKSslJSUlJSUlJSUlJSUlJSUlJSUlJSQ1PEE7Yk0wNTQ0MyUlJSUlJSYmJSUlJSUlJiYlJSYmIyoyMT24eig2NDQ3JSUlJSYmKCgoKCkoKCYgICUrLyFfv8PJpLR/KDQzMzglJSUmJSY9Pjg2Mjo9PT8/KiwxJlu8y6S5z54xNzc7PiUlJiUlJFBecm1qdGo5Oz0uKyQdRoqki6RvWy0uL0I3JSYmJSUlNj1MSk5ORSQiJCk6oKa+uK/AnFVhb3BweXEmJSUlJSU+QkA/QEA/RkZEKULh7fJWXYKVr7Wmp6moqSUlJSUoKjk8Njk5LywsLjUoQuTv6ainyPjo/8Rye3l5JSYpLCwrVGZlTyMkJCUrLCk4gpHU/+fg4NfhuWaAkI4oKywsLCw2OTo1KScnKywsLCshGbn8v8uri4ucmJyfny0tLS0tLCopKistLSstLCwsLTErptnF07afpKSlpKOkKioqKiotLS4rKiorMisuLy8qKyksL2l/eX18enp6ensaGhoZIDo8MhobFD5uFE1kWx00MBgoNCEjNS4cExUUFM3Nzc3Nz9DOzc7O0M3Lzc3Nzc/Pzc3Ozs/Oz87Ozs7O///////+/f7//v7+///////////////////////////9/f38//LX3d3a3Nvj4d3h6//9/f39/f39/f39/f39/Q==",
     "struct": "5f0fd4f513c30575949e9010a5e543987fa96dce",
     "h1": "Boost your e-commerce sales with \npersonalization",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "manago-ai": {
     "pix": "kJCPjo2PkJCQkIeFhYaGg4R9fHx8g5CPj4+PkJCQkJAAABsiJgkAAAEPBgYQBAcQAQsGAAAFCgM6e3AbFBMAAAAAAwMIAgAAAAICAwQCAwQCBAMCAgICAQ4eGwcEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEELB0hGh0gIi0cGSodBAEBAQEAAAAAAAAAAAAAAAAAAQAmKiEoITNHMSYcLikFAAAAAAAAAAAAAAAAAAABABo7PTo2QzQqKywzMS4zNTRKGwABAAAAAAAAAAAAAAAADBwXJhozIhUTExkZIRwYFigJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAgEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
     "struct": "914b2f1b64eccbb180de5f94273027e0d0fa2f38",
     "h1": "Turns insights into campaigns in one prompt",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "edrone": {
     "pix": "//T2+Pv/+/z9/P77/f77/v////35+fn9/f3/+vv8////y9DX6//w8/nw+u70+ev5//7/+eXl5/r39f7q7u/9//3+///+/v///////////////////////v//////////9vDw8PL08O/28uvt3enf5P/+/////////v7//v7+///3597g4eHe3+nZpbqsw7zZ//7///////////////////X4+vn5+fr6+fz8/v7+////////////////////////+NrV4drd4Nvc59/f4+bh5f/////////////////////43dzy8PHy9vj49vb5+fn8//////////////////////b7//z8/fvw7/Dx8fDy8fz/////////////////////+sersbGtwPz8/P39/f7/////////////////////////UwAGBQAz/Pv6+/z8/v////////////////////////rKsLa1scL7+/v8/P3+////////////////////////9vr8+/3//vv7/Pz9/v/////////////////////////39PLz9ff4+/v7/Pz+//////////////////////////f4+Pn5+vv7+/z9/f7/////////////////////////+Pf4+fn6+/v7/P3+/v/////////////////////////49/n5+vv7+/v8/f7///////////////////////////f4+fr6+/v7/Pz+/v//////////////////////////9/j5+fr7+/v8/f7+///////////////////////////4+Pn6+/v7+/z9/v///////////////////////////w==",
     "struct": "f5a6eef2b59d1600f273845ecee8fa0fc90cbd74",
     "h1": "Automation worth it?",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "resend": {
-    "pix": "AgICAgICAgICAgICAgICAgICAgMEBwsPFBgcHBwZFRMCAgICAgICAgICAgICAgICAgICAwQIDBAVGRsbGRYTEAICAgICAgICAgICAgICAgICAgMDBgoNEhUZGhoXFBENAgICAgICAgICAgICAgICAgIDAwQICw8TFRgZFxQRDgsCAgICAAAAAAECAgICAgMDAwMEBgkMEBQVFhYUEg4LCQICAgQKCgoKBQICAgIDAwQEBQcJCw4RFBUVFBIOCwkGAgICBBIXFxUFAQICAwMEBAYHCAoNDxITFBQSDwwKBwQCAgAKFQIAERoTAgQDBAUHCAkKDA0PEhISEQ8MCggFAwIDABlGU01iQ0xEBgQGBwgJCgsNDg8REREODAoHBQQDAgIBBSAbGykRExMCBAgJCgoMDQ0ODw8PDgwKCAUEAwICAwATTjUoPDkyMjAhBwoLDAwNDQ0ODQwMCggFBAMCAgMEAQ4sHRwgJTEhGRgLCgsMDAwMDAwLCgkHBQQDAwICAgIBBhERExMVGBQWGBMICwsLCwsKCgkIBgUEAwICAgICAgEFDQwMCw0QExQVDw0MCgkJCAgHBwUEBAMDAwICAgICAgQeKxMGEhIIBgoOEBISEA4LBwQDAwMDAwMCAgICAwICAgMEBAICAwMEBQQFBgcJDA0ODQsHBAIBAQEBAQEJCAcGBAMCAgICAQEBAgIBAQEAAQIFCAsMDAkGAwEAAAIDBAUGBQQDAwIBAQAAAAAAAAAAAAAAAAECBAYHBgQCAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-    "struct": "18398d8c9986b8783b623bf2c1853ab943308989",
+    "pix": "AgICAgICAgICAgICAgICAgICAgMEBwsPFBgcHBwZFRMCAgICAgICAgICAgICAgICAgICAwQIDBAVGRsbGRYTEAICAgICAgICAgICAgICAgICAgMDBgoNEhUZGhoXFBENAgICAgICAgICAgICAgICAgIDAwQICw8TFRgZFxQRDgsCAgICAQEBAQICAgICAgMDAwMEBgkMEBQVFhYUEg4LCQICAgMHBwcIBAICAgIDAwQEBQcJCw4RFBUVFBIOCwkGAgICBA8TFBEFAQMCAwMEBAYHCAoNDxITFBQSDwwKBwQCAgEGDQEAChALAQQDBAUHCAkKDA0PEhISEQ8MCggFAwIDABU4QDpMNj01BgUFBwgJCgsNDg8REREODAoHBQQDAgIBBRoZGiMPEhIBAwgJCgoMDQ0ODw8PDgwKCAUEAwICAwAPOycdLSskJSYaBwoLDAwNDQ0ODQwMCggFBAMCAgMDAQ0nGxkcISkeFhUKCgsMDAwMDAwLCgkHBQQDAwICAgIBBQ4ODxARFRESFREICwsLCwsKCgkIBgUEAwICAgICAgIECwkKCgsOEhMVDw0MCgkJCAgHBwUEBAMDAwICAgICAgMXIA8FDg4GBgoNEBISEA4LBwQDAwMDAwMCAgICAwICAgUGBAMEBQQEBQQFBgcJDA0ODQsHBAIBAQEBAQEJCAcGBAMCAgEBAQEBAgIBAQEAAQIFCAsMDAkGAwEAAAIDBAUGBQQDAwIBAQAAAAAAAAAAAAAAAAECBAYHBgQCAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "struct": "f452be8c9afe2932d601049c9634d4827556aaac",
     "h1": "Email for\ndevelopers",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "sessy": {
     "pix": "//7/89Hg//7/////////////////+Pj3+fn2+Pv////+/v7+/v7+/f39/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////////////7///////////////////////////////7/8OLl6t/i4OTk3ur//////////////////////////v/op7LGuLC9r6G/4P/////////////////////////+//HJ29TU2NjVze///v//////////////////////////+vT08vLz9PT18O3t9//+/v/////////////////////89vj6+e7q7vj29vj+///////////////////////+/+q5vby67vr4+vv++Ojm8Pj9+/z8//////////////3/02dvbWjb9+7v8fnfuLrQ5/j19fb9/f39/f7////////////////////////////////////////////////+/+/FyMXGysvLy8vLysrKysvLy8vLy8vLzMrw//7///z/uw0dCgcJCQkJCQkJCQkJCQkJCQkJCQkRBrz//P///P+7BBAVFAgJCQkJCQkJCQkJCQkJCQkJCQoCvP/8///8/7sGExoZDxMNCQoKCgoKCgoKCgoKCQoKCwK8//z///z/vAQREBAOCgoKCgoJCQkJCQkJCQgSEhUNA7z//P///P+8BBEfGxkUEA8cGhkTDw8QEAkJCQsLCwoCvP/8///8/7sHEQsWDgoKChQPCwsKCwoLCgoKCQkJDwa7//z///z/ugolDRsgGw0JGx0bDAoKCgoKCgoJDRQYCLv//P///P+7CB8OEhYTCwkSFBQLCQkJCQkJCQkKEBMFu//8/w==",
     "struct": "70b35574d51b8e025b4a957e9af22204ef867f2c",
     "h1": "Know what happens after you hit send.",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "termii": {
-    "pix": "+/39/fDd7v/49/v0+/j79/j2/PT5/fz5+Nl/mvv+/f39/f39+/P4/vz7/Pr8/P38/Pr9+vz9/Pz88tfe/P39/f39/f37/fv6+/z8/f3+/f3+/v3+/f39/f3+///9/f39/f39/fr59/j6/v///f39/f39/f39/f39/fr5+vz8/f39/f743djk19DT0M7x//z9/f39/f39/f37+fv8/f39/f39/vnKysrIwtbs6vn+/f7+/f39/f39+/j6/Pz9/f39/f39/efh3uPc7P/+/Pr7+vr9/f39/fz3+Pv8/Pz8/Pz9/f388Pb18+7n4OTj5eXj7fz9/f3++Pb6+/z8/Pz8/f39/fzi4N/t9/b4+Pb4+Pf8/f39/frz+Pr7/Pz8/Pz9/fz++HdjVrr+7vr//v7+/v39/f398/f7+/z8+/v8/f39/f387erq8vf1+v39/f39/f39/vb18OLp6unr+f39/f39/f3+//78+/r8/f39/f39/f368fj18vj39/j6/f39/f39/f39/f3+/v39/f39/f39/fL1+fv9+vv9/f39/f39/f39/f39/f39/f39/f39/P708fn6+vn6/P39/f39/f39/f39/f39/f39/f39/fz+9u/3+fr5+v39/f39/f39/f39/f39/f39/f39/fz9//fs9vj3+fz9/f39/f39/f39/f39/f3+/v7+/f3+///16/P19vr9/f39/f39/f37+/z7+vn49/X19vf7+vXx6ufv9fn8/f39/f39/f39/f7//Pv6+Pf18vLy8/r68u7w9vr9/f39/f39/f39/fz/vbz9/f39/f3+/v7+/f3////+/v39/f39/f39/f39+/+kow==",
+    "pix": "+fz9/fDd7v/49/v0+/j79/j2/PT5/fz5+Nl/mvv+/f3+/f39+/P4/vz7/Pr8/P38/Pr9+vz9/Pz88tfe/P39/f39/f37/fv6+/z8/f3+/f3+/v3+/f39/f3+///9/f39/f39/fr59/j6/v///f39/f39/f39/f39/fr5+vz8/f39/f743djk19DT0M7x//z9/f39/f39/f37+fv8/f39/f39/vnKysrIwtbs6vn+/f7+/f39/f39+/j6/Pz9/f39/f39/efh3uPc7P/+/Pr7+vr9/f39/fz3+Pv8/Pz8/Pz9/f388Pb18+7n4OTj5eXj7fz9/f3++Pb7/Pz8/f38/f39/fzi4N/t9/b4+Pb4+Pf8/f39/fr0+Pr7/Pz7/Pz9/fz++HdjVrr+7vr//v7+/v39/f399Pf6+/z8/Pz8/f39/f387erq8vf1+v39/f39/f39/vb18OLp6ejr+f39/f39/f3+//78+/r8/f39/f39/f368fj18/n5+vn6/f39/f39/f39/f3+/v39/f39/f39/fH1+vny8fb3/P/9/f39/f39/f39/f39/f39/f39/P7z8Pj79ufz9/T6/v39/f39/f39/f39/f39/f39/fz+9u/4+vr5+v7+//79/f39/f39/f39/f39/f39/Pz9//ft9vj3+fz9/Pz9/f39/f39/f39/f3+/v7+/f3+///26/P19vn9/f39/f39/f37+/z7+vn49/b19vf6+vXx6ufw9Pn8/f39/f39/f39/f7//Pv6+Pf08/Ly8/r68u7w9vr9/f39/f39/f39/fz/vbz9/f39/f3+/v7+/f3////+/f39/f39/f39/f39+/+kow==",
     "struct": "b6b9e66c0d58ce2c4a614973eb0b1667fc2986f3",
     "h1": "Every \nNotification\nGuaranteed .",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "everlytic": {
     "pix": "//Xr6ebp/f///////fn7/P36/fv8/Pv7/Pr/6dXY9P//7tPS0dPo7Ovr6+vp4uTl5+Pp5ufp5ufo4+nTwMHs//lgOkFAPzw7Ojo6Ojo8Ozs8ODEyMjQ1MTA5PT5COmD55y4dIiMiISMmJiYmJiYmJyBPi4WHfn2EZzIcJyYiLufpN0Q9NjhEPiwrKywrKysuH3bm1tzV0uTjzmkjLig36eg1ZX58d3p4JyspKCoqKiwfb9jOyd30jFm41mYhKTXo6DRecHh2bXFqfoBnLikqLB9w38GDr6WFMoSvxTckNujpMmyLeXZxgnhdREIsKiosH23jfEqPoHOBpJLKaxs46Og0O1FGRjpJRzMfJCcoKiwfb95QT5+eXaGxpMuFGzjo6DUvMDAyMzAwNjo5NzUpKx9r4lUwd3NOwMvE34IbOOjoNEBORkhKSUlHS0hHSjkxI0rfjxRQSxhyoJLLYR046Og1NEAzLTAuLi8xLi8wMC4qJajbZpGOPTVvvbwuJjbo6DUvOTYsKSkpKSgpKSkoKSslQcrUoJ9/QIzTUSMpNejoNzA6OC8sLCwsLSwsLCwsLC4lQ6nT0NHOuU8kLyk46OgrHB8fICAgICAgICAgICAgICIaHENjZkkeGSIhHSvo/oFTW1pZWVlZWVlZW1xbW1tbW1xbUk5OUVpbWVpTgf7////////////////7+/r8/Pv6/f/////////////////9/v7+///+/v///urh4eLg5eDm/v7+//7+/v7+/fz+/f7//v/h4//+9fb//fn9///9///+//7+///////////b09Dc/7uv//+ytf/boLbl/t/i/vTm4PLt5uHr4dnS4g==",
     "struct": "19e170eab59bdb1854e1038e1e788b9c9b5f29d1",
     "h1": "Powerful Communication Starts Here",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "unifonic-ar": {
-    "pix": "9/r8+/v8/P39/v7/////////////////////////+/b73Le/uLKrop+Zko2KiIaDgH15dHBqYlpXWVtbXUqy//3Iz+zi3t3f29vZ2dfV1NTR0M/NzMrEwsTAtbLEbGX/+uHx/fv5+fz5+/////////////////////v08P+wav/55/D44cnFuLOzsLanmpuWi4iCgYN6dGxpam5tdy5o//no7+Svl3WaqXpoZVRDNyoaLVVLLjMqFRYvHxUoAGv/9/b766ykcHa5d2xnXFJAMCdFaltgXUVXQjtLSFQAa//55vDxs6PNhl18e2NXTUIpKCxiaEZJX0cqTVg8VQBr//nn6fHeyJ16j498Y1VNPTEmU2FhWGBQMzw/R1E0AG3/+uCz0sO/Z3CNln1waE5BOClOemhNWE05QSxIREMAbP/+yIOwiF0sKTeJwYd/dmhBNysoJCIZDAICAQAABQBu//+0epFgIywsGyeyunttYkU4Ozo7OjIlGRcYGBkpAGz//6doajQgKDM1KkK1e2NfPzQzNjg3MyMWFhkWFhUAbf//p1w+LSwmLjUsNIWDcWY7SUEvKCUtJh0YGh0bIQBt//+xTiomLCQYJxtZglVKOy1EOy8sJSEYCgoDAAAEAG7//6dLPSMgMSgjKSgeGhIlSUA7LBUXEgwJAFyfmIQAbP//olNTMB0mOCgpNCo+PC5ERDUoEhkWERIAiODVtwBq//+gQUlOPRYNIxIeOSo3RDQ+OiYiGhMFAAAAAAAGAHP/+uS/v8PMwq+3tLG4trW/vbq+ure2tLCsq62traml2vz2+v////7/////////////////////////////+e779g==",
+    "pix": "9/r8+/v8/P39/v7/////////////////////////+/b73Le/uLKrop+Zko2KiIaDgH15dHBqYlpXWVtbXUqy//3Iz+zi3t3f29vZ2dfV1NTR0M/NzMrEwsTAtbLEbGX/+uHx/fv5+fz5+/////////////////////v08P+wav/55/D44cnFuLOzsLanmpuWi4iCgYN6dGxpam5tdy5o//no7+Svl3WaqXpoZVRDNyoaLVVLLjMqFRYvHxUoAGv/9/b766ykcHa5d2xnXFJAMCdFaltgXUVXQjtLSFQAa//55vDxs6PNhl18e2NXTUIpKCxiaEZJX0cqTVg8VQBr//nn6fHeyJ16j498Y1VNPTEmU2FhWGBQMzw/R1E0AG3/+uCz0sO/Z3CNln1waE5BOClOemhNWE05QSxIREMAbP/+yIOwiF0sKTeJwYd/dmhBNysoJCIZDAICAQAABQBu//+0epFgIywsGyeyunttYkU4Ozo7OjIlGRcYGBkpAGz//6doajQgKDM1KkK1e2NfPzQzNjg3MyMWFhkWFhUAbf//p1w+LSwmLjUsNIWDcWY7SUEvKCUtJh0YGh0bIQBt//+xTiomLCQYJxtZglVKOy1EOy8sJSEYCgoDAAAEAG7//6dLPSMgMSgjKSgeGhIlSUA7LBUXEgwJAFyfmIQAbP//olNTMB0mOCgpNCo+PC5ERDUoEhkWERIAiODVtwBq//+gQUlOPRYNIxIeOSo3RDQ9OiYiGhIFAAAAAAAGAHP/+uS/v8PMwq+3tLG4trW/vbq+ure1uLOrq62srKml2vz2+v////7//////////////v7//v/v8v/+/P//+ez59w==",
     "struct": "8ef0753e8d46e1f64f37235dca717a593b3f0f43",
     "h1": "المنصة المبنية على الذكاء الاصطناعي لتجارب عملاء متكاملة من البداية للنهاية",
-    "ts": "2026-09-22T03:47:23.317Z"
+    "ts": "2026-09-23T03:47:48.847Z"
   },
   "rdstation": {
     "pix": "5tru+vf0+vD49vf29frz/P/////z+ezs7e7x4OX48/X28PX8+vj89vr6+vr4/Pj9//////n88/P17eXc4Pr3/P/////////////////////////////////50dDU+P/K//7+//7+//7+/v/+/v/+//////////7+/f/t0czQsnj///////////////////7+/v7////////////66LaNkv//////////////////////////////////////+9vJ/////////////v7+/v/s2dnt//7+/////////v7//////////////v79//7+//Pk5fP//P/+/f7+///////9/f7+//////7/77W/sLG1xsnHtbevvLOb8P/+///+/v7////8/f///tnmz9nd3dvPzt/PwtXJ5tna6/////7/9Nb1+vj7///+r6uxtcnAo7myydLbtLXCpqa0/P//8fTu2ebn/v////////n2+e/w+fnz9fT4+u/1//7//v/o7vv/9fD///////7++eXi4N/n5OXo4OHd5fr9/P796ff/8dLn8Oj4////////////+uvr6u36///+/+rp9/zy+//26cDGw/L//v/////////22t3c3vb////+/fP68eTy/+TZxtPN8//+////////////+Pf///////7/9Ovx9vjp8frBzc/w/v///////////v/09P/+//////7/6un379/y+MW9xOb0//7///////////////////////7+/9/q/+XhxcjG5vT//v////////////////////////7+/f/7+v3Dzdft9//+//////////////////////////////3+/w==",
     "struct": "70fc3639bf2470b1e1e341fc8eb30c18472f4121",
     "h1": "Conheça os produtos da RD Station",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.848Z"
   },
   "e-goi": {
-    "pix": "0MzQzc7QzMvS1NXW1dXW1tbW1tbW1tXW1dXV1tTMvMxVVS0+NjE8NjI8OjE5NzAxMTExMTExODlDQ0M+R4CFWzo6IiwoJCsoJCwqJisrJSYmJiYmJiYqKzAwMS4xUFI8JSgxLy8xLy8xLzIqKCgpKSkpKSkpKSYjKCgnKCcgICQnNEA6OT0/QDg4LycmJicoKCgoKCcmTVYiJScoKSkpKSU3VVNQXFtdU04tMi8xLCcoKCcoMi93e1ZNMConKCgoJjZcXFdQU0RGUU1VV1JBJSknLzw+RpKBhIA9Pi8nKCgkPl1SUigkJiQlJCQlJCYoJzU8e5uAqIovRz1CQS4nKCcrLy4tLS4uLy4xMC8vMSstQjx/qnl8ci9wQj9COycoJjFEQ0I/QUA+QUA6Ozw8KjFCPVxzc15KUpFIPkE+KigoKiwsLCwrKzE0KiYnJycmLUBAP1uJOyWAWDlBQD4qKCcwQ0JDQ0M/KigrLS0rKysnOkI8U4YwR6pwOUFBOygoIVCloqSkpJI3LTA7PDUtMSYtQjtXl2RcrII5QUIxJygnLDQzMzMzMiorKyoqKysqKCc2O2+wkm2vkz9COCcoKCgqLiwsKy4rKCgoKSgoJycoKSRHoqGGi6yfSzQpKCgoKSUjKSktJCMmJSceJCcoKCgpJTGQj3uRrLBMICkoKCgjP1Y0NyRSTDE3LVs+MCgoKCgoKDItLTZGjGQfKigoKB9Ufzc9IHVoMT4uhEwuKScnKCgoJicnJyEnOicoKCgoKSQgJCQoICEmJScfIycmMDAmKCgpKCgoKigkKCgoKCgoKSopKSgpKikpKCopKSYvLycoKCgoKCgoKCkoKCgoKA==",
+    "pix": "0MzQzc7QzMvS1NXW1dXW1tbW1tbW1tXW1dXV1tTMvMxVVS0+NjE8NjI8OjE5NzAxMTExMTExODlDQ0M+R4CFWzo6IiwoJCsoJCwqJisrJSYmJiYmJiYqKzAwMS4xUFI8JSgxLy8xLy8xLzIqKCgpKSkpKSkpKSYjKCgnKCcgICQnNEA6OT0/QDg4LycmJicoKCgoKCcmTVYiJScoKSkpKSU3VVNQXFtdU04tMi8xLCcoKCcoMi93e1ZNMConKCgoJjZcXFdQU0RGUU1VV1JBJSknLzw+RpKBhIA9Pi8nKCgkPl1SUigkJiQlJCQlJCYoJzU8e5uAqIovRz1CQS4nKCcrLy4tLS4uLy4xMC8vMSstQjx/qnl8ci9wQj9COycoJjFEQ0I/QUA+QUA6Ozw8KjFCPVxzc15KUpFIPkE+KigoKiwsLCwrKzE0KiYnJycmLUBAP1uJOyWAWDlBQD4qKCcwQ0JDQ0M/KigrLS0rKysnOkI8U4YwR6pwOUFBOygoIVCloqSkpJI3LTA7PDUtMSYtQjtXl2RcrII5QUIxJygnLDQzMzMzMiorKyoqKysqKCc2O2+wkm2vkz9COCcoKCgqLiwsKy4rKCgoKSgoJycoKSRHoqGGi6yfSzQpKCgoKSUjKSktJCMmJSceJCcoKCgpJTGQj3uRrLBMICkoKCgjP1Y0NyRSTDE3LVs+MCgoKCgoKDItLTZGjGQfKigoKB9Ufzc9IHVoMT4uhEwuKScnKCgoJicnJyEnOicoKCgoKSQgJCQoICEmJScfIycnLy8nKCgpKCgoKigkKCgoKCgoKSopKSgpKikpKCopKSYwMCYoKCgoKCgoKCkoKCgoKA==",
     "struct": "68ef0180f3ee181d5ff6dfae489c88cc998b0ec3",
     "h1": "From marketer to superhuman. From chaos to growth",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.848Z"
   },
   "mailtarget": {
-    "pix": "9vX4+fru0+bn6Ovv5+zs7u7r7+3t7vLu7/f4/P359fb8/u/t9Pn/+/H3+O/69PXy9fvz9/H1/Pz89fK9s9n/+///+vz//////f7+/P/8/fj6//z+/f/////++tTO6P/+iYOGhoWCgYGEg4SFg4KAgICAg4OFhYOCgoSDiImIgolDQ0NDQ0NDQ0NDPT08Pz4+PT8+Pj09QkNDQ0NCQkJDQ09PT09PT09PTVWAb3t3eHh2dW51cHJSTk9PT09PT09PTU1NTU1NTk5NV3N4d2trcnVvc29vblBMTU1NTU1NTU1NTU1NTE1MS0uGd3d7iIB6f3OCfYV8elRQU1RVVVZXWFBQUVFSU19fX2ZqaWxucW5xb3dycXB0am5qYWNjZGVmXV1eX2BhZWZoZmdna3R9eG1zZ2hubnFxc3NvcHFycnNra2xtbW5ub29xcXVhUE1/r6atjnV6eXp7fH1+foCAgXh5enp7fH1+f4B/hmFHP5DXyNKngomJiYmKi4uMjY2OhYaHiIiFhoaHiIiJjIuOiYKEhIuRkZKTk5SWmZubnJyTlJWVmbC0tLW2tre3uLi6u7u8u7u8vb29v7yqp6mqqqKio6Kr7e/r+P/////////////////////+9bm0tre4sLCwsLfo7/3r8fvp+fXt/vj5/vb8/Pb++Pr4xMPExcW9vr69wujq++3r++L0+Or++vf/9f779f/3+PnNzs/Q0crKy8vL+P/+//////v29/f7/v779PDz/P//+dfZ29zc1dXV1tT5//749/vz7/Dw8PDx8e/x8vHw9v764eXm5+fg4eLh4Pn49PP08/X39/f39/b29/f29vb09fXs8vLz9A==",
+    "pix": "9vX4+Pru0ubm5+ru5uvs7u3q7uzs7fHt7/f4/P359fb8/u/t9Pn++/D2+O/68/Ty9Pvz9/H1/Pz79fG8s9n/+///+/z//////f7+/P/8/fj6//z+/f/////++tTO6P/+iYOGhoWCgYGEg4SFg4KAgICAg4OFhYOCgoSDiImIgolDQ0NDQ0NDQ0NDPT08Pz4+PT8+Pj09QkNDQ0NCQkJDQ09PT09PT09PTVWAb3t3eHh2dW51cHJSTk9PT09PT09PTU1NTU1NTk5NV3N4d2trcnVvc29vblBMTU1NTU1NTU1NTU1NTE1MS0uGd3d7iIB6f3OCfYV8elRQU1RVVVZXWFBQUVFSU19fX2ZqaWxucW5xb3dycXB0am5qYWNjZGVmXV1eX2BhZWZoZmdna3R9eG1zZ2hubnFxc3NvcHFycnNra2xtbW5ub29xcXVhUE1/r6atjnV6eXp7fH1+foCAgXh5enp7fH1+f4B/hmFHP5DXyNKngomJiYmKi4uMjY2OhYaHiIiFhoaHiIiJjIuOiYKEhIuRkZKTk5SWmZubnJyTlJWVmbC0tLW2tre3uLi6u7u8u7u8vb29v7yqp6mqqqKio6Kr7e/r+P/////////////////////99bm0tre4sLCwsLfo7/3r8fvp+fXt/vj5/vb8/Pb++Pr4xMPExcW9vr69wujq++3r/OLz+Or++vf+9f789v/3+PnNzs/Q0crKy8vL+P/+//////z6+fn+///99/L2/v//+dfZ29zc1dXV1tT5//76+vv17+/u7/Dy8+/v8O7x+P/74eXm5+fg4eLi4Pr59PLz8/P29/b29vT19vb29vXz9fTs8vLz9A==",
     "struct": "5a858a01015e717d13ac230d7458492cbb6b3d10",
     "h1": "Email Infrastructure\nfor Enterprise Systems",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.848Z"
   },
   "netcore": {
-    "pix": "FBMQEBISEhEREhERER0iICEkKyQoLjU6QEdNU1xkam4VODs4FxUWFhgSGxEcEhgPCgsLCwsLCxYUDRkfcXt6IQoODxAKCQkICQkKDQwICQgKDAsIBwkLDAwLDAwjLh4QAwICAwUEBAMEBAYSCwYHBQYQEBoTHhEfEwcRDBInByYEBAQFBQUFBAUGChIHBAcICxQPFQ4iOhUWERYMLUMUPQQEBAUFBQQEBgYKEQYFCAkOExETCh8gDBETFRsXExZTBAQEBQUFBAQFBgoWEhYYFQsRFhgPGQ52VxEaGBIPGlQEBAQFBQUEBAYEBQcKCQcFERYVIRkPL41sFS4gHBQdcwQFBgYGBQUGCAUHCQ0HBQIdNTMdExgnjlcXO0YmHBVUBAIAAAEAAAABAAAAAAEEBRESKR83OxN3RiN2TjAvFg0BHCwjIislLScqListJQsLBAMFFGxhZ5V/aHpABgQVFwA0V0xHTExETT9GOjQwDwkNFQo4fHSMlo+DgGcHAQQJARsiKi8uKRgZGh0QAgACAQkMAFB2cnx+iXp2dR8DFQ8CCg8IFBAOBAQGBA4GAwMDBwULakMUHxseHBQ7MAIOEQBHoJWYmZqZclpaDwACAAERBxBzQQQKCQYIAycrCg8PAFK4qbCzsbeLb20WAAYIDBMKFzIgCgsKCgkJFBsbHyYDAQAAAAAAAAAAAAYNEhUbCQMbHBAEBQQDAwQOExUbJgQGBwkKCQgHBQoHBAEACy0kBgABAwIFCwwMBgQHDAkEBQAACx0bCAAGLgkAAwIeGiEUAAMCAAkiISMJAC8+OBQAAAAAAAAAAAACAAACAxEVERYKAQAAAAAAAAAAAgICAQ==",
+    "pix": "FBMQEBISEhEREhERER0iICEkKyQoLjU6QEdNU1xkam4VODs4FxUWFhgSGxEcEhgPCgsLCwsLCxYUDRkfcXt6IQoODxAKCQkICQkKDQwICQgKDAsIBwkLDAwLDAwjLh4QAwICAwUEBAMEBAYSCwYHBQYQEBoTHhEfEwcRDBInByYEBAQFBQUFBAUGChIHBAcICxQPFQ4iOhUWERYMLUMUPQQEBAUFBQQEBgYKEQYFCAkOExETCh8gDBETFRsXExZTBAQEBQUFBAQFBgoWEhYYFQsRFhgPGQ52VxEaGBIPGlQEBAQFBQUEBAYEBQcKCQcFERYVIRkPL41sFS4gHBQdcwQFBgYGBQUGCAUHCQ0HBQIdNTMdExgnjlcXO0YmHBVUBAIAAAEAAAABAAAAAAEEBRESKR83OxN3RiN2TjAvFg0BHCwjIislLScqListJQsLBAMFFGxhZ5V/aHpABgQVFwA0V0xHTExETT9GOjQwDwkNFQo4fHSMlo+DgGcHAQQJARsiKS8tKhgZGh0QAgACAQkMAFB2cnx+iXp2dR8DFQ8CCQ0HEg4MBAMFBA4GAwMDBwULakMUHxseHBQ7MAIOEQBKqJufoaGgeV5eEAACAAERBxBzQQQKCQYIAycrCg8PAFO6rLK0s7mNcW8WAAYIDBMKFzIgCgsKCgkKFBsbHyYCAQAAAAAAAAAAAAYNEhUbCQMbHRAEBQQDAgMOFBYaJgMGCAoJCAcHCgkFBQEACy0kBgAABQQCCAsNCgQECQsFAAAGHBwMAAEoEwACAgIeGiEUAAIJBgATIiIeAAk6PBUAAAAAAAEAAAIAAAACAxEVERYKAQAAAAAAAAAAAQMBAQ==",
     "struct": "52d3c16a4c3fd48f0e637c16a4fbf2b78e95ca34",
     "h1": "Agentic Marketing platform that\nco-owns your \nOutcomes\nCustomer LTV\nCRM Revenue\nRetention Rate\nChannel ROI\nReactivation Rate\nSearch-to-Purchase Rate\nRepeat Purchase Rate",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.848Z"
   },
   "doppler": {
     "pix": "//bl7vj87/j29fn68/f39//////+//TT19Pp+vv0/f//9unw9/z1+/j4+vv3+fn5//7+/v7/9NLW0uj87e78/P/////////////////////////////////////k4uTp//7+/enu7vDw8fHo7/Dr8/ju8PL08e7w8vHy8P378fv//v/7r7S6wbTAwLCzt7Wwz7ytvsS/v7W4t7u79f/+///////////9+vr7/Pn6+fTz+fb3+Pv7+Pz///////7///////3+/v38+/v68/Tz9fTy9PT6+/v8/f7+/v////////78/////vv//////v/////+//////7+/////f7/////+OL////42/7///7k/v7+/ej7////8/3////l+P/////x6vX///np/P//9er2///57/f//vPv8P3/+urz//////r5+////fn9///59/n8/fr2+v//+vn4/v/9+fv///////////////////v5+Pf4+Pn7//////////////////////////////////////////////////////////////7+/v7+/v////7/4KuztKvf//7//////////////////////////////v/txcjKxer//v////////////////7o4eTk5OT6///////+8vT18PT///////////////////37+/r8/P7///////37/Pz8/f////////////////39/v39//39/f38/f38/Pz9/f39/Pz8/Pz8/Pz8/P7+7e3s8O7d7e/u6ebu7fPz9PDv7+/w8PDw8PDw8PDx0uLs6+3oXkfI4Nrd4ezz8uvn+f/+/v7+/v7+/v7+/v/g5Q==",
-    "struct": "8515d5ba7df09101e108e36e40b8cc7499f71606",
+    "struct": "53089c80c480fbbf51acf1be2f1bbcaf368a6b38",
     "h1": "Multi-channel Marketing, simple and AI-powered",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "taximail": {
     "pix": "Hx5NMAUKBw8nQ0RCOjk5OTo7Ozo3Nzg2Nj1ARkpDODkjHmBLEBIMHDhKSUY+PT09PkA/Pjw8Ozw5SEdOVEk8PSQoJzAPAAQOOUVCQ0NCQkJEQkBAQEFBQUA+QUFCQEFBJikwOSYBBxo/P0ZGRERDQkVCPz48Oz4+Pz8/RklGRkYoLTI4Og4HJk1TXlZUVVdZWFJVWVdVSUZKSkpLTEpKSisxNTY/KQs1VVNjcnJxbXJyb25eSGVSS09OTk5OTk5OLjM4OT1AJERaVlxsZmdlamVLPz00MlVUU1NTVVNSUlIuNTs9PkJAU1xiWWF6eXhjTg4kMygRL1tWV1dZV1ZWVi40PD1DQUNYXmFZd6+uqnJvQ1FHLSUzUV9bXF5bW1taLjM7P0JMQlNgXV5eXVxdYGJOEihQXldAVWNgYV5eX14sNDg/RU9PU2pqbGxramlqZ2szTF07L1JRYGVkY2NjYis4PT5HUmA5HCcuN0BJU1tfaF85SVRpcF9Rc29sa2pnFyg2NTlDWDkOBwAAAAAAAAAABAMNHSccGBtKTlJXW16nq7S0tbe9xcbDvbexqqCamJeVmJWTkZSWmJiaoaess////////////////////////////////////////////Pz8/Pz8/P3y7uv3//79/f3+/f3+/v76+vv7+/z8/Pz//////////u/f4Ofs6uzp6ujs6+vn8fr8///////+/v39/f39/Pv+9uXp5+jp7Ovr7Ozs6/D1+/79/f39/f7+///////////9+fn8/P3////+/f7+39bx//7/////9vW0tLS0tLS0ser//Pz9/Pv7+/j29/fY0tq0tLS0tLWqqg==",
     "struct": "670d9df4f26e8dcdaae7187ba6c292519e412d71",
     "h1": "Drive your business with email marketing and automation",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "karte": {
-    "pix": "//317/P/+P35+v3++vn+/f//////////8szE4vTz///p6eTg4Ozk5Orr49jU4O7a1t7f5erx3t/ny8jc8/b8/56nsK6hqaCLl410YYygsGtLaGyPiVEbJKfCysTj//rwlKCcpJijoICfoIRsj5itcFRtc49KDw4AYMfCwub72MGdnZqun7e7mb6zi16CjqNmUWpyfmM6BwkwvcjA6frAv5ymobSxsa+UoaWefJWhpl1QZ29+TVIfDx+czrHi5bbAipibx8K+waGntruSoqqwWEVhaIBQYkMVEEfEt7qzsriBdoGYjJKPa3uRhWKGkIVaWGhqkGVIPg4XGq23nKyvn4J2f5aRmo94jJuTbpGflWBmb3aMTBMlGCYbfsWbqqupa2dtgnF3cmF0hHZUeX1dNTdXXopYBCYiBSM5iZyhqKtXSUxugH52bmaImIOPjnAtOE5cjEsJOklsgISprWtSXkolUqCpqKalhdv/7O7/9TkoSF6LMRlASo+cmbe2ak02ZF1MREtHQUQ5UmZlZmNdKC5GYoMqVFZBPlNVcHRqZUpzcGNNSTg4MyoiPEA5OigcMEdsYTNUY19fYF5fYW1YOxgZHR4ZHD5NY2NYQT0+NitDVEspOlRubGdmVVdodWNDNkBMVVhSR0NRWWlCLSIlPT1IUkJNU15XWFliXGByVUbj5Oro6OPTzM7M2sy/xL3OvsHc1cbL0NDNzNTT0c3Jx/7/4+/1+//8+v3///Dh+///+9j3//74+v7///r4/////P+40eb1//Da6v3/2a/r/v7qyPP++t3g7v/+8eX//Pz////+///78v/////+//3+//Ha+////vv7//3i5PT//w==",
+    "pix": "//317/P/+Pz5+v3++vn+/f//////////8szE4vTz///p6eTg4Ozl4+nr49jU4O7b1t7f5enx3t/ny8jc8/b8/56nsK+hqKGLl411YYygsG1KaGyOiVAcIaXDysXj//vxk6CcpJiioICeoIRrjpitclRtco9NEQ0AWsXCw+b72MKdnZqun7e8mL6zjF6BjqRnUWpxf2NBBwouusjA6PvBwJumobSxsa+UoKWefJShpl5PZ25+SlUlDyCWzrHi5bfBiZibx8K+waGntrySoqqxWkRhaH9LYEoWEkLCt7qzsriBdoCZjJOPa3qRhWKGkIVbV2hqkGBFQw8ZGqq4m6uvn4J2f5aRmpB4i5uUbpCflWFlcHWMShEoGicgesWbqqupa2dtgnF2cmFzhHZUeH1dNTZXXopUAygmBCM4iJyhqKtXSUtugH52bWaImIOPjnEtOE5ci0QIOUpsgIWqrWpSXEolUqCpqKalhNv/7O7/9TooSF6FKRo/So+bmbi2ak02ZF9OREpHQUQ5UmZlZmNcKS1EZW8iVVZCPlNVcHNqZEtzcGROSTg4NCsjO0A4OikeMUlgPy5UZF9fYF5gYW1ZPBgYHR0YGz5NY2NZQT0+NRo2VDsfSlZtbWdlVVdodGRCNkJNV1lTSENQWWlELiImPDZHVURZU15XWFliW2FyVkTj5Oro6eTVzM/L2c2/xL7GvMDa1MPK0c/NzNPT0M3Jxv7/4+/1+//8+fz///Dh+///+9j3//74+v7///r4/////P+40eb1//Da6v3/2a/r/v7qyPP++d3g7v/+8eX//Pz////+///78v/////+//3+//Ha+////vv7//3i5PT//w==",
     "struct": "a864811fd77fb0e6eaff2e30e3822e02abb7aa09",
     "h1": "データとAIで、\n事業成長を加速させる",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "stibee": {
-    "pix": "+N3X9/z5+fn68/z////////////////////8+Maus/L37uv1+fj4+Pj2+Pn5+fn5+fn5+fn5+fn5+fj45t7f9fb4+Pb19fX29fX19fX19fX19fX19fX19fX19vb6+/v29vb5+vn6+vn5+/j29vb29vb09PXz9Pb29vb19fT09fb38+Ph5ODi6Obd6vf29vb19/78+P/+9fX29vn5+fj29vfvzcXGv8jLz7LO+vX29fv52Ob5x9L++Pb3//7+/vb2+O/Pw8TNyrjW//j19vX4/7GMoIpPUbb/7+r+9fP+9vb38ubk5Ofl4ujx8/b29P3uj8uzcpSLcf/o5/7+/v729vfz6urq5+bn7e7x9vb1+PyokZmCWFWp/+bl7u73+fb29/Lm5ubw9PP19/f29vb1/PPI2/Cxvvz/6ubm5fH29vb74JqinOH79fb29vb29vb1+f/8+v///f39/f7++Pb29vbz6urq8/b29vb29vb29vb19PT08vj8/P39/f349vb29vf5+fn39vb29vb29vb29vb29vb29vb29vb29vb29vb29vX19fb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////////////////////////////////////////////////////////////////////////////////////////////////////////+/v7+/v7+/v7+/v7+/v7///////////////////////j39/f39/f39/f39/f2+v///w==",
+    "pix": "+N3X9/z5+fn68/z////////////////////8+Maus/L37uv1+fj4+Pj2+Pn5+fn5+fn5+fn5+fn5+fj45t7f9fb4+Pb19fX29fX19fX19fX19fX19fX19fX19vb6+/v29vb5+vn6+vn5+/j29vb29vb09PXz9Pb29vb19fT09fb38+Ph5ODi6Obd6vf29vb19/78+P/+9fX29vn5+fj29vfvzcXGv8jLz7LO+vX29fv52Ob5x9L++Pb3//7+/vb2+O/Pw8TNyrjW//j19vX4/7GMn4pPUbb/7+r+9fP+9vb38ubk5Ofl4ujx8/b29P3uj8uzcZKNcf/o5/7+/v729vfz6urq5+bn7e7x9vb1+PyokZmBWFap/+bl7u73+fb29/Lm5ubw9PP19/f29vb1/PPI2/Cxvfz/6ubm5fH29vb74JqinOH79fb29vb29vb1+f/8+v///f39/f7++Pb29vbz6urq8/b29vb29vb29vb19PT08vj8/P39/f349vb29vf5+fn39vb29vb29vb29vb29vb29vb29vb29vb29vb29vX19fb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////////////////////////////////////////////////////////////////////////////////////////////////////////+/v7+/v7+/v7+/v7+/v7///////////////////////j39/f39/f39/f39/f2+v///w==",
     "struct": "0dd2f1bc038961450e96b602bcb47abda8cfcfbf",
     "h1": "고객이 좋아하는 이메일\n스티비로 보내세요",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "listmonk": {
-    "pix": "/f39/+3d2/P//P39/f39/f39/fzz9fr39Ovz+P79/f39/f3+8+nn9/78/fz8/fz9/fz8/Pb3+vn28Pf6/f39/f39/f3+///9/f7+/v///v7+/v/+/////v7//v79/f39/f39/f38/P358/Hz9vT18/b28/D1+Pb4/fz9/P39/f39/f39/f38/+mnw9W9vMHOusC/uczNseL//P39/f39/f39/f39/f39+/zrvrHCv8DQvr+/vOf8+/39/f39/f39/f39/f39/f39//fe4eDZ5e7f4dfY+P/9/f39/f39/f39/f39/f39/vDq7fPz8e/x7fDy9vHt6fT+/P39/f39/f39/f39/f39+/v6+/Pk7uvv7eX2+fr6+/39/f39/f39/f39/f39/f39/f39/vrPyMjP+f3+/f39/f39/f39/f39/f39/fz9/f39/fz++ZGEhZH5/vz9/v39/f39/f39/f39/f39//39/fz8/Pz8//39//z9/f70+v37+/z9/f39/f39/vHq/f7+/v7+/v7+/v7+/v7+//P5/////Pz9/f39/f399/L9/vv3/fv8/Pz+/v7//////v/mrazS//z9/f39/f73+P7/9ujs5PP//v/////////+//HQz+X//P39/f398vbz/P3+9vj7+vn7//////7+//7+/////v39/f39/fzu+PH2/f7w+/v29fj//v7//////v/om5vn//z9/f39/fv67/T9/vr2/P79/f7+/P3z9v729/nw8Pr9/f39/f39/frw+/799vTq6fv////+//z39/T7/v///f39/f39/f39+/T7//33+PDu8/Tx8/Pz/Pr29Pr//v79/f39/Q==",
+    "pix": "/f39/+3d2/P//P39/f39/f39/fzz9fr39Ovz9/79/f39/f3+8+nn9/78/fz8/fz9/fz8/Pb3+vn28Pf6/f39/f39/f3+///9/f7+/v///v7+/v/+/////v7//v79/f39/f39/f38/P358/Hz9vT18/b28/D1+Pb4/fz9/P39/f39/f39/f38/+mnw9W9vMHOusC/uczNseL//P39/f39/f39/f39/f39+/zrvrHCv8DQvr+/vOf8+/39/f39/f39/f39/f39/f39//fe4eDZ5e7f4dfY+P/9/f39/f39/f39/f39/f39/vDq7fPz8e/x7fDy9vHt6fT+/P39/f39/f39/f39/f39+/v6+/Pk7uvv7eX2+fr6+/39/f39/f39/f39/f39/f39/f39/vrPyMjP+f3+/f39/f39/f39/f39/f39/fz9/f39/fz++ZGEhZH5/vz9/v39/f39/f39/f39/f39//39/fz8/Pz8//39//z9/f70+v37+/z9/f39/f39/vHq/f7+/v7+/v7+/v7+/v7+//P5/////Pz9/f39/f399/L9/vv3/fv8/Pz+/v7//////v/mrazS//z9/f39/f73+P7/9ujs5PP//v/////////+//HQz+X//P39/f398vbz/P3+9vj7+vn7//////7+//7+/////v39/f39/fzu+PH2/f7w+/v29fj//v7//////v/om5vn//z9/f39/fv67/T9/vr2/P79/f7+/P3z9v729/nw8Pr9/f39/f39/frw+/799vTq6fv////+//z39/T7/v///f39/f39/f39+/T7//33+PDu8/Tx8/Pz/Pr29Pr//v79/f39/Q==",
     "struct": "cc5cecb14fca50c564c66f65728dfda05a9891be",
     "h1": "Self-hosted newsletter and mailing list manager",
-    "ts": "2026-09-22T03:47:23.318Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "__ownSeen": {
     "urls": [
@@ -804,7 +804,7 @@
       "https://ecomail.cz/srovnani-ecomail-a-brevo/",
       "https://ecomail.cz/funkce/ai/"
     ],
-    "ts": "2026-09-22T03:47:23.281Z"
+    "ts": "2026-09-23T03:47:48.815Z"
   },
   "ecomail-cz": {
     "pix": "ICMlJSUhISIhISEtNTAvMjEsNTgxICAhIiEiISYoJibq0cvSzODk3+Xg4OLg5eHk6Ojp6ejn5uDc4t7hsp297f/17u/t+v38/vv7/Pv+/P7/////////+/j8+vvbzeL/8/b3+Pj08/Tz9PT09PP09PPz8/Py8/n7+/j19Pn8+PL29vb19/f39/n29vj39/b29vb39/n2z8jM2/T29fX19vb29vfr8vPx6PX27/Py9Pb29+7u5vavXp+97fj19vb29/f3+NDXy8a+vtLQw8Hi+/b46+nf4qiwqunp9Pj39/f4+Pj56dva2uDX09zX5/b4+Pf85s7nXoyY0Of2+Pj4+Pn5+fvh1M/W0uHV0M3s/fn5+Pvv3OV4erjp6/b5+fn5+vr6+vv9/v39+/39/Pj4+Pr6+/by6VNTedDp9/r6+vr7+/v86OHi5Obh5Obe4+Tn+vv89fHrZE4+kvH7+vv7+/z8/Pz+//////3+//7+/P38/Pz6+/JVPUdd7/77/Pz8/f38/8evtLO08vbx8/j+/f39/fz9+3JNWnf5/vz9/f3+/v3/yrS4trb08+7v+P/+///+/v/////////+/v7+/v////7//v7///3+/v/9/v78/P7++Pf++/r+/P7////////+/f739Pz8+Pj3+vb8+/j4/fvw9v/09f75+////////////////////////////////////////////////////ezq6ufm5+Pd2dLT3eHm6+3w8O/v8PDx8fHy/f/////52NfX19Xa8vj1eqHTztjX3t3l7+3t7Ozr6ur8//////jV19na2pnY7cSLdrzi39Xc2+Lp5en18/Lx8P3//w==",
@@ -819,57 +819,57 @@
     "ts": "2026-09-12T21:06:27.442Z"
   },
   "nas-web": {
-    "pix": "ICMlJSUhISIhISEtNTAvMjEsNTgxICAhIiEiISYoJibq0cvSzODk3+Xg4OLg5eHk6Ojp6ejn5uDc4t7hsp297f/17u/t+v38/vv7/Pv+/P7/////////+/j8+vvbzeL/8/b3+Pj08/Tz9PT09PP09PPz8/Py8/n7+/j19Pn8+PL29vb19/f39/n29vj39/b29vb39/n2z8jM2/T29fX19vb29vfr8vPx6PX27/Py9Pb29+7u5vavXp+97fj19vb29/f3+NDXy8a+vtLQw8Hi+/b46+nf4qiwqunp9Pj39/f4+Pj56dva2uDX09zX5/b4+Pf85s7nXoyY0Of2+Pj4+Pn5+fvh1M/W0uHV0M3s/fn5+Pvv3OV4erjp6/b5+fn5+vr6+vv9/v39+/39/Pj4+Pr6+/by6VNTedDp9/r6+vr7+/v86OHi5Obh5Obe4+Tn+vv89fHrZE4+kvH7+vv7+/z8/Pz+//////3+//7+/P38/Pz6+/JVPUdd7/77/Pz8/f38/8evtLK08/bx8/j+/f39/fz++3JNWnf5/vz9/f3+/v3/yrO5t7b08+7v+P/+//7+/v////////7+/v7+/v////7///7+//3//v7+/P/8/Pz//Pf5/vn8//z////////+/P389Pb++vn3+Pn4/vn4+P/18fn98fr++f7//////////////////////////////////////////////////ezq6ufl5+Ld2tLT3eHm6+3w8O/v8PDx8fHy/f/////52NfX19Xa8vj1eqHTztjX3t3l7+3t7Ozr6ur8//////jV19na2pnY7cSLdrzi39Xc2+Lp5en18/Lx8P3//w==",
-    "struct": "dd94878af5209c080f0bde3121f59af8a7a79cc2",
+    "pix": "ICMlJSUhISIhISIxMC4wLzAxLjE4Ih8hIiEiISYoJibq0cvSzODk3+Xg4OLg5uHk6Ofn6Onn5uDc4t7hsp297f/17u/t+v38/vv7/Pv+/P7/////////+/j8+vvbzeL/8/b3+Pj08/Tz9PT09PP09PPz8/Pz8/n7+/j19Pn8+PL29vb19/f39/n29vj39/b29vb39/n2z8jM2/T29fX19vb29vfr8vPx6PX27/Py9Pb29+7u5vavXp+97fj19vb29/f3+NDXy8a+vtLQw8Hi+/b46+nf4qiwqunp9Pj39/f4+Pj56dva2uDX09zX5/b4+Pf85s7nXoyY0Of2+Pj4+Pn5+fvh1M/W0uHV0M3s/fn5+Pvv3OV4erjp6/b5+fn5+vr6+vv9/v39+/39/Pj4+Pr6+/by6VNTedDp9/r6+vr7+/v86OHi5Obh5Obe4+Tn+vv89fHrZE4+kvH7+vv7+/z8/Pz+//////3+//7+/P38/Pz6+/JVPUdd7/77/Pz8/f38/8evtLO08/bx8/j+/f39/fz9+3JNWnf5/vz9/f3+/v3/yrS4trf08+7v9//+//7+///+//////7+/v7+/v///////v////3+//7//fz8/v/49//6+f/7/f/+///////+/vn1+/35+ff69vv79/j8++/1//X0//f6//z//////////////////////////////////////////////////ezq6ufl5uPd2tLT3eHm6+7w8PDv7/Dw8fHy/f/////52NfX19Xa8vj1eqHTztjX3t3l7+3t7Ozr6ur8//////jV19na2pnY7cSLdrzi39Xc2+Lp5en18/Lx8P3//w==",
+    "struct": "344f206ab98591167fd33bb05af2d6d1f8cbc13f",
     "h1": "E-mailing, který zvládne každý",
-    "ts": "2026-09-22T03:47:23.311Z"
+    "ts": "2026-09-23T03:47:48.842Z"
   },
   "nas-agent": {
-    "pix": "ICMlJSUhISEgIiEtNTAvMTAsNTgxICAhIiEiISYoJibq0cvSzODk3+Xg4OHg5uHk6Ojq6unn5+He49/is56+7v/17/Du+v38/vv7/Pr++/3////////++PT49PbVxt3/8vX39vTv7Ovp6eno6unr6+zs7e3r6ebl4t7f3eHk4dv08/Lv7erm4+Hh4OHi5uns7vDy9PLz9O/s6ujn5eTk5fHw7+zp5uTg3dvf5OXm7vL3+vn4+/Tq8/Ty8O/u7Ovr6urq6Obl4t/c3sGuwNLFzs/R4+nmzcX4+Pf29fTz8fDi4+Tl5OTi4N3kupmftK+0obPa8uPr9/v7+/v6+fj39drc3t/g4OHh6LGgwZyUwKy/wLSit7HR//r7/Pz8+/n40tXY2dze3+Dk0sHNwcTOyMjGy9DU1vL9/Pz8/Pz8+/rNztDS1dnd5+7y9/b6+fX49/n8/Pz9+ff4+/z8/Pz8/MrKy8zQ1dv19fXy9PL2/v79/f39/f3+/fT7/P39/fz8ycnJy87T2vPy8vPx8PP6+vr6+vr6+vv17Pz8/f39/f3Ky8zN0NXb5O7z9vf5+fj5+Pn69/j5+ff2+/z7/P39/c/P0dPW3ePt3dXk4+Xj5OXp6OXs5+ji9P/6/Pv8/f391dbY2+Dm6+ba1dvd3Nrb293a2+Dc4N7g8fz7+/v8/Pzc3eHl6Ors6N/f4OLg39/k5OXk4eTl5ej0+/v6+vr6+uTl5ufn6eru6ujr8PL09Pb38u/x8vDv9fv5+fj4+Pf35+fm5ufn6evt7/Di2tbUz9L09PP0+Pj39vf29vX09PTo6Ojn5+jp6uvs7cq2raebn+7k4OTz9PT19fX19PPx8Q==",
-    "struct": "85ab94e59f66cee890aac5ea0c4afb10e0899573",
+    "pix": "ICMlJSUhISEgISIxMC4wLy8wLjE4Ih8hIiEiISYoJibq0cvSzODk3+Xg4OLg5uHk6Ojo6ero5+He49/is56+7v/17/Du+v38/vv6+/r++/3////////++PT49PbVxt3/8vX39vTv7Ovp6eno6unr6+zs7e3r6ebl4t7f3eHk4dv08/Lv7erm4+Hh4OHi5uns7vDy9PLz9O/s6ujn5eTk5fHw7+zp5uTg3dvf5OXm7vL3+vn4+/Tp8/Ty8O/u7Ovr6urq6Obl4t/c3sGuwNLFzs/R4+nmzcT4+Pf29fTz8fDi4+Tl5OTi4N3kupmftK+0obPa8uPr9/v7+/v6+fj39drc3t/g4OHh6LGgwZyUwKy/wLSit7HR//r7/Pz8+/n40tXY2dze3+Dk0sHNwcTOyMjGy9DU1vL9/Pz8/Pz8+/rNztDS1dnd5+7y9/b5+PX49/n8/Pz9+ff4+/z8/Pz8/MrKy8zQ1dv19fXz8/P+/v79/f39/f3+/fT7/P39/fz8ycnJy87T2vPy8vPx8vr6+vr6+vr6+vv17Pz8/f39/f3Ky8zN0NXb5O7z9vj4+Pj5+Pn69/j5+ff2+/z7/P39/c/P0dPW3ePt3dXk4+Xj4+Xp6OXs5+ji9P/6/Pv8/f391dbY2+Dm6+ba1dvd3Nrb293a2+Dc4N7g8fz7+/v8/Pzc3eHl6Ors6N/f4OLg39/k5OXk4eTl5ej0+/v6+vr6+uTl5ufn6eru6ujr8PL09Pb38u/x8vDv9fv5+fj4+Pf35+fm5ufn6evt7/Di2tbUz9L09PP0+Pj39vf29vX09PTo6Ojn5+jp6uvs7cq2raebn+7k4OTz9PT19fX19PPx8Q==",
+    "struct": "da89e069bde20c887915cfe849580c1f7fafbde0",
     "h1": "Ahoj, já jsem EMA\n\nDo čeho se pustíme?",
-    "ts": "2026-09-22T03:47:23.311Z"
+    "ts": "2026-09-23T03:47:48.843Z"
   },
   "czechdesign-kalendar": {
     "pix": "mZqLiZCDiZiajIWWmo+Mj4+Ml5eNlJqZmZiQlJCRmpmZmZSTlI+RmpuSkZmblZGUlJOYmJKXmZmZmZSWlJWZmZmZlJGanJiMjpCPkZCVmpqampmZmpmZmJiYmpmZmZmZmZqSh4mUk290dG+AbIGbnpqam5mcnZqbm5qbnZ2cmZmZmpWLkZqWfGhwcXd7fIxuipGMkn11jXyAhH1rZHObmZmalIuUnI1UPUFANj9PgGJ9YFpseGONX1VbVlJLcpuZmZqUiJGcjEZEOi83NTeKgHNbUV18go5cTU1SPDp2nJiZmpWJkJyPWz0wL0JHXpJ8VzYuQGaHkl5LTVBIQnicmJmaj4eXm5JrXk8tOktblHo6EAobUoyNX1xgX11bfpuZmZqNh5aamYJ5i4N8h4SXk35taXCFlpKKi4iIiY2RmZmZmomAkJmXkZOQk5OQkpaNkZSioJyalo6OjpmcmpqZmZmah4WMlJiMjJGRkpGUl42RkpaXmJmWjZGSlpiYmJmZmZmXm5uamaCgnp2go5+YmZmZmJmampmZmZmZmZmZmZmZmZqYmJmaXVZwa2RRbp2Tk5WYlJKVlY2Hio6Hh4+ZmZmZmZmZmJ0oGkQ/JAlEpIl+iIyMd4qSf4CAg39+h5qZmZmZmZmal0ZVVUIRDVShi4CCfJCIiY9vcW5ndWp1m5mZmZmZmZqVTjlORw4ATKCQi4yNk5SWi1toe3pyVWecmJmZmZmZmZdgX3VgZDhQopGMj5GTk5mIX2VkaV5OZpyYmZmZmZmZmZibmpmbnJqZmJmZmJiYmZeSkpCPkI2RmZmZmZmZmZmXi4uLi4qTmpaKi4uIl5ialIuLi5WcnJqZmQ==",
     "struct": "755d804edfea69c649ca7e13475d9c7146c95fe8",
     "h1": "Kalendář akcí",
-    "ts": "2026-09-22T03:47:23.319Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "czechdesign-graficky": {
     "pix": "mZqLiZCDiZiajIWVmY+Mj4+Ml5eNlJqZmZiQlJCRmpmZmZSTlI+RmZqTkJmblZKUlJOYmJKXmZmZmZSWlJWZmZmZlJGanJmOj4uRkZGUl5uampmZmpmZmJmZmpmampmZmZqSh4mUlXx1bHZ7cmaBnZqcm5ubm5qcmZucm5ubmZmZmpWLkZyPUVJgVVt1d5CCfnFxcGt1gVt6gHF8doSbmZmak4iRnYsvLTlCQGB0j3VkRF5vW2d5QnJsaWFidpuZmZqUiJGcjSQYODxCboCRT2I+VIBiX4BKeHJ7aXGGmZmZmpWJkJ2MOh1ELiN2j38nWWVhc254fS12kW41J02cmJmaj4eXm5RFAD1HKyZfi3aGf1tYU3t1H043FAgFPJ2YmZqNhpaal4V7iIh9fYWbmZeYjIeEjZN8gXt+fn6HmpmZmouDkpmXjIyKi5mcnpSGh4mLjouclIqNjI2MlZ2ZmZmaiIeNlJeBf39/f4mak4B+gH1/gpaRe4CBf4GAk5qZmZmWmpqalYGCfoOBh5uWi4uJi4mTmZOIh5KYl5aYmZmZmZqYmZmXjY6NkI2PmJmYmJmYl5eYmJiYl5iXmJmZmZmZmZmZmZqenp2dnp6cmZiYmJyen56Yl5iYmZmZmpmZmZmZmZmalHV2enx6eHyYmpmceGZncpmbmpmTk5KUmZmZmZmZmJuPUFFKRVpWXpSOjZFaNjpQm4JpiIZbfIqamZmZmZmYm49SPSUiPVRcl4+FkWE4NFSakJGXjYeNj5qZmZmZmZibjk1ALCk7SVmQeH6MXDs5VZWJeYaVdoKbmZmZmZmZmJuOSUc7PEREVoyAiodYQUBUl4FuiJVfeZyYmQ==",
     "struct": "930d0630ee5908f9d524ebc1b2e2595ae50cf576",
     "h1": "Grafický design",
-    "ts": "2026-09-22T03:47:23.319Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "nas-ebooky": {
-    "pix": "ICMlJSUhISIhISEtNTAwMjEsNTgxICAhIiEiISYoJibq0cvSzODj3+Xg3+Hg5eHk6Ofp6ejn5uDc4t3gsp297f/17/Dv+/38//z8/Pz//f7//////////Pn9+vvbzeL/+Pr8/Pz5+Pn4+fn5+fj59vHy8vLy8vLz9PP08/j79/H6+vn6+fn5+fn6+vr6+fn48/T09PT09PT09fT08/Lz9Pv79e33/////v79/f3////69fT09PT08/b28/T09PT0+/vi3drf6ODt6u/u7uja4+nt9PP08/P0+vbz9PT09PT6/c+5sbW3rcrE0s/RwbO9qeT79PT1+Pv89vT09PT09Pz87OLU2N7k2dnQ5//+//79/fj19PX5/Pz28/T09PT0/v77+/r7+/z7+vn5/v38/f328/T09PP2/vfz9PT09PT+/v/////+/v////7+/v7+9/P09PT09PP5+PP09PT09P//+vb8/P79/P7+/v39/fzz8/Pz9PT08/X68/T09PT0///27vn5/fv7/////////fj4+Pj29PTz8/z48/T09PT//vv7///89vX1+fbm5ubi29zb3Ovw7PDu8/fw7PDz9P/86d64sOLXzdPrsBwqKCcoLioapvbq1drt6ubk5/L5//vhmrC+1NfEzOmlER0fJS8dHiCc+uvd0eDY2OXx7/T+/8eNr7b03szP7qYkIzvC2U0gLJ7879nlx3vT4ePx9P7/uYPan6f0z73joQENJ6ajNQ0Alvnwz9/Jl9SSyPfz/v3Zxv/fzPrq1OLFb3l5mJF4fXC6/f3419XRz5nc9PP/+vre1drj3Nb3/Pfu5+Pk7eze9PPu29jc4P3///nu9A==",
-    "struct": "d17c874439544d0fe6faab7150b46aedb4e786ed",
+    "pix": "ICMlJSUhISIhISIxMC4wLzAxLjE4Ih8hIiEiISYoJibq0cvSzODj3+Xg3+Hg5eHk6Ofn6Onn5uDc4t3gsp297f/17/Dv+/38//z8/Pz//f7//////////Pn9+vvbzeL/+Pr8/Pz5+Pn4+fn5+fj59vHy8vLy8vLz9PP08/j79/H6+vn6+fn5+fn6+vr6+fn48/T09PT09PT09fT08/Lz9Pv79e33/////v79/f3////69fT09PT08/b28/T09PT0+/vi3drf6ODt6u/u7uja4+nt9PP08/P0+vbz9PT09PT6/c+5sbW3rcrE0s/RwbO9qeT79PT1+Pv89vT09PT09Pz87OLU2N7k2dnQ5//+//79/fj19PX5/Pz28/T09PT0/v77+/r7+/z7+vn5/v38/f328/T09PP2/vfz9PT09PT+/v/////+/v////7+/v7+9/P09PT09PP5+PP09PT09P//+vb8/P79/P7+/v39/fzz8/Pz9PT08/X68/T09PT0///27vn5/fv7/////////fj4+Pj29PTz8/z48/T09PT//vv7///89vX1+fbm5ubi29zb3Ovw7PDu8/fw7PDz9P/86d64sOLXzdPrsBwqKCcoLioapvbq1drt6ubk5/L5//vhmrC+1NfEzOmlER0fJS8dHiCc+uvd0eDY2OXx7/T+/8eNr7b03szP7qYkIzvC2U0gLJ7879nlx3vT4ePx9P7/uYPan6f0z73joQENJ6ajNQ0Alvnwz9/Jl9SSyPfz/v3Zxv/fzPrq1OLFb3l5mJF4fXC6/f3419XRz5nc9PP/+vre1drj3Nb3/Pfu5+Pk7eze9PPu29jc4P3///nu9A==",
+    "struct": "767d86be62a6b61187fac19cd44ede6571a2c393",
     "h1": "Vzdělávejte se v e‑mailingu\ns našimi e‑booky",
-    "ts": "2026-09-22T03:47:23.319Z"
+    "ts": "2026-09-23T03:47:48.850Z"
   },
   "nas-adresar-partneru": {
-    "pix": "ICMlJSUhISEgIiEtNTAvMjEsNTgxICAhIiEiISYoJibq0cvTzODk4OXg4OLg5eHk6Ofp6ejn5uDd4t7hsp297f/07e7t+v37/vv7/Pv+/P7//////////Pn8+fvazOL/7/L08/Px8PDv8PHy8/T09fT09PT08/Ly8vDx8Pb49e/y8fLy8/Lx8fHx8fLz9fb29vj49/b29PPy8fHy8vHx8vPy8e7t8vn08/P09PX4+Pr6+Pj49vbz8vDx8fLz8/Pz8/Tu3ebf1+jr6eXr7Obu5uz7+fj39fLx8fHy8vPz8/Pz9uq/tbahtLeyubaytr6m2v/5+fj28/Hx8fL09PT19fT08+7u8fLt7Ovs5+vy8fT8+/v7+ff18/Ly8/T09PX29vbw29/f2tfZ2Njc2d3i8Pv8/Pz6+ff29fX19vb29/j29/Pc3t3d5eXk6Ofp6vf9/f39/fz8+fj49/f3+Pj4+fj29fDx8PL29fb29/n6+/z9/f7+/f38+vn5+fn5+vr6+Pf4+Pj49/b29vf4+fr8/f3+//7//v39/Pz7+/v7/Pz5+Pj49/j49/j4+fn6+/z9/v7//////f39/fz8/P38/fr6+fP08e/1+fn6+vv8/P3+/////////v39/f39/f39+/zxy8Li/fr8/P7+/////////////////////v7+///8/ffn5u3z8fLy7/L18/X0+v/////+/9fF9vHz9v////3++eXh4+Pf3+Ph4ePh4t3u+///////28fr4O7+/v///f378fLz9PP09vP19vT08/T2//////74+vr4+v7+///+/v7//////////////////////////////////////w==",
-    "struct": "98045310038d5b7051fbc449e2726fea38f33aa5",
+    "pix": "ICMlJSUhISEgISIxMC4wLzAxLjE4Ih8hIiEiISYoJibq0cvTzODk4OXg4OLg5eHk6Ofn6Onn5uDd4t7hsp297f/07e7t+v37/vv7/Pv+/P7//////////Pn8+fvazOL/7/L08/Px8PDv8PHy8/T09PT09PT08/Ly8vDx8Pb49e/y8fLy8/Lx8fHx8fLz9fb29vj49/b29PPy8fHy8vHx8vPy8e7t8vn08/P09PX4+Pr6+Pj49vbz8vDx8fLz8/Pz8/Tu3ebf1+jr6eXr7Obu5uz7+fj39fLx8fHy8vPz8/Pz9uq/tbahtLeyubaytr6m2v/5+fj28/Hx8fL09PT19fT08+7u8fLt7Ovs5+vy8fT8+/v7+ff18/Ly8/T09PX29vbw29/f2tfZ2Njc2d3i8Pv8/Pz6+ff29fX19vb29/j29/Pc3t3d5eXk6Ofp6vf9/f39/fz8+fj49/f3+Pj4+fj29fDx8PL29fb29/n6+/z9/f7+/f38+vn5+fn5+vr6+Pf4+Pj49/b29vf4+fr8/f3+//7//v39/Pz7+/v7/Pz5+Pj49/j49/j4+fn6+/z9/v7//////f39/fz8/P38/fr6+fP08e/1+fn6+vv8/P3+/////////v39/f39/f39+/zxy8Li/fr8/P7+/////////////////////v7+///8/ffn5u3z8fLy7/L18/X0+v/////+/9fF9vHz9v////3++eXh4+Pf3+Ph4ePh4t3u+///////28fr4O7+/v///f378fLz9PP09vP19vT08/T2//////74+vr4+v7+///+/v7//////////////////////////////////////w==",
+    "struct": "8f34b2806a62865058a8dca7f7780e520c57dc43",
     "h1": "Certifikovaní partneři",
-    "ts": "2026-09-22T03:47:23.319Z"
+    "ts": "2026-09-23T03:47:48.851Z"
   },
   "smartemailing-brozura": {
-    "pix": "+fz//Pj4+Pj4+Pj4+Pn5+fj5+fn4+fj58uzt7v359Pf45NPq/v39/f39/f379vX3/Pb7+Pr3/Pb1+/bx29vb9/bQtMjz//7///////rr6O387fjy9un97ev97ea5urny//7///7//////////////////////////////////////v7//v39/f39/f3+/v7+//7//f3+/v7+//7+/v7+//////////////////////////7///////79/v/////////9/9GyvcK4u7ux3P/+///+/9za8Pj///////////////7/58yZppugr9Ts//7//f/SgafCwrbBzeL+/////////////b25ur3R/f////7/4oSiyc+/q6aQivX//v/////89/f2/P7+/f31/f/+//eOiLXGzse6s6CT9P/+//////jq7O3o6+ns8PD3//7/+NPHwbexnJujmJTy//7//////Pj4+Pf4+P3////////////+9+vUvKmfjO///v///////f7///79///////////+/v///////vLf+v/////6/vn38u7u7/f7/////////////v7+/f3///////////j9+/n49vf3+v3////////////+/f39/f7+/v////////7+/v///v37/Pv8/f39/f39/P7//////f3+/v7+/v74+Pj4+Pnz9efs5/X++/z7/Pr/zbzDwLzt9vj4+Pj4+Pj4+Pj4+fTz4eTg4uDj4OLg4/+ng4+LhOL3+Pj4+Pj4+Pj4+Pf65PHp5+zv8O/t7uvw/3dDWFNC1vn3+Pj4+Pj4+Pj49/rq4ODj5ePi6Ojy7+jp29PV0tLm8vn4+Pj4+A==",
-    "struct": "48eb7fb28860d6c8c60c8c538bb8c96ad87bea78",
+    "pix": "+fz//Pj4+Pj4+Pj4+Pn5+fj5+fn4+fj58uzt7v359Pf45NPq/v39/f39/f379vX3/Pb7+Pr3/Pb1+/bx29vb9/bQtMn0//7///////rr5+387fjy9un97ev97ea5urny//7//v7////+///+//////7///////7///7//////////v7//fz9/fz9/f39/v38/v7//f39/v7+/v7+/v7+///////////////////8+/7///7////+/fv7+f3+/v/////9/9KyvMK4urmw3P/6+/38/9nY7fT+//7+/Pv+/////vz/58yZpZyfrtLs//3+/f/RgqfCwrbBzOD9//7////9+v///b24uLvR/v///Pz/4oWiyc+/q6aQi/X//f7//vv39vf3/f35+v31/f/8//WOiLXGzse6s6CT8//8/v/99/Ho7O3o6Obq7/D3//3/+NPHwbaxnJujmJTw//z8/v34+vj49/b2+P7//v79/f7////+9OfUvamejOv/+vz+//v8/v7//v78///+/vv+///9/v/+/////e/f+P3+///+//f28e7u7/f5///+/Pz///79/v36+/3//v/+//7+//79+fn39vf3+fz//////v///f3+/fr6/f79/f7///7///39/v///v37+/v8/f39/P37/P///////f7+/v3+/v74+Pj4+Pnz9efs5/X++/z7/Pv/zbzDwbzt9vj4+Pj4+Pj4+Pj4+fTz4eTg4uDj4OLg4/+ng4+LhOL3+Pj4+Pj4+Pj4+Pf65PHp5+zv8O/t7uvw/3dDWFNC1vn3+Pj4+Pj4+Pj49/rq4ODj5ePi6Ojy7+jp29PV0tLm8vn4+Pj4+A==",
+    "struct": "c4beb9ef08f93d4724dbce07818d5dc33a942658",
     "h1": "Automatizační desatero",
-    "ts": "2026-09-22T03:47:23.319Z"
+    "ts": "2026-09-23T03:47:48.851Z"
   },
   "beehiiv-shop": {
     "pix": "BwcHBwcHBwcHBwcHCAEeKR8OBAgHBwcHBwcGChEOEggHBwcHBwcHBwcHBwcHCyArHRcOBwcHBwcHBwcJDQsNCAcHBwcHBwcHBwcHBwUJBwUECgcFBwcHBwcHBwcGBgYHBwcHBwcHBwcHBwcGDBgYJCEeIA0GBwcHBwcHBwgHCAcHBgUFBQUFBQUFBwIXUkNdXFZPFwIHBQUFBQUFBQUGBwcODw8PDw8PDxALDA4ICgUGBwcODAsQDw8PDw8PDw4HBx0jIiIiIiIiJBYYJCQkJSQlJCUYFiQiIiIiIiIjHQcHHCIhIyMjIiEjFRgjISEhISEhIxgVIyEhISEhISIcBwccIiAYGBcbISMVGCMhIB8gICEjGBUjISAfICAhIhwHBx0hI1BfXj8dJBUYIyEqMy0pISMYFSMgJy8rJyIiHAcHHhpvw8DBtUAdFxghKjw5MDMrIRgVIiY3NSwvKyEcBwccJJGxfI68axkXGCIwPlVJMjAjGBUiKzE8OSwuIxwHBxsniaeSlqtrHBcYIjE6QDw1MCIYFSIsMjY1Ly8jHAcHHRyQurOwt28aFxghMTo0NzwvIRgWISs2MDM2LyEdBwcdHVxwT1JwSh0WGCIkJiQlKSQiGBUjIyYjJCckIRwHBxwiGhcYGBcbIxUYIyAgICAgICMYFSMgICEgICAiHAcHHCIiIyMjIyIjFRgjISEhISEhIxgVIyEhISEhISIcBwcdIyIhISAhIiQWGCQiISAhISIkGBYkIiEhISEiIx0HBw4QEBcXGBYPEQwNERAXGBgXEBENDBEQFxcXGBEQDgcHBgUFESghDAQFBgYFBQ4lJQ8FBQYGBQUQICcSBwUGBw==",
     "struct": "617c7534d9e2e1c5d6fc61bed4aaaeb09a2d5794",
     "h1": "ALL PRODUCTS",
-    "ts": "2026-09-22T03:47:23.320Z"
+    "ts": "2026-09-23T03:47:48.851Z"
   },
   "loops-resources": {
     "pix": "/Pb8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz5/NKZqff87fn9/Pz8/Pv8/Pz8/Pz8/Pz8/Pz8/Pz8/Pj6xn2R9f3x9v38/P318ff5+vj6+fn6/Pz8/Pz8/Pz8/P3+///9/PX6/Pz8/fDj4ujn4unn5uz+/Pv8/Pz8/Pz8+/v5+fz8/fz8/Pz99Ozv7e3u7e3s7Ors8Pv8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz59/X19PX19PT29vb6/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/fXv/v39/v7+/v39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz98+z09fT09PHw9/38/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz58O7s7u/v9vr7/Pz7+/v7+vr8/Pz8/Pz8/Pz8/Pz8/Pjm5uTo5+Tv9fPz8/v8/Pz7+vz8/Pz8/Pz8/Pz8/Pz8+fHw8/H4/fr5+vn5+/v7+/r6/Pz8/Pz8/Pz8/Pz8/Pz46Obm5u/08/P09Pz8/Pz8+/v8/Pz8/Pz8/Pz8/Pz8/Pvz8/Pz8Pf6+vv6+vv7+/v6+/z8/Pz8/Pz8/Pz8/Pz8+efm6Ofn8Pb19Pf++/v8/Pv6/Pz8/Pz8/Pz8/Pz8/Pz69PT08/Py8fHw8/T5/Pr6+fv8/Pz8/Pz8/Pz8/Pz8/Pno5ubk4uXj5OLo4/D1+vz6+vz8/Pz8/Pz8/Pz8/Pz8+vPz9PLz8/P5+vr79/X5+vn7/Pz8/Pz8/Pz8/Pz8/Pz45+Xl4+jk4/P19PX9/fz8+/r8/Pz8/Pz8/Pz8/Pz8/Pr08/X19PT09vj5+fz6+vr5+/z8/Pz8/Pz8/Pz8/Pz8+OPh4eHi4uDs9PPx9fz8/Pr6/Pz8/Pz8/A==",
     "struct": "1af55b4e5139ee045e12f48faaf3e2f8eeac10ff",
     "h1": "Email guides, examples, and resources",
-    "ts": "2026-09-22T03:47:23.320Z"
+    "ts": "2026-09-23T03:47:48.851Z"
   }
 }
