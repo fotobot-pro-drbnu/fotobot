@@ -171,12 +171,15 @@
     "https://reallygoodemails.com/emails/the-parking-spot-fall-rates-drop",
     "https://reallygoodemails.com/emails/frama-tokyo-store-opening",
     "https://reallygoodemails.com/emails/shinola-skeleton-ice-monster-launch",
-    "https://reallygoodemails.com/emails/social-media-not-free"
+    "https://reallygoodemails.com/emails/social-media-not-free",
+    "https://reallygoodemails.com/emails/lucys-canna-co-welcome-email",
+    "https://reallygoodemails.com/emails/art-pharmacy-welcome",
+    "https://reallygoodemails.com/emails/sxsw-2027-event-welcome"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-09-22",
+      "date": "2026-09-24",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -209,12 +212,12 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-09-21",
-      "odkazu": 150
+      "date": "2026-09-24",
+      "odkazu": 100
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-09-22",
+      "date": "2026-09-24",
       "odkazu": 100
     }
   },
