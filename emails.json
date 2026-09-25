@@ -1,48 +1,75 @@
 {
-  "generatedAt": "2026-09-24T03:55:15.523Z",
+  "generatedAt": "2026-09-25T03:53:33.504Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/lucys-canna-co-welcome-email",
-      "title": "Welcome to Lucy's World from Lucy's Canna Co - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-24/inspirace--rge-welcome-1.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/approaching-your-lab-visit-important-steps-to-follow",
+      "title": "Approaching your lab visit — important steps to follow from Function Health - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-25/inspirace--rge-transactional-1.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/art-pharmacy-welcome",
-      "title": "Welcome to Art Pharmacy from Art Pharmacy - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-24/inspirace--rge-welcome-2.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/tell-us-about-yourself",
+      "title": "Tell Us About Yourself from Fender - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-25/inspirace--rge-transactional-2.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/sxsw-2027-event-welcome",
-      "title": "SXSW News & Updates coming your way! 🤘 from SXSW - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-24/inspirace--rge-welcome-3.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/welcome-to-link",
+      "title": "Welcome to Link from Link - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-25/inspirace--rge-transactional-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
+      "odkazu": 150
+    },
+    {
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 100
     },
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 100
     }
   ],
-  "archivy": [],
-  "poznamky": [
-    "Dnes se nenašel žádný e-mail konkurence. Když se to opakuje, nejde o chybu — ty značky svoje kampaně veřejně nevystavují."
-  ]
+  "archivy": [
+    {
+      "znacka": "Flodesk",
+      "key": "flodesk",
+      "url": "https://flodesk.com/emails",
+      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
+      "shot": "emails/2026-09-25/flodesk--archiv.jpg"
+    },
+    {
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "url": "https://customer.io/blog/newsletter",
+      "title": "Learn with Customer.io",
+      "shot": "emails/2026-09-25/customerio--archiv.jpg"
+    },
+    {
+      "znacka": "Dotdigital",
+      "key": "dotdigital",
+      "url": "https://dotdigital.com/blog/newsletter",
+      "title": "Newsletters we loveand why, plus how to recreate them",
+      "shot": "emails/2026-09-25/dotdigital--archiv.jpg"
+    },
+    {
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-09-25/smartemailing--archiv.jpg"
+    }
+  ],
+  "poznamky": []
 }
