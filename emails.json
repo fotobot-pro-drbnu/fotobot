@@ -1,43 +1,52 @@
 {
-  "generatedAt": "2026-09-25T03:53:33.504Z",
-  "konkurence": [],
+  "generatedAt": "2026-09-28T04:08:40.105Z",
+  "konkurence": [
+    {
+      "znacka": "beehiiv",
+      "key": "beehiiv",
+      "katalog": "rge-newsletter",
+      "url": "https://reallygoodemails.com/emails/beehiiv-enterprise-report-2026",
+      "title": "What 799 companies built on beehiiv from beehiiv - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-28/beehiiv--rge-newsletter-1.jpg"
+    }
+  ],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/approaching-your-lab-visit-important-steps-to-follow",
-      "title": "Approaching your lab visit — important steps to follow from Function Health - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-25/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/beefree-sdk-collaboration-features",
+      "title": "Collaboration features that’ll make your users happy from beefree - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-28/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/tell-us-about-yourself",
-      "title": "Tell Us About Yourself from Fender - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-25/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/target-circle-welcome-onboarding",
+      "title": "Thanks for joining Target Circle 😊 from Target - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-28/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/welcome-to-link",
-      "title": "Welcome to Link from Link - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-25/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/docusign-account-signup-reminder",
+      "title": "Reminder: Complete your account sign up from DocuSign - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-28/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 150
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 100
-    },
-    {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 150
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 100
     }
   ],
@@ -47,28 +56,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-09-25/flodesk--archiv.jpg"
+      "shot": "emails/2026-09-28/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-09-25/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-09-25/dotdigital--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-09-25/smartemailing--archiv.jpg"
+      "shot": "emails/2026-09-28/customerio--archiv.jpg"
     }
   ],
   "poznamky": []

@@ -1,35 +1,6 @@
 {
-  "generatedAt": "2026-09-25T03:52:35.817Z",
+  "generatedAt": "2026-09-28T04:07:40.736Z",
   "checked": [
-    {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-09-25/constantcontact.jpg"
-    },
-    {
-      "key": "aweber",
-      "url": "https://www.aweber.com/pricing.htm",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$599",
-        "$79",
-        "$20.00",
-        "$12.50"
-      ],
-      "shot": "pricing-shots/2026-09-25/aweber.jpg"
-    },
-    {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-09-25/moosend.jpg"
-    },
     {
       "key": "sender",
       "url": "https://www.sender.net/pricing/",
@@ -47,7 +18,7 @@
         "$29",
         "$5.80"
       ],
-      "shot": "pricing-shots/2026-09-25/sender.jpg"
+      "shot": "pricing-shots/2026-09-28/sender.jpg"
     },
     {
       "key": "emailoctopus",
@@ -57,7 +28,7 @@
       "prices": [
         "$12"
       ],
-      "shot": "pricing-shots/2026-09-25/emailoctopus.jpg"
+      "shot": "pricing-shots/2026-09-28/emailoctopus.jpg"
     },
     {
       "key": "mailjet",
@@ -68,7 +39,7 @@
         "$19",
         "$29"
       ],
-      "shot": "pricing-shots/2026-09-25/mailjet.jpg"
+      "shot": "pricing-shots/2026-09-28/mailjet.jpg"
     },
     {
       "key": "flodesk",
@@ -80,7 +51,7 @@
         "$ 0 28 25 39",
         "$ 0 54 49 87"
       ],
-      "shot": "pricing-shots/2026-09-25/flodesk.jpg"
+      "shot": "pricing-shots/2026-09-28/flodesk.jpg"
     },
     {
       "key": "loops",
@@ -88,7 +59,7 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-09-25/loops.jpg"
+      "shot": "pricing-shots/2026-09-28/loops.jpg"
     },
     {
       "key": "beehiiv",
@@ -103,7 +74,7 @@
         "$96",
         "$1,151"
       ],
-      "shot": "pricing-shots/2026-09-25/beehiiv.jpg"
+      "shot": "pricing-shots/2026-09-28/beehiiv.jpg"
     },
     {
       "key": "kit",
@@ -111,7 +82,7 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-09-25/kit.jpg"
+      "shot": "pricing-shots/2026-09-28/kit.jpg"
     },
     {
       "key": "resend",
@@ -126,7 +97,7 @@
         "$30",
         "$150"
       ],
-      "shot": "pricing-shots/2026-09-25/resend.jpg"
+      "shot": "pricing-shots/2026-09-28/resend.jpg"
     },
     {
       "key": "cleverreach",
@@ -134,7 +105,31 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-09-25/cleverreach.jpg"
+      "shot": "pricing-shots/2026-09-28/cleverreach.jpg"
+    },
+    {
+      "key": "rapidmail",
+      "url": "https://www.rapidmail.de/preise",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-28/rapidmail.jpg"
+    },
+    {
+      "key": "expertsender",
+      "url": "https://www.expertsender.com/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-28/expertsender.jpg"
+    },
+    {
+      "key": "sessy",
+      "url": "https://sessy.do/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-09-28/sessy.jpg"
     },
     {
       "key": "nas-web",
@@ -178,39 +173,45 @@
         "3,00 Kč",
         "5,40 Kč"
       ],
-      "shot": "pricing-shots/2026-09-25/nas-web.jpg"
+      "shot": "pricing-shots/2026-09-28/nas-web.jpg"
     }
   ],
   "changes": [],
   "nenacteno": [
     {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
-      "shot": "pricing-shots/2026-09-25/constantcontact.jpg",
-      "drzeloPredtim": 0
-    },
-    {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
-      "shot": "pricing-shots/2026-09-25/moosend.jpg",
-      "drzeloPredtim": 0
-    },
-    {
       "key": "loops",
       "url": "https://loops.so/pricing",
-      "shot": "pricing-shots/2026-09-25/loops.jpg",
+      "shot": "pricing-shots/2026-09-28/loops.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "kit",
       "url": "https://kit.com/pricing",
-      "shot": "pricing-shots/2026-09-25/kit.jpg",
+      "shot": "pricing-shots/2026-09-28/kit.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "cleverreach",
       "url": "https://www.cleverreach.com/en/prices/",
-      "shot": "pricing-shots/2026-09-25/cleverreach.jpg",
+      "shot": "pricing-shots/2026-09-28/cleverreach.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "rapidmail",
+      "url": "https://www.rapidmail.de/preise",
+      "shot": "pricing-shots/2026-09-28/rapidmail.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "expertsender",
+      "url": "https://www.expertsender.com/pricing/",
+      "shot": "pricing-shots/2026-09-28/expertsender.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "sessy",
+      "url": "https://sessy.do/pricing",
+      "shot": "pricing-shots/2026-09-28/sessy.jpg",
       "drzeloPredtim": 0
     }
   ],
