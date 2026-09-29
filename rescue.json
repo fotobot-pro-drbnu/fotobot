@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-09-28T04:09:27.964Z",
-  "pacienti": 1,
+  "generatedAt": "2026-09-29T03:57:57.450Z",
+  "pacienti": 2,
   "zachraneno": [
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-09-28/targito.jpg",
+      "shot": "rescue/2026-09-29/targito.jpg",
       "health": {
         "imgTotal": 72,
-        "imgBroken": 40,
+        "imgBroken": 39,
         "h1": "",
         "ruleCount": 81
+      }
+    },
+    {
+      "key": "cleverreach",
+      "url": "https://www.cleverreach.com/en/",
+      "duvod": "rozbitá fotka",
+      "shot": "rescue/2026-09-29/cleverreach.jpg",
+      "health": {
+        "imgTotal": 0,
+        "imgBroken": 0,
+        "h1": "",
+        "ruleCount": 2
       }
     }
   ],

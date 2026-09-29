@@ -181,12 +181,15 @@
     "https://reallygoodemails.com/emails/beehiiv-enterprise-report-2026",
     "https://reallygoodemails.com/emails/beefree-sdk-collaboration-features",
     "https://reallygoodemails.com/emails/target-circle-welcome-onboarding",
-    "https://reallygoodemails.com/emails/docusign-account-signup-reminder"
+    "https://reallygoodemails.com/emails/docusign-account-signup-reminder",
+    "https://reallygoodemails.com/emails/dollar-shave-club-browse-abandonment",
+    "https://reallygoodemails.com/emails/bilt-neighborhood-comedy",
+    "https://reallygoodemails.com/emails/max-and-co-maxco-fw26-campaign-announcement"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-09-24",
+      "date": "2026-09-29",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -199,7 +202,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "odkazu": 150
     },
     "rge-announcement": {
@@ -224,7 +227,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-09-24",
+      "date": "2026-09-29",
       "odkazu": 100
     }
   },
@@ -389,22 +392,26 @@
       }
     },
     "smartemailing": {
-      "working": "https://www.smartemailing.cz/newsletter",
+      "working": "https://www.smartemailing.cz/resources/newsletter",
       "fails": {
-        "https://www.smartemailing.cz/newsletter": 0
+        "https://www.smartemailing.cz/newsletter": 1,
+        "https://www.smartemailing.cz/newsletter-archive": 1,
+        "https://www.smartemailing.cz/emails": 1,
+        "https://www.smartemailing.cz/email-archive": 1,
+        "https://www.smartemailing.cz/resources/newsletter": 0
       }
     },
     "leadhub": {
       "working": null,
       "fails": {
-        "https://www.leadhub.co/newsletter": 2,
-        "https://www.leadhub.co/newsletter-archive": 2,
-        "https://www.leadhub.co/emails": 2,
-        "https://www.leadhub.co/email-archive": 2,
-        "https://www.leadhub.co/resources/newsletter": 2,
-        "https://www.leadhub.co/blog/newsletter": 2,
-        "https://leadhub.beehiiv.com/archive": 2,
-        "https://leadhub.substack.com/archive": 2
+        "https://www.leadhub.co/newsletter": 3,
+        "https://www.leadhub.co/newsletter-archive": 3,
+        "https://www.leadhub.co/emails": 3,
+        "https://www.leadhub.co/email-archive": 3,
+        "https://www.leadhub.co/resources/newsletter": 3,
+        "https://www.leadhub.co/blog/newsletter": 3,
+        "https://leadhub.beehiiv.com/archive": 3,
+        "https://leadhub.substack.com/archive": 3
       }
     },
     "targito": {

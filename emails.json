@@ -1,69 +1,74 @@
 {
-  "generatedAt": "2026-09-28T04:08:40.105Z",
-  "konkurence": [
-    {
-      "znacka": "beehiiv",
-      "key": "beehiiv",
-      "katalog": "rge-newsletter",
-      "url": "https://reallygoodemails.com/emails/beehiiv-enterprise-report-2026",
-      "title": "What 799 companies built on beehiiv from beehiiv - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-28/beehiiv--rge-newsletter-1.jpg"
-    }
-  ],
+  "generatedAt": "2026-09-29T03:55:30.824Z",
+  "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/beefree-sdk-collaboration-features",
-      "title": "Collaboration features that’ll make your users happy from beefree - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-28/inspirace--rge-onboarding-1.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/dollar-shave-club-browse-abandonment",
+      "title": "Half-browsed, half-shaved… tragic. from Dollar Shave Club - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-29/inspirace--rge-promo-1.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/target-circle-welcome-onboarding",
-      "title": "Thanks for joining Target Circle 😊 from Target - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-28/inspirace--rge-onboarding-2.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/bilt-neighborhood-comedy",
+      "title": "Matthew, discover comedy near you this month from Bilt - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-29/inspirace--rge-promo-2.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/docusign-account-signup-reminder",
-      "title": "Reminder: Complete your account sign up from DocuSign - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-09-28/inspirace--rge-onboarding-3.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/max-and-co-maxco-fw26-campaign-announcement",
+      "title": "New MAX&Co. Campaign F/W 26 from MAX&Co. - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-09-29/inspirace--rge-promo-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
       "odkazu": 150
-    },
-    {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
-      "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Flodesk",
-      "key": "flodesk",
-      "url": "https://flodesk.com/emails",
-      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-09-28/flodesk--archiv.jpg"
+      "znacka": "Dotdigital",
+      "key": "dotdigital",
+      "url": "https://dotdigital.com/blog/newsletter",
+      "title": "Newsletters we loveand why, plus how to recreate them",
+      "shot": "emails/2026-09-29/dotdigital--archiv.jpg"
     },
     {
-      "znacka": "Customer.io",
-      "key": "customerio",
-      "url": "https://customer.io/blog/newsletter",
-      "title": "Learn with Customer.io",
-      "shot": "emails/2026-09-28/customerio--archiv.jpg"
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/resources/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-09-29/smartemailing--archiv.jpg"
+    },
+    {
+      "znacka": "Targito",
+      "key": "targito",
+      "url": "https://www.targito.com/newsletter",
+      "title": "Newsletter - Targito",
+      "shot": "emails/2026-09-29/targito--archiv.jpg"
+    },
+    {
+      "znacka": "Boldem",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/resources/newsletter",
+      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
+      "shot": "emails/2026-09-29/boldem--archiv.jpg"
     }
   ],
   "poznamky": []
