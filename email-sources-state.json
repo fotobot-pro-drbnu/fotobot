@@ -187,12 +187,17 @@
     "https://reallygoodemails.com/emails/max-and-co-maxco-fw26-campaign-announcement",
     "https://reallygoodemails.com/emails/alltrails-100m-members-newsletter",
     "https://reallygoodemails.com/emails/veja-harpie-trail-launch",
-    "https://reallygoodemails.com/emails/obama-foundation-new-leaders-class"
+    "https://reallygoodemails.com/emails/obama-foundation-new-leaders-class",
+    "https://reallygoodemails.com/emails/prose-sustainable-welcome-kit",
+    "https://reallygoodemails.com/emails/prose-sustainable-welcome-kit",
+    "https://reallygoodemails.com/emails/loki-yuzu-mizu-premium-thc-seltzer",
+    "https://reallygoodemails.com/emails/withings-welcome-email",
+    "https://reallygoodemails.com/emails/goodrx-welcome-coupon"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-09-29",
+      "date": "2026-10-01",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -225,12 +230,12 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-09-28",
-      "odkazu": 100
+      "date": "2026-10-01",
+      "odkazu": 150
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-09-29",
+      "date": "2026-10-01",
       "odkazu": 100
     }
   },
