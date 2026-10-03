@@ -19,12 +19,10 @@ concurrency:
 jobs:
   shoot:
     runs-on: ubuntu-latest
-    # Celý běh dnes trvá kolem hodiny (focení ~20 min, rozšíření ~35 min).
-    # Původních 40 minut ho zabíjelo uprostřed.
-    # 150 min místo 90: 17.9.2026 se job zabil uprostřed rozšíření a ceníky,
-    # e-maily, záchranka ani datovaný archiv vůbec neproběhly. Rozpočty fází
-    # v extras.mjs to řeší uvnitř, tohle je jen strop, o který se nemá zavadit.
-    timeout-minutes: 150
+    # 3.10.2026: job timeout UŽ NENÍ hlavní pojistka — tou jsou timeout-minutes
+    # na jednotlivých krocích níž. Tohle je jen poslední záchytka.
+    # Součet stropů fází je 40 + 45 + 10 + 10 = 105 min, plus instalace ~5.
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -33,12 +31,23 @@ jobs:
           node-version: "20"
 
       - name: Nainstaluj Playwright a Chromium
+        timeout-minutes: 15
         run: |
           npm init -y >/dev/null 2>&1 || true
           npm install --no-save playwright@1.49.1 sharp@0.33.5
           npx playwright install --with-deps chromium
 
+      # ⛔️ KLÍČOVÁ ZMĚNA (3.10.2026). Předtím měl strop jen celý job (150 min).
+      # 2.10.2026 se focení zaseklo, sežralo celých 150 minut, GitHub job zabil
+      # a NIC se necommitlo — ani fotky, ani feedy, ani ceníky. Stalker měl
+      # v pátek i v sobotu prázdno.
+      # Teď má focení vlastní strop. Když se zasekne, zabije se JEN ono,
+      # continue-on-error pustí běh dál a fotky, co se stihly, se uloží.
+      # Normální focení trvá ~20 min, takže 40 je dvojnásobná rezerva.
       - name: Vyfoť weby
+        id: shoot
+        timeout-minutes: 40
+        continue-on-error: true
         env:
           OWN_HOME_URL: ${{ secrets.OWN_HOME_URL }}
           OWN_AI_URL: ${{ secrets.OWN_AI_URL }}
@@ -54,7 +63,10 @@ jobs:
       # POJISTKA: fotky se commitnou hned po focení. Kdyby se rozšíření
       # zaseklo nebo doběhlo do timeoutu, fotky už jsou v repu a Stalker
       # má z čeho brát.
+      # 3.10.2026: if: always() + čtení report.json je ošetřené, protože
+      # při zaseknutém focení může být report.json starý nebo chybět.
       - name: Commitni fotky
+        if: always()
         run: |
           git config user.name "fotobot"
           git config user.email "fotobot@users.noreply.github.com"
@@ -62,12 +74,16 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nic nového, necommituju."
           else
-            CHANGED=$(node -e "const r=require('./report.json');console.log(r.counts.changed+'/'+r.counts.targets)")
-            git commit -m "fotky $(date -u +%F) (zmeneno ${CHANGED})"
+            CHANGED=$(node -e "try{const r=require('./report.json');console.log(r.counts.changed+'/'+r.counts.targets)}catch(e){console.log('?')}")
+            git commit -m "fotky $(date -u +%F) (zmeneno ${CHANGED}, foceni=${{ steps.shoot.outcome }})"
+            git pull --rebase || true
             git push
           fi
 
       - name: Feedy, ceníky, e-maily konkurence a datovaný archiv
+        id: extras
+        if: always()
+        timeout-minutes: 45
         continue-on-error: true
         run: node extras.mjs
 
@@ -83,21 +99,30 @@ jobs:
             echo "Rozšíření nic nezměnilo, necommituju."
           else
             git commit -m "rozsireni $(date -u +%F)"
-            git pull --rebase
+            git pull --rebase || true
             git push
           fi
 
       - name: Kalendáře akcí (přednášky a talky)
+        id: akce
+        if: always()
+        timeout-minutes: 10
         continue-on-error: true
         run: node akce.mjs
 
       - name: Články z blokovaných webů (Ecommerce Bridge)
+        id: clanky
+        if: always()
+        timeout-minutes: 10
         continue-on-error: true
         run: node clanky.mjs
 
       - name: Ukliď staré jednorázové fotky
         # Hlavní úklid (60 dní, všechny datované složky) si dělá extras.mjs sám.
         # Tohle je jen záloha pro případ, že by rozšíření nedoběhlo.
+        if: always()
+        timeout-minutes: 5
+        continue-on-error: true
         run: |
           find queue-shots -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
           find changed -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
@@ -106,16 +131,39 @@ jobs:
           find daily -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
           find rescue -mindepth 1 -maxdepth 1 -type d -mtime +60 -exec rm -rf {} + 2>/dev/null || true
 
-      - name: Commitni rozšíření a úklid
+      # ⭐ NOVÉ (3.10.2026): vizitka běhu. Stalker na log GitHub Actions nevidí
+      # (api.github.com je z jeho prostředí blokované), takže dosud nedokázal
+      # rozlišit „běh vůbec nenaskočil" od „běh spadl". Tenhle soubor to řeší.
+      - name: Zapiš status.json
+        if: always()
+        run: |
+          cat > status.json <<EOF
+          {
+            "pokusAt": "$(date -u +%FT%TZ)",
+            "datum": "$(date -u +%F)",
+            "runId": "${{ github.run_id }}",
+            "runNumber": "${{ github.run_number }}",
+            "spousteno": "${{ github.event_name }}",
+            "faze": {
+              "foceni": "${{ steps.shoot.outcome }}",
+              "rozsireni": "${{ steps.extras.outcome }}",
+              "akce": "${{ steps.akce.outcome }}",
+              "clanky": "${{ steps.clanky.outcome }}"
+            }
+          }
+          EOF
+          cat status.json
+
+      - name: Commitni úklid a status
         if: always()
         run: |
           git config user.name "fotobot"
           git config user.email "fotobot@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "Rozšíření nic nezměnilo, necommituju."
+            echo "Nic se nezměnilo, necommituju."
           else
-            git commit -m "rozsireni $(date -u +%F)"
-            git pull --rebase
+            git commit -m "status + uklid $(date -u +%F)"
+            git pull --rebase || true
             git push
           fi
