@@ -1,44 +1,33 @@
 {
-  "generatedAt": "2026-10-01T03:57:35.448Z",
-  "konkurence": [
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/prose-sustainable-welcome-kit",
-      "title": "Love your hair. Love the planet 💚 from Prose - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-01/kit--rge-welcome-1.jpg"
-    },
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/prose-sustainable-welcome-kit",
-      "title": "Love your hair. Love the planet 💚 from Prose - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-01/kit--rge-promo-2.jpg"
-    }
-  ],
+  "generatedAt": "2026-10-03T19:36:46.690Z",
+  "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/loki-yuzu-mizu-premium-thc-seltzer",
-      "title": "Start with Yuzu. Most people do. from LOKI - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-01/inspirace--rge-welcome-1.jpg"
+      "katalog": "rge-newsletter",
+      "url": "https://reallygoodemails.com/emails/raus-news-autumn-update",
+      "title": "Raus News: Neue Sauna, süße Esel & jede Menge Herbstgefühle 🍁 from Raus - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-03/inspirace--rge-newsletter-1.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/withings-welcome-email",
-      "title": "👋 Welcome to the Withings Community from Withings - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-01/inspirace--rge-welcome-2.jpg"
+      "katalog": "rge-newsletter",
+      "url": "https://reallygoodemails.com/emails/and-tradition-furniture-catalog-newsletter",
+      "title": "&Tradition | Nouveautés, icônes et design scandinave from Made in Design - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-03/inspirace--rge-newsletter-2.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/goodrx-welcome-coupon",
-      "title": "Welcome to GoodRx from GoodRx - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-01/inspirace--rge-welcome-3.jpg"
+      "katalog": "rge-newsletter",
+      "url": "https://reallygoodemails.com/emails/unlocking-secrets-16000-year-old-cave",
+      "title": "Unlocking the secrets of a 16,000-year-old cave from Microsoft - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-03/inspirace--rge-newsletter-3.jpg"
     }
   ],
   "katalogy": [
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
+    },
     {
       "key": "rge-welcome",
       "name": "Really Good Emails — welcome",
@@ -50,14 +39,30 @@
       "name": "Really Good Emails — promo",
       "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
-    },
-    {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
-      "odkazu": 100
     }
   ],
-  "archivy": [],
+  "archivy": [
+    {
+      "znacka": "Targito",
+      "key": "targito",
+      "url": "https://www.targito.com/newsletter",
+      "title": "Newsletter - Targito",
+      "shot": "emails/2026-10-03/targito--archiv.jpg"
+    },
+    {
+      "znacka": "Boldem",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/resources/newsletter",
+      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
+      "shot": "emails/2026-10-03/boldem--archiv.jpg"
+    },
+    {
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/blog/newsletter",
+      "title": "Marketing Resources | Mailchimp",
+      "shot": "emails/2026-10-03/mailchimp--archiv.jpg"
+    }
+  ],
   "poznamky": []
 }

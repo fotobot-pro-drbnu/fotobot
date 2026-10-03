@@ -192,7 +192,10 @@
     "https://reallygoodemails.com/emails/prose-sustainable-welcome-kit",
     "https://reallygoodemails.com/emails/loki-yuzu-mizu-premium-thc-seltzer",
     "https://reallygoodemails.com/emails/withings-welcome-email",
-    "https://reallygoodemails.com/emails/goodrx-welcome-coupon"
+    "https://reallygoodemails.com/emails/goodrx-welcome-coupon",
+    "https://reallygoodemails.com/emails/raus-news-autumn-update",
+    "https://reallygoodemails.com/emails/and-tradition-furniture-catalog-newsletter",
+    "https://reallygoodemails.com/emails/unlocking-secrets-16000-year-old-cave"
   ],
   "catalogs": {
     "rge-cart": {
@@ -225,17 +228,17 @@
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-09-30",
+      "date": "2026-10-03",
       "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-01",
+      "date": "2026-10-03",
       "odkazu": 150
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-01",
+      "date": "2026-10-03",
       "odkazu": 100
     }
   },
