@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T19:37:37.478Z",
+  "generatedAt": "2026-10-03T19:53:39.646Z",
   "pacienti": 1,
   "zachraneno": [
     {
@@ -9,7 +9,7 @@
       "shot": "rescue/2026-10-03/targito.jpg",
       "health": {
         "imgTotal": 72,
-        "imgBroken": 39,
+        "imgBroken": 40,
         "h1": "",
         "ruleCount": 81
       }
