@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-10-03T19:51:55.685Z",
+  "generatedAt": "2026-10-05T03:57:24.547Z",
   "checked": [
+    {
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/smartmailer.jpg"
+    },
+    {
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/intelimail.jpg"
+    },
+    {
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/quanda.jpg"
+    },
+    {
+      "key": "mailkit",
+      "url": "https://www.mailkit.com/cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/mailkit.jpg"
+    },
+    {
+      "key": "clipsan",
+      "url": "https://www.clipsan.com/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/clipsan.jpg"
+    },
+    {
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/pricing/marketing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$20",
+        "$ 297 50",
+        "$297.50",
+        "$350",
+        "$13",
+        "$299"
+      ],
+      "shot": "pricing-shots/2026-10-05/mailchimp.jpg"
+    },
+    {
+      "key": "klaviyo",
+      "url": "https://www.klaviyo.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/klaviyo.jpg"
+    },
+    {
+      "key": "brevo",
+      "url": "https://www.brevo.com/pricing/",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$8 .08",
+        "$10.80",
+        "$27.92",
+        "$18",
+        "$16 .17",
+        "$499",
+        "$449 .08",
+        "$58.50",
+        "$2,499",
+        "$0.00",
+        "$8.08",
+        "$9.00"
+      ],
+      "shot": "pricing-shots/2026-10-05/brevo.jpg"
+    },
+    {
+      "key": "mailerlite",
+      "url": "https://www.mailerlite.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-05/mailerlite.jpg"
+    },
     {
       "key": "omnisend",
       "url": "https://www.omnisend.com/pricing/",
@@ -19,7 +111,7 @@
         "$400",
         "$79"
       ],
-      "shot": "pricing-shots/2026-10-03/omnisend.jpg"
+      "shot": "pricing-shots/2026-10-05/omnisend.jpg"
     },
     {
       "key": "activecampaign",
@@ -32,7 +124,7 @@
         "$49",
         "$15"
       ],
-      "shot": "pricing-shots/2026-10-03/activecampaign.jpg"
+      "shot": "pricing-shots/2026-10-05/activecampaign.jpg"
     },
     {
       "key": "getresponse",
@@ -51,108 +143,7 @@
         "$149",
         "$13"
       ],
-      "shot": "pricing-shots/2026-10-03/getresponse.jpg"
-    },
-    {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-10-03/constantcontact.jpg"
-    },
-    {
-      "key": "aweber",
-      "url": "https://www.aweber.com/pricing.htm",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$599",
-        "$79",
-        "$20.00",
-        "$12.50"
-      ],
-      "shot": "pricing-shots/2026-10-03/aweber.jpg"
-    },
-    {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-10-03/moosend.jpg"
-    },
-    {
-      "key": "sender",
-      "url": "https://www.sender.net/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$6.30",
-        "$108",
-        "$75.60",
-        "$10.50",
-        "$180",
-        "$126",
-        "$10",
-        "$0.015",
-        "$29",
-        "$5.80"
-      ],
-      "shot": "pricing-shots/2026-10-03/sender.jpg"
-    },
-    {
-      "key": "emailoctopus",
-      "url": "https://emailoctopus.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$12"
-      ],
-      "shot": "pricing-shots/2026-10-03/emailoctopus.jpg"
-    },
-    {
-      "key": "mailjet",
-      "url": "https://www.mailjet.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$19",
-        "$29"
-      ],
-      "shot": "pricing-shots/2026-10-03/mailjet.jpg"
-    },
-    {
-      "key": "flodesk",
-      "url": "https://flodesk.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$ 0 25 19 32",
-        "$ 0 28 25 39",
-        "$ 0 54 49 87"
-      ],
-      "shot": "pricing-shots/2026-10-03/flodesk.jpg"
-    },
-    {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-10-03/loops.jpg"
-    },
-    {
-      "key": "beehiiv",
-      "url": "https://www.beehiiv.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$49",
-        "$39",
-        "$95"
-      ],
-      "shot": "pricing-shots/2026-10-03/beehiiv.jpg"
+      "shot": "pricing-shots/2026-10-05/getresponse.jpg"
     },
     {
       "key": "nas-web",
@@ -196,28 +187,52 @@
         "3,00 Kč",
         "5,40 Kč"
       ],
-      "shot": "pricing-shots/2026-10-03/nas-web.jpg"
+      "shot": "pricing-shots/2026-10-05/nas-web.jpg"
     }
   ],
   "changes": [],
   "nenacteno": [
     {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
-      "shot": "pricing-shots/2026-10-03/constantcontact.jpg",
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "shot": "pricing-shots/2026-10-05/smartmailer.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
-      "shot": "pricing-shots/2026-10-03/moosend.jpg",
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "shot": "pricing-shots/2026-10-05/intelimail.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
-      "shot": "pricing-shots/2026-10-03/loops.jpg",
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "shot": "pricing-shots/2026-10-05/quanda.jpg",
       "drzeloPredtim": 0
+    },
+    {
+      "key": "mailkit",
+      "url": "https://www.mailkit.com/cz/cenik",
+      "shot": "pricing-shots/2026-10-05/mailkit.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "clipsan",
+      "url": "https://www.clipsan.com/cenik",
+      "shot": "pricing-shots/2026-10-05/clipsan.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "klaviyo",
+      "url": "https://www.klaviyo.com/pricing",
+      "shot": "pricing-shots/2026-10-05/klaviyo.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "mailerlite",
+      "url": "https://www.mailerlite.com/pricing",
+      "shot": "pricing-shots/2026-10-05/mailerlite.jpg",
+      "drzeloPredtim": 6
     }
   ],
   "errors": []

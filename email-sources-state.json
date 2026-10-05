@@ -198,7 +198,10 @@
     "https://reallygoodemails.com/emails/unlocking-secrets-16000-year-old-cave",
     "https://reallygoodemails.com/emails/figma-show-work-newsletter",
     "https://reallygoodemails.com/emails/art-design-hypar-roof",
-    "https://reallygoodemails.com/emails/manual-timeless-endless-phase-ii"
+    "https://reallygoodemails.com/emails/manual-timeless-endless-phase-ii",
+    "https://reallygoodemails.com/emails/beefree-sdk-editor-customization",
+    "https://reallygoodemails.com/emails/rge-studio-account-onboarding",
+    "https://reallygoodemails.com/emails/delta-air-lines-flight-confirmation-slc"
   ],
   "catalogs": {
     "rge-cart": {
@@ -226,18 +229,18 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-09-30",
+      "date": "2026-10-05",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-03",
+      "date": "2026-10-05",
       "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-03",
-      "odkazu": 150
+      "date": "2026-10-05",
+      "odkazu": 100
     },
     "rge-promo": {
       "fails": 0,

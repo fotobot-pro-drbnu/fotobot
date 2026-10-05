@@ -1,27 +1,33 @@
 {
-  "generatedAt": "2026-10-03T19:52:49.586Z",
+  "generatedAt": "2026-10-05T03:58:54.256Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-newsletter",
-      "url": "https://reallygoodemails.com/emails/figma-show-work-newsletter",
-      "title": "An inside look at how we build at Figma from Figma - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-03/inspirace--rge-newsletter-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/beefree-sdk-editor-customization",
+      "title": "Make the Beefree SDK editor truly yours from beefree - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-05/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-newsletter",
-      "url": "https://reallygoodemails.com/emails/art-design-hypar-roof",
-      "title": "The Art and Design of the Hypar Roof from Eames Institute - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-03/inspirace--rge-newsletter-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/rge-studio-account-onboarding",
+      "title": "Export your email with just one click! from Really Good Emails - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-05/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-newsletter",
-      "url": "https://reallygoodemails.com/emails/manual-timeless-endless-phase-ii",
-      "title": "Slippin’ into the future from Manual - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-03/inspirace--rge-newsletter-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/delta-air-lines-flight-confirmation-slc",
+      "title": "Your LIN > SLC Trip Details from Delta - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-05/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
+    {
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 100
+    },
     {
       "key": "rge-newsletter",
       "name": "Really Good Emails — newslettery",
@@ -32,36 +38,23 @@
       "key": "rge-welcome",
       "name": "Really Good Emails — welcome",
       "url": "https://reallygoodemails.com/categories/welcome",
-      "odkazu": 150
-    },
-    {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Targito",
-      "key": "targito",
-      "url": "https://www.targito.com/newsletter",
-      "title": "Newsletter - Targito",
-      "shot": "emails/2026-10-03/targito--archiv.jpg"
+      "znacka": "Flodesk",
+      "key": "flodesk",
+      "url": "https://flodesk.com/emails",
+      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
+      "shot": "emails/2026-10-05/flodesk--archiv.jpg"
     },
     {
-      "znacka": "Boldem",
-      "key": "boldem",
-      "url": "https://www.boldem.cz/resources/newsletter",
-      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
-      "shot": "emails/2026-10-03/boldem--archiv.jpg"
-    },
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "url": "https://mailchimp.com/blog/newsletter",
-      "title": "Marketing Resources | Mailchimp",
-      "shot": "emails/2026-10-03/mailchimp--archiv.jpg"
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "url": "https://customer.io/blog/newsletter",
+      "title": "Learn with Customer.io",
+      "shot": "emails/2026-10-05/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
