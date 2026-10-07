@@ -205,7 +205,10 @@
     "https://reallygoodemails.com/emails/add-a-payment-card-to-your-convertkit-account",
     "https://reallygoodemails.com/emails/54-off-unlimited-access-columbus-dispatch",
     "https://reallygoodemails.com/emails/137-tubes-per-person",
-    "https://reallygoodemails.com/emails/masterclass-uber-growth-strategy-pre-enroll"
+    "https://reallygoodemails.com/emails/masterclass-uber-growth-strategy-pre-enroll",
+    "https://reallygoodemails.com/emails/pre-order-new-iphone-18-pro",
+    "https://reallygoodemails.com/emails/wgsn-restorers-event-invite",
+    "https://reallygoodemails.com/emails/specialized-ride-nation-announcement"
   ],
   "catalogs": {
     "rge-cart": {
@@ -228,17 +231,17 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-09-30",
+      "date": "2026-10-07",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-05",
+      "date": "2026-10-07",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-05",
+      "date": "2026-10-07",
       "odkazu": 100
     },
     "rge-welcome": {

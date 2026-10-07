@@ -1,83 +1,67 @@
 {
-  "generatedAt": "2026-10-06T03:59:18.275Z",
-  "konkurence": [
-    {
-      "znacka": "Kit",
-      "key": "kit",
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/add-a-payment-card-to-your-convertkit-account",
-      "title": "Add a payment card to your ConvertKit account from ConvertKit - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-06/kit--rge-transactional-1.jpg"
-    }
-  ],
+  "generatedAt": "2026-10-07T03:54:40.132Z",
+  "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/54-off-unlimited-access-columbus-dispatch",
-      "title": "54% off unlimited access to The Columbus Dispatch. from The Columbus Dispatch - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-06/inspirace--rge-promo-1.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/pre-order-new-iphone-18-pro",
+      "title": "Pre-order the new iPhone 18 Pro now. from Apple - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-07/inspirace--rge-announcement-1.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/137-tubes-per-person",
-      "title": "137 tubes per person. from Bite - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-06/inspirace--rge-promo-2.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/wgsn-restorers-event-invite",
+      "title": "Join me: How do you grow when consumers want less? from WGSN - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-07/inspirace--rge-announcement-2.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/masterclass-uber-growth-strategy-pre-enroll",
-      "title": "NEW: Uber wants to help your company grow from Masterclass - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-06/inspirace--rge-promo-3.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/specialized-ride-nation-announcement",
+      "title": "Join Ultra Cyclist Jack Thompson's Ride the Nation from Specialized Bicycle Components - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-07/inspirace--rge-announcement-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 100
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
-      "odkazu": 150
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 100
     },
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 150
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-10-06/dotdigital--archiv.jpg"
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/blog/newsletter",
+      "title": "Marketing Resources | Mailchimp",
+      "shot": "emails/2026-10-07/mailchimp--archiv.jpg"
     },
     {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/resources/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-10-06/smartemailing--archiv.jpg"
+      "znacka": "Omnisend",
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/newsletter",
+      "title": "Free and Customizable Email Newsletter Templates",
+      "shot": "emails/2026-10-07/omnisend--archiv.jpg"
     },
     {
-      "znacka": "Targito",
-      "key": "targito",
-      "url": "https://www.targito.com/newsletter",
-      "title": "Newsletter - Targito",
-      "shot": "emails/2026-10-06/targito--archiv.jpg"
-    },
-    {
-      "znacka": "Boldem",
-      "key": "boldem",
-      "url": "https://www.boldem.cz/resources/newsletter",
-      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
-      "shot": "emails/2026-10-06/boldem--archiv.jpg"
+      "znacka": "ActiveCampaign",
+      "key": "activecampaign",
+      "url": "https://www.activecampaign.com/newsletter",
+      "title": "Blog | ActiveCampaign",
+      "shot": "emails/2026-10-07/activecampaign--archiv.jpg"
     }
   ],
   "poznamky": []

@@ -1,129 +1,116 @@
 {
-  "generatedAt": "2026-10-06T03:57:52.176Z",
+  "generatedAt": "2026-10-07T03:52:37.598Z",
   "checked": [
     {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
+      "key": "rapidmail",
+      "url": "https://www.rapidmail.de/preise",
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-06/constantcontact.jpg"
+      "shot": "pricing-shots/2026-10-07/rapidmail.jpg"
     },
     {
-      "key": "aweber",
-      "url": "https://www.aweber.com/pricing.htm",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$599",
-        "$79",
-        "$20.00",
-        "$12.50"
-      ],
-      "shot": "pricing-shots/2026-10-06/aweber.jpg"
-    },
-    {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
+      "key": "expertsender",
+      "url": "https://www.expertsender.com/pricing/",
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-06/moosend.jpg"
+      "shot": "pricing-shots/2026-10-07/expertsender.jpg"
     },
     {
-      "key": "sender",
-      "url": "https://www.sender.net/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$6.30",
-        "$108",
-        "$75.60",
-        "$10.50",
-        "$180",
-        "$126",
-        "$10",
-        "$0.015",
-        "$29",
-        "$5.80"
-      ],
-      "shot": "pricing-shots/2026-10-06/sender.jpg"
-    },
-    {
-      "key": "emailoctopus",
-      "url": "https://emailoctopus.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$12"
-      ],
-      "shot": "pricing-shots/2026-10-06/emailoctopus.jpg"
-    },
-    {
-      "key": "mailjet",
-      "url": "https://www.mailjet.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$19",
-        "$29"
-      ],
-      "shot": "pricing-shots/2026-10-06/mailjet.jpg"
-    },
-    {
-      "key": "flodesk",
-      "url": "https://flodesk.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$ 0 25 19 32",
-        "$ 0 28 25 39",
-        "$ 0 54 49 87"
-      ],
-      "shot": "pricing-shots/2026-10-06/flodesk.jpg"
-    },
-    {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
+      "key": "sessy",
+      "url": "https://sessy.do/pricing",
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-06/loops.jpg"
+      "shot": "pricing-shots/2026-10-07/sessy.jpg"
     },
     {
-      "key": "beehiiv",
-      "url": "https://www.beehiiv.com/pricing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/cenik/",
       "own": false,
-      "cz": false,
-      "prices": [
-        "$49",
-        "$39",
-        "$95"
-      ],
-      "shot": "pricing-shots/2026-10-06/beehiiv.jpg"
-    },
-    {
-      "key": "kit",
-      "url": "https://kit.com/pricing",
-      "own": false,
-      "cz": false,
+      "cz": true,
       "prices": [],
-      "shot": "pricing-shots/2026-10-06/kit.jpg"
+      "shot": "pricing-shots/2026-10-07/smartemailing.jpg"
     },
     {
-      "key": "resend",
-      "url": "https://resend.com/pricing",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/cenik/",
       "own": false,
-      "cz": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-07/boldem.jpg"
+    },
+    {
+      "key": "leadhub",
+      "url": "https://www.leadhub.co/cenik",
+      "own": false,
+      "cz": true,
       "prices": [
-        "$20",
-        "$0.90",
-        "$90",
-        "$0.0015",
-        "$30",
-        "$150"
+        "216 Kč",
+        "0,80 Kč",
+        "1,10 Kč"
       ],
-      "shot": "pricing-shots/2026-10-06/resend.jpg"
+      "shot": "pricing-shots/2026-10-07/leadhub.jpg"
+    },
+    {
+      "key": "targito",
+      "url": "https://www.targito.com/cenik/",
+      "own": false,
+      "cz": true,
+      "prices": [
+        "1 600 Kč",
+        "1 500 Kč",
+        "6 900 Kč"
+      ],
+      "shot": "pricing-shots/2026-10-07/targito.jpg"
+    },
+    {
+      "key": "emailkampane",
+      "url": "https://www.emailkampane.cz/cenik/",
+      "own": false,
+      "cz": true,
+      "prices": [
+        "2 376 Kč",
+        "790 Kč",
+        "956 Kč"
+      ],
+      "shot": "pricing-shots/2026-10-07/emailkampane.jpg"
+    },
+    {
+      "key": "emailmachine",
+      "url": "https://www.emailmachine.cz/cenik/",
+      "own": false,
+      "cz": true,
+      "prices": [
+        "490 Kč",
+        "5 880 Kč"
+      ],
+      "shot": "pricing-shots/2026-10-07/emailmachine.jpg"
+    },
+    {
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-07/smartmailer.jpg"
+    },
+    {
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-07/intelimail.jpg"
+    },
+    {
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-10-07/quanda.jpg"
     },
     {
       "key": "nas-web",
@@ -167,41 +154,59 @@
         "3,00 Kč",
         "5,40 Kč"
       ],
-      "shot": "pricing-shots/2026-10-06/nas-web.jpg"
+      "shot": "pricing-shots/2026-10-07/nas-web.jpg"
     }
   ],
   "changes": [],
   "nenacteno": [
     {
-      "key": "constantcontact",
-      "url": "https://www.constantcontact.com/pricing",
-      "shot": "pricing-shots/2026-10-06/constantcontact.jpg",
+      "key": "rapidmail",
+      "url": "https://www.rapidmail.de/preise",
+      "shot": "pricing-shots/2026-10-07/rapidmail.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "moosend",
-      "url": "https://moosend.com/pricing/",
-      "shot": "pricing-shots/2026-10-06/moosend.jpg",
+      "key": "expertsender",
+      "url": "https://www.expertsender.com/pricing/",
+      "shot": "pricing-shots/2026-10-07/expertsender.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
-      "shot": "pricing-shots/2026-10-06/loops.jpg",
+      "key": "sessy",
+      "url": "https://sessy.do/pricing",
+      "shot": "pricing-shots/2026-10-07/sessy.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "kit",
-      "url": "https://kit.com/pricing",
-      "shot": "pricing-shots/2026-10-06/kit.jpg",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/cenik/",
+      "shot": "pricing-shots/2026-10-07/smartemailing.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "boldem",
+      "url": "https://www.boldem.cz/cenik/",
+      "shot": "pricing-shots/2026-10-07/boldem.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "shot": "pricing-shots/2026-10-07/smartmailer.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "shot": "pricing-shots/2026-10-07/intelimail.jpg",
+      "drzeloPredtim": 0
+    },
+    {
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "shot": "pricing-shots/2026-10-07/quanda.jpg",
       "drzeloPredtim": 0
     }
   ],
-  "errors": [
-    {
-      "key": "cleverreach",
-      "url": "https://www.cleverreach.com/en/prices/",
-      "error": "TimeoutError: page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.cleverreach.com/en/prices/\", waiting until \"domcontentloaded\"\n"
-    }
-  ]
+  "errors": []
 }
