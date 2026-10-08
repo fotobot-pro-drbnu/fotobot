@@ -1,68 +1,48 @@
 {
-  "generatedAt": "2026-10-07T03:54:40.132Z",
+  "generatedAt": "2026-10-08T04:04:33.128Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/pre-order-new-iphone-18-pro",
-      "title": "Pre-order the new iPhone 18 Pro now. from Apple - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-07/inspirace--rge-announcement-1.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/bestsellers-youll-fall-for-or-already-have",
+      "title": "Bestsellers you’ll fall for – or already have. from Jo Malone London - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-08/inspirace--rge-welcome-1.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/wgsn-restorers-event-invite",
-      "title": "Join me: How do you grow when consumers want less? from WGSN - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-07/inspirace--rge-announcement-2.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/heist-decaf-welcome",
+      "title": "You found the way in ☕ from Heist - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-08/inspirace--rge-welcome-2.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/specialized-ride-nation-announcement",
-      "title": "Join Ultra Cyclist Jack Thompson's Ride the Nation from Specialized Bicycle Components - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-07/inspirace--rge-announcement-3.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/cotality-newsletter-welcome",
+      "title": "Welcome to the Cotality newsletter from Cotality - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-08/inspirace--rge-welcome-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
+      "odkazu": 150
+    },
+    {
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
     },
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
-      "odkazu": 100
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "odkazu": 150
     }
   ],
-  "archivy": [
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "url": "https://mailchimp.com/blog/newsletter",
-      "title": "Marketing Resources | Mailchimp",
-      "shot": "emails/2026-10-07/mailchimp--archiv.jpg"
-    },
-    {
-      "znacka": "Omnisend",
-      "key": "omnisend",
-      "url": "https://www.omnisend.com/newsletter",
-      "title": "Free and Customizable Email Newsletter Templates",
-      "shot": "emails/2026-10-07/omnisend--archiv.jpg"
-    },
-    {
-      "znacka": "ActiveCampaign",
-      "key": "activecampaign",
-      "url": "https://www.activecampaign.com/newsletter",
-      "title": "Blog | ActiveCampaign",
-      "shot": "emails/2026-10-07/activecampaign--archiv.jpg"
-    }
-  ],
-  "poznamky": []
+  "archivy": [],
+  "poznamky": [
+    "Dnes se nenašel žádný e-mail konkurence. Když se to opakuje, nejde o chybu — ty značky svoje kampaně veřejně nevystavují."
+  ]
 }

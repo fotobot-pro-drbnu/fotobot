@@ -208,12 +208,15 @@
     "https://reallygoodemails.com/emails/masterclass-uber-growth-strategy-pre-enroll",
     "https://reallygoodemails.com/emails/pre-order-new-iphone-18-pro",
     "https://reallygoodemails.com/emails/wgsn-restorers-event-invite",
-    "https://reallygoodemails.com/emails/specialized-ride-nation-announcement"
+    "https://reallygoodemails.com/emails/specialized-ride-nation-announcement",
+    "https://reallygoodemails.com/emails/bestsellers-youll-fall-for-or-already-have",
+    "https://reallygoodemails.com/emails/heist-decaf-welcome",
+    "https://reallygoodemails.com/emails/cotality-newsletter-welcome"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-10-06",
+      "date": "2026-10-08",
       "odkazu": 150
     },
     "emaillove-newsletter": {
@@ -246,12 +249,12 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-05",
-      "odkazu": 100
+      "date": "2026-10-08",
+      "odkazu": 150
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-06",
+      "date": "2026-10-08",
       "odkazu": 100
     }
   },

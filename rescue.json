@@ -1,19 +1,26 @@
 {
-  "generatedAt": "2026-10-07T03:55:28.510Z",
-  "pacienti": 1,
+  "generatedAt": "2026-10-08T04:05:07.651Z",
+  "pacienti": 2,
   "zachraneno": [
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-10-07/targito.jpg",
+      "shot": "rescue/2026-10-08/targito.jpg",
       "health": {
         "imgTotal": 72,
-        "imgBroken": 40,
+        "imgBroken": 39,
         "h1": "",
         "ruleCount": 81
       }
     }
   ],
-  "neuspech": []
+  "neuspech": [
+    {
+      "key": "cleverreach",
+      "url": "https://www.cleverreach.com/en/",
+      "duvod": "spadlo",
+      "error": "TimeoutError: page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.cleverreach.com/en/\", waiting until \"commit\"\n"
+    }
+  ]
 }
