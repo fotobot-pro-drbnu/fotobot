@@ -211,7 +211,10 @@
     "https://reallygoodemails.com/emails/specialized-ride-nation-announcement",
     "https://reallygoodemails.com/emails/bestsellers-youll-fall-for-or-already-have",
     "https://reallygoodemails.com/emails/heist-decaf-welcome",
-    "https://reallygoodemails.com/emails/cotality-newsletter-welcome"
+    "https://reallygoodemails.com/emails/cotality-newsletter-welcome",
+    "https://reallygoodemails.com/emails/how-was-it-rate-dwell-open-house-los-angeles",
+    "https://reallygoodemails.com/emails/bombas-confirmation-code",
+    "https://reallygoodemails.com/emails/alert-possible-error-on-your-manychat-kajabi"
   ],
   "catalogs": {
     "rge-cart": {
@@ -229,17 +232,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-06",
+      "date": "2026-10-09",
       "odkazu": 150
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-07",
+      "date": "2026-10-09",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-07",
+      "date": "2026-10-09",
       "odkazu": 100
     },
     "rge-newsletter": {
@@ -419,13 +422,13 @@
       }
     },
     "smartemailing": {
-      "working": "https://www.smartemailing.cz/resources/newsletter",
+      "working": "https://www.smartemailing.cz/newsletter",
       "fails": {
-        "https://www.smartemailing.cz/newsletter": 1,
+        "https://www.smartemailing.cz/newsletter": 0,
         "https://www.smartemailing.cz/newsletter-archive": 1,
         "https://www.smartemailing.cz/emails": 1,
         "https://www.smartemailing.cz/email-archive": 1,
-        "https://www.smartemailing.cz/resources/newsletter": 0
+        "https://www.smartemailing.cz/resources/newsletter": 1
       }
     },
     "leadhub": {

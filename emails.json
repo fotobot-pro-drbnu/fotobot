@@ -1,48 +1,75 @@
 {
-  "generatedAt": "2026-10-08T04:04:33.128Z",
+  "generatedAt": "2026-10-09T04:01:13.797Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/bestsellers-youll-fall-for-or-already-have",
-      "title": "Bestsellers you’ll fall for – or already have. from Jo Malone London - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-08/inspirace--rge-welcome-1.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/how-was-it-rate-dwell-open-house-los-angeles",
+      "title": "How was it? Rate Dwell Open House: Los Angeles! from Eventbrite - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-09/inspirace--rge-transactional-1.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/heist-decaf-welcome",
-      "title": "You found the way in ☕ from Heist - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-08/inspirace--rge-welcome-2.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/bombas-confirmation-code",
+      "title": "Bombas Confirmation Code: 646775 from Bombas - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-09/inspirace--rge-transactional-2.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/cotality-newsletter-welcome",
-      "title": "Welcome to the Cotality newsletter from Cotality - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-08/inspirace--rge-welcome-3.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/alert-possible-error-on-your-manychat-kajabi",
+      "title": "[ALERT] Possible error on your ManyChat > Kajabi [Grant 5DC] Zap from Zapier - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-09/inspirace--rge-transactional-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
       "odkazu": 150
     },
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 100
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
-      "odkazu": 150
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 100
     }
   ],
-  "archivy": [],
-  "poznamky": [
-    "Dnes se nenašel žádný e-mail konkurence. Když se to opakuje, nejde o chybu — ty značky svoje kampaně veřejně nevystavují."
-  ]
+  "archivy": [
+    {
+      "znacka": "Flodesk",
+      "key": "flodesk",
+      "url": "https://flodesk.com/emails",
+      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
+      "shot": "emails/2026-10-09/flodesk--archiv.jpg"
+    },
+    {
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "url": "https://customer.io/blog/newsletter",
+      "title": "Learn with Customer.io",
+      "shot": "emails/2026-10-09/customerio--archiv.jpg"
+    },
+    {
+      "znacka": "Dotdigital",
+      "key": "dotdigital",
+      "url": "https://dotdigital.com/blog/newsletter",
+      "title": "Newsletters we loveand why, plus how to recreate them",
+      "shot": "emails/2026-10-09/dotdigital--archiv.jpg"
+    },
+    {
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-10-09/smartemailing--archiv.jpg"
+    }
+  ],
+  "poznamky": []
 }
