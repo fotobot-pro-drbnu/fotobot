@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-09T04:01:13.797Z",
+  "generatedAt": "2026-10-12T04:16:53.753Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/how-was-it-rate-dwell-open-house-los-angeles",
-      "title": "How was it? Rate Dwell Open House: Los Angeles! from Eventbrite - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-09/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/justine-prompt-next-big-idea",
+      "title": "Justine, prompt your next big idea from Gamma - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-12/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/bombas-confirmation-code",
-      "title": "Bombas Confirmation Code: 646775 from Bombas - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-09/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/atlassian-jira-first-project-onboarding",
+      "title": "📌 Reminder: create your first Jira project from Atlassian - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-12/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/alert-possible-error-on-your-manychat-kajabi",
-      "title": "[ALERT] Possible error on your ManyChat > Kajabi [Grant 5DC] Zap from Zapier - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-09/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/zillow-plan-moving-hub-launch",
+      "title": "Introducing Plan: Your personalized moving hub from Zillow - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-12/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
-    {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 150
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 100
-    },
     {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 100
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 50
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
+      "odkazu": 150
     }
   ],
   "archivy": [
@@ -47,28 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-10-09/flodesk--archiv.jpg"
+      "shot": "emails/2026-10-12/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-10-09/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-10-09/dotdigital--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-10-09/smartemailing--archiv.jpg"
+      "shot": "emails/2026-10-12/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
