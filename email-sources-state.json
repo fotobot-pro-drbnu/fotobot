@@ -217,13 +217,16 @@
     "https://reallygoodemails.com/emails/alert-possible-error-on-your-manychat-kajabi",
     "https://reallygoodemails.com/emails/justine-prompt-next-big-idea",
     "https://reallygoodemails.com/emails/atlassian-jira-first-project-onboarding",
-    "https://reallygoodemails.com/emails/zillow-plan-moving-hub-launch"
+    "https://reallygoodemails.com/emails/zillow-plan-moving-hub-launch",
+    "https://reallygoodemails.com/emails/new-york-magazine-perks-fomo",
+    "https://reallygoodemails.com/emails/pink-slopes-20-off-today",
+    "https://reallygoodemails.com/emails/free-product-awaits"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-10-08",
-      "odkazu": 150
+      "date": "2026-10-13",
+      "odkazu": 100
     },
     "emaillove-newsletter": {
       "fails": 1,
@@ -235,7 +238,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-09",
+      "date": "2026-10-13",
       "odkazu": 150
     },
     "rge-announcement": {
@@ -260,7 +263,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-08",
+      "date": "2026-10-13",
       "odkazu": 100
     }
   },

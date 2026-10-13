@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-10-12T04:17:34.467Z",
-  "pacienti": 1,
+  "generatedAt": "2026-10-13T04:02:28.270Z",
+  "pacienti": 2,
   "zachraneno": [
+    {
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/",
+      "duvod": "spadlo",
+      "shot": "rescue/2026-10-13/smartemailing.jpg",
+      "health": {
+        "imgTotal": 59,
+        "imgBroken": 3,
+        "h1": "E-mail marketing, který skutečně vydělává",
+        "ruleCount": 99
+      }
+    },
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-10-12/targito.jpg",
+      "shot": "rescue/2026-10-13/targito.jpg",
       "health": {
         "imgTotal": 72,
         "imgBroken": 39,
