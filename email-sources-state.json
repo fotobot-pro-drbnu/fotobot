@@ -220,7 +220,10 @@
     "https://reallygoodemails.com/emails/zillow-plan-moving-hub-launch",
     "https://reallygoodemails.com/emails/new-york-magazine-perks-fomo",
     "https://reallygoodemails.com/emails/pink-slopes-20-off-today",
-    "https://reallygoodemails.com/emails/free-product-awaits"
+    "https://reallygoodemails.com/emails/free-product-awaits",
+    "https://reallygoodemails.com/emails/team17-little-prince-tyger-launch",
+    "https://reallygoodemails.com/emails/8-new-tours-2027-beyond",
+    "https://reallygoodemails.com/emails/microsoft-surface-pro-launch"
   ],
   "catalogs": {
     "rge-cart": {
@@ -243,18 +246,18 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-09",
+      "date": "2026-10-14",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-12",
+      "date": "2026-10-14",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-12",
-      "odkazu": 50
+      "date": "2026-10-14",
+      "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
