@@ -223,13 +223,16 @@
     "https://reallygoodemails.com/emails/free-product-awaits",
     "https://reallygoodemails.com/emails/team17-little-prince-tyger-launch",
     "https://reallygoodemails.com/emails/8-new-tours-2027-beyond",
-    "https://reallygoodemails.com/emails/microsoft-surface-pro-launch"
+    "https://reallygoodemails.com/emails/microsoft-surface-pro-launch",
+    "https://reallygoodemails.com/emails/cette-welcome-10-off-coupon",
+    "https://reallygoodemails.com/emails/allow-us-reintroduce-ourselves",
+    "https://reallygoodemails.com/emails/hush-puppies-welcome-discount"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-10-13",
-      "odkazu": 100
+      "date": "2026-10-15",
+      "odkazu": 50
     },
     "emaillove-newsletter": {
       "fails": 1,
@@ -261,12 +264,12 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-12",
-      "odkazu": 150
+      "date": "2026-10-15",
+      "odkazu": 100
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-13",
+      "date": "2026-10-15",
       "odkazu": 100
     }
   },
