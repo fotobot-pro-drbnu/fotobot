@@ -226,7 +226,10 @@
     "https://reallygoodemails.com/emails/microsoft-surface-pro-launch",
     "https://reallygoodemails.com/emails/cette-welcome-10-off-coupon",
     "https://reallygoodemails.com/emails/allow-us-reintroduce-ourselves",
-    "https://reallygoodemails.com/emails/hush-puppies-welcome-discount"
+    "https://reallygoodemails.com/emails/hush-puppies-welcome-discount",
+    "https://reallygoodemails.com/emails/taskrabbit-first-task-onboarding",
+    "https://reallygoodemails.com/emails/your-login-code-medium",
+    "https://reallygoodemails.com/emails/google-account-data-with-rge-studio"
   ],
   "catalogs": {
     "rge-cart": {
@@ -244,17 +247,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-13",
-      "odkazu": 150
+      "date": "2026-10-16",
+      "odkazu": 100
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-14",
+      "date": "2026-10-16",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-14",
+      "date": "2026-10-16",
       "odkazu": 100
     },
     "rge-newsletter": {

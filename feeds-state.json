@@ -2,27 +2,27 @@
   "mediar": {
     "feed": "https://www.mediar.cz/feed/",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:06.624Z"
+    "ok": "2026-10-16T08:31:53.770Z"
   },
   "mediaguru": {
     "feed": "https://www.mediaguru.cz/rss",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:18.808Z"
+    "ok": "2026-10-16T08:31:54.770Z"
   },
   "brandnew": {
     "feed": "https://www.underconsideration.com/brandnew/atom.xml",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:27.415Z"
+    "ok": "2026-10-16T08:31:57.625Z"
   },
   "logodesigner": {
     "feed": "https://www.logo-designer.co/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:30.044Z"
+    "ok": "2026-10-16T08:32:01.030Z"
   },
   "marketingdive": {
     "feed": "https://www.marketingdive.com/feeds/news/",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:30.134Z"
+    "ok": "2026-10-16T08:32:01.086Z"
   },
   "emailgeeks": {
     "feed": "https://www.litmus.com/feed",
@@ -31,22 +31,22 @@
   "omnisend": {
     "feed": "https://www.omnisend.com/blog/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:40:49.867Z"
+    "ok": "2026-10-16T08:32:02.279Z"
   },
   "getresponse": {
     "feed": "https://www.getresponse.com/blog/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:40:50.310Z"
+    "ok": "2026-10-16T08:32:02.517Z"
   },
   "aweber": {
     "feed": "https://blog.aweber.com/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:41:30.586Z"
+    "ok": "2026-10-16T08:32:02.621Z"
   },
   "dotdigital": {
     "feed": "https://dotdigital.com/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:11.647Z"
+    "ok": "2026-10-16T08:32:03.398Z"
   },
   "netcore": {
     "feed": "https://netcore.ai/feed",
@@ -58,22 +58,22 @@
   "cleverreach": {
     "feed": "https://www.cleverreach.com/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:15.080Z"
+    "ok": "2026-10-16T08:32:04.018Z"
   },
   "boldem": {
     "feed": "https://www.boldem.cz/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:24.402Z"
+    "ok": "2026-10-16T08:32:07.515Z"
   },
   "targito": {
     "feed": "https://www.targito.com/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:26.718Z"
+    "ok": "2026-10-16T08:32:09.941Z"
   },
   "samba-ai": {
     "feed": "https://samba.ai/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:28.672Z"
+    "ok": "2026-10-16T08:32:11.739Z"
   },
   "ecommerce-bridge": {
     "feed": "https://ecommercebridge.cz/feed",
@@ -83,37 +83,37 @@
   "shoptet-blog": {
     "feed": "https://blog.shoptet.cz/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:21.846Z"
+    "ok": "2026-10-16T08:31:57.563Z"
   },
   "litmus": {
     "feed": "https://www.litmus.com/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:37:32.909Z"
+    "ok": "2026-10-16T08:32:01.179Z"
   },
   "smartemailing": {
     "feed": "https://www.smartemailing.cz/feed/",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:17.152Z"
+    "ok": "2026-10-16T08:32:05.905Z"
   },
   "emailmachine": {
     "feed": "https://www.emailmachine.cz/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:32.690Z"
+    "ok": "2026-10-16T08:32:15.353Z"
   },
   "czechcrunch": {
     "feed": "https://cc.cz/feed",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:34.568Z"
+    "ok": "2026-10-16T08:32:16.924Z"
   },
   "font-cz": {
     "feed": "https://www.font.cz/rss-clanky.html",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:36.055Z"
+    "ok": "2026-10-16T08:32:18.111Z"
   },
   "fontsinuse": {
     "feed": "https://fontsinuse.com/staff-picks.rss",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:36.492Z"
+    "ok": "2026-10-16T08:32:18.267Z"
   },
   "printmag": {
     "feed": "https://www.printmag.com/feed/",
@@ -125,22 +125,22 @@
   "chl-ecomail": {
     "feed": "https://ecomail.cz/changelog/rss.xml",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:39.664Z"
+    "ok": "2026-10-16T08:32:18.523Z"
   },
   "chl-kit": {
     "feed": "https://updates.kit.com/rss",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:40.395Z"
+    "ok": "2026-10-16T08:32:19.203Z"
   },
   "chl-netcore": {
     "feed": "https://updates.netcorecloud.com/api/v1/changelog/feed.rss",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:41.078Z"
+    "ok": "2026-10-16T08:32:19.826Z"
   },
   "chl-brevo": {
     "feed": "https://developers.brevo.com/changelog.rss",
     "via": "fetch",
-    "ok": "2026-10-15T08:42:41.424Z"
+    "ok": "2026-10-16T08:32:20.278Z"
   },
   "tyinternety": {
     "noFeedUntil": "2026-10-26T03:57:49.538Z"
