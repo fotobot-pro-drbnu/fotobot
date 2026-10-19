@@ -229,7 +229,10 @@
     "https://reallygoodemails.com/emails/hush-puppies-welcome-discount",
     "https://reallygoodemails.com/emails/taskrabbit-first-task-onboarding",
     "https://reallygoodemails.com/emails/your-login-code-medium",
-    "https://reallygoodemails.com/emails/google-account-data-with-rge-studio"
+    "https://reallygoodemails.com/emails/google-account-data-with-rge-studio",
+    "https://reallygoodemails.com/emails/new-create-dream-backpacking-trip",
+    "https://reallygoodemails.com/emails/zapier-real-world-application",
+    "https://reallygoodemails.com/emails/rge-studio-email-design-onboarding"
   ],
   "catalogs": {
     "rge-cart": {
@@ -257,17 +260,17 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-14",
+      "date": "2026-10-19",
       "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-15",
+      "date": "2026-10-19",
       "odkazu": 100
     },
     "rge-promo": {

@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-10-16T08:33:54.575Z",
+  "generatedAt": "2026-10-19T09:24:48.650Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/taskrabbit-first-task-onboarding",
-      "title": "Booking your first task is simple. from TaskRabbit - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-16/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/new-create-dream-backpacking-trip",
+      "title": "New! Create your dream backpacking trip from AllTrails - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-19/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/your-login-code-medium",
-      "title": "Your login code is 785842 from Medium - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-16/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/zapier-real-world-application",
+      "title": "How top teams automate from Zapier - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-19/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/google-account-data-with-rge-studio",
-      "title": "You shared some Google Account data with RGE Studio from Google - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-16/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/rge-studio-email-design-onboarding",
+      "title": "Let's start designing 🎨 from Really Good Emails - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-19/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 100
-    },
-    {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 100
     }
   ],
@@ -47,28 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-10-16/flodesk--archiv.jpg"
+      "shot": "emails/2026-10-19/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-10-16/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-10-16/dotdigital--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-10-16/smartemailing--archiv.jpg"
+      "shot": "emails/2026-10-19/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
