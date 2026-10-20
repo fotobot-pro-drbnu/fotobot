@@ -232,13 +232,16 @@
     "https://reallygoodemails.com/emails/google-account-data-with-rge-studio",
     "https://reallygoodemails.com/emails/new-create-dream-backpacking-trip",
     "https://reallygoodemails.com/emails/zapier-real-world-application",
-    "https://reallygoodemails.com/emails/rge-studio-email-design-onboarding"
+    "https://reallygoodemails.com/emails/rge-studio-email-design-onboarding",
+    "https://reallygoodemails.com/emails/tag-coffee-co-fall-promotion",
+    "https://reallygoodemails.com/emails/new-starter-packs-all-under-29k",
+    "https://reallygoodemails.com/emails/new-meet-cold-off-press"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-10-15",
-      "odkazu": 50
+      "date": "2026-10-20",
+      "odkazu": 100
     },
     "emaillove-newsletter": {
       "fails": 1,
@@ -250,7 +253,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-16",
+      "date": "2026-10-20",
       "odkazu": 100
     },
     "rge-announcement": {
@@ -275,7 +278,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-15",
+      "date": "2026-10-20",
       "odkazu": 100
     }
   },
@@ -418,12 +421,14 @@
     "dotdigital": {
       "working": "https://dotdigital.com/blog/newsletter",
       "fails": {
-        "https://dotdigital.com/newsletter": 1,
-        "https://dotdigital.com/newsletter-archive": 1,
-        "https://dotdigital.com/emails": 1,
-        "https://dotdigital.com/email-archive": 1,
-        "https://dotdigital.com/resources/newsletter": 1,
-        "https://dotdigital.com/blog/newsletter": 0
+        "https://dotdigital.com/newsletter": 2,
+        "https://dotdigital.com/newsletter-archive": 2,
+        "https://dotdigital.com/emails": 2,
+        "https://dotdigital.com/email-archive": 2,
+        "https://dotdigital.com/resources/newsletter": 2,
+        "https://dotdigital.com/blog/newsletter": 1,
+        "https://dotdigital.beehiiv.com/archive": 1,
+        "https://dotdigital.substack.com/archive": 1
       }
     },
     "hubspot": {
@@ -442,11 +447,14 @@
     "smartemailing": {
       "working": "https://www.smartemailing.cz/newsletter",
       "fails": {
-        "https://www.smartemailing.cz/newsletter": 0,
-        "https://www.smartemailing.cz/newsletter-archive": 1,
-        "https://www.smartemailing.cz/emails": 1,
-        "https://www.smartemailing.cz/email-archive": 1,
-        "https://www.smartemailing.cz/resources/newsletter": 1
+        "https://www.smartemailing.cz/newsletter": 1,
+        "https://www.smartemailing.cz/newsletter-archive": 2,
+        "https://www.smartemailing.cz/emails": 2,
+        "https://www.smartemailing.cz/email-archive": 2,
+        "https://www.smartemailing.cz/resources/newsletter": 2,
+        "https://www.smartemailing.cz/blog/newsletter": 1,
+        "https://smartemailing.beehiiv.com/archive": 1,
+        "https://smartemailing.substack.com/archive": 1
       }
     },
     "leadhub": {

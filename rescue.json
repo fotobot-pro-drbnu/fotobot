@@ -1,29 +1,17 @@
 {
-  "generatedAt": "2026-10-19T09:25:31.398Z",
-  "pacienti": 3,
+  "generatedAt": "2026-10-20T08:59:29.552Z",
+  "pacienti": 2,
   "zachraneno": [
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-10-19/targito.jpg",
+      "shot": "rescue/2026-10-20/targito.jpg",
       "health": {
         "imgTotal": 71,
         "imgBroken": 40,
         "h1": "",
         "ruleCount": 80
-      }
-    },
-    {
-      "key": "taximail",
-      "url": "https://www.taximail.com/",
-      "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-10-19/taximail.jpg",
-      "health": {
-        "imgTotal": 33,
-        "imgBroken": 25,
-        "h1": "Drive your business with email marketing and automation",
-        "ruleCount": 10
       }
     }
   ],
