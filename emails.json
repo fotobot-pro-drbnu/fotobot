@@ -1,60 +1,67 @@
 {
-  "generatedAt": "2026-10-20T08:56:35.441Z",
+  "generatedAt": "2026-10-21T08:26:12.583Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/tag-coffee-co-fall-promotion",
-      "title": "Fall in love with these 3 cozy coffees 🍂🍁 from Tag - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-20/inspirace--rge-promo-1.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/alpine-a390-gts-launch-test-drive",
+      "title": "Sii tra i primi a guidare la nuova Alpine A390 GTS from Alpine - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-21/inspirace--rge-announcement-1.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/new-starter-packs-all-under-29k",
-      "title": "New starter packs. All under $29k. from Slate - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-20/inspirace--rge-promo-2.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/40-70-off-design-books",
+      "title": "Get 40-70% Off Design Books from Eames Institute - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-21/inspirace--rge-announcement-2.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/new-meet-cold-off-press",
-      "title": "NEW: Meet “Cold Off The Press”🍺🫒 from Graza - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-20/inspirace--rge-promo-3.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/mozilla-foundation-mozfest-speakers",
+      "title": "Just announced: Mozilla Festival main stage speakers from Mozilla Foundation - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-21/inspirace--rge-announcement-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 100
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
-      "odkazu": 100
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 99
     },
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
       "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Targito",
-      "key": "targito",
-      "url": "https://www.targito.com/newsletter",
-      "title": "Newsletter - Targito",
-      "shot": "emails/2026-10-20/targito--archiv.jpg"
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/blog/newsletter",
+      "title": "Marketing Resources | Mailchimp",
+      "shot": "emails/2026-10-21/mailchimp--archiv.jpg"
     },
     {
-      "znacka": "Boldem",
-      "key": "boldem",
-      "url": "https://www.boldem.cz/resources/newsletter",
-      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
-      "shot": "emails/2026-10-20/boldem--archiv.jpg"
+      "znacka": "Omnisend",
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/newsletter",
+      "title": "Free and Customizable Email Newsletter Templates",
+      "shot": "emails/2026-10-21/omnisend--archiv.jpg"
+    },
+    {
+      "znacka": "ActiveCampaign",
+      "key": "activecampaign",
+      "url": "https://www.activecampaign.com/newsletter",
+      "title": "Blog | ActiveCampaign",
+      "shot": "emails/2026-10-21/activecampaign--archiv.jpg"
     }
   ],
   "poznamky": []

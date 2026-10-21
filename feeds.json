@@ -1,12 +1,164 @@
 {
-  "generatedAt": "2026-10-20T08:54:21.059Z",
+  "generatedAt": "2026-10-21T08:23:16.342Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 16,
+      "count": 23,
       "items": [
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Eurosport a HBO Max získaly práva na Tour de France do roku 2032",
+          "url": "https://www.mediaguru.cz/eurosport-a-tnt-sports-ziskaly-prava-na-tour-de-france-a-vueltu-do-roku-2032",
+          "date": "Wed, 21 Oct 2026 10:15:00 +0200",
+          "ts": 1792570500000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "ČT v příštím roce vyrobí víc pořadů, než původně plánovala",
+          "url": "https://www.mediaguru.cz/ct-v-pristim-roce-vyrobi-vic-poradu-nez-puvodne-planovala",
+          "date": "Wed, 21 Oct 2026 09:30:00 +0200",
+          "ts": 1792567800000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Polabí zůstává v úterý na čele, Boží plán u mladších",
+          "url": "https://www.mediaguru.cz/polabi-zustava-v-utery-na-cele-bozi-plan-u-mladsich",
+          "date": "Wed, 21 Oct 2026 09:10:00 +0200",
+          "ts": 1792566600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Klient nepotřebuje další dashboard. Potřebuje vědět, co udělat",
+          "url": "https://www.mediaguru.cz/klient-nepotrebuje-dalsi-dashboard-potrebuje-vedet-co-udelat",
+          "date": "Wed, 21 Oct 2026 07:25:00 +0200",
+          "ts": 1792560300000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Nova uspořádala pro fanoušky seriálu Boží plán tramvajovou jízdu",
+          "url": "https://www.mediaguru.cz/nova-usporadala-pro-fanousky-serialu-bozi-plan-specialni-tramvajovou-jizdu",
+          "date": "Wed, 21 Oct 2026 07:20:00 +0200",
+          "ts": 1792560000000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Nahá seznamka Naked Attraction zahájila druhou sezónu s&#160;méně diváky, jsou ale mladší",
+          "url": "https://www.mediar.cz/naha-seznamka-naked-attraction-zahajila-druhou-sezonu-s-mene-divaky-jsou-ale-mladsi/",
+          "date": "Wed, 21 Oct 2026 03:55:20 +0000",
+          "ts": 1792554920000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "CNN změnila vlastníka, Christiane Amanpourová po 43 letech skončí",
+          "url": "https://www.mediar.cz/cnn-zmenila-vlastnika-christiane-amanpourova-po-43-letech-skonci/",
+          "date": "Wed, 21 Oct 2026 03:30:05 +0000",
+          "ts": 1792553405000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Atmedia zastupuje tři další kanály Filmbox+, má už 22 měřených stanic",
+          "url": "https://www.mediar.cz/atmedia-zastupuje-tri-dalsi-kanaly-filmbox-ma-uz-22-merenych-stanic/",
+          "date": "Wed, 21 Oct 2026 00:00:34 +0000",
+          "ts": 1792540834000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Zentiva si vybrala novou komunikační agenturu, v&#160;tendru vyhrál Havas",
+          "url": "https://www.mediar.cz/zentiva-si-vybrala-novou-komunikacni-agenturu-v-tendru-vyhral-havas/",
+          "date": "Tue, 20 Oct 2026 22:00:45 +0000",
+          "ts": 1792533645000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Moderoval podcast s&#160;Okamurou, teď poslanci zvolili Jíru do Rady Českého rozhlasu",
+          "url": "https://www.mediar.cz/moderoval-podcast-s-okamurou-ted-poslanci-zvolili-jiru-do-rady-ceskeho-rozhlasu/",
+          "date": "Tue, 20 Oct 2026 20:15:41 +0000",
+          "ts": 1792527341000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Skylink nedokázal zastavit odliv zákazníků. Šéf Canal+ popsal, na čem závisí obrat",
+          "url": "https://www.mediar.cz/skylink-nedokazal-zastavit-odliv-zakazniku-sef-canal-plus-popsal-na-cem-zavisi-obrat/",
+          "date": "Tue, 20 Oct 2026 17:55:37 +0000",
+          "ts": 1792518937000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Nejen ČT Sport. Práva na Tour de France do roku 2032 prodloužil i&#160;Eurosport",
+          "url": "https://www.mediar.cz/nejen-ct-sport-prava-na-tour-de-france-do-roku-2032-prodlouzil-i-eurosport/",
+          "date": "Tue, 20 Oct 2026 15:50:03 +0000",
+          "ts": 1792511403000
+        },
+        {
+          "source": "shoptet-blog",
+          "name": "Shoptet blog",
+          "title": "Víc menších tvůrců, nebo jedno velké jméno? Jak na spolupráci s influencery a UGC před Black Friday a Vánoci 2026",
+          "url": "https://blog.shoptet.cz/influenceri-ugc-tvurci-eshop/",
+          "date": "Tue, 20 Oct 2026 15:08:11 +0000",
+          "ts": 1792508891000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Karel Švára nahradil v čele Tivio Studio Ladislava Navrátila",
+          "url": "https://www.mediaguru.cz/karel-svara-nahradil-v-cele-tivio-studio-ladislava-navratila",
+          "date": "Tue, 20 Oct 2026 16:40:00 +0200",
+          "ts": 1792507200000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "SledováníTV má nový balíček Mini, 97 kanálů vyjde do 99 Kč",
+          "url": "https://www.mediaguru.cz/sledovanitv-ma-novy-balicek-mini-97-kanalu-vyjde-do-99-kc",
+          "date": "Tue, 20 Oct 2026 15:40:00 +0200",
+          "ts": 1792503600000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "KFC a Český florbal rozdělí klubům 300 tréninkových setů z reklamních bannerů",
+          "url": "https://www.mediaguru.cz/kfc-a-cesky-florbal-rozdeli-klubum-300-treninkovych-setu-z-reklamnich-banneru",
+          "date": "Tue, 20 Oct 2026 15:35:00 +0200",
+          "ts": 1792503300000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Šmuclerová chystá Jasně.cz a&#160;JasPlay. Přizvala televizní tváře, chce přinášet užitek",
+          "url": "https://www.mediar.cz/smuclerova-chysta-jasne-cz-a-jasplay-prizvala-televizni-tvare-chce-prinaset-uzitek/",
+          "date": "Tue, 20 Oct 2026 12:45:24 +0000",
+          "ts": 1792500324000
+        },
+        {
+          "source": "mediar",
+          "name": "Médiář",
+          "title": "Netflix pod tlakem: AI krade z&#160;pozornosti, která patřila streamingu",
+          "url": "https://www.mediar.cz/netflix-pod-tlakem-ai-krade-z-pozornosti-ktera-patrila-streamingu/",
+          "date": "Tue, 20 Oct 2026 12:05:58 +0000",
+          "ts": 1792497958000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Libuše Šmuclerová představila nový mediální projekt Jasně.cz",
+          "url": "https://www.mediaguru.cz/libuse-smuclerova-predstavila-novy-medialni-projekt-jasne-cz",
+          "date": "Tue, 20 Oct 2026 12:55:00 +0200",
+          "ts": 1792493700000
+        },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
@@ -32,116 +184,28 @@
           "ts": 1792474200000
         },
         {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Projekt DouČTo od ČT edu získal cenu Prix Europa 2026",
-          "url": "https://www.mediaguru.cz/projekt-doucto-od-ct-edu-ziskal-cenu-prix-europa-2026",
-          "date": "Tue, 20 Oct 2026 07:20:00 +0200",
-          "ts": 1792473600000
-        },
-        {
           "source": "mediar",
           "name": "Médiář",
           "title": "Skylink končí, Canal+ přichází. Z&#160;českých filmů nabídne Bardotky, Hartla i&#160;Kolju",
           "url": "https://www.mediar.cz/skylink-konci-canalplus-prichazi-z-ceskych-filmu-nabidne-bardotky-hartla-i-kolju/",
           "date": "Tue, 20 Oct 2026 03:55:12 +0000",
           "ts": 1792468512000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Babiš vyzval média, aby nemanipulovala veřejným míněním a odmítla osobní útoky",
-          "url": "https://www.mediaguru.cz/babis-vyzval-media-aby-nemanipulovala-verejnym-minenim-a-odmitla-osobni-utoky",
-          "date": "Mon, 19 Oct 2026 22:35:00 +0200",
-          "ts": 1792442100000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Canal+ odhalil plány pro český trh. Skylink odchází, přicházejí nové kanály i balíčky",
-          "url": "https://www.mediaguru.cz/canal-odhalil-plany-pro-cesky-trh-se-skylinkem-se-loucil-i-jaromir-glisnik",
-          "date": "Mon, 19 Oct 2026 20:30:00 +0200",
-          "ts": 1792434600000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "„Základní zrcadlo.“ Babiš na výzvu šéfredaktorů reagoval vlastní výzvou politiků",
-          "url": "https://www.mediar.cz/zakladni-zrcadlo-babis-na-vyzvu-sefredaktoru-reagoval-vlastni-vyzvou-politiku/",
-          "date": "Mon, 19 Oct 2026 14:50:21 +0000",
-          "ts": 1792421421000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Norské domy snů jsou zpět, nová řada ukáže přestavby nejvíc zanedbaných chat",
-          "url": "https://www.mediar.cz/norske-domy-snu-jsou-zpet-nova-rada-ukaze-prestavby-nejvic-zanedbanych-chat/",
-          "date": "Mon, 19 Oct 2026 13:55:03 +0000",
-          "ts": 1792418103000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Operní pěvkyně Andrea Kalivodová je tváří kampaně Timo",
-          "url": "https://www.mediaguru.cz/operni-pevkyne-andrea-kalivodova-je-tvari-kampane-timo",
-          "date": "Mon, 19 Oct 2026 14:40:00 +0200",
-          "ts": 1792413600000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Atmedia zařazuje do prodeje televizní reklamy tři kanály Filmbox+",
-          "url": "https://www.mediaguru.cz/atmedia-zarazuje-do-prodeje-tv-reklamy-tri-kanaly-filmbox",
-          "date": "Mon, 19 Oct 2026 14:20:00 +0200",
-          "ts": 1792412400000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Tivio Studio po pěti letech mění vedení, Navrátila střídá Švára",
-          "url": "https://www.mediar.cz/tivio-studio-po-peti-letech-meni-vedeni-navratila-strida-svara/",
-          "date": "Mon, 19 Oct 2026 11:05:59 +0000",
-          "ts": 1792407959000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Kriminální minisérii Hec zařadí ČT od vysílání od neděle 25. října",
-          "url": "https://www.mediaguru.cz/kriminalni-miniserii-hec-zaradi-ct-od-vysilani-od-nedele-25-rijna",
-          "date": "Mon, 19 Oct 2026 11:55:00 +0200",
-          "ts": 1792403700000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Jan Fabini odkoupil podíl investora Hlavenky, ve firmě drží 97 %",
-          "url": "https://www.mediaguru.cz/jan-fabini-odkoupil-podil-investora-hlavenky-ve-firme-drzi-97",
-          "date": "Mon, 19 Oct 2026 10:45:00 +0200",
-          "ts": 1792399500000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Nová řada pořadu Norské domy snů zahájí na Prima Zoom 25. října",
-          "url": "https://www.mediaguru.cz/nova-rada-poradu-norske-domy-snu-zahaji-25-rijna",
-          "date": "Mon, 19 Oct 2026 10:10:00 +0200",
-          "ts": 1792397400000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Případy mimořádné Marty odstartovaly jako vítěz nedělního večera",
-          "url": "https://www.mediaguru.cz/pripady-mimoradne-marty-odstartovaly-jako-vitez-nedelniho-vecera",
-          "date": "Mon, 19 Oct 2026 09:15:00 +0200",
-          "ts": 1792394100000
         }
       ]
     },
     "design": {
       "label": "Design a identity",
       "oknoHodin": 48,
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "source": "logodesigner",
+          "name": "Logo Designer",
+          "title": "Honda Celebrates 500 F1 Races with Special Logo",
+          "url": "https://www.logo-designer.co/honda-celebrates-500-f1-races-with-special-logo-design/",
+          "date": "Tue, 20 Oct 2026 19:31:54 +0000",
+          "ts": 1792524714000
+        },
         {
           "source": "logodesigner",
           "name": "Logo Designer",
@@ -155,8 +219,32 @@
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 5,
+      "count": 8,
       "items": [
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Courvoisier’s first global campaign in years embraces house party culture",
+          "url": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
+          "date": "Tue, 20 Oct 2026 15:40:00 -0400",
+          "ts": 1792525200000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Publicis agrees to preserve LiveRamp’s neutrality. Will it matter?",
+          "url": "https://www.marketingdive.com/news/publicis-agrees-to-preserve-liveramps-neutrality-will-it-matter/833463/",
+          "date": "Tue, 20 Oct 2026 10:49:00 -0400",
+          "ts": 1792507740000
+        },
+        {
+          "source": "marketingdive",
+          "name": "Marketing Dive",
+          "title": "Dollar Shave Club markets ‘perfectly good’ razors as AI push continues",
+          "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
+          "date": "Tue, 20 Oct 2026 09:17:00 -0400",
+          "ts": 1792502220000
+        },
         {
           "source": "marketingdive",
           "name": "Marketing Dive",
@@ -202,110 +290,134 @@
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
       "oknoHodin": 48,
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "source": "getresponse",
           "name": "GetResponse",
-          "title": "Introducing GetResponse MCP: Email marketing from your AI assistant",
+          "title": "Introducing the GetResponse MCP: Email marketing from your AI assistant",
           "url": "https://www.getresponse.com/blog/getresponse-mcp",
           "date": "2026-10-19 14:37:04",
           "ts": 1792420624000
-        },
-        {
-          "source": "omnisend",
-          "name": "Omnisend",
-          "title": "Holiday email marketing: strategy, ideas &#038; examples for 2026",
-          "url": "https://www.omnisend.com/blog/holiday-email-campaigns/",
-          "date": "Mon, 19 Oct 2026 07:15:17 +0000",
-          "ts": 1792394117000
         }
       ]
     },
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 26,
+      "count": 27,
       "items": [
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Pražská burza potřebuje zářit, jenže malé a nudné firmy jí nepomohou. Dokládá to nezájem o výrobce dveří",
-          "url": "https://cc.cz/prazska-burza-potrebuje-zarit-jenze-male-a-nudne-firmy-ji-nepomohou-doklada-to-nezajem-o-vyrobce-dveri/",
-          "date": "Tue, 20 Oct 2026 07:50:23 +0000",
-          "ts": 1792482623000
+          "title": "Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her",
+          "url": "https://cc.cz/umela-inteligence-zprznila-milovane-ceske-dilo-nechutna-drzost-komentuji-ai-slop-tvurci-znamych-her/",
+          "date": "Wed, 21 Oct 2026 07:56:31 +0000",
+          "ts": 1792569391000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "Construire sans se trahir by Collectif Etc",
+          "url": "https://fontsinuse.com/uses/75164/construire-sans-se-trahir-by-collectif-etc",
+          "date": "Wed, 21 Oct 2026 07:17:11 +0000",
+          "ts": 1792567031000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "L’Œil, issue 01",
+          "url": "https://fontsinuse.com/uses/80220/l-oeil-issue-01",
+          "date": "Wed, 21 Oct 2026 07:16:04 +0000",
+          "ts": 1792566964000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "S menstruačními kalhotkami vyrostla na půl miliardu. Česká značka Snuggs nově šije prádlo i pro muže",
-          "url": "https://cc.cz/s-menstruacnimi-kalhotkami-vyrostla-na-pul-miliardu-ceska-znacka-snuggs-nove-sije-pradlo-i-pro-muze/",
-          "date": "Tue, 20 Oct 2026 04:33:12 +0000",
-          "ts": 1792470792000
+          "title": "Kdysi si v amsterdamské Red Light District vydělával hraním. Dnes už díky AI učí na piano stovky tisíc lidí",
+          "url": "https://cc.cz/kdysi-si-v-amsterdamske-red-light-district-vydelaval-hranim-dnes-uz-diky-ai-uci-na-piano-stovky-tisic-lidi/",
+          "date": "Wed, 21 Oct 2026 07:00:39 +0000",
+          "ts": 1792566039000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Dva roky jim majitelé odmítali pronajmout opuštěný sál v barokním paláci. Dnes v něm prodávají český design",
-          "url": "https://cc.cz/dva-roky-jim-majitele-odmitali-pronajmout-opusteny-sal-v-baroknim-palaci-dnes-v-nem-prodavaji-cesky-design/",
-          "date": "Tue, 20 Oct 2026 04:18:54 +0000",
-          "ts": 1792469934000
+          "title": "Architekti proměnili podkroví na Vinohradech. Za komínem ukryli terasu, pokoje lze různě uspořádat",
+          "url": "https://cc.cz/architekti-promenili-podkrovi-na-vinohradech-za-kominem-ukryli-terasu-pokoje-lze-ruzne-usporadat/",
+          "date": "Wed, 21 Oct 2026 04:23:26 +0000",
+          "ts": 1792556606000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Dvakrát zkrachoval, z Blanska nakonec vybudoval dvoumiliardový rodinný byznys. Chce rozsvítit celou Evropu",
-          "url": "https://cc.cz/dvakrat-zkrachoval-z-blanska-nakonec-vybudoval-dvoumiliardovy-rodinny-byznys-chce-rozsvitit-celou-evropu/",
-          "date": "Tue, 20 Oct 2026 04:14:30 +0000",
-          "ts": 1792469670000
+          "title": "Jak se staví AI datacentra? Pozemky oceňujeme podle elektřiny, ne podle hektarů, říká Damir Špoljarič",
+          "url": "https://cc.cz/jak-se-stavi-ai-datacentra-pozemky-ocenujeme-podle-elektriny-ne-podle-hektaru-rika-damir-spoljaric/",
+          "date": "Wed, 21 Oct 2026 04:20:53 +0000",
+          "ts": 1792556453000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Působí v České televizi i rozhlase a říká: I novináři si musí budovat vlastní brand, doba si to žádá",
-          "url": "https://cc.cz/pusobi-v-ceske-televizi-i-rozhlase-a-rika-i-novinari-si-musi-budovat-vlastni-brand-doba-si-to-zada/",
-          "date": "Mon, 19 Oct 2026 17:59:33 +0000",
-          "ts": 1792432773000
+          "title": "Jako kluk bruslení nesnášel, v Naganu pak slavil zlato. Teď chce nakopnout Litvínov a hledá pro něj miliardáře",
+          "url": "https://cc.cz/zaril-v-naganu-ted-chce-nakopnout-hokejovy-litvinov-radi-u-nas-privitame-miliardare-rika-jiri-slegr/",
+          "date": "Wed, 21 Oct 2026 04:16:17 +0000",
+          "ts": 1792556177000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Modré světlo z mobilu spánek neničí tak, jak se tvrdilo. Skutečný viník večerního bdění leží úplně jinde",
-          "url": "https://cc.cz/modre-svetlo-z-mobilu-spanek-nenici-tak-jak-se-tvrdilo-skutecny-vinik-vecerniho-bdeni-lezi-uplne-jinde/",
-          "date": "Mon, 19 Oct 2026 14:23:26 +0000",
-          "ts": 1792419806000
+          "title": "Na místě parkoviště má vyrůst nový blok s byty. Inspiruje se historickou zástavbou Libně",
+          "url": "https://cc.cz/na-miste-parkoviste-ma-vyrust-novy-blok-s-byty-inspiruje-se-historickou-zastavbou-libne/",
+          "date": "Tue, 20 Oct 2026 16:30:02 +0000",
+          "ts": 1792513802000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Umělá inteligence, která poslouchá celý den. Investoři do kontroverzního zápisníku vložili 26 milionů dolarů",
-          "url": "https://cc.cz/umela-inteligence-ktera-posloucha-cely-den-investori-do-kontroverzniho-zapisniku-vlozili-26-milionu-dolaru/",
-          "date": "Mon, 19 Oct 2026 13:16:40 +0000",
-          "ts": 1792415800000
+          "title": "Burger se smažákem a k němu šampaňské. Trojice svérázných kuchařů v Karlíně servíruje jen to, co chutná jim",
+          "url": "https://cc.cz/burger-se-smazakem-a-k-nemu-sampanske-trojice-sveraznych-kucharu-v-karline-serviruje-jen-to-co-chutna-jim/",
+          "date": "Tue, 20 Oct 2026 14:57:10 +0000",
+          "ts": 1792508230000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "The Face magazine, issue 26",
+          "url": "https://fontsinuse.com/uses/78225/the-face-magazine-issue-26",
+          "date": "Tue, 20 Oct 2026 14:27:04 +0000",
+          "ts": 1792506424000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "V Malešicích vyroste 70metrová věž. Vyšší obytné budovy jsou v Praze jen dvě",
-          "url": "https://cc.cz/v-malesicich-vyroste-70metrova-vez-vyssi-obytne-budovy-jsou-v-praze-jen-dve/",
-          "date": "Mon, 19 Oct 2026 10:02:30 +0000",
-          "ts": 1792404150000
+          "title": "Podcast Fantastic Future míří do Fora Karlín. Mára, Beck a Smid chystají akci pro víc než 1 200 lidí",
+          "url": "https://cc.cz/podcast-fantastic-future-miri-do-fora-karlin-mara-beck-a-smid-chystaji-akci-pro-vic-nez-1-200-lidi/",
+          "date": "Tue, 20 Oct 2026 13:56:49 +0000",
+          "ts": 1792504609000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Po Kiwi.com náramné zhodnocení i z nádobí. Jan Fabini ve stomilionovém dealu vyplatil Jiřího Hlavenku",
-          "url": "https://cc.cz/po-kiwi-com-naramne-zhodnoceni-i-z-nadobi-jan-fabini-ve-stomilionovem-dealu-vyplatil-jiriho-hlavenku/",
-          "date": "Mon, 19 Oct 2026 09:36:09 +0000",
-          "ts": 1792402569000
+          "title": "Konec nakupování nových sluchátek. Tuhle vychytávku si opravíte sami, i když doslouží baterie",
+          "url": "https://cc.cz/konec-nakupovani-novych-sluchatek-tuhle-vychytavku-si-opravite-sami-i-kdyz-doslouzi-baterie/",
+          "date": "Tue, 20 Oct 2026 11:45:32 +0000",
+          "ts": 1792496732000
+        },
+        {
+          "source": "fontsinuse",
+          "name": "Fonts In Use — staff picks",
+          "title": "MYRA coloring book",
+          "url": "https://fontsinuse.com/uses/78163/myra-coloring-book",
+          "date": "Tue, 20 Oct 2026 08:59:35 +0000",
+          "ts": 1792486775000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Stojánek na hranolky nebo lepší držák na klíče z vlastní tiskárny. Škoda dává díly pro 3D tisk zdarma",
-          "url": "https://cc.cz/stojanek-na-hranolky-nebo-lepsi-drzak-na-klice-z-vlastni-tiskarny-skoda-dava-dily-pro-3d-tisk-zdarma/",
-          "date": "Mon, 19 Oct 2026 08:35:27 +0000",
-          "ts": 1792398927000
+          "title": "Staré krabicové systémy už nestačí. Pelhřimovská platforma sbírá firmám data, která jim chyběla",
+          "url": "https://cc.cz/stare-krabicove-systemy-uz-nestaci-pelhrimovska-platforma-sbira-firmam-data-ktera-jim-chybela/",
+          "date": "Tue, 20 Oct 2026 08:57:20 +0000",
+          "ts": 1792486640000
         },
         {
           "source": "fontsinuse",
@@ -314,46 +426,22 @@
           "url": "https://fontsinuse.com/uses/80305/miniatures-tresors-caches-du-disque-pour-enfa",
           "date": "Mon, 19 Oct 2026 08:27:35 +0000",
           "ts": 1792398455000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Bordello A Parigi at Noorderlicht, ADE 2026",
-          "url": "https://fontsinuse.com/uses/80715/bordello-a-parigi-at-noorderlicht-ade-2026",
-          "date": "Sun, 18 Oct 2026 12:07:04 +0000",
-          "ts": 1792325224000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Abattre les arbres, boucher les fontaines, renverser les pierres by Pia-Mélissa Laroche",
-          "url": "https://fontsinuse.com/uses/65683/abattre-les-arbres-boucher-les-fontaines-renv",
-          "date": "Sun, 18 Oct 2026 11:48:16 +0000",
-          "ts": 1792324096000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Fahrney’s Blood Cleanser trade card and envelope",
-          "url": "https://fontsinuse.com/uses/80217/fahrney-s-blood-cleanser-trade-card-and-envel",
-          "date": "Sun, 18 Oct 2026 11:29:34 +0000",
-          "ts": 1792322974000
-        },
-        {
-          "source": "font-cz",
-          "name": "Font.cz",
-          "title": "SMYK Warm Up 26",
-          "url": "http://www.font.cz/design/smyk-warm-up-26.html",
-          "date": "",
-          "ts": null
         }
       ]
     },
     "changelogy": {
       "label": "Veřejné changelogy (ověřený RSS)",
       "oknoHodin": 336,
-      "count": 25,
+      "count": 23,
       "items": [
+        {
+          "source": "chl-netcore",
+          "name": "Netcore changelog",
+          "title": "Test Multiple Variants with A/B and Split Web Message Campaigns",
+          "url": "https://updates.netcorecloud.com/changelog/test-multiple-variants-with-ab-and-split-web-message-campaigns",
+          "date": "Wed, 21 Oct 2026 05:54:02 GMT",
+          "ts": 1792562042000
+        },
         {
           "source": "chl-kit",
           "name": "Kit changelog",
@@ -451,14 +539,6 @@
           "ts": 1792062980000
         },
         {
-          "source": "chl-netcore",
-          "name": "Netcore changelog",
-          "title": "Import Data from Snowflake to Netcore CE",
-          "url": "https://updates.netcorecloud.com/changelog/import-data-from-snowflake-to-netcore-ce",
-          "date": "Thu, 15 Oct 2026 11:10:39 GMT",
-          "ts": 1792062639000
-        },
-        {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
           "title": "[Oprava] Domény: kontrola před smazáním ignoruje smazané kroky automatizace",
@@ -537,22 +617,6 @@
           "url": "https://kit.updates.page/changelog/VY9CZy-subscriber-signals-wherever-you-work",
           "date": "Wed, 07 Oct 2026 18:29:33 +0000",
           "ts": 1791397773000
-        },
-        {
-          "source": "chl-brevo",
-          "name": "Brevo dev changelog",
-          "title": "October 7, 2026",
-          "url": "https://developers.brevo.com/changelog/2026/10/7",
-          "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-          "ts": 1791331200000
-        },
-        {
-          "source": "chl-ecomail",
-          "name": "Ecomail changelog (náš)",
-          "title": "[Oprava] Trigger Úprava kontaktu: výběr preferencí respektuje zvolený režim",
-          "url": "https://ecomail.cz/changelog/kalendar-dashboard-export-automatizace-segmentace/",
-          "date": "Tue, 06 Oct 2026 09:00:00 GMT",
-          "ts": 1791277200000
         }
       ]
     }
@@ -605,7 +669,8 @@
     {
       "key": "dotdigital",
       "name": "Dotdigital",
-      "status": 522
+      "status": 522,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-10-23"
     },
     {
       "key": "netcore",
@@ -616,7 +681,8 @@
     {
       "key": "printmag",
       "name": "PRINT Magazine",
-      "status": 403
+      "status": 403,
+      "poznamka": "blokace zapamatovaná, další pokus po 2026-10-23"
     }
   ],
   "failed": [

@@ -235,7 +235,10 @@
     "https://reallygoodemails.com/emails/rge-studio-email-design-onboarding",
     "https://reallygoodemails.com/emails/tag-coffee-co-fall-promotion",
     "https://reallygoodemails.com/emails/new-starter-packs-all-under-29k",
-    "https://reallygoodemails.com/emails/new-meet-cold-off-press"
+    "https://reallygoodemails.com/emails/new-meet-cold-off-press",
+    "https://reallygoodemails.com/emails/alpine-a390-gts-launch-test-drive",
+    "https://reallygoodemails.com/emails/40-70-off-design-books",
+    "https://reallygoodemails.com/emails/mozilla-foundation-mozfest-speakers"
   ],
   "catalogs": {
     "rge-cart": {
@@ -258,17 +261,17 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-16",
+      "date": "2026-10-21",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-19",
-      "odkazu": 100
+      "date": "2026-10-21",
+      "odkazu": 99
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-19",
+      "date": "2026-10-21",
       "odkazu": 100
     },
     "rge-welcome": {
