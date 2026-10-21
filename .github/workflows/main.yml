@@ -2,10 +2,10 @@ name: fotobot
 
 on:
   schedule:
-    # 3:30 UTC = 5:30 v Praze v letním čase, 4:30 v zimním. Běží Po–Pá.
-    # Stalker startuje v 8:00 pražského času, takže rezerva je dvě a půl hodiny.
-    # Cron na GitHubu je jen orientační a ve špičce startuje i o dvacet minut
-    # později — proto ta velká rezerva.
+    # 21.10.2026: od 14.10. GitHub spouští tenhle cron o 5–6 hodin později.
+    # Hlavní spouštěč je proto ZVENKU: cron-job.org volá workflow_dispatch
+    # ve 3:30 UTC. Tenhle GitHub cron zůstává jen jako záloha — když už
+    # dnes běh proběhl, job „guard" ho níž zastaví.
     - cron: "30 3 * * 1-5"
   workflow_dispatch: {}
 
@@ -17,7 +17,36 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # 21.10.2026: pojistka proti dvojímu běhu. Když se zpožděný GitHub cron
+  # spustí až po běhu z cron-job.org, zjistí ze status.json, že dnes už
+  # proběhlo, a nic nedělá. Ruční / externí spuštění (workflow_dispatch)
+  # běží vždycky.
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      # Stáhne se jen status.json, ne celé repo s fotkami.
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: status.json
+          sparse-checkout-cone-mode: false
+      - id: check
+        run: |
+          TODAY=$(date -u +%F)
+          LAST=$(node -e "try{console.log(require('./status.json').datum||'')}catch(e){console.log('')}")
+          echo "Dnes: $TODAY, poslední běh: $LAST, spuštěno: ${{ github.event_name }}"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$LAST" = "$TODAY" ]; then
+            echo "Dnes už proběhlo, zpožděný cron přeskakuju."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
   shoot:
+    needs: guard
+    if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
     # 3.10.2026: job timeout UŽ NENÍ hlavní pojistka — tou jsou timeout-minutes
     # na jednotlivých krocích níž. Tohle je jen poslední záchytka.
