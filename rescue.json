@@ -1,26 +1,19 @@
 {
-  "generatedAt": "2026-10-22T03:44:43.035Z",
-  "pacienti": 2,
+  "generatedAt": "2026-10-23T03:55:04.564Z",
+  "pacienti": 1,
   "zachraneno": [
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-10-22/targito.jpg",
+      "shot": "rescue/2026-10-23/targito.jpg",
       "health": {
         "imgTotal": 71,
-        "imgBroken": 39,
+        "imgBroken": 40,
         "h1": "",
         "ruleCount": 80
       }
     }
   ],
-  "neuspech": [
-    {
-      "key": "incomaker",
-      "url": "https://incomaker.com/en/",
-      "duvod": "spadlo",
-      "error": "Error: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://incomaker.com/en/\nCall log:\n  - navigating to \"https://incomaker.com/en/\", waiting until \"commit\"\n"
-    }
-  ]
+  "neuspech": []
 }

@@ -241,7 +241,10 @@
     "https://reallygoodemails.com/emails/mozilla-foundation-mozfest-speakers",
     "https://reallygoodemails.com/emails/specs-welcome-editorial-portrait",
     "https://reallygoodemails.com/emails/teenage-engineering-welcome-onboarding",
-    "https://reallygoodemails.com/emails/ash-hotels-welcome-discount"
+    "https://reallygoodemails.com/emails/ash-hotels-welcome-discount",
+    "https://reallygoodemails.com/emails/heads-up-theres-a-new-way-to-train",
+    "https://reallygoodemails.com/emails/your-bang-olufsen-account-is-ready",
+    "https://reallygoodemails.com/emails/your-one-time-passcode-for-disney"
   ],
   "catalogs": {
     "rge-cart": {
@@ -259,18 +262,18 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-20",
+      "date": "2026-10-23",
       "odkazu": 100
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-21",
-      "odkazu": 100
+      "date": "2026-10-23",
+      "odkazu": 50
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-21",
-      "odkazu": 99
+      "date": "2026-10-23",
+      "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
@@ -432,7 +435,7 @@
         "https://dotdigital.com/emails": 2,
         "https://dotdigital.com/email-archive": 2,
         "https://dotdigital.com/resources/newsletter": 2,
-        "https://dotdigital.com/blog/newsletter": 1,
+        "https://dotdigital.com/blog/newsletter": 0,
         "https://dotdigital.beehiiv.com/archive": 1,
         "https://dotdigital.substack.com/archive": 1
       }
@@ -453,7 +456,7 @@
     "smartemailing": {
       "working": "https://www.smartemailing.cz/newsletter",
       "fails": {
-        "https://www.smartemailing.cz/newsletter": 1,
+        "https://www.smartemailing.cz/newsletter": 0,
         "https://www.smartemailing.cz/newsletter-archive": 2,
         "https://www.smartemailing.cz/emails": 2,
         "https://www.smartemailing.cz/email-archive": 2,
