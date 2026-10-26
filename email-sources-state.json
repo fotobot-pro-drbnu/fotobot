@@ -244,7 +244,10 @@
     "https://reallygoodemails.com/emails/ash-hotels-welcome-discount",
     "https://reallygoodemails.com/emails/heads-up-theres-a-new-way-to-train",
     "https://reallygoodemails.com/emails/your-bang-olufsen-account-is-ready",
-    "https://reallygoodemails.com/emails/your-one-time-passcode-for-disney"
+    "https://reallygoodemails.com/emails/your-one-time-passcode-for-disney",
+    "https://reallygoodemails.com/emails/pledge-welcome-account-creation",
+    "https://reallygoodemails.com/emails/rover-pet-care-booking-tutorial",
+    "https://reallygoodemails.com/emails/apollo-email-onboarding"
   ],
   "catalogs": {
     "rge-cart": {
@@ -272,17 +275,17 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-23",
+      "date": "2026-10-26",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-21",
+      "date": "2026-10-26",
       "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-22",
+      "date": "2026-10-26",
       "odkazu": 100
     },
     "rge-promo": {

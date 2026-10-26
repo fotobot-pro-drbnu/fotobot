@@ -1,187 +1,123 @@
 {
-  "generatedAt": "2026-10-23T03:47:47.395Z",
+  "generatedAt": "2026-10-26T04:41:39.557Z",
   "maxAgeHours": 48,
   "groups": {
     "cz-marketing": {
       "label": "Český marketingový tisk",
       "oknoHodin": 48,
-      "count": 22,
+      "count": 14,
       "items": [
         {
           "source": "mediaguru",
           "name": "MediaGuru",
-          "title": "Media Club zdraží pro rok 2027 televizní reklamu o 14 %, upraví cílovku na 19-69 let",
-          "url": "https://www.mediaguru.cz/media-club-zvysi-pro-rok-2027-ceny-televizni-reklamy-o-14-upravi-cilovku-na-19-69-let",
-          "date": "Thu, 22 Oct 2026 18:50:00 +0200",
-          "ts": 1792687800000
+          "title": "Tisíce lidí zaplnily Staroměstské náměstí na podporu ČT a ČRo",
+          "url": "https://www.mediaguru.cz/tisice-lidi-zaplnily-staromestske-namesti-na-demonstraci-na-podporu-ct-a-cro",
+          "date": "Sun, 25 Oct 2026 23:00:00 +0100",
+          "ts": 1792965600000
         },
         {
           "source": "mediar",
           "name": "Médiář",
-          "title": "Čeští vydavatelé varují před novými podmínkami Mety. Vadí jim vytěžování obsahu z&#160;webů",
-          "url": "https://www.mediar.cz/cesti-vydavatele-varuji-pred-novymi-podminkami-mety-vadi-jim-vytezovani-obsahu-z-webu/",
-          "date": "Thu, 22 Oct 2026 16:20:21 +0000",
-          "ts": 1792686021000
+          "title": "Požár kostela odhalí temná tajemství vesnice. Na ČT startuje krimisérie Hec",
+          "url": "https://www.mediar.cz/pozar-kostela-odhali-temna-tajemstvi-vesnice-na-ct-startuje-krimiserie-hec/",
+          "date": "Sun, 25 Oct 2026 16:00:40 +0000",
+          "ts": 1792944040000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "StarDance je i po druhém odvysílání jasným sobotním vítězem",
+          "url": "https://www.mediaguru.cz/stardance-je-i-po-druhem-odvysilani-jasnym-sobotnim-vitezem",
+          "date": "Sun, 25 Oct 2026 09:25:00 +0100",
+          "ts": 1792916700000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Generální ředitelé ČT a ČRo znovu varují před poklesem financování",
+          "url": "https://www.mediaguru.cz/generalni-reditele-ct-a-cro-znovu-varuji-pred-poklesem-financovani",
+          "date": "Sun, 25 Oct 2026 08:20:00 +0100",
+          "ts": 1792912800000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Slovenská média: DAB+ se blíží ostrému provozu, PPF chystá studia",
+          "url": "https://www.mediaguru.cz/slovenska-media-posun-dab-a-zmena-v-deniku-pravda",
+          "date": "Sun, 25 Oct 2026 07:55:00 +0100",
+          "ts": 1792911300000
+        },
+        {
+          "source": "mediaguru",
+          "name": "MediaGuru",
+          "title": "Značka Kempinski otevře v novém roce pražský hotel Augustine",
+          "url": "https://www.mediaguru.cz/znacka-kempinski-otevre-v-novem-roce-prazsky-hotel-augustine",
+          "date": "Sun, 25 Oct 2026 07:50:00 +0100",
+          "ts": 1792911000000
         },
         {
           "source": "mediar",
           "name": "Médiář",
-          "title": "Billa sází na český křišťál, ve věrnostní kampani nabízí skleničky Crystal Bohemia",
-          "url": "https://www.mediar.cz/galerie-reklamy/billa-sazi-na-cesky-kristal-ve-vernostni-kampani-nabizi-sklenicky-crystal-bohemia/",
-          "date": "Thu, 22 Oct 2026 15:55:10 +0000",
-          "ts": 1792684510000
+          "title": "Po 18 letech z&#160;Reflexu odchází Kateřina Kadlecová, jeho nejdéle píšící redaktorka",
+          "url": "https://www.mediar.cz/po-18-letech-z-reflexu-odchazi-katerina-kadlecova-jeho-nejdele-pisici-redaktorka/",
+          "date": "Sun, 25 Oct 2026 05:30:10 +0000",
+          "ts": 1792906210000
         },
         {
           "source": "mediar",
           "name": "Médiář",
-          "title": "Mia Korab se po 15 letech v&#160;Londýně vrací, v&#160;Symbiu řídí rozvoj klientů",
-          "url": "https://www.mediar.cz/mia-korab-se-po-15-letech-v-londyne-vraci-v-symbiu-ridi-rozvoj-klientu/",
-          "date": "Thu, 22 Oct 2026 15:15:22 +0000",
-          "ts": 1792682122000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Vánoční vysílání ČT přinese novou pohádku Krakonoš a básník, na Nový rok film Neporazitelní",
-          "url": "https://www.mediaguru.cz/vanocni-vysilani-ct-prinese-novou-pohadku-krakonos-a-basnik-na-novy-rok-film-neporazitelni",
-          "date": "Thu, 22 Oct 2026 14:55:00 +0200",
-          "ts": 1792673700000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Eurosport a HBO Max představily zimní program: Biatlon v Novém Městě i světové šampionáty",
-          "url": "https://www.mediaguru.cz/eurosport-a-hbo-max-predstavily-zimni-program-biatlon-v-novem-meste-i-svetove-sampionaty",
-          "date": "Thu, 22 Oct 2026 12:40:00 +0200",
-          "ts": 1792665600000
+          "title": "České dráhy upekly vánoční kampaň, bez AI. Použila model vlaku i&#160;30 kilo cukru",
+          "url": "https://www.mediar.cz/galerie-reklamy/ceske-drahy-upekly-vanocni-kampan-bez-ai-pouzila-model-vlaku-i-30-kilo-cukru/",
+          "date": "Sun, 25 Oct 2026 04:55:36 +0000",
+          "ts": 1792904136000
         },
         {
           "source": "mediar",
           "name": "Médiář",
-          "title": "Televizi Barrandov přebírají Radiokomunikace. Získaly licence na všechny tři kanály",
-          "url": "https://www.mediar.cz/televizi-barrandov-prebiraji-radiokomunikace-ziskaly-licence-na-vsechny-tri-kanaly/",
-          "date": "Thu, 22 Oct 2026 09:25:17 +0000",
-          "ts": 1792661117000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Vysílací licence TV Barrandov přešly na firmu ovládanou ČRA",
-          "url": "https://www.mediaguru.cz/vysilaci-licence-tv-barrandov-presly-na-firmu-ovladanou-cra",
-          "date": "Thu, 22 Oct 2026 11:11:00 +0200",
-          "ts": 1792660260000
+          "title": "Tragédie Liblice, Kaderka, ptáci, polský hasič. Prix Bohemia Radio zná nejlepší audia roku",
+          "url": "https://www.mediar.cz/tragedie-liblice-kaderka-ptaci-polsky-hasic-prix-bohemia-radio-zna-nejlepsi-audia-roku/",
+          "date": "Sun, 25 Oct 2026 04:55:19 +0000",
+          "ts": 1792904119000
         },
         {
           "source": "mediar",
           "name": "Médiář",
-          "title": "Televize BBC Lifestyle míří do Česka. Žádá o&#160;licence přes novou pražskou firmu",
-          "url": "https://www.mediar.cz/televize-bbc-lifestyle-miri-do-ceska-zada-o-licence-pres-novou-prazskou-firmu/",
-          "date": "Thu, 22 Oct 2026 08:45:53 +0000",
-          "ts": 1792658753000
+          "title": "Politika se nevyhnula ani StarDance, Eben s&#160;Kostkovou okomentovali noc ve sněmovně",
+          "url": "https://www.mediar.cz/politika-se-nevyhnula-ani-stardance-eben-s-kostkovou-okomentovali-noc-ve-snemovne/",
+          "date": "Sat, 24 Oct 2026 18:50:43 +0000",
+          "ts": 1792867843000
         },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
-          "title": "České dráhy upekly pro vánoční kampaň perníkovou vesničku",
-          "url": "https://www.mediaguru.cz/pernikova-vesnicka-a-vlak-z-cukru-tvori-zaklad-vanocni-kampane-ceskych-drah",
-          "date": "Thu, 22 Oct 2026 10:45:00 +0200",
-          "ts": 1792658700000
+          "title": "„Dobro zvítězí a zlé si vezme čert“, reagovali Eben a Kostková ve StarDance",
+          "url": "https://www.mediaguru.cz/dobro-zvitezi-a-zle-si-vezme-cert-reagovali-eben-a-kostkova-ve-stardance",
+          "date": "Sat, 24 Oct 2026 20:45:00 +0200",
+          "ts": 1792867500000
         },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
-          "title": "Lego otevřelo Na Příkopě svou druhou prodejnu v Praze Lego Store",
-          "url": "https://www.mediaguru.cz/lego-otevrelo-na-prikope-svou-druhou-prodejnu-v-praze-lego-store",
-          "date": "Thu, 22 Oct 2026 10:00:00 +0200",
-          "ts": 1792656000000
+          "title": "Právníci: Ústavní stížnost kvůli schvalování poplatků má argumenty pro i proti",
+          "url": "https://www.mediaguru.cz/pravnici-ustavni-stiznost-kvuli-schvalovani-poplatku-ma-argumenty-pro-i-proti",
+          "date": "Sat, 24 Oct 2026 20:05:00 +0200",
+          "ts": 1792865100000
         },
         {
           "source": "mediar",
           "name": "Médiář",
-          "title": "Z ČT odešla Zuzana Smiešková, nastoupila do PR týmu operátora O2",
-          "url": "https://www.mediar.cz/z-ct-odesla-zuzana-smieskova-nastoupila-do-pr-tymu-operatora-o2/",
-          "date": "Thu, 22 Oct 2026 07:50:21 +0000",
-          "ts": 1792655421000
+          "title": "Na Štědrý den bude na ČT nový Krakonoš, na Nový rok přijdou Neporazitelní",
+          "url": "https://www.mediar.cz/na-stedry-den-bude-na-ct-novy-krakonos-na-novy-rok-prijdou-neporazitelni/",
+          "date": "Sat, 24 Oct 2026 14:30:18 +0000",
+          "ts": 1792852218000
         },
         {
           "source": "mediaguru",
           "name": "MediaGuru",
-          "title": "Zuzana Smiešková nastoupila do PR týmu O2, dříve byla v ČT",
-          "url": "https://www.mediaguru.cz/zuzana-smieskova-nastoupila-do-pr-tymu-o2-drive-byla-v-ct",
-          "date": "Thu, 22 Oct 2026 09:50:00 +0200",
-          "ts": 1792655400000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Středeční večer patřil i s reprízou seriálu Pod hladinou, u mladších SuperStar",
-          "url": "https://www.mediaguru.cz/stredecni-vecer-patril-i-s-reprizou-serialu-pod-hladinou-u-mladsich-superstar",
-          "date": "Thu, 22 Oct 2026 09:40:00 +0200",
-          "ts": 1792654800000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Do Rady ČRo zvolila Sněmovna Jakuba Jíru",
-          "url": "https://www.mediaguru.cz/do-rady-cro-zvolila-snemovna-jakuba-jiru",
-          "date": "Thu, 22 Oct 2026 08:10:00 +0200",
-          "ts": 1792649400000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Šéf Canal+: Povinná migrace zákazníků Skylinku zatím nehrozí. K Apple TV a HBO Max přidáme další služby",
-          "url": "https://www.mediaguru.cz/sef-canal-povinna-migrace-zakazniku-skylinku-zatim-nehrozi-k-apple-tv-a-hbo-max-pridame-dalsi-sluzby",
-          "date": "Thu, 22 Oct 2026 08:00:00 +0200",
-          "ts": 1792648800000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Nova přijde s českou verzí vědomostní reality show The Floor",
-          "url": "https://www.mediaguru.cz/nova-prijde-s-ceskou-verzi-vedomostni-reality-show-the-floor",
-          "date": "Thu, 22 Oct 2026 07:30:00 +0200",
-          "ts": 1792647000000
-        },
-        {
-          "source": "mediaguru",
-          "name": "MediaGuru",
-          "title": "Pražské letiště letos převzalo prodej reklamy pod svou správu",
-          "url": "https://www.mediaguru.cz/prazske-letiste-letos-prevzalo-prodej-reklamy-pod-svou-spravu",
-          "date": "Thu, 22 Oct 2026 07:10:00 +0200",
-          "ts": 1792645800000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Ondříček a&#160;Mucha natočili film za 60 milionů bez grantů a&#160;televize. Prima ho koupila hotový",
-          "url": "https://www.mediar.cz/ondricek-a-mucha-natocili-film-za-60-milionu-bez-grantu-a-televize-prima-ho-koupila-hotovy/",
-          "date": "Thu, 22 Oct 2026 03:55:27 +0000",
-          "ts": 1792641327000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Byl jsem porotcem na festivalu Golden Drum. Tohle měly poražené práce společné",
-          "url": "https://www.mediar.cz/byl-jsem-porotcem-na-festivalu-golden-drum-tohle-mely-porazene-prace-spolecne/",
-          "date": "Thu, 22 Oct 2026 03:50:56 +0000",
-          "ts": 1792641056000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Lego otevírá druhou prodejnu v&#160;Praze. Dvoupatrový Lego Store má otevřeno každý den",
-          "url": "https://www.mediar.cz/lego-otevira-druhou-prodejnu-v-praze-dvoupatrovy-lego-store-ma-otevreno-kazdy-den/",
-          "date": "Thu, 22 Oct 2026 03:45:11 +0000",
-          "ts": 1792640711000
-        },
-        {
-          "source": "mediar",
-          "name": "Médiář",
-          "title": "Na hraně války. Nový dokument ČT sleduje české vojáky na misi v&#160;Litvě",
-          "url": "https://www.mediar.cz/na-hrane-valky-novy-dokument-ct-sleduje-ceske-vojaky-na-misi-v-litve/",
-          "date": "Thu, 22 Oct 2026 03:40:58 +0000",
-          "ts": 1792640458000
+          "title": "Všechnopárty je v pátek večer ve vedení, u mladších film",
+          "url": "https://www.mediaguru.cz/vsechnoparty-je-v-patek-vecer-ve-vedeni-u-mladsich-film",
+          "date": "Sat, 24 Oct 2026 10:20:00 +0200",
+          "ts": 1792830000000
         }
       ]
     },
@@ -194,213 +130,99 @@
     "obor": {
       "label": "Oborový tisk",
       "oknoHodin": 48,
-      "count": 8,
-      "items": [
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Warner Bros. stirs up ‘The Cat in the Hat’ mayhem on Roblox ahead of film",
-          "url": "https://www.marketingdive.com/news/warner-bros-stirs-up-the-cat-in-the-hat-mayhem-on-roblox-ahead-of-film/833689/",
-          "date": "Thu, 22 Oct 2026 12:26:00 -0400",
-          "ts": 1792686360000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-          "url": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/",
-          "date": "Thu, 22 Oct 2026 10:00:00 -0400",
-          "ts": 1792677600000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "How AB InBev built a culture of creative effectiveness that drives growth",
-          "url": "https://www.marketingdive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833674/",
-          "date": "Thu, 22 Oct 2026 09:47:00 -0400",
-          "ts": 1792676820000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "How CPG challenger brands are setting category marketing trends",
-          "url": "https://www.marketingdive.com/news/how-cpg-challenger-brands-are-setting-category-marketing-trends/833696/",
-          "date": "Thu, 22 Oct 2026 09:25:41 -0400",
-          "ts": 1792675541000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Sociable: Meta adds users and revenue as AI costs climb",
-          "url": "https://www.marketingdive.com/news/sociable-meta-adds-users-and-revenue-as-ai-costs-climb/833694/",
-          "date": "Wed, 21 Oct 2026 18:08:33 -0400",
-          "ts": 1792620513000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
-          "url": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/",
-          "date": "Wed, 21 Oct 2026 10:21:00 -0400",
-          "ts": 1792592460000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Target unwraps high-concept holiday ads focused on gift-giving academy",
-          "url": "https://www.marketingdive.com/news/target-unwraps-high-concept-holiday-ads-focused-on-gift-giving-academy/833583/",
-          "date": "Wed, 21 Oct 2026 10:17:47 -0400",
-          "ts": 1792592267000
-        },
-        {
-          "source": "marketingdive",
-          "name": "Marketing Dive",
-          "title": "Domino’s links with Minecraft to push personal pizza via gaming",
-          "url": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
-          "date": "Wed, 21 Oct 2026 07:07:00 -0400",
-          "ts": 1792580820000
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     "konkurence": {
       "label": "Blogy a newsroomy konkurence",
       "oknoHodin": 48,
-      "count": 3,
-      "items": [
-        {
-          "source": "getresponse",
-          "name": "GetResponse",
-          "title": "5 best SMS marketing apps for Shopify (+ compliance guidelines)",
-          "url": "https://www.getresponse.com/blog/best-sms-marketing-apps-for-shopify",
-          "date": "2026-10-22 14:59:04",
-          "ts": 1792681144000
-        },
-        {
-          "source": "omnisend",
-          "name": "Omnisend",
-          "title": "Best AI tools for dropshipping in 2026: Tested and reviewed",
-          "url": "https://www.omnisend.com/blog/ai-tools-for-dropshipping/",
-          "date": "Thu, 22 Oct 2026 10:35:34 +0000",
-          "ts": 1792665334000
-        },
-        {
-          "source": "omnisend",
-          "name": "Omnisend",
-          "title": "100 best holiday email subject lines for 2026",
-          "url": "https://www.omnisend.com/blog/holiday-email-subject-lines/",
-          "date": "Thu, 22 Oct 2026 10:30:02 +0000",
-          "ts": 1792665002000
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     "cz-design": {
       "label": "Český design a byznys",
       "oknoHodin": 48,
-      "count": 25,
+      "count": 22,
       "items": [
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Z pěti milionů na čtrnáct. Bydlení v Praze za deset let prudce zdražilo, rodinné byty se stávají luxusem",
-          "url": "https://cc.cz/z-peti-milionu-na-ctrnact-bydleni-v-praze-za-deset-let-prudce-zdrazilo-rodinne-byty-se-stavaji-luxusem/",
-          "date": "Thu, 22 Oct 2026 18:00:07 +0000",
-          "ts": 1792692007000
+          "title": "Chytré televize jsou plné reklam a balastu. Lidé ale našli šikovný trik a pomocí AI je upravují",
+          "url": "https://cc.cz/chytre-televize-jsou-plne-reklam-a-balastu-lide-ale-nasli-sikovny-trik-a-pomoci-ai-je-upravuji/",
+          "date": "Sun, 25 Oct 2026 19:03:12 +0000",
+          "ts": 1792954992000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Nakupování online potichu zdražuje. E-shopy zvyšují ceny dopravy, vyvažuje to ale zřejmě jeden trend",
-          "url": "https://cc.cz/nakupovani-online-potichu-zdrazuje-e-shopy-zvysuji-ceny-dopravy-vyvazuje-to-ale-zrejme-jeden-trend/",
-          "date": "Thu, 22 Oct 2026 14:50:16 +0000",
-          "ts": 1792680616000
+          "title": "Pravda o modrém světle, automobilová story z Opavska a dvoumiliardový rodinný byznys",
+          "url": "https://cc.cz/pravda-o-modrem-svetle-automobilova-story-z-opavska-a-dvoumiliardovy-rodinny-byznys/",
+          "date": "Sun, 25 Oct 2026 16:10:49 +0000",
+          "ts": 1792944649000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Teď už žádnou hranolku z McDonald&#8217;s nevyhodíte. Navštívili jsme jeho přísně kontrolovaný bramborový ráj",
-          "url": "https://cc.cz/ted-uz-zadnou-hranolku-z-mcdonalds-nevyhodite-navstivili-jsme-jeho-prisne-kontrolovany-bramborovy-raj/",
-          "date": "Thu, 22 Oct 2026 13:51:59 +0000",
-          "ts": 1792677119000
+          "title": "Fotí svatby, aby splatil foťák. Patnáctiletý fotograf přírody boduje na Instagramu",
+          "url": "https://cc.cz/foti-svatby-aby-splatil-fotak-patnactilety-fotograf-prirody-boduje-na-instagramu/",
+          "date": "Sun, 25 Oct 2026 14:02:12 +0000",
+          "ts": 1792936932000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Uveze Tatru nebo 70 vojáků. Vojenský pásový obojživelník i další české obranné inovace míří do světa",
-          "url": "https://cc.cz/uveze-tatru-nebo-70-vojaku-vojensky-pasovy-obojzivelnik-i-dalsi-ceske-obranne-inovace-miri-do-sveta/",
-          "date": "Thu, 22 Oct 2026 12:18:17 +0000",
-          "ts": 1792671497000
+          "title": "Papírnictví musela zavřít, pak ho s partnerem obnovila. Dnes prodávají inkousty i pera za desítky tisíc",
+          "url": "https://cc.cz/papirnictvi-musela-zavrit-pak-ho-s-partnerem-obnovila-dnes-prodavaji-inkousty-i-pera-za-desitky-tisic/",
+          "date": "Sun, 25 Oct 2026 12:08:16 +0000",
+          "ts": 1792930096000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Za každý prodej dá konzervu kočkám v útulku. Kreativec od Průši nenašel hru, jakou chtěl, tak ji vytvořil",
-          "url": "https://cc.cz/za-kazdy-prodej-da-konzervu-kockam-v-utulku-kreativec-od-prusi-nenasel-hru-jakou-chtel-tak-ji-vytvoril/",
-          "date": "Thu, 22 Oct 2026 11:06:46 +0000",
-          "ts": 1792667206000
+          "title": "Směje se uprostřed věty a mluví jako člověk. Jack Dorsey ukázal hlasovou AI, která se učila jen posloucháním",
+          "url": "https://cc.cz/smeje-se-uprostred-vety-a-mluvi-jako-clovek-jack-dorsey-ukazal-hlasovou-ai-ktera-se-ucila-jen-poslouchanim/",
+          "date": "Sun, 25 Oct 2026 07:56:17 +0000",
+          "ts": 1792914977000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Dlouhá léta chodil kolem staré pily, pak ji zachránil před demolicí. A teď tu postaví přes sto bytů",
-          "url": "https://cc.cz/dlouha-leta-chodil-kolem-stare-pily-pak-ji-zachranil-pred-demolici-a-ted-tu-postavi-pres-sto-bytu/",
-          "date": "Thu, 22 Oct 2026 10:14:30 +0000",
-          "ts": 1792664070000
+          "title": "Vybudoval stamilionový byznys a k tomu dělal pilota. Musel jsem skončit kvůli času i nudné rutině, říká",
+          "url": "https://cc.cz/vybudoval-stamilionovy-byznys-a-k-tomu-delal-pilota-musel-jsem-skoncit-kvuli-casu-i-nudne-rutine-rika/",
+          "date": "Sun, 25 Oct 2026 06:09:30 +0000",
+          "ts": 1792908570000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Lego v srdci Prahy otevřelo jedinečně českou prodejnu. Podívejte se na unikátní výzdobu i tiskárnu figurek",
-          "url": "https://cc.cz/lego-v-srdci-prahy-otevrelo-jedinecne-ceskou-prodejnu-podivejte-se-na-unikatni-vyzdobu-i-tiskarnu-figurek/",
-          "date": "Thu, 22 Oct 2026 08:00:25 +0000",
-          "ts": 1792656025000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Encounters: Giacometti guidebook",
-          "url": "https://fontsinuse.com/uses/80379/encounters-giacometti-guidebook",
-          "date": "Thu, 22 Oct 2026 07:49:00 +0000",
-          "ts": 1792655340000
+          "title": "Co kdyby se dvě oblíbené hry spojily v jednu? Hráči to zkoušejí pomocí umělé inteligence",
+          "url": "https://cc.cz/co-kdyby-se-dve-oblibene-hry-spojily-v-jednu-hraci-to-zkouseji-pomoci-umele-inteligence/",
+          "date": "Sat, 24 Oct 2026 18:23:30 +0000",
+          "ts": 1792866210000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Vlna neúspěchu a vyhazovů utopila ikonu herního světa. Tvůrci hitů Baldur&#8217;s Gate a Mass Effect končí",
-          "url": "https://cc.cz/horky-konec-slavne-firmy-vlna-vyhazovu-a-skrtu-smetla-tvurce-hitu-baldurs-gate-mass-effect-a-dragon-age/",
-          "date": "Thu, 22 Oct 2026 07:14:22 +0000",
-          "ts": 1792653262000
+          "title": "Covid jí zavřel půjčovnu nábytku. Dnes prodává vintage poklady z bazarů i zahraničním sběratelům",
+          "url": "https://cc.cz/covid-ji-zavrel-pujcovnu-nabytku-dnes-prodava-vintage-poklady-z-bazaru-i-zahranicnim-sberatelum/",
+          "date": "Sat, 24 Oct 2026 15:07:29 +0000",
+          "ts": 1792854449000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Zkrachoval developer chaty na skvělém místě Krkonoš. Projekt odkoupil muž, který ví, jak řešit krize",
-          "url": "https://cc.cz/zkrachoval-developer-chaty-na-skvelem-miste-krkonos-projekt-odkoupil-muz-ktery-vi-jak-resit-krize/",
-          "date": "Thu, 22 Oct 2026 05:01:51 +0000",
-          "ts": 1792645311000
+          "title": "Starý byt v Karlíně prošel rekonstrukcí. Jeho obytnou část teď rozděluje ocelová knihovna",
+          "url": "https://cc.cz/stary-byt-v-karline-prosel-rekonstrukci-jeho-obytnou-cast-ted-rozdeluje-ocelova-knihovna/",
+          "date": "Sat, 24 Oct 2026 12:18:49 +0000",
+          "ts": 1792844329000
         },
         {
           "source": "czechcrunch",
           "name": "CzechCrunch",
-          "title": "Všichni píšou, jak jim AI mění život, ale málokdo řekne jak. Tady je můj systém, kterým krotím inboxy i úkoly",
-          "url": "https://cc.cz/vsichni-pisou-jak-jim-ai-meni-zivot-ale-malokdo-rekne-jak-tady-je-muj-system-kterym-krotim-inboxy-i-ukoly/",
-          "date": "Thu, 22 Oct 2026 04:15:12 +0000",
-          "ts": 1792642512000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "Construire sans se trahir by Collectif Etc",
-          "url": "https://fontsinuse.com/uses/75164/construire-sans-se-trahir-by-collectif-etc",
-          "date": "Wed, 21 Oct 2026 07:17:11 +0000",
-          "ts": 1792567031000
-        },
-        {
-          "source": "fontsinuse",
-          "name": "Fonts In Use — staff picks",
-          "title": "L’Œil, issue 01",
-          "url": "https://fontsinuse.com/uses/80220/l-oeil-issue-01",
-          "date": "Wed, 21 Oct 2026 07:16:04 +0000",
-          "ts": 1792566964000
+          "title": "Z jógy udělali módní byznys. Jejich legíny nosí Taylor Swift i Kendall Jenner a oba jsou miliardáři",
+          "url": "https://cc.cz/z-jogy-udelali-modni-byznys-jejich-leginy-nosi-taylor-swift-i-kendall-jenner-a-oba-jsou-miliardari/",
+          "date": "Sat, 24 Oct 2026 09:11:05 +0000",
+          "ts": 1792833065000
         },
         {
           "source": "font-cz",
@@ -417,6 +239,30 @@
           "url": "http://www.font.cz/ostatni/font-209-se-jiz-tiskne.html",
           "date": "",
           "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Třebechovice s novou vizuální identitou",
+          "url": "http://www.font.cz/design/trebechovice-s-novou-vizualni-identitou.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Bold Festival v Brně 9.–10. listopadu 2026",
+          "url": "http://www.font.cz/design/bold-festival-v-brne-9-10-listopadu-2026.html",
+          "date": "",
+          "ts": null
+        },
+        {
+          "source": "font-cz",
+          "name": "Font.cz",
+          "title": "Žižkovské divadlo Járy Cimrmana s novou identitou",
+          "url": "http://www.font.cz/design/zizkovske-divadlo-jary-cimrmana-s-novou-identitou.html",
+          "date": "",
+          "ts": null
         }
       ]
     },
@@ -425,6 +271,22 @@
       "oknoHodin": 336,
       "count": 21,
       "items": [
+        {
+          "source": "chl-netcore",
+          "name": "Netcore changelog",
+          "title": "Introducing Exit Conditions in Journeys: Every Message Stays Relevant, Fewer Unsubscribes & Protected Margins",
+          "url": "https://updates.netcorecloud.com/changelog/introducing-exit-conditions-in-journeys-every-message-stays-relevant-fewer",
+          "date": "Fri, 23 Oct 2026 11:44:29 GMT",
+          "ts": 1792755869000
+        },
+        {
+          "source": "chl-netcore",
+          "name": "Netcore changelog",
+          "title": "Databricks to Netcore CE: Import Warehouse Data Without Manual Uploads",
+          "url": "https://updates.netcorecloud.com/changelog/databricks-to-netcore-ce-import-warehouse-data-without-manual-uploads",
+          "date": "Fri, 23 Oct 2026 11:42:31 GMT",
+          "ts": 1792755751000
+        },
         {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
@@ -522,22 +384,6 @@
           "ts": 1792108800000
         },
         {
-          "source": "chl-netcore",
-          "name": "Netcore changelog",
-          "title": "Export Netcore Events Straight to Your SFTP Server",
-          "url": "https://updates.netcorecloud.com/changelog/export-netcore-events-straight-to-your-sftp-server",
-          "date": "Thu, 15 Oct 2026 11:18:11 GMT",
-          "ts": 1792063091000
-        },
-        {
-          "source": "chl-netcore",
-          "name": "Netcore changelog",
-          "title": "Custom Unsubscribe : Give Your Customers a Better Way to Opt Out",
-          "url": "https://updates.netcorecloud.com/changelog/custom-unsubscribe-give-your-customers-a-better-way-to-opt",
-          "date": "Thu, 15 Oct 2026 11:17:12 GMT",
-          "ts": 1792063032000
-        },
-        {
           "source": "chl-ecomail",
           "name": "Ecomail changelog (náš)",
           "title": "[Oprava] Domény: kontrola před smazáním ignoruje smazané kroky automatizace",
@@ -597,7 +443,9 @@
     }
   },
   "discovered": {},
-  "viaBrowser": [],
+  "viaBrowser": [
+    "smartemailing"
+  ],
   "blokovano": [
     {
       "key": "mam",
@@ -635,108 +483,96 @@
       "status": 403
     },
     {
-      "key": "dotdigital",
-      "name": "Dotdigital",
-      "status": 522,
-      "poznamka": "blokace zapamatovaná, další pokus po 2026-10-23"
+      "key": "czechdesign-graficky",
+      "name": "CzechDesign — grafický design",
+      "status": 403
     },
     {
-      "key": "printmag",
-      "name": "PRINT Magazine",
-      "status": 403,
-      "poznamka": "blokace zapamatovaná, další pokus po 2026-10-23"
+      "key": "czechdesign-sklizen",
+      "name": "CzechDesign — grafická sklizeň",
+      "status": 403
     }
   ],
   "failed": [
     {
       "key": "tyinternety",
       "name": "Tyinternety",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "itsnicethat",
       "name": "It's Nice That",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "thebrandingjournal",
       "name": "The Branding Journal",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "emailonacid",
       "name": "Email on Acid",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "mailchimp",
       "name": "Mailchimp",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "klaviyo",
       "name": "Klaviyo",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "brevo",
       "name": "Brevo",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "activecampaign",
       "name": "ActiveCampaign",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "beehiiv",
       "name": "beehiiv",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "loops",
       "name": "Loops",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "customerio",
       "name": "Customer.io",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "rapidmail",
       "name": "rapidmail",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "klaviyo-news",
       "name": "Klaviyo newsroom",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "leadhub",
       "name": "Leadhub",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "emailkampane",
       "name": "Emailkampane.cz",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     },
     {
       "key": "quanda",
       "name": "Quanda",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
-    },
-    {
-      "key": "czechdesign-graficky",
-      "name": "CzechDesign — grafický design",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
-    },
-    {
-      "key": "czechdesign-sklizen",
-      "name": "CzechDesign — grafická sklizeň",
-      "reason": "feed se nenašel, další hledání až po 2026-10-26"
+      "reason": "feed nenalezen ani přes prohlížeč"
     }
   ]
 }

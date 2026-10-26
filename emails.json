@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-10-23T03:54:09.901Z",
+  "generatedAt": "2026-10-26T05:01:12.822Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/heads-up-theres-a-new-way-to-train",
-      "title": "Heads up 👋 There’s a new way to train from Trainline - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-23/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/pledge-welcome-account-creation",
+      "title": "Friend, thank you for joining Pledge! 💜 from Pledge - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-26/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/your-bang-olufsen-account-is-ready",
-      "title": "Your Bang & Olufsen account is ready from Bang & Olufsen - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-23/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/rover-pet-care-booking-tutorial",
+      "title": "It’s easy to book pet care on Rover—see how! from Rover - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-26/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/your-one-time-passcode-for-disney",
-      "title": "Your one-time passcode for Disney+ from Disney+ - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-23/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/apollo-email-onboarding",
+      "title": "Your 14-day Apollo trial is now active from Apollo.io - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-26/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 50
-    },
-    {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 100
     }
   ],
@@ -47,28 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-10-23/flodesk--archiv.jpg"
+      "shot": "emails/2026-10-26/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-10-23/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-10-23/dotdigital--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-10-23/smartemailing--archiv.jpg"
+      "shot": "emails/2026-10-26/customerio--archiv.jpg"
     }
   ],
   "poznamky": []

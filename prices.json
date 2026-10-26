@@ -1,47 +1,13 @@
 {
-  "generatedAt": "2026-10-23T03:52:45.615Z",
+  "generatedAt": "2026-10-26T04:59:21.545Z",
   "checked": [
-    {
-      "key": "flodesk",
-      "url": "https://flodesk.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$ 0 25 19 32",
-        "$ 0 28 25 39",
-        "$ 0 54 49 87"
-      ],
-      "shot": "pricing-shots/2026-10-23/flodesk.jpg"
-    },
-    {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$49"
-      ],
-      "shot": "pricing-shots/2026-10-23/loops.jpg"
-    },
-    {
-      "key": "beehiiv",
-      "url": "https://www.beehiiv.com/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [
-        "$49",
-        "$39",
-        "$95"
-      ],
-      "shot": "pricing-shots/2026-10-23/beehiiv.jpg"
-    },
     {
       "key": "kit",
       "url": "https://kit.com/pricing",
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/kit.jpg"
+      "shot": "pricing-shots/2026-10-26/kit.jpg"
     },
     {
       "key": "resend",
@@ -56,7 +22,7 @@
         "$30",
         "$150"
       ],
-      "shot": "pricing-shots/2026-10-23/resend.jpg"
+      "shot": "pricing-shots/2026-10-26/resend.jpg"
     },
     {
       "key": "cleverreach",
@@ -64,7 +30,7 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/cleverreach.jpg"
+      "shot": "pricing-shots/2026-10-26/cleverreach.jpg"
     },
     {
       "key": "rapidmail",
@@ -72,7 +38,7 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/rapidmail.jpg"
+      "shot": "pricing-shots/2026-10-26/rapidmail.jpg"
     },
     {
       "key": "expertsender",
@@ -80,7 +46,7 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/expertsender.jpg"
+      "shot": "pricing-shots/2026-10-26/expertsender.jpg"
     },
     {
       "key": "sessy",
@@ -88,7 +54,7 @@
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/sessy.jpg"
+      "shot": "pricing-shots/2026-10-26/sessy.jpg"
     },
     {
       "key": "smartemailing",
@@ -96,7 +62,7 @@
       "own": false,
       "cz": true,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/smartemailing.jpg"
+      "shot": "pricing-shots/2026-10-26/smartemailing.jpg"
     },
     {
       "key": "boldem",
@@ -104,7 +70,7 @@
       "own": false,
       "cz": true,
       "prices": [],
-      "shot": "pricing-shots/2026-10-23/boldem.jpg"
+      "shot": "pricing-shots/2026-10-26/boldem.jpg"
     },
     {
       "key": "leadhub",
@@ -116,7 +82,42 @@
         "0,80 Kč",
         "1,10 Kč"
       ],
-      "shot": "pricing-shots/2026-10-23/leadhub.jpg"
+      "shot": "pricing-shots/2026-10-26/leadhub.jpg"
+    },
+    {
+      "key": "targito",
+      "url": "https://www.targito.com/cenik/",
+      "own": false,
+      "cz": true,
+      "prices": [
+        "1 600 Kč",
+        "1 500 Kč",
+        "6 900 Kč"
+      ],
+      "shot": "pricing-shots/2026-10-26/targito.jpg"
+    },
+    {
+      "key": "emailkampane",
+      "url": "https://www.emailkampane.cz/cenik/",
+      "own": false,
+      "cz": true,
+      "prices": [
+        "2 376 Kč",
+        "790 Kč",
+        "956 Kč"
+      ],
+      "shot": "pricing-shots/2026-10-26/emailkampane.jpg"
+    },
+    {
+      "key": "emailmachine",
+      "url": "https://www.emailmachine.cz/cenik/",
+      "own": false,
+      "cz": true,
+      "prices": [
+        "490 Kč",
+        "5 880 Kč"
+      ],
+      "shot": "pricing-shots/2026-10-26/emailmachine.jpg"
     },
     {
       "key": "nas-web",
@@ -160,7 +161,7 @@
         "3,00 Kč",
         "5,40 Kč"
       ],
-      "shot": "pricing-shots/2026-10-23/nas-web.jpg"
+      "shot": "pricing-shots/2026-10-26/nas-web.jpg"
     }
   ],
   "changes": [],
@@ -168,43 +169,43 @@
     {
       "key": "kit",
       "url": "https://kit.com/pricing",
-      "shot": "pricing-shots/2026-10-23/kit.jpg",
+      "shot": "pricing-shots/2026-10-26/kit.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "cleverreach",
       "url": "https://www.cleverreach.com/en/prices/",
-      "shot": "pricing-shots/2026-10-23/cleverreach.jpg",
+      "shot": "pricing-shots/2026-10-26/cleverreach.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "rapidmail",
       "url": "https://www.rapidmail.de/preise",
-      "shot": "pricing-shots/2026-10-23/rapidmail.jpg",
+      "shot": "pricing-shots/2026-10-26/rapidmail.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "expertsender",
       "url": "https://www.expertsender.com/pricing/",
-      "shot": "pricing-shots/2026-10-23/expertsender.jpg",
+      "shot": "pricing-shots/2026-10-26/expertsender.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "sessy",
       "url": "https://sessy.do/pricing",
-      "shot": "pricing-shots/2026-10-23/sessy.jpg",
+      "shot": "pricing-shots/2026-10-26/sessy.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "smartemailing",
       "url": "https://www.smartemailing.cz/cenik/",
-      "shot": "pricing-shots/2026-10-23/smartemailing.jpg",
+      "shot": "pricing-shots/2026-10-26/smartemailing.jpg",
       "drzeloPredtim": 0
     },
     {
       "key": "boldem",
       "url": "https://www.boldem.cz/cenik/",
-      "shot": "pricing-shots/2026-10-23/boldem.jpg",
+      "shot": "pricing-shots/2026-10-26/boldem.jpg",
       "drzeloPredtim": 0
     }
   ],
