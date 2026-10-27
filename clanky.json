@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T05:02:21.895Z",
+  "generatedAt": "2026-10-27T04:45:00.543Z",
   "verze": 1,
-  "datum": "2026-10-26",
-  "oknoOd": "2026-10-16",
+  "datum": "2026-10-27",
+  "oknoOd": "2026-10-17",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,113 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 36,
+      "pocetPolozek": 34,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/doruceni-zasilky-do-15-minut-amazon-ukazuje-kam-smeruje-automatizace-logistiky/",
+      "datum": "2026-10-26",
+      "perex": "Amazon rozšiřuje doručování drony a automatizaci logistiky. Podívejte se, co už funguje, jaké jsou limity a kde je zatím 15minutové doručení.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Doručení zásilky do 15 minut? Amazon ukazuje, kam směřuje automatizace logistiky",
+        "meta": {
+          "ogTitle": "Doručování drony: Amazon testuje rychlejší logistiku",
+          "ogDesc": "Amazon rozšiřuje doručování drony a automatizaci logistiky. Podívejte se, co už funguje, jaké jsou limity a kde je zatím 15minutové doručení.",
+          "published": "2026-10-26T08:45:55+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Doručení zásilky do 15 minut? Amazon ukazuje, kam směřuje automatizace logistiky"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n5 min. doba čtení\nDoručení zásilky do 15 minut? Amazon ukazuje, kam směřuje automatizace logistiky\n\nBalík u dveří do čtvrt hodiny, autonomní nákladní vozidla a umělá inteligence, která řídí stále větší část logistických procesů. Takovou představu budoucnosti popisuje Amazon. Doručování drony přitom už není jen experiment – firma ho letos spustila i v Evropě. K 15 minutám má však současný provoz stále daleko.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nDoručení zásilky do 15 minut? Amazon ukazuje, kam směřuje automatizace logistiky\nZdroj: ChatGPT\n\nPolský server Wiadomości Handlowe přinesl pohled Sławomira Płonky, regionálního ředitele provozu Amazonu pro střední a východní Evropu, na další vývoj logistiky. Mezi technologiemi, které mají měnit způsob doručování, zmiňuje drony schopné dostat zásilku k zákazníkovi do 15 minut, autonomní nákladní vozidla a umělou inteligenci.\n\nDůležité je však oddělit vizi od služby, kterou Amazon nabízí dnes. Firma aktuálně negarantuje doručení dronem do 15 minut a neoznámila ani zavedení takové služby v Česku nebo na Slovensku.\n\nDrony už doručují i v Evropě\n\nPrime Air už není pouze americkým projektem. Amazon v únoru 2026 spustil první komerční doručování drony mimo USA v britském Darlingtonu.\n\nSoučasná služba slibuje doručení do 60 minut, nikoli do patnácti. Zákazník musí bydlet přibližně do 12 kilometrů od logistického centra a objednávka musí splňovat poměrně přesné podmínky. Dron MK30 přepraví zásilku o hmotnosti nejvýše 5 liber, tedy přibližně 2,2 kilogramu, která se zároveň musí vejít zhruba do rozměrů větší krabice od bot. Podrobnosti Amazon popisuje při spuštění Prime Air ve Velké Británii.\n\nZákazník při objednávce vybere vhodné místo na pozemku, kam může dron zásilku doručit. Amazon ho identifikuje pomocí digitálních map a AI. Pokud fouká silný vítr, příliš intenzivně prší nebo je špatná viditelnost, možnost doručení dronem se v košíku jednoduše nezobrazí.\n\nNa Ecommerce Bridge jsme se vývoji této technologie věnovali už při představení dronu MK30. Tehdy šlo především o připravovanou technologii. Dnes už stejný model skutečně doručuje objednávky zákazníkům.\n\nDron nenahradí kurýra u každé zásilky\n\nHmotnostní limit ukazuje jednu ze základních hranic celé technologie. Dron je vhodný především pro malé a lehké produkty, u kterých zákazník ocení mimořádně rychlé doručení. U nábytku, větší elektroniky nebo nákupu více produktů zůstává klasická silniční logistika nezbytná.\n\nOmezením je i samotná lokalita. Současný model potřebuje vhodné místo pro bezpečné doručení balíku. To je podstatně jednodušší u rodinného domu se zahradou nebo příjezdovou cestou než u bytového domu v centru města.\n\nPro e-commerce proto nejde o jednoduché nahrazení kurýrních vozů drony. Pravděpodobnější je model, ve kterém se jednotlivé způsoby doručování rozdělí podle typu zásilky, lokality a požadované rychlosti.\n\nPodobnou otázku jsme řešili také v rozhovoru o tom, zda mohou výdejní boxy a autonomní vozidla postupně měnit roli kurýrů.\n\nTÝDENNÍ PODCAST\nUPdate\nProč je 15 minut mnohem náročnějších než jedna hodina\n\nPokud má být zásilka u zákazníka do 15 minut od objednání, nestačí zrychlit samotný let dronu.\n\nProdukt musí být už před objednávkou uložený velmi blízko zákazníka. Systém ho musí okamžitě najít, připravit, zabalit, přiřadit dronu a dostat na startovací plochu.\n\nTo znamená, že rychlost dor"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/e-shopy-venuji-velkou-pozornost-produktovym-strankam-nova-data-vsak-ukazuji-silu-kategorii/",
+      "datum": "2026-10-26",
+      "perex": "Analýza 14,9 milionu kliknutí ukazuje, že kategorie mohou z Googlu přivádět více návštěvnosti než produktové stránky.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "E-shopy věnují velkou pozornost produktovým stránkám. Nová data však ukazují sílu kategorií",
+        "meta": {
+          "ogTitle": "Kategorie e-shopu mohou z Googlu přivádět více návštěvnosti",
+          "ogDesc": "Analýza 14,9 milionu kliknutí ukazuje, že kategorie mohou z Googlu přivádět více návštěvnosti než produktové stránky.",
+          "published": "2026-10-26T08:03:02+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "E-shopy věnují velkou pozornost produktovým stránkám. Nová data však ukazují sílu kategorií"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n4 min. doba čtení\nE-shopy věnují velkou pozornost produktovým stránkám. Nová data však ukazují sílu kategorií\n\nProduktové stránky často dostávají největší SEO pozornost. Analýza 14,9 milionu kliknutí ze 100 e-shopů však ukazuje, že kategorie mohou z Googlu přivádět výrazně větší část návštěvnosti. Při rozhodování přitom nepomůže jednoduché pravidlo jednotného a množného čísla. Důležitější je, zda zákazník hledá konkrétní produkt, nebo si ještě vybírá.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nE-shopy věnují velkou pozornost produktovým stránkám. Nová data však ukazují sílu kategorií\nZdroj: ChatGPT\n\nAutor analýzy publikované v Search Engine Land vyhodnotil 12 měsíců dat z Google Search Console, od října 2025 do října 2026. Celkem šlo o 14,9 milionu kliknutí ze 100 e-shopů z oblastí, jako je móda, nábytek, krmiva nebo šperky.\n\nTypický sledovaný e-shop měl přibližně devět produktových stránek na jednu kategorii. Přesto na mediánovém webu směřovaly přibližně dvě třetiny kliknutí z Googlu na kategorie.\n\nŠest z deseti e-shopů získávalo většinu kliknutí přes kategorie\n\nZe 100 analyzovaných e-shopů bylo:\n\n60 orientovaných na kategorie – více než 60 % kliknutí směřovalo na kategorie,\n18 smíšených – kategorie přinášely 40 až 60 % kliknutí,\n22 orientovaných na produkty – kategorie tvořily méně než 40 % kliknutí.\n\nVýsledky tedy neříkají, že jsou kategorie vždy důležitější. Více než pětina e-shopů získávala většinu návštěvnosti přes produktové stránky.\n\nU 61 % porovnávaných vyhledávání vyhrála kategorie\n\nAutor se podíval také na více než 12 000 nebrandových vyhledávání, u kterých Google zobrazoval ze stejného e-shopu produktovou i kategoriální stránku.\n\nU 61 % z nich se častěji zobrazovala kategorie.\n\nRozdíl byl ještě výraznější u frází s vysokou hledaností. U vyhledávání s více než 10 000 zobrazeními za rok se kategorie prosazovaly častěji než v průměru daného e-shopu.\n\nVzorec byl poměrně jasný. Pokud zákazník hledal konkrétní model, název výrobku, přesný rozměr nebo variantu, častěji vyhrával produkt. U širšího dotazu, kde mohlo požadavek splnit více produktů, měla navrch kategorie. Například u fráze „dubový jídelní stůl“ se zobrazovala kategorie, zatímco u konkrétnějšího „kulatý jídelní stůl o průměru 100 cm“ se zobrazovala produktová stránka.\n\nTÝDENNÍ PODCAST\nUPdate\nJednotné číslo automaticky neznamená produkt\n\nData zpochybňují i běžné SEO pravidlo, že množné číslo patří kategorii a jednotné produktu.\n\nMnožné číslo sice kategoriím pomáhalo, ale i u vyhledávání v jednotném čísle skončila kategorie na prvním místě přibližně v 60 % případů.\n\nLepší pravidlo tedy zní: pokud zákazník stále vybírá z více možností, pravděpodobně potřebuje kategorii. Pokud hledá jeden konkrétní výrobek, dává větší smysl produktová stránka.\n\nBrandová vyhledávání mohou výsledek úplně otočit\n\nPo odstranění výrazů obsahujících název značky se celkový výsledek příliš nezměnil. U jednotlivých e-shopů však byly rozdíly výrazné.\n\nJeden módní e-shop měl u všech vyhledávání 72,1 % kliknutí na kategorie. Po odstranění brandových frází podíl klesl na 11 %. U prodejce kuchyňského vybavení tomu bylo naopak. Kategorie měly původně 33,6 %, ale po odstranění brandových vyhledávání až 72,7 %.\n\nPokud tedy chcete zjistit, které stránky získávají nové zákazníky z Googlu, nestačí sledovat jen celková kliknutí. Brandová a nebrandová vyhledávání se vyplatí "
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/ecommerce-bridge-update-43-2026/",
+      "datum": "2026-10-26",
+      "perex": "Novinky z e-commerce přináší podcast Ecommerce Bridge UPDATE. ⭐ Poslechněte si shrnutí všech článků z uplynulého týdne.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Ecommerce Bridge UPDATE 43/2026",
+        "meta": {
+          "ogTitle": "Ecommerce Bridge UPDATE 43/2026",
+          "ogDesc": "Novinky z e-commerce přináší podcast Ecommerce Bridge UPDATE. ⭐ Poslechněte si shrnutí všech článků z uplynulého týdne.",
+          "published": "2026-10-26T07:30:26+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Ecommerce Bridge UPDATE 43/2026"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n1 min. doba čtení\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.    \n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.\n\n   \n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSDÍLET ČLÁNEK\n  \nMichal Moricz\nExecutive Director v Ecommerce Bridge\n\nOnline marketingový nadšenec, tvůrce obsahu, novinář, event manažer, projektový manažer a specialista na sociální sítě… Aktuálně to hrotím se Štefanem v Ecommerce Bridge. Děláme hodně, dobře a kvalitně. Říkáš, že se nedá? Sleduj nás a dokážeme ti, že ano! 🚀\n\n \nTÝDENNÍ PODCAST\nUPdate\nPODOBNÉ ČLÁNKY\ndnes\n9 min. doba čtení\nFinanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)\n\nTisíc automatizací za jediné pololetí a víc než sto kontrol, které proběhnou dřív, než se podá DPH. Tak dnes vypadá účetní firma, která se naučila vibe kódovat. Úpravy, za které by si dřív IT firma řekla o tisíc eur, jsou dnes otázkou pár hodin a rovnou na ně dohlíží někdo, kdo rozumí i daním. Na […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\n23. října 2026\n7 min. doba čtení\nSaaS firma získává z AI stovky klientů. Co se z toho může naučit e-shop nebo značka? (Milan Novotný, CloudTalk)\n\nNávštěvnost webu jim spadla o 75 procent a firma přitom hlásila rekordní čísla v leadech i platících klientech. V CloudTalku zjistili, že z ChatGPT už lidé na web nechodí číst, ale nakupovat. Jednou z jejich nejúčinnějších metod, jak se dostat do doporučení umělé inteligence, přitom nebyl článek ani reklama, ale právník. Jejich nejcitovanější video na […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\n21. října 2026\n7 min. doba čtení\nČtvrt milionu rostlin ročně? Jak se buduje škálovatelný e-commerce byznys s květinami (Klaudia Konečná, Poni Veni)\n\nTéměř čtvrt milionu vypěstovaných rostlin ročně, v sezóně přes osm milionů zhlédnutí na sociálních sítích měsíčně a tržby, které loni vzrostly o 25 % na téměř tři čtvrtě milionu eur. Přesto stačí čtyři hodiny a škůdci zlikvidují část produkce a nepomůže ani pojistka. Klaudia a Peter Konečných začínali se zeleninovou sadbou jako teenageři, dnes po […]\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vyplněním formuláře a jeho odesláním potvrzujete, že jste se seznámili s informacemi o zpracování a ochraně osobních údajů\n\nSocializujte se\nKategorie\nAffiliate marketing\nAnalytika\nAutomatizace a AI\nB2B marketing\nBrand a Brandbuilding\nByznys\nContent marketing a copywriting\nCopywriting\nCRM\nDigital & Online marketing\nE-commerce marketing\nEmail marketing\nEventy\nExpanze e-shopu\nHR\nInfluencer marketing\nLead Generation\nLinkbuilding\nLogistika a sklady\nMarketingová strategie\nMobile marketing\nMultimédia\nNezařazené\nNovinky\nO projektu\nOnline marketing\nPerformance marketing\nPlatební brány\nPPC\nPR\nRozhovory\nSEO\nSociální sítě\nSrovnávače zboží\nTvorba webu a e-shopu\nUX, UI, design\nVidea\nVideo mar"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/financni-nastroje-gigantu-pro-kazdeho-jak-vibe-coding-konecne-meni-ucetnictvi-k-lepsimu-juraj-tobak-tpa/",
+      "datum": "2026-10-26",
+      "perex": "Prečítajte si Finanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+      "autor": "Michal Moricz",
+      "textKarty": null,
+      "detail": {
+        "h1": "Finanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)",
+        "meta": {
+          "ogTitle": "Finanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)",
+          "ogDesc": "Prečítajte si Finanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+          "published": "2026-10-26T06:50:17+00:00",
+          "autor": "Michal Moricz",
+          "h1": "Finanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n9 min. doba čtení\nFinanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)\n\nTisíc automatizací za jediné pololetí a víc než sto kontrol, které proběhnou dřív, než se podá DPH. Tak dnes vypadá účetní firma, která se naučila vibe kódovat. Úpravy, za které by si dřív IT firma řekla o tisíc eur, jsou dnes otázkou pár hodin a rovnou na ně dohlíží někdo, kdo rozumí i daním. Na Slovensku navíc od ledna 2027 přichází e-faktura a týká se i těch, kdo plátci DPH nejsou. Co to znamená pro běžný e-shop a může účetnictví konečně zlevnit? Více informací nám poskytl Juraj Tobák, partner, TPA Slovakia.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\nFinanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n02:03 Kdo je Juraj Tobák a proč ho poslouchat?\n02:49 Funguje vibe coding i v pořádném účetnictví?\n04:14 Končí éra věty „tohle účetní software neumí“?\n06:09 Co si TPA za půl roku zautomatizovala sama?\n07:35 Přizpůsobuje se dnes účetnictví procesům firmy?\n08:16 Co všechno se dá napojit na účetnictví?\n09:35 Proč je výhoda, když technologii dělá účetní firma?\n11:28 O kolik zlevnily automatizace?\n12:40 Je třeba zahodit Power BI nebo Looker?\n13:44 Jak automatické kontroly hlídají účetnictví před podáním DPH?\n16:31 Mají malé firmy přístup k nástrojům korporací?\n19:31 Může být účetnictví zároveň denním reportingem?\n22:13 Koho se od roku 2027 týká e-faktura?\n24:35 Pošle ještě někdo fakturu e-mailem?\n26:40 Co e-faktura změní pro běžnou firmu?\n28:05 Týká se e-faktura i účtenek z benzinky?\n29:35 Dá se faktura ještě upravit?\n31:54 Bude účetnictví v roce 2027 levnější?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nVibe coding bude pro účetní tím, čím byl kdysi Excel\n\nDřív se od účetního čekalo, že ovládá funkce a kontingenční tabulky. Juraj Tobák, partner TPA Slovakia, je přesvědčený, že k nim brzy přibude i vibe coding. Účetní si budou umět rychle vytvořit malý nástroj jen pro sebe, třeba konvertor nebo mikroaplikaci, a svou práci udělají výrazně rychleji. K tématu ho přivedl klient Raul Rodriguez, velký ambasador vibe codingu, který ho inspiroval i ke školením přímo ve firmě.\n\nJuraj vede v TPA oddělení GetFinDone, které se soustředí na automatizaci a digitalizaci účetnictví. Věnuje se tomu pět let, od chvíle, kdy odešel z GymBeamu, kde působil jako finanční ředitel. Vibe coding podle něj posunul automatizaci o úroveň výš a hlavně výrazně snížil její náklady.\n\nVěta „tohle náš systém neumí“ přestává platit\n\nTechnicky bylo možné téměř všechno i dřív. Problémem byl čas. Než si firma nadefinovala, co potřebuje, sepsala to a předala IT, než to programátoři pochopili, naprogramovali a prošlo to koly připomínek, uběhly týdny až měsíce. Dnes si člověk z financí navibe kóduje fungující MVP a teprve když je s ním spokojený, předá ho programátorům k nasazení. Ti dostanou hotový funkční vzor a přesně vědí, co se od nich chce.\n\nHranice je jasná. Vibe kódovanou aplikaci nelze škálovat na stovky klientů, hlavně kvůli bezpečnosti dat. Aplikace sice funguje, ale nikdo nezná její slabá místa, kudy mohou informace uniknout nebo být zneužity.\n\nTisíc automatizací za půl roku\n\nTPA se dlouho vyhýbala najímání vývojářů a stavěla na pluginech třetích stran a na low code a no co"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-43-2026-kolik-investovat-do-marketingu-pozor-na-lucid-kriticka-chyba-v-php/",
+      "datum": "2026-10-26",
+      "perex": "Připravvili sme pro vás novinky z e-commerce a marketingu. ✅ Rychlé čtení, ✅ okamžitý přehled, ✅ lepší rozhled.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Novinky z e-commerce 43/2026: Kolik investovat do marketingu, pozor na LUCID, kritická chyba v PHP",
+        "meta": {
+          "ogTitle": "Novinky z e-commerce 43/2026",
+          "ogDesc": "Připravvili sme pro vás novinky z e-commerce a marketingu. ✅ Rychlé čtení, ✅ okamžitý přehled, ✅ lepší rozhled.",
+          "published": "2026-10-26T06:30:48+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Novinky z e-commerce 43/2026: Kolik investovat do marketingu, pozor na LUCID, kritická chyba v PHP"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n10 min. doba čtení\nNovinky z e-commerce 43/2026: Kolik investovat do marketingu, pozor na LUCID, kritická chyba v PHP\n\nSouhrn novinek z marketingu, e-commerce a online dění za uplynulý týden.\n\nRedakce\nÚvod\n/\nČlánky\n/\nNovinky z e-commerce 43/2026: Kolik investovat do marketingu, pozor na LUCID, kritická chyba v PHP\nZdroj: Depositphotos\n\nKolik z obratu by měl e-shop vrátit zpět do marketingu? Jedno správné procento neexistuje. Pět procent může být pro jednu firmu příliš mnoho a pro jinou příliš málo. Rozhoduje zejména marže, cena za získání zákazníka, jeho celoživotní hodnota, opakované nákupy a fáze, ve které se firma nachází. Zavedený e-shop může investovat méně, zatímco značka, která chce rychle růst nebo vstoupit na nový trh, potřebuje mnohem větší rozpočet. Důležité navíc není pouze to, kolik peněz firma utratí, ale také kolik dá do výkonu, značky, CRM, obsahu či experimentování s novými kanály.\n\nE-shopy, které prodávají přímo zákazníkům v Německu, by si měly zkontrolovat registraci v systému LUCID. Firmy, které byly registrovány ještě podle starších pravidel, musí do 12. listopadu upravit své údaje a doplnit zplnomocněného zástupce v Německu. Nutná je i smlouva s německým duálním systémem. Do evidence přitom nepatří pouze samotná kartonová krabice. Počítá se i obálka, lepicí páska, štítek či výplňový materiál. Slovenská registrace obalů tyto povinnosti nenahrazuje a problém nevyřeší automaticky ani prodej přes Amazon či využívání fulfillmentu.\n\nPozor by si měly dát i e-shopy, které běží na PHP. Vývojáři opravili dvě kritické zranitelnosti, které mohou za určitých podmínek umožnit útočníkovi spustit škodlivý kód na serveru i bez přihlašovacích údajů. Problém není ve WordPressu, WooCommerce nebo Magentě, ale přímo v PHP. Proto nemusí stačit aktualizovat samotný e-shop nebo pluginy. Pokud nevíte, jakou verzi používáte, nejjednodušší je obrátit se na hosting nebo správce serveru a ověřit, zda již byla bezpečnostní oprava nainstalována.\n\nProdávat přes internet živé rostliny přináší úplně jiné výzvy než běžný e-shop. Klaudia Konečná z Poni Veni vysvětluje, jak firma vyrostla z prodeje zeleninové sadby na byznys, který ročně vypěstuje téměř čtvrt milionu rostlin. Loni její tržby vzrostly o 25 % na téměř 750 tisíc eur. U živého produktu však nestačí zvládnout marketing a logistiku. Rostlinu je potřeba dostat k zákazníkovi ideálně do 48 hodin a zároveň počítat se sezónností, počasím či škůdci, kteří dokážou za pár hodin zničit část produkce.\n\nKlaudia Konečná z Poni Veni\n\nMeta od 30. října mění podmínky pro firmy. Nová pravidla jí umožňují pomocí crawlerů a botů automaticky procházet weby, které souvisejí s firemními účty a produkty. Původní verze podmínek výslovně hovořila i o použití obsahu k trénování produktů. Po vlně kritiky Meta tuto formulaci odstranila. Právo automatizovaně sbírat, analyzovat a aktualizovat obsah z firemních webů však v podmínkách zůstalo.\n\nMnoho malých firem si podle Tomáše Töröka z BizBuilders myslí, že obchoduje, ačkoli ve skutečnosti pouze vyřizuje poptávky. Když zákazníci přicházejí sami, systém funguje. Problém vyvstane ve chvíli, kdy poptávky přestanou chodit. Firma pak zjistí, že nikdo aktivně nehledá nové příležitosti, nesetkává se se zákazníky a neposouvá leady k uzavření obchodu. Marketing sice může přinést kontakt nebo zájem, ale samotnou zakázku za firmu neuzavře. Majitel by proto měl umět přesně říct, kdo ve firmě aktivně přináší nové tržby.\n\nMarketp"
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -45,166 +145,46 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/marketing-rulezz-850-ucastniku-nabity-program-a-early-birds-jen-do-31-10/",
-      "datum": "2026-10-23",
-      "perex": "Marketing RULEZZ 2026 nabídne 70+ speakerů, 4 sály, masterclassy i networking. Early Birds vstupenky jsou dostupné jen do 31. října.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Marketing RULEZZ: 850+ účastníků, nabitý program a EARLY BIRDS jen do 31. 10.!",
-        "meta": {
-          "ogTitle": "Marketing RULEZZ 2026 přinese 70+ speakerů a 4 sály",
-          "ogDesc": "Marketing RULEZZ 2026 nabídne 70+ speakerů, 4 sály, masterclassy i networking. Early Birds vstupenky jsou dostupné jen do 31. října.",
-          "published": "2026-10-23T09:19:08+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Marketing RULEZZ: 850+ účastníků, nabitý program a EARLY BIRDS jen do 31. 10.!"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n23. října 2026\n3 min. doba čtení\nMarketing RULEZZ: 850+ účastníků, nabitý program a EARLY BIRDS jen do 31. 10.!\n\n70+ speakerů ve 4 sálech, Expo RULEZZ a tradiční networkingová afterparty. To vše v jeden den a na jednom místě: na konferenci Marketing RULEZZ: Make Marketing Great Again. Už 19. listopadu 2026 v INCHEBA EXPO ARENA v Bratislavě.\n\nPavel Hapák\nChceš se přidat k e-commerce expertům jako Pavel?\nPřidat se\nÚvod\n/\nČlánky\n/\nMarketing RULEZZ: 850+ účastníků, nabitý program a EARLY BIRDS jen do 31. 10.!\nZdroj: Archív Rulezz\nJOJ play stage: O tom, co by měl marketing dělat pro značky lépe než dosud\n\nHlavní JOJ play Stage Marketing RULEZZ 2026 bude postavený na velkých otázkách, které se dnes týkají téměř každého marketéra, značky i agentury. Proto se zde setkají zahraniční i domácí keynote speakeři, zkušení marketéři, kreativci, stratégové i lidé z praxe, kteří se na marketing dívají přes výsledky, růst a dlouhodobou hodnotu značky.\n\nMezi hlavní jména programu patří Andrew Tindall ze System1, Tommaso Calzolari z adidas, Nick Henthorn z InfoSum / WPP, Andrey Tyukavkin z LeGarage by LePub, Steve Harrison a mnozí další z domova i ze zahraničí, kteří přinesou pohled na marketingovou efektivitu, značku, kreativitu, data, technologie i strategické rozhodování. A nepůjde jen o přednášky pro přednášky, ale o inspirativní obraz toho, jak by měl vypadat dnešní GREAT MARKETING. Marketing, který funguje.\n\nGrowth stage: Marketing i pro firmy, které marketing neřeší každý den\n\nJak získávat zákazníky, lépe prodávat a nebýt jen ten levnější? Jak se vyznat v marketingu a zbytečně neutrácet peníze? Jak růst bez chaosu díky lepším rozhodnutím? To jsou základní témata, kterým se budou věnovat renomovaní speakeři, odborníci i samotní podnikatelé z této oblasti: Peter Strcula z BLUVARD, Tomáš Török z BizBuilders, Matej Šucha z Mindworx Consulting, Peter Krišťák z Woxwise, Ján Košturiak, Lukáš Lepáček z MP KOVANIA, Libor Toporcer z Invelity, Milan Novotný z CloudTalk, Jana Oriešek z ui42, Marek Šulik z Birne, Lenka Bartošová z reklama BARTOŠ, Jakub Dudík z MTBIKER.SK, Iveta Hrabovská z Gentlejam, Luboš Fellner z BUBO Travel Agency a další.\n\nA k tomu Masterclass Zone a Associations Area ve spolupráci s garanty jako IAB Slovakia, ADMA, Ľudia z marketingu, Komunikační experti, ASAI či Evidence Based Marketing Academy Praha, s nabitým paralelním programem plným praktických formátů, diskusí a „deep dive“ do témat, na která v hlavních sálech jednoduše není prostor. A také zóna Expo RULEZZ a tradiční vydatná večerní networkingová party jako každý rok.\n\nPodívejte se na nabitý program, jaký jinde nenajdete:\n\nHlavní JOJ play stage\n\nGrowth stage (pro malé a střední firmy)\n\nMasterclass zone\n\nAssociations Area\n\nPoslední zvýhodněné vstupenky EARLY BIRDS jen do 31. října: Volné sezení s registrací se slevou 80 € ze základní ceny 377 €.\n\nVyužijte nabídku zvýhodněných cen ZDE.\n\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vyplněním formuláře a jeho odesláním potvrzujete, že jste se seznámili s informacemi o zpracování a ochraně osobních údajů\n\nSDÍLET ČLÁNEK\n  \nPavel Hapák\n\nPartner RULEZZ | Co-organizer of the biggest Slovak marketing conference Marketing RULEZ"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/v-popradu-jsme-museli-pridavat-zidle-ecommerce-bridge-live-otevrel-i-neprijemnou-pravdu-o-rostoucich-e-shopech/",
-      "datum": "2026-10-23",
-      "perex": "Ecommerce Bridge LIVE Poprad přinesl otevřené příběhy e-shopů, překvapivá čísla i zkušenosti, o kterých se běžně nemluví.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "V Popradu jsme museli přidávat židle. Ecommerce Bridge LIVE otevřel i nepříjemnou pravdu o rostoucích e-shopech",
-        "meta": {
-          "ogTitle": "Ecommerce Bridge LIVE Poprad: Růst, AI a ziskovost e-shopů",
-          "ogDesc": "Ecommerce Bridge LIVE Poprad přinesl otevřené příběhy e-shopů, překvapivá čísla i zkušenosti, o kterých se běžně nemluví.",
-          "published": "2026-10-23T09:01:39+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "V Popradu jsme museli přidávat židle. Ecommerce Bridge LIVE otevřel i nepříjemnou pravdu o rostoucích e-shopech"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n23. října 2026\n12 min. doba čtení\nV Popradu jsme museli přidávat židle. Ecommerce Bridge LIVE otevřel i nepříjemnou pravdu o rostoucích e-shopech\n\nCo když má váš e-shop stále vyšší tržby, ale na účtu to nějak není vidět? Dokázali byste na měsíc odejít z firmy, aniž by se všechno zastavilo? A kolik může stát vývoj nového webu, když do práce zapojíte AI? V Popradu jsme se podívali i na věci, o kterých se v souvislosti s úspěšnými značkami zase tak často nemluví. Nechyběla konkrétní čísla, zkušenosti s expanzí ani příběhy, u kterých by nejeden podnikatel zbystřil.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nV Popradu jsme museli přidávat židle. Ecommerce Bridge LIVE otevřel i nepříjemnou pravdu o rostoucích e-shopech\n\nNaše konference Ecommerce Bridge LIVE se 22. října konala v Popradu. Tentokrát jsme se setkali v coworkingovém prostoru, který měl oproti našim obvyklým konferenčním místům trochu jinou atmosféru. Bez ruchu z baru, v komornějším prostředí a mezi lidmi, kteří přišli kvůli e-commerce.\n\nA postupně jich přibývalo. Někteří si vstupenky kupovali ještě na poslední chvíli a dorazili až po začátku programu. V jednu chvíli jsme proto museli přinést další židle, aby si měl každý kam sednout.\n\nCoworking měl také jednu praktickou výhodu. Místnost s občerstvením byla oddělená od té, kde probíhaly přednášky. Kdo si chtěl dát kávu a trochu se pobavit s ostatními, mohl si v klidu povídat, aniž by někoho rušil. Většina lidí ale zůstávala na přednáškách.\n\nA bylo co poslouchat. Od zákulisí rostoucích e-shopů přes vlastního AI asistenta až po otevřený příběh firmy, jejíž tržby stoupaly, ale zisk se vydal úplně jiným směrem.\n\nPeter Brezani z Bloom Robbins položil otázku, na kterou nemusí být snadné odpovědět\n\nVíte, kolik vaše firma minulý měsíc skutečně vydělala? Ne kolik vyfakturovala nebo jaký měla obrat. Kolik peněz jí opravdu zůstalo?\n\nPrávě tím začal Peter Brezani, COO Bloom Robbins, který předtím více než sedm let působil v Be Lenka. A hned se dostal k problému, který zná mnoho rostoucích e-shopů.\n\nKdyž se firmě daří, přibývají objednávky, zaměstnanci, produkty i nové trhy. To zní dobře. Jenže spolu s nimi přibývají také reklamace, vratky, peníze vázané ve skladových zásobách a rozhodnutí, která je potřeba každý den udělat. A pokud všechno stále končí na stole majitele, může mu růst firmy začít přerůstat přes hlavu.\n\nPeter Brezani, COO Bloom Robbins\n\nBrezani proto doporučuje sledovat pět oblastí: finance, růst, produkty a sklad, lidi a provoz. Nejen výsledky reklamy nebo celkový obrat.\n\nNa jednoduchém příkladu vysvětlil, jak rychle mohou peníze z objednávky zmizet. Ze 100 eur odečetl náklady na zboží, dopravu, platby, vratky a marketing. Zůstalo 20 eur. A z těch je ještě potřeba zaplatit zaměstnance, nájem nebo software.\n\nSto eur v tržbách tedy rozhodně neznamená sto eur, se kterými může firma volně nakládat.\n\nPodobné je to s reklamními systémy. Ty si rády připisují zásluhy za prodej, ale nezřídka si několik kanálů započítá stejnou objednávku. Brezani uvedl ilustrační příklad, ve kterém součet vykázaných konverzí dosáhl 130 %, přestože e-shop měl ve skutečnosti jen 100 % objednávek.\n\nPokud majitel sleduje pouze jednotlivé reklamní účty, může mít z výsledků podstatně lepší pocit, než jakému odpovídá realita.\n\nPokud firma bez vás nedokáže měsíc fungovat, možná ji nemáte pod kontrolou vy. Možná má ona pod kontrolo"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/kriticka-chyba-v-php-muze-ohrozit-vas-e-shop-zkontrolujte-verzi-a-aktualizujte-co-nejdrive/",
-      "datum": "2026-10-23",
-      "perex": "Bezpečnostní aktualizace PHP opravuje dvě kritické chyby. Zkontrolujte verzi svého webu nebo e-shopu a aktualizujte co nejdříve.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Kritická chyba v PHP může ohrozit váš e-shop. Zkontrolujte verzi a aktualizujte co nejdříve",
-        "meta": {
-          "ogTitle": "Bezpečnostní aktualizace PHP: kritické chyby ohrožují weby",
-          "ogDesc": "Bezpečnostní aktualizace PHP opravuje dvě kritické chyby. Zkontrolujte verzi svého webu nebo e-shopu a aktualizujte co nejdříve.",
-          "published": "2026-10-23T06:34:24+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Kritická chyba v PHP může ohrozit váš e-shop. Zkontrolujte verzi a aktualizujte co nejdříve"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n23. října 2026\n5 min. doba čtení\nKritická chyba v PHP může ohrozit váš e-shop. Zkontrolujte verzi a aktualizujte co nejdříve\n\nPokud váš e-shop běží na PHP, zkontrolujte si jeho verzi. Dvě kritická místa mohou za určitých podmínek umožnit útočníkům spustit škodlivý kód na serveru bez přihlášení. Vývojáři již vydali nouzové opravy a evropské bezpečnostní autority doporučují aktualizovat dotčené systémy okamžitě. Samotná aktualizace WordPressu, WooCommerce nebo Magenty přitom nemusí stačit.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nKritická chyba v PHP může ohrozit váš e-shop. Zkontrolujte verzi a aktualizujte co nejdříve\nZdroj: ChatGPT\n\nVývojáři PHP vydali 21. října mimořádnou bezpečnostní aktualizaci, která opravuje dvě místa označená jako CVE-2026-109618 a CVE-2026-109619. Obě mohou za určitých podmínek umožnit útočníkovi spustit škodlivý kód na serveru bez toho, aby znal přihlašovací údaje.\n\nPodle oficiálního bezpečnostního upozornění PHP se problém týká samotného PHP a může zasáhnout různé způsoby jeho nasazení na serverech.\n\nSamotná aktualizace WordPressu nemusí stačit\n\nPro majitele e-shopu je důležité zejména to, že problém se nachází přímo v PHP, nikoli v konkrétním pluginu, šabloně nebo e-commerce platformě.\n\nPHP přitom stojí v pozadí velkého množství webů a aplikací. Používají ho například WordPress a WooCommerce, Magento či množství individuálně vyvíjených řešení.\n\nTo však neznamená, že každý web postavený na těchto systémech byl napaden. Znamená to, že pokud server používá zranitelnou verzi PHP, může být potenciálně vystaven riziku. Proto nemusí stačit aktualizovat pouze WordPress, WooCommerce, Magento nebo pluginy. Je potřeba prověřit verzi PHP přímo na serveru.\n\nKteré verze je třeba mít nainstalované?\n\nOpravy byly vydány v těchto verzích:\n\nPHP 8.5.12\nPHP 8.4.27\nPHP 8.3.36\nPHP 8.2.35\n\nPokud používáte starší verzi v rámci některé z těchto větví, je třeba ji aktualizovat.\n\nPHP 8.1 a starší verze již přímo od projektu PHP standardní aktualizace nedostávají. Některé linuxové distribuce nebo poskytovatelé dlouhodobé podpory však mohou bezpečnostní opravy přenést i do starších verzí. V takovém případě je třeba prověřit informace přímo u hostingu nebo správce serveru.\n\nVývojáři zároveň upozorňují, že neexistuje úplná náhrada za aktualizaci. Dočasná opatření mohou snížit riziko některých způsobů útoku, ale bezpečným řešením zůstává nainstalování opravy.\n\nCo má udělat majitel e-shopu?\n\nPokud technickou správu e-shopu neřešíte interně, první krok je jednoduchý: kontaktujte hosting, správce serveru nebo vývojáře.\n\nPotřebujete zjistit dvě věci.\n\n1. Jakou verzi PHP e-shop používá?\n\nInformaci často najdete přímo v administračním panelu hostingu. U spravovaných řešení může aktualizaci provést poskytovatel automaticky.\n\n2. Byla již nainstalována bezpečnostní oprava?\n\nNestačí znát pouze číslo hlavní verze, například PHP 8.4. Důležité je, zda server používá opravenou verzi, v tomto případě 8.4.27 nebo novější bezpečnou verzi.\n\nENISA spolu s Evropskou komisí, CERT-EU, Europolem a evropskou sítí CSIRT doporučuje firmám okamžitě identifikovat aplikace využívající PHP, koordinovat postup s hostingovými a servisními partnery a prioritně aktualizovat systémy dostupné z internetu.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nPreventivně se odstavovaly i celé weby\n\nZávažnost situace ukazuje i reakce"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/cyberutok-stlacil-tydenni-podil-albert-heijn-z-37-na-28-zakaznici-presli-ke-konkurenci/",
-      "datum": "2026-10-22",
-      "perex": "Nová data po incidentu Albert Heijn ukazují, jak rychle může technický výpadek změnit nákupní chování a přesunout zákazníky ke konkurenci.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Cyberútok stlačil týdenní podíl Albert Heijn z 37 na 28 %. Zákazníci přešli ke konkurenci",
-        "meta": {
-          "ogTitle": "Výpadek e-shopu může poslat zákazníky ke konkurenci",
-          "ogDesc": "Nová data po incidentu Albert Heijn ukazují, jak rychle může technický výpadek změnit nákupní chování a přesunout zákazníky ke konkurenci.",
-          "published": "2026-10-22T10:02:20+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Cyberútok stlačil týdenní podíl Albert Heijn z 37 na 28 %. Zákazníci přešli ke konkurenci"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n22. října 2026\n3 min. doba čtení\nCyberútok stlačil týdenní podíl Albert Heijn z 37 na 28 %. Zákazníci přešli ke konkurenci\n\nTechnický problém se velmi rychle může změnit v obchodní. Nová data z Nizozemska ukazují, co se stalo během výpadku systémů Albert Heijn: řetězci výrazně klesl týdenní tržní podíl, zatímco konkurenti získali. Ne všechny nákupy se však jednoduše přesunuly jinam.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nCyberútok stlačil týdenní podíl Albert Heijn z 37 na 28 %. Zákazníci přešli ke konkurenci\nZdroj: ChatGPT\n\nVe čtvrtek 15. října jsme vás informovali o bezpečnostním incidentu, který odstavil online prodej, aplikace i část logistiky více značek skupiny Ahold Delhaize. Nejtvrdší dopady pocítil nizozemský Albert Heijn, kterému přestal fungovat web a aplikace a problémy zasáhly i zásobování prodejen.\n\nNyní se objevují první čísla, která ukazují obchodní dosah incidentu. Podle dat výzkumné společnosti Hiiper, která přinesl RetailDetail, klesl tržní podíl Albert Heijn v Nizozemsku během minulého týdne z běžných přibližně 37 % na 28 %.\n\nNejde tedy pouze o to, že zákazníci nemohli nakupovat online. Výpadek se promítl i do toho, kde nakonec své peníze utratili.\n\nNejvíce získal Jumbo\n\nNejvětší posun v absolutních číslech zaznamenal druhý největší nizozemský supermarket Jumbo. Jeho podíl vzrostl z přibližně 20 % na 24 %. Polepšily si i Plus a Lidl. Zajímavý výsledek zaznamenal také online supermarket Picnic, jehož výsledek se podle Hiiper zvýšil relativně o 20 %.\n\nPrávě Picnic je dobrým příkladem toho, proč je třeba jednotlivá čísla číst opatrně. Relativní nárůst může vypadat výrazně, ale vychází z podstatně menšího základu než u velkých kamenných řetězců. V absolutním vyjádření se největší část přesunutých nákupů dostala k tradičním supermarketům.\n\nNe všichni zákazníci jednoduše přešli ke konkurenci\n\nZajímavé je, že celá ztráta Albert Heijn se neproměnila v růst konkurentů.\n\nHiiper zaznamenal během sledovaného týdne i nižší celkové výdaje v supermarketech. Část zákazníků tedy své nákupy jednoduše odložila.\n\nPodle podrobnějšího vysvětlení metodiky, které přinesl FoodPersonality, Hiiper porovnával tržní podíly ve 42. týdnu s obdobím 10 roku 2026 a pracoval se širší definicí trhu, nikoli pouze s tradičními supermarkety.\n\nTo je důležité i při interpretaci poklesu z 37 na 28 %. Jde o krátkodobý pohyb během mimořádné situace, nikoli o důkaz, že Albert Heijn natrvalo přišel o čtvrtinu svých zákazníků.\n\nVýpadek má cenu i tehdy, když se systémy podaří obnovit\n\nPro e-commerce je na tomto případě nejzajímavější, jak rychle dokáže technický problém zasáhnout obchodní výsledky.\n\nZákazník, který se nedostane na web, nemůže dokončit objednávku nebo v prodejně nenajde požadované zboží, nemusí čekat na odstranění problému. Při běžném nákupu potravin může konkurence dostat šanci prakticky okamžitě.\n\nA tím riziko nekončí. Jednorázový přesun nákupu ještě nemusí znamenat ztrátu zákazníka, ale dává konkurenci příležitost ukázat vlastní službu. Část lidí se po obnovení provozu vrátí, část může zjistit, že jim vyhovuje i alternativa.\n\nPro e-shop je proto při výpadku důležité nesledovat pouze to, kolik hodin byl web nedostupný. Smysl má podívat se i na vývoj objednávek po obnovení služby, návrat stávajících zákazníků či změnu nákupní frekvence.\n\nNejdůležitější čísla přijdou až později\n\nAlbert Heijn již web a aplikaci ob"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/kolik-ma-e-shop-investovat-do-marketingu/",
-      "datum": "2026-10-22",
-      "perex": "Kolik by měl e-shop investovat do marketingu a podle čeho rozpočet nastavit? Data i experti ukazují různé pohledy.",
-      "autor": "Terézia Papáneková",
-      "textKarty": null,
-      "detail": {
-        "h1": "Kolik má e-shop investovat do marketingu?",
-        "meta": {
-          "ogTitle": "Kolik má e-shop investovat do marketingu?",
-          "ogDesc": "Kolik by měl e-shop investovat do marketingu a podle čeho rozpočet nastavit? Data i experti ukazují různé pohledy.",
-          "published": "2026-10-22T09:05:19+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Kolik má e-shop investovat do marketingu?"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n22. října 2026\n3 min. doba čtení\nKolik má e-shop investovat do marketingu?\n\nKolik z obratu vrátit zpět do marketingu? Pět procent může být pro jeden e-shop moc, jinému naopak nemusí stačit. Rozdíly mezi dostupnými benchmarky jsou přitom výrazné. Zajímalo nás proto, podle čeho by měl e-shop svůj marketingový rozpočet skutečně nastavit.\n\nTerézia Papáneková\nredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nKolik má e-shop investovat do marketingu?\nZdroj: ChatGPT\n\nKdyž firma hledá odpověď na otázku, kolik investovat do marketingu, procento z obratu je jedním z nejjednodušších orientačních bodů. Aktuální Gartner CMO Spend Survey ukazuje, že firmy dávají na marketing v průměru 7,8 % svých tržeb. Toto číslo se meziročně téměř nezměnilo. Je však třeba dodat, že průzkum zahrnoval 401 marketingových lídrů ze Severní Ameriky, Velké Británie a Evropy a většina z nich zastupovala společnosti s ročními tržbami nad miliardu dolarů.\n\nU e-commerce se můžeme dostat k úplně jiným číslům. Data z reálných objednávek a reklamních účtů evropských DTC značek, které sleduje adtribute, ukazují za srpen 2026 medián MER na úrovni 5,14. V přepočtu to znamená, že sledované značky dávaly přibližně 19,5 % tržeb pouze do placené reklamy. Prostřední polovina se pohybovala mezi 12,5 a 26,2 %. A stále nejde o celý marketingový rozpočet – v tomto čísle nejsou zahrnuty například náklady na agentury, tvorbu kreativ či influencery mimo reklamní platformy.\n\nRozdíl mezi 7,8 a 19,5 % však neznamená, že jedno číslo je správné a druhé ne. Jde o odlišné typy firem i odlišnou metodiku. Právě to ukazuje, jak problematické může být převzít jeden benchmark a podle něj nastavit rozpočet konkrétního e-shopu.\n\nNestačí rozhodnout, kolik. Důležité je i kam\n\nMarketingový rozpočet navíc není jen Google a Meta. Patří do něj aktivity zaměřené na získávání nových zákazníků, budování značky, CRM, e-mailing, obsah, SEO, kreativa či experimentování s novými kanály.\n\nGlobální reklamní investice přitom dále rostou. WARC odhaduje, že v roce 2026 dosáhnou 1,34 bilionu dolarů, meziročně o 11,9 % více. Sociální sítě, vyhledávání a retail media mají dohromady tvořit už 66,4 % celosvětových reklamních investic. Samotné sociální sítě mají letos vyrůst o 21,3 % na 394,6 miliardy dolarů.\n\nAni rostoucí objem peněz v digitálních kanálech však neodpovídá na otázku, jaký poměr dává smysl pro konkrétní e-shop. Jinak bude uvažovat nová značka, která potřebuje získat první zákazníky, jinak etablovaný hráč s velkou databází a opakovanými nákupy a jinak firma, která vstupuje na další trh.\n\nDo hry navíc vstupuje marže, cena za získání zákazníka, jeho dlouhodobá hodnota, konkurence, cash flow i ambice firmy růst. Stejně důležité je rozhodnutí, kolik peněz směřovat do výkonu, který lze měřit okamžitě, a kolik do značky, obsahu či CRM, jejichž efekt se může projevit až později.\n\nJak to vidí experti?\n\nZajímalo nás, jaké procento z obratu může být pro e-shop zdravým orientačním bodem, jak rozdělit marketingový rozpočet mezi performance, brand, obsah, CRM a další aktivity a podle čeho poznat, že firma investuje do marketingu příliš málo, nebo naopak příliš mnoho.\n\nDoporučuju nestavět rozpočet procentu z obratu. Nejdřív je potřeba si ujasnit cíle, příležitosti, zanalyzovat, co funguje a kde peníze utíkají. Téměř vždy je možné najít quick wins. A pak určit priority – k čemu máme data, lidi, zdroje, co umíme, co nám to při"
-      }
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/kolik-objednavek-vam-reklama-skutecne-prinesla-mozna-platite-i-za-ty-ktere-by-prisly-i-bez-ni/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/vydejni-mista-a-boxy-dominuji-zasilkam-v-datech-500-e-shopu-je-voli-pres-82-zakazniku/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/gemini-pridava-nova-propojeni-pro-male-firmy-podivejte-se-na-novinky-ktere-maji-zrychlit-kazdodenni-praci/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/vypadek-google-cloud-zasahl-revolut-i-dpd-co-si-z-nej-ma-odnest-e-shop/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/ai-startupy-i-lide-kteri-formuji-cesky-internet-kdo-se-stane-osobnosti-ceskeho-digitalu-2026/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/ctvrt-milionu-rostlin-rocne-jak-se-buduje-skalovatelny-e-commerce-byznys-s-kvetinami-klaudia-konecna-poni-veni/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/jak-dr-max-propojuje-temer-450-lekaren-s-e-commerce-a-meni-je-v-jeden-obchodni-ekosystem-marian-janos/",
       "datum": null,
       "perex": null,
       "autor": null,
@@ -445,13 +425,13 @@
   "tydenniUpdate": [
     {
       "zdroj": "ecommercebridge",
-      "tyden": "42/2026",
-      "posun": -2,
-      "url": "https://www.ecommercebridge.cz/ecommerce-bridge-update-42-2026/",
-      "titul": "Ecommerce Bridge UPDATE 42/2026",
-      "datum": "2026-10-19",
+      "tyden": "43/2026",
+      "posun": -1,
+      "url": "https://www.ecommercebridge.cz/ecommerce-bridge-update-43-2026/",
+      "titul": "Ecommerce Bridge UPDATE 43/2026",
+      "datum": "2026-10-26",
       "perex": "Novinky z e-commerce přináší podcast Ecommerce Bridge UPDATE. ⭐ Poslechněte si shrnutí všech článků z uplynulého týdne.",
-      "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n19. října 2026\n1 min. doba čtení\nEcommerce Bridge UPDATE 42/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.    \n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nEcommerce Bridge UPDATE 42/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.\n\n   \n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSDÍLET ČLÁNEK\n  \nMichal Moricz\nExecutive Director v Ecommerce Bridge\n\nOnline marketingový nadšenec, tvůrce obsahu, novinář, event manažer, projektový manažer a specialista na sociální sítě… Aktuálně to hrotím se Štefanem v Ecommerce Bridge. Děláme hodně, dobře a kvalitně. Říkáš, že se nedá? Sleduj nás a dokážeme ti, že ano! 🚀\n\n \nTÝDENNÍ PODCAST\nUPdate\nPODOBNÉ ČLÁNKY\n23. října 2026\n7 min. doba čtení\nSaaS firma získává z AI stovky klientů. Co se z toho může naučit e-shop nebo značka? (Milan Novotný, CloudTalk)\n\nNávštěvnost webu jim spadla o 75 procent a firma přitom hlásila rekordní čísla v leadech i platících klientech. V CloudTalku zjistili, že z ChatGPT už lidé na web nechodí číst, ale nakupovat. Jednou z jejich nejúčinnějších metod, jak se dostat do doporučení umělé inteligence, přitom nebyl článek ani reklama, ale právník. Jejich nejcitovanější video na […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\n21. října 2026\n7 min. doba čtení\nČtvrt milionu rostlin ročně? Jak se buduje škálovatelný e-commerce byznys s květinami (Klaudia Konečná, Poni Veni)\n\nTéměř čtvrt milionu vypěstovaných rostlin ročně, v sezóně přes osm milionů zhlédnutí na sociálních sítích měsíčně a tržby, které loni vzrostly o 25 % na téměř tři čtvrtě milionu eur. Přesto stačí čtyři hodiny a škůdci zlikvidují část produkce a nepomůže ani pojistka. Klaudia a Peter Konečných začínali se zeleninovou sadbou jako teenageři, dnes po […]\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\n19. října 2026\n8 min. doba čtení\nJak Dr. Max propojuje téměř 450 lékáren s e-commerce a mění je v jeden obchodní ekosystém (Marián Jánoš)\n\nDr. Max má na Slovensku už 480 lékáren, ale nejrychleji mu roste online. E-shop spustil v roce 2014 a dnes nabízí více než 100 000 položek, většinu z nich přes marketplace. Věrnostní program má 1,6 milionu aktivních členů jen na Slovensku a počítají se pouze ti, kteří za poslední rok nakoupili. Na dotazy k zásilkám […]\n\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vyplněním formuláře a jeho odesláním potvrzujete, že jste se seznámili s informacemi o zpracování a ochraně osobních údajů\n\nSocializujte se\nKategorie\nAffiliate marketing\nAnalytika\nAutomatizace a AI\nB2B marketing\nBrand a Brandbuilding\nByznys\nContent marketing a copywriting\nCopywriting\nCRM\nDigital & Online marketing\nE-commerce marketing\nEmail marketing\nEventy\nExpanze e-shopu\nHR\nInfluencer marketing\nLead Generation\nLinkbuilding\nLogistika a sklady\nMarketingová strategie\nMobile marketing\nMultimédia\nNezařazené\nNovinky\nO projektu\nOnline marketing\nPerformance marketing\nPlatební brány\nPPC\nPR\nRozhovory\nSEO\nSociální sítě\nSrovnávače zboží\nTvorba webu a e-shopu\nUX, UI, design\nVidea\nVideo marketing\nInformační stránka portálu Ecommerce Bridge\nNastavení cookies\nPřihlášení\nRegistrace\n© 2018 - 2026 Ecommerce Bridge - Lead Media s.r.o."
+      "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n1 min. doba čtení\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.    \n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.\n\n   \n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSDÍLET ČLÁNEK\n  \nMichal Moricz\nExecutive Director v Ecommerce Bridge\n\nOnline marketingový nadšenec, tvůrce obsahu, novinář, event manažer, projektový manažer a specialista na sociální sítě… Aktuálně to hrotím se Štefanem v Ecommerce Bridge. Děláme hodně, dobře a kvalitně. Říkáš, že se nedá? Sleduj nás a dokážeme ti, že ano! 🚀\n\n \nTÝDENNÍ PODCAST\nUPdate\nPODOBNÉ ČLÁNKY\ndnes\n9 min. doba čtení\nFinanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)\n\nTisíc automatizací za jediné pololetí a víc než sto kontrol, které proběhnou dřív, než se podá DPH. Tak dnes vypadá účetní firma, která se naučila vibe kódovat. Úpravy, za které by si dřív IT firma řekla o tisíc eur, jsou dnes otázkou pár hodin a rovnou na ně dohlíží někdo, kdo rozumí i daním. Na […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\n23. října 2026\n7 min. doba čtení\nSaaS firma získává z AI stovky klientů. Co se z toho může naučit e-shop nebo značka? (Milan Novotný, CloudTalk)\n\nNávštěvnost webu jim spadla o 75 procent a firma přitom hlásila rekordní čísla v leadech i platících klientech. V CloudTalku zjistili, že z ChatGPT už lidé na web nechodí číst, ale nakupovat. Jednou z jejich nejúčinnějších metod, jak se dostat do doporučení umělé inteligence, přitom nebyl článek ani reklama, ale právník. Jejich nejcitovanější video na […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\n21. října 2026\n7 min. doba čtení\nČtvrt milionu rostlin ročně? Jak se buduje škálovatelný e-commerce byznys s květinami (Klaudia Konečná, Poni Veni)\n\nTéměř čtvrt milionu vypěstovaných rostlin ročně, v sezóně přes osm milionů zhlédnutí na sociálních sítích měsíčně a tržby, které loni vzrostly o 25 % na téměř tři čtvrtě milionu eur. Přesto stačí čtyři hodiny a škůdci zlikvidují část produkce a nepomůže ani pojistka. Klaudia a Peter Konečných začínali se zeleninovou sadbou jako teenageři, dnes po […]\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vyplněním formuláře a jeho odesláním potvrzujete, že jste se seznámili s informacemi o zpracování a ochraně osobních údajů\n\nSocializujte se\nKategorie\nAffiliate marketing\nAnalytika\nAutomatizace a AI\nB2B marketing\nBrand a Brandbuilding\nByznys\nContent marketing a copywriting\nCopywriting\nCRM\nDigital & Online marketing\nE-commerce marketing\nEmail marketing\nEventy\nExpanze e-shopu\nHR\nInfluencer marketing\nLead Generation\nLinkbuilding\nLogistika a sklady\nMarketingová strategie\nMobile marketing\nMultimédia\nNezařazené\nNovinky\nO projektu\nOnline marketing\nPerformance marketing\nPlatební brány\nPPC\nPR\nRozhovory\nSEO\nSociální sítě\nSrovnávače zboží\nTvorba webu a e-shopu\nUX, UI, design\nVidea\nVideo marketing\nInformační stránka portálu Ecommerce Bridge\nNastavení cookies\nPřihlášení\nRegistrace\n© 2018 - 2026 Ecommerce Bridge - Lead Media s.r.o."
     }
   ],
   "poznamky": []
