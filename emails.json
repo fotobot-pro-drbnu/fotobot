@@ -1,60 +1,67 @@
 {
-  "generatedAt": "2026-10-26T05:01:12.822Z",
+  "generatedAt": "2026-10-27T04:43:24.355Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/pledge-welcome-account-creation",
-      "title": "Friend, thank you for joining Pledge! 💜 from Pledge - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-26/inspirace--rge-onboarding-1.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/squarespace-50-off-website-promo",
+      "title": "Take 50% off a new website subscription from Squarespace - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-27/inspirace--rge-promo-1.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/rover-pet-care-booking-tutorial",
-      "title": "It’s easy to book pet care on Rover—see how! from Rover - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-26/inspirace--rge-onboarding-2.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/medly-wine-co-halloween-promo",
+      "title": "👻🕯️Halloween is on a Saturday this year from Medly - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-27/inspirace--rge-promo-2.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/apollo-email-onboarding",
-      "title": "Your 14-day Apollo trial is now active from Apollo.io - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-26/inspirace--rge-onboarding-3.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/lumens-fresh-forms-design-sale",
+      "title": "Exclusively at Lumens from Lumens - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-10-27/inspirace--rge-promo-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
       "odkazu": 100
     },
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
       "odkazu": 100
     }
   ],
   "archivy": [
     {
-      "znacka": "Flodesk",
-      "key": "flodesk",
-      "url": "https://flodesk.com/emails",
-      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-10-26/flodesk--archiv.jpg"
+      "znacka": "Dotdigital",
+      "key": "dotdigital",
+      "url": "https://dotdigital.com/blog/newsletter",
+      "title": "Newsletters we loveand why, plus how to recreate them",
+      "shot": "emails/2026-10-27/dotdigital--archiv.jpg"
     },
     {
-      "znacka": "Customer.io",
-      "key": "customerio",
-      "url": "https://customer.io/blog/newsletter",
-      "title": "Learn with Customer.io",
-      "shot": "emails/2026-10-26/customerio--archiv.jpg"
+      "znacka": "Targito",
+      "key": "targito",
+      "url": "https://www.targito.com/newsletter",
+      "title": "Newsletter - Targito",
+      "shot": "emails/2026-10-27/targito--archiv.jpg"
+    },
+    {
+      "znacka": "Boldem",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/resources/newsletter",
+      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
+      "shot": "emails/2026-10-27/boldem--archiv.jpg"
     }
   ],
   "poznamky": []
