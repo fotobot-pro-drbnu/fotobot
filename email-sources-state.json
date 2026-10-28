@@ -250,7 +250,10 @@
     "https://reallygoodemails.com/emails/apollo-email-onboarding",
     "https://reallygoodemails.com/emails/squarespace-50-off-website-promo",
     "https://reallygoodemails.com/emails/medly-wine-co-halloween-promo",
-    "https://reallygoodemails.com/emails/lumens-fresh-forms-design-sale"
+    "https://reallygoodemails.com/emails/lumens-fresh-forms-design-sale",
+    "https://reallygoodemails.com/emails/rarify-frank-weise-carriage-house",
+    "https://reallygoodemails.com/emails/visualizing-images-scopes",
+    "https://reallygoodemails.com/emails/full-amplified-speaker-lineup"
   ],
   "catalogs": {
     "rge-cart": {
@@ -273,17 +276,17 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-23",
-      "odkazu": 50
+      "date": "2026-10-28",
+      "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-26",
+      "date": "2026-10-28",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-26",
+      "date": "2026-10-28",
       "odkazu": 100
     },
     "rge-welcome": {
