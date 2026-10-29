@@ -1,8 +1,8 @@
 {
-  "pokusAt": "2026-10-28T04:46:01Z",
-  "datum": "2026-10-28",
-  "runId": "40633206155",
-  "runNumber": "56",
+  "pokusAt": "2026-10-29T04:46:17Z",
+  "datum": "2026-10-29",
+  "runId": "40818626984",
+  "runNumber": "58",
   "spousteno": "workflow_dispatch",
   "faze": {
     "foceni": "success",
