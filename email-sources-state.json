@@ -253,12 +253,15 @@
     "https://reallygoodemails.com/emails/lumens-fresh-forms-design-sale",
     "https://reallygoodemails.com/emails/rarify-frank-weise-carriage-house",
     "https://reallygoodemails.com/emails/visualizing-images-scopes",
-    "https://reallygoodemails.com/emails/full-amplified-speaker-lineup"
+    "https://reallygoodemails.com/emails/full-amplified-speaker-lineup",
+    "https://reallygoodemails.com/emails/highkey-welcome-10-off",
+    "https://reallygoodemails.com/emails/welcome-forward-bar",
+    "https://reallygoodemails.com/emails/welcome-fam"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-10-27",
+      "date": "2026-10-29",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -291,12 +294,12 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-26",
+      "date": "2026-10-29",
       "odkazu": 100
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-27",
+      "date": "2026-10-29",
       "odkazu": 100
     }
   },
