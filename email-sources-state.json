@@ -256,7 +256,10 @@
     "https://reallygoodemails.com/emails/full-amplified-speaker-lineup",
     "https://reallygoodemails.com/emails/highkey-welcome-10-off",
     "https://reallygoodemails.com/emails/welcome-forward-bar",
-    "https://reallygoodemails.com/emails/welcome-fam"
+    "https://reallygoodemails.com/emails/welcome-fam",
+    "https://reallygoodemails.com/emails/just-launched-contacts-automations",
+    "https://reallygoodemails.com/emails/confirm-your-newsletter-subscription",
+    "https://reallygoodemails.com/emails/fast-flexible-funding-up-to-2300"
   ],
   "catalogs": {
     "rge-cart": {
@@ -274,17 +277,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-27",
+      "date": "2026-10-30",
       "odkazu": 100
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-28",
+      "date": "2026-10-30",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-28",
+      "date": "2026-10-30",
       "odkazu": 100
     },
     "rge-newsletter": {
@@ -468,7 +471,7 @@
     "smartemailing": {
       "working": "https://www.smartemailing.cz/newsletter",
       "fails": {
-        "https://www.smartemailing.cz/newsletter": 1,
+        "https://www.smartemailing.cz/newsletter": 0,
         "https://www.smartemailing.cz/newsletter-archive": 3,
         "https://www.smartemailing.cz/emails": 3,
         "https://www.smartemailing.cz/email-archive": 3,
