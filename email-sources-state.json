@@ -259,7 +259,10 @@
     "https://reallygoodemails.com/emails/welcome-fam",
     "https://reallygoodemails.com/emails/just-launched-contacts-automations",
     "https://reallygoodemails.com/emails/confirm-your-newsletter-subscription",
-    "https://reallygoodemails.com/emails/fast-flexible-funding-up-to-2300"
+    "https://reallygoodemails.com/emails/fast-flexible-funding-up-to-2300",
+    "https://reallygoodemails.com/emails/chime-finish-sign-up-onboarding",
+    "https://reallygoodemails.com/emails/microsoft-windows-11-customize",
+    "https://reallygoodemails.com/emails/atlassian-loom-meeting-recording"
   ],
   "catalogs": {
     "rge-cart": {
@@ -287,18 +290,18 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-10-30",
+      "date": "2026-11-02",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-10-28",
-      "odkazu": 100
+      "date": "2026-11-02",
+      "odkazu": 50
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-10-29",
-      "odkazu": 100
+      "date": "2026-11-02",
+      "odkazu": 50
     },
     "rge-promo": {
       "fails": 0,

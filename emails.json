@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-30T04:50:50.717Z",
+  "generatedAt": "2026-11-02T04:43:12.141Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/just-launched-contacts-automations",
-      "title": "Just launched: Contacts & Automations 🔀 from Typeform - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-30/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/chime-finish-sign-up-onboarding",
+      "title": "Finish signing up! It’s free and takes less than 2 mins. from Chime - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-02/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/confirm-your-newsletter-subscription",
-      "title": "Confirm Your Newsletter Subscription from Olio - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-30/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/microsoft-windows-11-customize",
+      "title": "Your PC, your rules from Microsoft - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-02/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/fast-flexible-funding-up-to-2300",
-      "title": "Fast, flexible funding up to $2,300 from Stripe - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-10-30/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/atlassian-loom-meeting-recording",
+      "title": "Let Loom take your meeting notes from Loom - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-02/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
-    {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 100
-    },
     {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 100
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 50
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
+      "odkazu": 50
     }
   ],
   "archivy": [
@@ -47,28 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-10-30/flodesk--archiv.jpg"
+      "shot": "emails/2026-11-02/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-10-30/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "Dotdigital",
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/blog/newsletter",
-      "title": "Newsletters we loveand why, plus how to recreate them",
-      "shot": "emails/2026-10-30/dotdigital--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-10-30/smartemailing--archiv.jpg"
+      "shot": "emails/2026-11-02/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
