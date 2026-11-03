@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T04:44:20.262Z",
+  "generatedAt": "2026-11-03T04:51:28.606Z",
   "verze": 1,
-  "datum": "2026-11-02",
-  "oknoOd": "2026-10-23",
+  "datum": "2026-11-03",
+  "oknoOd": "2026-10-24",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,93 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 35,
+      "pocetPolozek": 34,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/ceskym-e-shopum-se-vraci-eet-povinnost-muze-spustit-i-jedina-platba-pri-osobnim-odberu/",
+      "datum": "2026-11-02",
+      "perex": "EET 2027 se dotkne i části e-shopů. Rozhodující bude způsob platby při osobním odběru. Podívejte se, co si pohlídat.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Českým e-shopům se vrací EET. Povinnost může spustit i jediná platba při osobním odběru",
+        "meta": {
+          "ogTitle": "EET 2027: Co musí vědět e-shopy s osobním odběrem",
+          "ogDesc": "EET 2027 se dotkne i části e-shopů. Rozhodující bude způsob platby při osobním odběru. Podívejte se, co si pohlídat.",
+          "published": "2026-11-02T09:43:45+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Českým e-shopům se vrací EET. Povinnost může spustit i jediná platba při osobním odběru"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n4 min. doba čtení\nČeským e-shopům se vrací EET. Povinnost může spustit i jediná platba při osobním odběru\n\nČeské e-shopy čeká od ledna návrat EET. I obchod, který přijímá téměř všechny platby online, může mít novou povinnost. Rozhodnout může jediný zákazník, který zaplatí při osobním odběru.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nČeským e-shopům se vrací EET. Povinnost může spustit i jediná platba při osobním odběru\nZdroj: ChatGPT\n\nEET 2.0 začne v Česku fungovat od 1. ledna 2027. Nová pravidla se budou týkat zejména takzvaných kontaktních plateb, tedy plateb, které zákazník provede osobně, například ve výdejně nebo prodejně. Pro e-shopy proto platí jednoduché pravidlo. Nerozhoduje jen to, kde zákazník vytvořil objednávku, ale také to, kde ji zaplatil.\n\nOnline platba a osobní odběr nejsou problém\n\nPokud zákazník objedná zboží přes e-shop, doma ho zaplatí online platbou kartou nebo bankovním převodem a potom si balíček pouze přijde vyzvednout, nejde o kontaktní platbu.\n\nSamotný osobní odběr tedy EET automaticky neznamená.\n\nJiná situace nastane, pokud zákazník přijde do výdejny a zaplatí až tam. V takovém případě už může jít o kontaktní platbu. Pod EET proto mohou spadat například:\n\nplatba v hotovosti,\nplatba kartou na terminálu,\nQR platba na místě,\nbankovní převod zadaný na místě,\nplatba poukázkou nebo podobným platebním prostředkem.\n\nNení tedy rozhodující, zda zákazník platí v hotovosti, kartou nebo přes QR kód. Důležité je především to, zda platba proběhne osobně.\n\nNa tento detail upozornil také Oskar Křizenecký, CFO partner pro agentury, SaaS a e-shopy, ve svém příspěvku na LinkedInu.\n\nStačí jediná kontaktní platba za celý rok a do systému vstupujete. Nerozhoduje, jak platí většina zákazníků, ale jestli se najde jeden, který zaplatí osobně.\n\nPrávě proto je změna důležitá hlavně pro e-shopy, které mají výdejnu, showroom nebo kamennou prodejnu. I když většina zákazníků platí online, možnost zaplatit při osobním odběru může znamenat novou povinnost.\n\nA co dobírka?\n\nDobírka funguje jinak. Pokud platbu od zákazníka převezme kurýr nebo poštovní společnost a následně ji pošle e-shopu na účet, e-shop ji nepřijímá přímo od zákazníka.\n\nProto se taková platba podle dostupných výkladů nemusí evidovat stejně jako platba ve vlastní výdejně. Pro obchodníka je tedy rozdíl mezi dobírkou přes externího dopravce a platbou při osobním odběru ve vlastní provozovně.\n\nTÝDENNÍ PODCAST\nUPdate\nE-shop by měl zkontrolovat všechny platební metody\n\nNejdůležitější je projít celý platební proces, nejen nejčastější platební metodu. E-shop by si proto měl zkontrolovat zejména:\n\nLze objednávku zaplatit při osobním odběru?\nPřijímá výdejna platby v hotovosti?\nUmožňuje platbu kartou na terminálu?\nLze na místě provést QR platbu?\nMůže zákazník zadat bankovní převod na místě?\nKdo přijímá platbu při dobírce?\nExistují také méně používané platební metody?\n\nDůležité přitom může být už to, že e-shop kontaktní platbu umožňuje, i když ji zákazníci využívají jen zřídka. Jinými slovy, nestačí sledovat pouze nejčastější způsob placení.\n\nKřizenecký zároveň upozorňuje, že nákladem nemusí být pouze nový software nebo pokladna. Čas může zabrat už samotná kontrola toho, jakými cestami do firmy přicházejí peníze. Proto má smysl projít všechny platební možnosti ještě před začátkem roku.\n\nEET 2027: Přípravy už začaly\n\nPovinná evidence začne od 1. le"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/jak-se-e-shop-s-kavou-dostal-na-slovenskou-spicku-a-proc-ted-stavi-prazirnu-budoucnosti-peter-szabo-coffeein/",
+      "datum": "2026-11-02",
+      "perex": "Prečítajte si Jak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+      "autor": "Michal Moricz",
+      "textKarty": null,
+      "detail": {
+        "h1": "Jak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein)",
+        "meta": {
+          "ogTitle": "Jak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein)",
+          "ogDesc": "Prečítajte si Jak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+          "published": "2026-11-02T09:41:19+00:00",
+          "autor": "Michal Moricz",
+          "h1": "Jak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein)"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n9 min. doba čtení\nJak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein)\n\nPrvní rok prodal 120 kilo kávy, letos to má být 120 tun. Peter Szabó přitom nechce být kávovým GymBeamem a růst donekonečna. Coffeein si drží 80 % zákazníků, slevu nikdy nedá vyšší než 15 % a na každém balíčku je jeho telefonní číslo. Reklama ale zdražuje, do marketingu dnes jde dvakrát víc než před dvěma lety a první čísla z ChatGPT Ads jsou zatím slabá. Proč tedy na jihu Slovenska chystá pražírnu, která se má uživit i během zombie apokalypsy? Více informací nám poskytl Peter Szabó, zakladatel, Coffeein.\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nJak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n02:45 Co stojí za růstem ze 75 na více než 100 tun kávy?\n05:39 Je Coffeein největší e-shop s kávou na Slovensku?\n06:36 Proč jde Coffeein i do retailu?\n07:39 Proč má Peter na obalu své číslo a jak řeší reklamace?\n10:12 Proč nechce růst donekonečna?\n12:48 Kopíruje konkurence Coffeein?\n14:09 Kde berou nápady na kampaně?\n15:49 Jak získávají nové zákazníky?\n17:29 Musí se drahá káva pít černá?\n19:15 Mají blogy smysl v době AI?\n20:33 Jak slevy ovlivňují marži?\n23:21 Vyplatí se dárky v košíku?\n25:04 Co když oblíbená káva dojde?\n32:55 Co dělat, když zákazníkovi káva nechutná?\n35:36 Kolik dává Coffeein do marketingu?\n36:49 Funguje TikTok, Pinterest nebo rádio?\n39:24 Je Peter Szabó a Coffeein jedno a totéž?\n42:04 Přežila by firma bez Petera půl roku?\n45:15 Co je pražírna budoucnosti?\n48:01 Proč kavárna a pekárna v obci s 300 lidmi?\n52:23 Jak se daří v Maďarsku, Česku a Rumunsku?\n55:27 Která chyba stála Petera nejvíc?\n56:50 Co musí být splněno za dva roky?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nZe 120 kilo na 120 tun\n\nPrvní rok prodal Peter Szabó 120 kilo kávy. Letos má Coffeein upražit 120 tun, což je zhruba 140 tun zelené kávy, protože pražením ztratí asi pětinu váhy. Každý pytel přitom kluci vykládají ručně, k pražírně se nedá dostat paletovým vozíkem. Když přijde deset palet, tedy sedm tun kávy, za půl hodiny je hotový malý teambuilding.\n\nRecept na růst je podle Petera jednoduchý: pokračuje v cestě, kterou začal před dvěma lety, když se naplno pustil do marketingu. Každý letošní měsíc byl rekordní. Objemem je Coffeein třetí až čtvrtá pražírna na Slovensku, obratem druhá až třetí. Největším e-shopem s kávou celkově je podle něj stále Popradská, v čerstvě pražené výběrové kávě je ale Coffeein jedničkou počtem objednávek i obratem.\n\nTelefonní číslo na každém balíčku\n\nE-shop zůstává hlavním kanálem, letos ale firma víc tlačí do menších obchodů a B2B. Marže je nižší, každý balíček v regálu ale funguje jako vizitka. Na obalu je web, Peterovo jméno i jeho telefonní číslo. Denně mu volá kolem padesáti lidí a firma řeší tři až pět reklamací denně, číslo z obalu ale nezmizí.\n\nReklamace řeší vždy ve prospěch zákazníka. Kdo si objedná tři kila a dostane třikrát dvě stě gramů, malá balení si nechá a tři kila mu přijdou navíc. Když někomu káva nechutná, Peter se nejdřív ptá na vodu, protože voda z vodovodu zabije většinu chuti. Pak pošle tipy a články z blogu. Když nepomůžou, zákazník kávu vrátí, Peter ji sám ochutná a pošle jinou. Coffeein dává i zá"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/temu-musi-proverit-i-vlastni-algoritmy-eu-prijala-plan-napravy-po-pokute-200-milionu-eur/",
+      "datum": "2026-11-02",
+      "perex": "Temu musí po pokutě 200 milionů eur prověřit pět oblastí včetně moderování a doporučovacích algoritmů. EU přijala plán nápravy.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Temu musí prověřit i vlastní algoritmy. EU přijala plán nápravy po pokutě 200 milionů eur",
+        "meta": {
+          "ogTitle": "Pokuta Temu: EU přijala plán nápravy, prověří i algoritmy",
+          "ogDesc": "Temu musí po pokutě 200 milionů eur prověřit pět oblastí včetně moderování a doporučovacích algoritmů. EU přijala plán nápravy.",
+          "published": "2026-11-02T08:19:49+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Temu musí prověřit i vlastní algoritmy. EU přijala plán nápravy po pokutě 200 milionů eur"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n6 min. doba čtení\nTemu musí prověřit i vlastní algoritmy. EU přijala plán nápravy po pokutě 200 milionů eur\n\nTemu dostalo od Evropské komise zelenou pro plán, kterým má napravit porušení aktu o digitálních službách. Platforma musí prověřit nejen kontroly nelegálního zboží, ale také to, zda její doporučovací algoritmy nepomáhají problematické produkty dále šířit.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nTemu musí prověřit i vlastní algoritmy. EU přijala plán nápravy po pokutě 200 milionů eur\nZdroj: ChatGPT\n\nEvropská komise přijala akční plán Temu, kterým má marketplace napravit porušení aktu o digitálních službách (DSA). Jde o pokračování případu, který v květnu 2026 vyústil v pokutu ve výši 200 milionů eur.\n\nKomise tehdy konstatovala, že Temu nedostatečně identifikovalo a vyhodnocovalo systémová rizika spojená s nelegálními produkty na své platformě. Kontrola odhalila také problémy u vybraných nabíječek a dětských hraček, které nesplňovaly bezpečnostní požadavky.\n\nNyní musí platforma ukázat, jak tyto nedostatky napraví v praxi.\n\nTemu musí prověřit pět oblastí\n\nAkční plán stojí na pěti konkrétních opatřeních, která má Temu zavést a průběžně vyhodnocovat:\n\nRiziková analýza přizpůsobená samotnému Temu\nPlatforma už nemá vycházet pouze z obecných dat o e-commerce trhu. Hodnocení rizik musí stát na aktuálních a spolehlivých informacích o tom, jak samotné Temu funguje a jaké problémy se na něm reálně objevují.\nKontrola účinnosti opatření proti nelegálnímu zboží a obsahu\nTemu musí pravidelně ověřovat, zda jeho kontroly skutečně fungují a zda dokážou omezit výskyt problematických nabídek. Nestačí tedy opatření pouze zavést, platforma musí být schopna prokázat i jejich účinnost.\nPrověření slabých míst moderování\nSoučástí plánu je také analýza limitů systému moderování. Temu má identifikovat situace, ve kterých jeho kontroly nemusí zachytit nelegální nebo rizikový obsah a produkty.\nKontrola doporučovacích a dalších algoritmů\nPlatforma musí prověřit, zda její doporučovací systémy nezvyšují viditelnost nelegálních nebo problematických produktů. Regulátor se tak nedívá pouze na to, co prodejci na marketplace nahrají, ale také na to, co následně samotná platforma aktivně doporučuje zákazníkům.\nRiziko manipulace ze strany prodejců a uživatelů\nTemu má analyzovat také to, jak mohou prodejci nebo další uživatelé záměrně zneužívat funkce platformy. Může jít například o postupy, které pomáhají problematické nabídky rychle šířit nebo obcházet stávající kontroly.\n\nPrávě kontrola doporučovacích systémů je z pohledu e-commerce jednou z nejzajímavějších částí plánu. Komise totiž neřeší pouze to, zda se nelegální produkt na platformě objeví, ale také zda jej samotná architektura marketplace a jeho algoritmy neposouvají k dalším zákazníkům.\n\nProblémem nebylo jen samotné nelegální zboží\n\nPokuta z května 2026 nevznikla proto, že by Komise našla jeden konkrétní nebezpečný produkt.\n\nProblém byl širší. Temu podle Komise nesplnilo povinnost dostatečně identifikovat, analyzovat a vyhodnocovat systémová rizika, která vznikají při prodeji nelegálních produktů na platformě. Jeho hodnocení z roku 2024 se příliš opíralo o obecné informace o e-commerce a nedostatečně pracovalo s daty ze samotného marketplace.\n\nKomise zároveň uvedla, že Temu podcenilo pravděpodobnost, že se zákazník v EU setká s nevyhovujícím zbožím.\n\nPři mystery shopp"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-44-2026-nova-pravidla-pro-e-shopy-produktove-kategorie-nabiraji-na-sile-kolik-platit-influencerum/",
+      "datum": "2026-11-02",
+      "perex": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Novinky z e-commerce 44/2026: Nová pravidla pro e-shopy, produktové kategorie nabírají na síle, kolik platit influencerům?",
+        "meta": {
+          "ogTitle": "Novinky z e-commerce 44/2026",
+          "ogDesc": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
+          "published": "2026-11-02T07:07:40+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Novinky z e-commerce 44/2026: Nová pravidla pro e-shopy, produktové kategorie nabírají na síle, kolik platit influencerům?"
+        },
+        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n11 min. doba čtení\nNovinky z e-commerce 44/2026: Nová pravidla pro e-shopy, produktové kategorie nabírají na síle, kolik platit influencerům?\n\nNejdůležitější novinky z e-commerce, marketingu a online dění za uplynulý týden si můžete poslechnout v našem podcastu UPDATE nebo si je jednoduše přečíst. Všechno na jednom místě. Stačí si vybrat, co vám vyhovuje víc.\n\nRedakcia\nÚvod\n/\nČlánky\n/\nNovinky z e-commerce 44/2026: Nová pravidla pro e-shopy, produktové kategorie nabírají na síle, kolik platit influencerům?\nZdroj: ChatGPT\n\nNemáte čas číst, ale chcete zůstat v obraze? Pusťte si Ecommerce Bridge UPDATE. Aktuální epizodu si můžete poslechnout v autě, cestou do práce nebo kdykoli vám to nejvíc vyhovuje. Klikněte na svou oblíbenou platformu a pusťte si ji hned:\n\n   \n\nRaději čtete? Všechny novinky najdete níže\n\nVšechna témata z aktuálního UPDATE najdete níže také v textové podobě. Projděte si je vlastním tempem, vraťte se ke konkrétní novince nebo si otevřete celý článek, pokud vás některé téma zaujme víc.\n\nČeské e-shopy čeká nové tlačítko\n\nProdáváte v Česku? Od 1. ledna 2027 se mění způsob, jakým musí e-shop umožnit odstoupení od smlouvy. Zákazník musí mít přímo v online rozhraní snadno dostupné tlačítko s textem Odstoupit od smlouvy. Jedním kliknutím však proces nekončí. E-shop musí umožnit doplnit údaje o zákazníkovi a objednávce, následně odstoupení potvrdit druhým tlačítkem a po odeslání poslat zákazníkovi elektronické potvrzení. Nová povinnost se týká také slovenských obchodníků, kteří prodávají českým spotřebitelům.\n\nDvě třetiny kliknutí z Googlu míří na kategorie\n\nE-shopy věnují velkou pozornost produktovým stránkám, ale nová data ukazují, jakou sílu mají ve vyhledávání kategorie. Analýza 14,9 milionu kliknutí ukázala, že na typickém webu směřovaly přibližně dvě třetiny kliknutí z Googlu právě na kategorie. Rozhoduje však to, co člověk hledá. U obecného dotazu typu dubový jídelní stůl má výhodu kategorie, u konkrétního modelu nebo rozměru spíše samotný produkt.\n\nInfluencer stojí v průměru 1 180 eur\n\nJeden placený výstup influencera stojí v průměru 1 180 eur. Při spolupráci si však předem ujasněte, za co přesně platíte. Je v ceně pouze vytvoření příspěvku, nebo ho můžete dále používat i ve vlastní reklamě? Dostává influencer fixní odměnu, nebo se část platby odvíjí od objednávek a prodeje? Až 77 % značek využívá obsah influencerů také v placených kampaních. Už před podpisem smlouvy si proto určete, co přesně dostáváte v základní ceně a za co se bude platit navíc.\n\nTPA vytvořila tisíc automatizací pomocí AI\n\nAI už výrazně mění také účetnictví. Juraj Tobák z TPA říká, že firma si za půl roku vytvořila přibližně tisíc automatizací. Před podáním DPH například systém automaticky zkontroluje více než sto věcí. Úkoly, na které dříve potřebovali programátora, si dnes dokážou připravit i lidé, kteří rozumějí účetnictví a daním. Další velká změna přijde od ledna 2027 s e-fakturou. Připravit se na ni budou muset i firmy, které nejsou plátci DPH.\n\nJuraj Tobák z TPA\n\nReklama v ChatGPT se objevuje u nákupních dotazů\n\nReklamy v ChatGPT už v Česku nejsou jen experiment. Marketing Miner analyzoval 10 800 odpovědí ChatGPT a u nákupních dotazů se reklama objevila téměř ve třech ze čtyř případů. Čím blíže byl člověk k nákupu, tím častěji ji viděl. Zajímavé je, že reklama většinou nepatřila značce, kterou ChatGPT doporučil v odpovědi. Pokud tedy inzerujete v ChatGPT, neznamená to, že vás samotná AI záro"
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -65,136 +145,46 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/funkcni-e-mailing-lidsky-pristup-ferove-ceny-seznamte-se-s-email-machine/",
-      "datum": "2026-10-30",
-      "perex": "Email Machine je e-mailingový nástroj s důrazem na doručitelnost, jednoduché ovládání, lidskou podporu a férové ceny.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Funkční e-mailing, lidský přístup, férové ceny: Seznamte se s Email Machine",
-        "meta": {
-          "ogTitle": "Email Machine: E-mailingový nástroj, funkce, ceny a výhody",
-          "ogDesc": "Email Machine je e-mailingový nástroj s důrazem na doručitelnost, jednoduché ovládání, lidskou podporu a férové ceny.",
-          "published": "2026-10-30T08:28:33+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Funkční e-mailing, lidský přístup, férové ceny: Seznamte se s Email Machine"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n30. října 2026\n5 min. doba čtení\nFunkční e-mailing, lidský přístup, férové ceny: Seznamte se s Email Machine\n\nZnáte to. Půl dne skládáte newsletter, texty, výběr produktů, ladění detailů. Kliknete na Odeslat a začne to. V Outlooku se rozpadne layout, část adresátů e-mail najde ve spamu a v e-shopu se nic neděje. Napíšete na podporu a přijde odkaz do nápovědy, ať si nastavení ověříte sami.\n\nmichalfinta\nChceš se přidat k e-commerce expertům jako michalfinta?\nPřidat se\nÚvod\n/\nČlánky\n/\nFunkční e-mailing, lidský přístup, férové ceny: Seznamte se s Email Machine\nZdroj: Email machine\n\nEmail Machine vznikl přesně z téhle frustrace. Naše mašina na e-maily má jeden cíl: aby e-mailing fungoval a dalo se s ním normálně pracovat. Bez skrytých poplatků, bez zbytečné složitosti a s podporou, která vám skutečně odpoví.\n\n Kdo přes Email Machine posílá\n\nNejsme startup, který vznikl minulý rok. Email Machine je český produkt na českých serverech a na trhu je přes deset let. Dnes přes naši mašinu odchází vice než 100 milionů e-mailů měsíčně. Posílají přes ni své kampaně Nespresso v Česku i na Slovensku nebo Generali Česká pojišťovna. A jsme také oficiálním partnerem Českého hokeje — česká hokejová reprezentace rozesílá e-maily svým fanouškům právě přes Email Machine.\n\n„Proč vy, a ne známější nástroj na e-mailing?“\n\nTuhle otázku dostáváme nejčastěji. Odpovíme na rovinu: na trhu jsou dobré nástroje se známým jménem.\n\nE-mail marketing patří dlouhodobě mezi nejefektivnější prodejní kanály. Jeho potenciál ale často brzdí složitost e-mailových nástrojů. Firmy pak platí za funkce, které nevyužívají, za databáze kontaktů, které nepřinášejí výsledky, a při nastavování nebo řešení problémů nemají po ruce nikoho, kdo by jim pomohl.\n\nRozdíl je také v tom, kdo za Email Machine stojí. Jsme lidi, kteří marketing dělají dennodenně. Vlastníme e-shopy, děláme kampaně jak pro velké i malé klienty. Když v nástroji něco chybí, narazíme na to jako první my. Proto nové funkce nevznikají podle roadmapy schválené na rok dopředu, ale podle toho, co v e-mailingu reálně bolí. My jsme do hry šli s tím, že chceme nabídnout stejný výkon za výrazně nižší cenu a zbavit e-mailing překážek, které v něm nemají co dělat.\n\n 5 důvodů, proč značky přecházejí k Email Machine\n1. Doručitelnost řešíme dřív, než na ni narazíte\n\nNejdražší e-mail je ten, který nedorazí. Řídíme se proto jedním pravidlem: #NespamujDoručuj. Není to slogan do prezentace, je to zadání pro vývoj i pro podporu. Každá funkce, kterou do nástroje pouštíme, musí projít otázkou, jestli pomáhá e-mailu dorazit do schránky, nebo jen zvyšuje objem rozesílky.\n\nV praxi to znamená dvě roviny práce.\n\nTechnická stránka. Správné nastavení autentizace (SPF, DKIM, DMARC), reputace odesílacích IP a domén, průběžný monitoring blacklistů a odpovědí poštovních serverů.\n\nKvalita dat a obsahu. Do nástroje průběžně doplňujeme funkce, které udržují databázi a e-maily relevantní: čištění neplatných a neaktivních adres, segmentaci podle chování, atd. Čistá databáze a relevantní obsah dnes rozhodují o doručitelnosti víc než cokoli jiného.\n\n2. Editor, ve kterém máte newsletter hotový za pár minut\n\nDrag & Drop editor funguje tak, jak čekáte – zvolíte prvek a přetáhnete ho tam, kam patří. Texty, obrázky, GIFy, produkty, tlačítka, časový odpočet.\n\nPodstatnější je ale to, co se stane po odeslání. Váš newsletter se zobrazí správně na všech zařízeních a u všech poskytovatelů. V mobilní aplikaci Gmailu, v Outloo"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/ptate-se-ai-co-koupit-google-vam-k-odpovedi-prida-i-reklamu/",
-      "datum": "2026-10-30",
-      "perex": "Google rozšiřuje reklamy v AI Mode. Podívejte se, kde se zobrazí, jak fungují u dalších otázek a co má e-shop připravit už dnes.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Ptáte se AI, co koupit? Google vám k odpovědi přidá i reklamu",
-        "meta": {
-          "ogTitle": "Google AI Mode: Reklamy přímo v AI odpovědích",
-          "ogDesc": "Google rozšiřuje reklamy v AI Mode. Podívejte se, kde se zobrazí, jak fungují u dalších otázek a co má e-shop připravit už dnes.",
-          "published": "2026-10-30T08:09:33+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Ptáte se AI, co koupit? Google vám k odpovědi přidá i reklamu"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n30. října 2026\n8 min. doba čtení\nPtáte se AI, co koupit? Google vám k odpovědi přidá i reklamu\n\nPoložíte Googlu otázku, necháte si poradit s výběrem produktu a vedle doporučení se vám může zobrazit i placená nabídka. Reklama navíc nemusí přijít hned. Google ji může zařadit až při další otázce, kdy už přesněji ví, co chcete koupit.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nPtáte se AI, co koupit? Google vám k odpovědi přidá i reklamu\nZdroj: ChatGPT\n\nUživatel už do Googlu nemusí napsat jen „běžecké boty“. V AI Mode může popsat, že hledá lehký model na asfalt, má určitý rozpočet a potřebuje boty vhodné pro začátečníka. Poté pokračuje další otázkou a svůj výběr postupně zužuje. Právě do této konverzace teď Google ve větší míře pouští reklamu. Firma 28. října oznámila rozšíření reklam v AI Mode na další trhy a zároveň spouští formát, který umožní zobrazit reklamu i u navazujících otázek.\n\nReklama se může objevit přímo u AI odpovědi\n\nAI Mode nefunguje jako klasický seznam výsledků vyhledávání. Uživatel položí komplexnější otázku a Google mu vytvoří odpověď, nabídne odkazy, produkty a možnost pokračovat dalšími otázkami.\n\nDotazy v AI Mode jsou podle Googlu v průměru přibližně třikrát delší než u klasického vyhledávání.\n\nPokud má otázka obchodní význam, Google může do tohoto prostředí vložit i textovou nebo produktovou reklamu. Placený obsah má být označen jako „Sponsored“ a vizuálně oddělen od organické části odpovědi. Důležité je, že zaplacení reklamy nemá ovlivňovat samotnou organickou odpověď AI. E-shop si tedy nemůže zaplatit za to, aby ho Google začal doporučovat jako součást odpovědi. Může si však koupit reklamní prostor vedle ní.\n\nZákazník tak může dostat organické doporučení jednoho produktu a zároveň vidět sponzorovanou nabídku konkurenta.\n\nReklama se může zobrazit až u navazující otázky\n\nJeště zajímavější jsou takzvané multiturn ads, které Google začíná zavádět v USA. Reklama se nemusí objevit u první otázky. Google ji může zařadit až u další otázky v rámci stejné konverzace.\n\nPředstavme si jednoduchý příklad.\n\nUživatel začne otázkou:\n\n \n\nHledám běžecké boty na asfalt pro začátečníka.\n\n \n\nGoogle mu vysvětlí, co má při výběru sledovat, a nabídne několik možností.\n\n \n\nUživatel pokračuje:\n\n \n\nKteré z nich stojí do 120 eur a hodí se i na širší chodidlo?\n\nPrávě v tomto okamžiku je nákupní záměr mnohem konkrétnější. Google už zná původní otázku, kontext celé konverzace i nové podmínky. A může k odpovědi přiřadit relevantní placenou nabídku. Pro inzerenta to znamená, že už nebojuje jen o první vyhledávací dotaz. Reklama může vstoupit do rozhodování až později, kdy už zákazník přesněji ví, co hledá.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nPlacené produkty už podle Googlu dohánějí organické\n\nPodle interních dat společnosti jsou míry prokliků u sponzorovaných a organických produktových výsledků v AI Mode už podobné. Měření pochází z amerického trhu a probíhalo od 20. srpna do 3. září 2026.\n\nS tímto údajem je však potřeba pracovat opatrně. Google nezveřejnil konkrétní hodnoty CTR, rozdíl mezi placenými a organickými výsledky ani výsledky jednotlivých kategorií. Nelze tedy říct, že reklama funguje stejně dobře jako organické doporučení ve všech případech.\n\nI bez konkrétních čísel však srovnání ukazuje, že sponzorované produktové výsledky v AI Mode nemusí výrazně zaostávat za organický"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/1-e-shopu-ovlada-90-trhu-konkretni-tipy-jak-se-pridat-k-tomu-jednomu-procentu-jan-janouskovec-srovname-cz/",
-      "datum": "2026-10-30",
-      "perex": "Prečítajte si 1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
-      "autor": "Michal Moricz",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)",
-        "meta": {
-          "ogTitle": "1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)",
-          "ogDesc": "Prečítajte si 1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
-          "published": "2026-10-30T08:02:39+00:00",
-          "autor": "Michal Moricz",
-          "h1": "1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n30. října 2026\n7 min. doba čtení\n1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)\n\nNejvětší e-shopy rostou o 15 % ročně, celý trh jen o 5 až 6 %. To nejsilnější jedno procento e-shopů si přitom v Česku bere možná už 94 až 95 % trhu. Nerozhoduje jeden zázračný kanál, ale to, že velcí hráči nestaví všechno na Googlu nebo Metě, ladí produktový feed a v Google Shoppingu obsazují i šestý nebo sedmý box. A proč dnes zákazník raději zaplatí o korunu víc v obchodě, kterému věří? Více informací nám poskytl Jan Janouškovec, CEO, Srovname.cz.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\n1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n02:22 Proč velké e-shopy rostou rychleji než trh?\n03:20 Na jakém kanálu stojí malé e-shopy?\n04:06 Proč affiliate není pro začínající e-shopy?\n05:15 Co dělají velké e-shopy ve srovnávačích jinak?\n06:22 Proč nedávat do srovnávače všechny produkty?\n07:27 Vyplatí se doplňovat parametry do feedu?\n08:38 Jak funguje cena za proklik a smart bidding?\n09:34 Kde všude se dá produktový feed využít?\n10:36 Proč velké e-shopy využívají affiliate víc?\n13:47 Jak velké značky využívají kupóny a cashback?\n17:55 Proč mít víc CSS partnerů?\n22:17 Jak velké e-shopy přistupují k marketplacům?\n23:25 Bude kvalita feedu v éře AI ještě důležitější?\n28:33 Proč bude značka čím dál důležitější?\n30:04 Jak se malý e-shop nezblázní při pohledu na GymBeam?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nVelké e-shopy rostou rychleji než celý trh\n\nJedno procento e-shopů ovládá devadesát procent trhu. Podle Jana Janouškovce, který vede srovnávač Srovname.cz, to v Česku může být už 94 až 95 %. Skupina největších hráčů roste meziročně zhruba o 15 %, celý trh jen o 5 až 6 %. Velcí jsou tedy pořád větší.\n\nPřispívá k tomu i silnější konkurence. Mezi deseti největšími jsou dnes i Allegro, Temu nebo Shein a jejich obrat chybí někomu jinému. Srovname přitom pracuje s největšími e-shopy i se středními a menšími, takže rozdíly vidí z první ruky.\n\nMalé e-shopy staví na jednom kanálu\n\nMalé e-shopy podle Jana neignorují jeden konkrétní kanál. Problém je, že často stojí na jednom dominantním, typicky na Googlu nebo Metě, a zbytek vynechávají. Správa kampaní je díky umělé inteligenci čím dál jednodušší, proto se vyplatí mít strčený prst všude a zkoušet, co kde funguje.\n\nAffiliate není zkratka pro začátečníky\n\nMalé e-shopy často vstupují do affiliate s představou, že mají náklady pevně zastropované. Někdo jim bude za deset procent vozit objednávky a hotovo. Když ale nepracují na značce, webu a ostatních kanálech, výkon partnerů se neprojeví. Je to začarovaný kruh.\n\nVelkým affiliate přidává obrat právě proto, že mají rozjetou značku a spoustu dalších aktivit. Polovinu tržeb jim nepřidá, ale dobře doplňuje zbytek. Rozdíl je i v přístupu. Velcí mají v týmu analytika, který umí kanál správně měřit, menší ho zapínají a vypínají podle toho, jestli jim zrovna přestřelí rozpočet.\n\nDo srovnávače nemusí jít celý sortiment\n\nZákladní nastavení srovnávače je jednoduché. E-shop pošle XML feed, nastaví měření konverzí a cíle kampaně. Velcí hráči si ale víc hrají s tím, co do feedu dají. Podle zkušeností Srovname.cz se na začátku vyplatí poslat ne"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/platime-influencerovi-za-obsah-nebo-za-vysledek/",
-      "datum": "2026-10-29",
-      "perex": "Kolik stojí influencer marketing a za co značka vlastně platí? Experti porovnávají obsah, dosah, výkon i další využití kreativy.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Platíme influencerovi za obsah, nebo za výsledek?",
-        "meta": {
-          "ogTitle": "Influencer marketing: Platíme za obsah, nebo za výsledek?",
-          "ogDesc": "Kolik stojí influencer marketing a za co značka vlastně platí? Experti porovnávají obsah, dosah, výkon i další využití kreativy.",
-          "published": "2026-10-29T09:30:40+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Platíme influencerovi za obsah, nebo za výsledek?"
-        },
-        "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n29. října 2026\n2 min. doba čtení\nPlatíme influencerovi za obsah, nebo za výsledek?\n\nJeden placený výstup influencera stojí v průměru 1 180 eur. Značka však dnes nemusí kupovat pouze přístup k jeho publiku. Obsah může dále využívat v reklamě, měřit jeho vliv na prodej nebo odměnu navázat přímo na výkon. Co by tedy měla cena spolupráce skutečně zahrnovat?\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nPlatíme influencerovi za obsah, nebo za výsledek?\nZdroj: ChatGPT\n\nInfluencer marketing se posunul daleko za model, ve kterém značka zaplatila za jeden příspěvek a úspěch vyhodnotila podle dosahu či počtu lajků. Průzkum IAB Slovakia ukazuje, že influencer marketing za poslední rok využilo 65 % oslovených značek. Průměrný honorář influencera za jeden placený výstup přitom dosahuje 1 180 eur.\n\nSamotný dosah však ještě nezaručuje výsledek. Třetina lidí, kteří si za posledních šest měsíců všimli placeného obsahu influencerů, uvedla, že na jeho základě něco koupila, využila službu nebo navštívila provozovnu či akci. Zároveň 68 % lidí placené spolupráce obvykle ignoruje nebo přeskakuje. Počet followerů proto sám o sobě vypovídá o hodnotě spolupráce stále méně.\n\nMění se také to, co si značka od influencera vlastně kupuje. Výstup nemusí skončit na jeho profilu. Podle průzkumu Aspire 77 % značek využívá obsah tvůrců také v placených reklamách a 67 % zahrnuje práva na takové využití už do původní dohody nebo ceny. Jeden výstup tak může mít hodnotu jako přístup k publiku influencera, kreativa pro další kampaně i nástroj pro získávání objednávek.\n\nDo jedné ceny se proto promítá několik různých věcí: práce na vytvoření obsahu, zásah publika, jméno a důvěryhodnost tvůrce, práva na další využití i reálný obchodní výsledek. U výkonnostní kampaně může značka sledovat objednávky přes promo kód či affiliate odkaz. Při budování značky však stejná logika nemusí fungovat.\n\nZa co by tedy měla značka influencerovi platit a kdy je férovější fixní honorář, provize nebo kombinace obojího? A měla by se cena za samotnou tvorbu obsahu oddělovat od ceny za jeho další využití?\n\nJak to vidí experti?\n\nVšechno závisí na rozpočtu na influencer marketing a na cílech, kterých chceme dosáhnout. Podle toho vybíráme vhodný mix influencerů pro klienta.\n\nPokud je rozpočet omezený, hledáme možnosti spolupráce formou barteru nebo jiného nefinančního plnění. Pokud značce chybí kvalitní UGC obsah, řešením mohou být mikroinfluenceři. Ty lze vybírat cíleně tak, aby kromě tvorby potřebného obsahu oslovili i relevantní publikum.\n\nPřímé prodeje prostřednictvím slevových kódů nefungují vždy. V takovém případě je vhodnější zaměřit se na celé komunity a budovat s nimi dlouhodobější spolupráce. Influenceři mohou pomoci také při uvedení nového produktu na trh a jeho představení relevantnímu publiku.\n\nKarol Woltemar\nKonzultant a zakladateľ agentúry Madviso\n  \n\nFolloweři nejsou fakturační jednotka. Značka by měla influencerovi platit za kombinaci kreativy, přístupu k relevantnímu publiku a výsledku.\n\nU brandové spolupráce je přirozený fix, u prodejních kampaní spíše kombinace fixu a výkonnostní odměny. KPI se musí odvíjet od cíle, tedy prodej nelze měřit stejně jako budování značky.\n\nA pokud chce značka obsah dále používat v placených reklamách, práva na toto využití by měla mít samostatnou hodnotu.\n\nJakub Horváth\nMarketér a vysokoškolský pedagóg | Zakladateľ Malého Tha"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/e-shop-se-muze-nacitat-pres-8-sekund-data-ukazala-co-weby-nejcasteji-brzdi/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/proc-muze-i-e-shop-s-trzbami-pres-5-milionu-eur-zacit-stagnovat/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/znacka-ve-sleve-co-dela-neustale-zlevnovani-s-jeji-hodnotou/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/temu-shein-a-aliexpress-prisly-v-nemecku-o-tretinu-trzeb-co-ukazala-data-za-q3/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/da-se-lovebrand-ridit-pres-excel-lejaan-hleda-cestu-k-vetsimu-byznysu-adam-bornak-lejaan/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/ecommerce-bridge-update-43-2026/",
       "datum": null,
       "perex": null,
       "autor": null,
@@ -441,7 +431,7 @@
       "titul": "Ecommerce Bridge UPDATE 43/2026",
       "datum": "2026-10-26",
       "perex": "Novinky z e-commerce přináší podcast Ecommerce Bridge UPDATE. ⭐ Poslechněte si shrnutí všech článků z uplynulého týdne.",
-      "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n26. října 2026\n1 min. doba čtení\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.    \n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.\n\n   \n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSDÍLET ČLÁNEK\n  \nMichal Moricz\nExecutive Director v Ecommerce Bridge\n\nOnline marketingový nadšenec, tvůrce obsahu, novinář, event manažer, projektový manažer a specialista na sociální sítě… Aktuálně to hrotím se Štefanem v Ecommerce Bridge. Děláme hodně, dobře a kvalitně. Říkáš, že se nedá? Sleduj nás a dokážeme ti, že ano! 🚀\n\n \nTÝDENNÍ PODCAST\nUPdate\nPODOBNÉ ČLÁNKY\n30. října 2026\n7 min. doba čtení\n1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)\n\nNejvětší e-shopy rostou o 15 % ročně, celý trh jen o 5 až 6 %. To nejsilnější jedno procento e-shopů si přitom v Česku bere možná už 94 až 95 % trhu. Nerozhoduje jeden zázračný kanál, ale to, že velcí hráči nestaví všechno na Googlu nebo Metě, ladí produktový feed a v Google Shoppingu obsazují […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\n28. října 2026\n8 min. doba čtení\nDá se lovebrand řídit přes Excel? Lejaan hledá cestu k většímu byznysu (Adam Borňák, Lejaan)\n\nPovlečení od Lejaan vydrží při dvou až třech sadách i pět let bez výrazné ztráty kvality. Pro zákazníka skvělá zpráva, pro firmu, která potřebuje opakované nákupy, pořádná výzva. Česká značka prémiového ložního prádla přitom míří k obratu 100 milionů korun, rozšiřuje se do Polska a látky, na které si přes obrazovku nikdo nesáhne, prodává hlavně […]\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\n26. října 2026\n9 min. doba čtení\nFinanční nástroje gigantů pro každého. Jak vibe coding konečně mění účetnictví k lepšímu (Juraj Tobák, TPA)\n\nTisíc automatizací za jediné pololetí a víc než sto kontrol, které proběhnou dřív, než se podá DPH. Tak dnes vypadá účetní firma, která se naučila vibe kódovat. Úpravy, za které by si dřív IT firma řekla o tisíc eur, jsou dnes otázkou pár hodin a rovnou na ně dohlíží někdo, kdo rozumí i daním. Na […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vyplněním formuláře a jeho odesláním potvrzujete, že jste se seznámili s informacemi o zpracování a ochraně osobních údajů\n\nSocializujte se\nKategorie\nAffiliate marketing\nAnalytika\nAutomatizace a AI\nB2B marketing\nBrand a Brandbuilding\nByznys\nContent marketing a copywriting\nCopywriting\nCRM\nDigital & Online marketing\nE-commerce marketing\nEmail marketing\nEventy\nExpanze e-shopu\nHR\nInfluencer marketing\nLead Generation\nLinkbuilding\nLogistika a sklady\nMarketingová strategie\nMobile marketing\nMultimédia\nNezařazené\nNovinky\nO projektu\nOnline marketing\nPerformance marketing\nPlatební brány\nPPC\nPR\nRozhovory\nSEO\nSociální sítě\nSrovnávače zboží\nTvorba webu a e-shopu\nUX, UI, design\nVidea\nVideo marketing\nInformační stránka portálu Ecommerce Bridge\nNastavení cookies\nPřihlášení\nRegistrace\n© 2018 - 2026 Ecommerce Bridge - Lead Media s.r.o."
+      "text": "Články\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n26. října 2026\n1 min. doba čtení\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.    \n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nEcommerce Bridge UPDATE 43/2026\n\nNejnovější epizodu podcastu Ecommerce Bridge UPDATE najdete na všech populárních platformách.\n\n   \n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSDÍLET ČLÁNEK\n  \nMichal Moricz\nExecutive Director v Ecommerce Bridge\n\nOnline marketingový nadšenec, tvůrce obsahu, novinář, event manažer, projektový manažer a specialista na sociální sítě… Aktuálně to hrotím se Štefanem v Ecommerce Bridge. Děláme hodně, dobře a kvalitně. Říkáš, že se nedá? Sleduj nás a dokážeme ti, že ano! 🚀\n\n \nTÝDENNÍ PODCAST\nUPdate\nPODOBNÉ ČLÁNKY\nvčera\n9 min. doba čtení\nJak se e-shop s kávou dostal na slovenskou špičku a proč teď staví pražírnu budoucnosti (Peter Szabó, Coffeein)\n\nPrvní rok prodal 120 kilo kávy, letos to má být 120 tun. Peter Szabó přitom nechce být kávovým GymBeamem a růst donekonečna. Coffeein si drží 80 % zákazníků, slevu nikdy nedá vyšší než 15 % a na každém balíčku je jeho telefonní číslo. Reklama ale zdražuje, do marketingu dnes jde dvakrát víc než před dvěma […]\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nvčera\n11 min. doba čtení\nNovinky z e-commerce 44/2026: Nová pravidla pro e-shopy, produktové kategorie nabírají na síle, kolik platit influencerům?\n\nNejdůležitější novinky z e-commerce, marketingu a online dění za uplynulý týden si můžete poslechnout v našem podcastu UPDATE nebo si je jednoduše přečíst. Všechno na jednom místě. Stačí si vybrat, co vám vyhovuje víc.\n\nRedakcia\n30. října 2026\n7 min. doba čtení\n1 % e-shopů ovládá 90 % trhu. Konkrétní tipy, jak se přidat k tomu jednomu procentu (Jan Janouškovec, Srovname.cz)\n\nNejvětší e-shopy rostou o 15 % ročně, celý trh jen o 5 až 6 %. To nejsilnější jedno procento e-shopů si přitom v Česku bere možná už 94 až 95 % trhu. Nerozhoduje jeden zázračný kanál, ale to, že velcí hráči nestaví všechno na Googlu nebo Metě, ladí produktový feed a v Google Shoppingu obsazují […]\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vyplněním formuláře a jeho odesláním potvrzujete, že jste se seznámili s informacemi o zpracování a ochraně osobních údajů\n\nSocializujte se\nKategorie\nAffiliate marketing\nAnalytika\nAutomatizace a AI\nB2B marketing\nBrand a Brandbuilding\nByznys\nContent marketing a copywriting\nCopywriting\nCRM\nDigital & Online marketing\nE-commerce marketing\nEmail marketing\nEventy\nExpanze e-shopu\nHR\nInfluencer marketing\nLead Generation\nLinkbuilding\nLogistika a sklady\nMarketingová strategie\nMobile marketing\nMultimédia\nNezařazené\nNovinky\nO projektu\nOnline marketing\nPerformance marketing\nPlatební brány\nPPC\nPR\nRozhovory\nSEO\nSociální sítě\nSrovnávače zboží\nTvorba webu a e-shopu\nUX, UI, design\nVidea\nVideo marketing\nInformační stránka portálu Ecommerce Bridge\nNastavení cookies\nPřihlášení\nRegistrace\n© 2018 - 2026 Ecommerce Bridge - Lead Media s.r.o."
     }
   ],
   "poznamky": []
