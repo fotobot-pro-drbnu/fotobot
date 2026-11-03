@@ -262,12 +262,16 @@
     "https://reallygoodemails.com/emails/fast-flexible-funding-up-to-2300",
     "https://reallygoodemails.com/emails/chime-finish-sign-up-onboarding",
     "https://reallygoodemails.com/emails/microsoft-windows-11-customize",
-    "https://reallygoodemails.com/emails/atlassian-loom-meeting-recording"
+    "https://reallygoodemails.com/emails/atlassian-loom-meeting-recording",
+    "https://reallygoodemails.com/emails/primal-kitchen-halloween-bogo-collagen",
+    "https://reallygoodemails.com/emails/de-la-calle-dia-los-muertos-tepache",
+    "https://reallygoodemails.com/emails/gir-halloween-black-tools-sale",
+    "https://reallygoodemails.com/emails/yelp-halloween-cleaning-promo"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-10-29",
+      "date": "2026-11-03",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -280,7 +284,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-10-30",
+      "date": "2026-11-03",
       "odkazu": 100
     },
     "rge-announcement": {
@@ -305,7 +309,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-10-29",
+      "date": "2026-11-03",
       "odkazu": 100
     }
   },
