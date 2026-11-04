@@ -1,122 +1,139 @@
 {
-  "generatedAt": "2026-11-03T04:48:36.825Z",
+  "generatedAt": "2026-11-04T04:42:54.924Z",
   "checked": [
     {
-      "key": "flodesk",
-      "url": "https://flodesk.com/pricing",
+      "key": "targito",
+      "url": "https://www.targito.com/cenik/",
       "own": false,
-      "cz": false,
+      "cz": true,
       "prices": [
-        "$ 0 25 19 32",
-        "$ 0 28 25 39",
-        "$ 0 54 49 87"
+        "1 600 Kč",
+        "1 500 Kč",
+        "6 900 Kč"
       ],
-      "shot": "pricing-shots/2026-11-03/flodesk.jpg"
+      "shot": "pricing-shots/2026-11-04/targito.jpg"
     },
     {
-      "key": "loops",
-      "url": "https://loops.so/pricing",
+      "key": "emailkampane",
+      "url": "https://www.emailkampane.cz/cenik/",
       "own": false,
-      "cz": false,
+      "cz": true,
       "prices": [
-        "$49"
+        "2 376 Kč",
+        "790 Kč",
+        "956 Kč"
       ],
-      "shot": "pricing-shots/2026-11-03/loops.jpg"
+      "shot": "pricing-shots/2026-11-04/emailkampane.jpg"
     },
     {
-      "key": "beehiiv",
-      "url": "https://www.beehiiv.com/pricing",
+      "key": "emailmachine",
+      "url": "https://www.emailmachine.cz/cenik/",
       "own": false,
-      "cz": false,
+      "cz": true,
       "prices": [
-        "$49",
-        "$39",
-        "$95"
+        "490 Kč",
+        "5 880 Kč"
       ],
-      "shot": "pricing-shots/2026-11-03/beehiiv.jpg"
+      "shot": "pricing-shots/2026-11-04/emailmachine.jpg"
     },
     {
-      "key": "kit",
-      "url": "https://kit.com/pricing",
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
       "own": false,
-      "cz": false,
+      "cz": true,
       "prices": [],
-      "shot": "pricing-shots/2026-11-03/kit.jpg"
+      "shot": "pricing-shots/2026-11-04/smartmailer.jpg"
     },
     {
-      "key": "resend",
-      "url": "https://resend.com/pricing",
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-11-04/intelimail.jpg"
+    },
+    {
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-11-04/quanda.jpg"
+    },
+    {
+      "key": "mailkit",
+      "url": "https://www.mailkit.com/cz/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-11-04/mailkit.jpg"
+    },
+    {
+      "key": "clipsan",
+      "url": "https://www.clipsan.com/cenik",
+      "own": false,
+      "cz": true,
+      "prices": [],
+      "shot": "pricing-shots/2026-11-04/clipsan.jpg"
+    },
+    {
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/pricing/marketing/",
       "own": false,
       "cz": false,
       "prices": [
         "$20",
-        "$0.90",
-        "$90",
-        "$0.0015",
-        "$30",
-        "$150"
+        "$ 297 50",
+        "$297.50",
+        "$350",
+        "$13",
+        "$299"
       ],
-      "shot": "pricing-shots/2026-11-03/resend.jpg"
+      "shot": "pricing-shots/2026-11-04/mailchimp.jpg"
     },
     {
-      "key": "cleverreach",
-      "url": "https://www.cleverreach.com/en/prices/",
+      "key": "klaviyo",
+      "url": "https://www.klaviyo.com/pricing",
       "own": false,
       "cz": false,
       "prices": [],
-      "shot": "pricing-shots/2026-11-03/cleverreach.jpg"
+      "shot": "pricing-shots/2026-11-04/klaviyo.jpg"
     },
     {
-      "key": "rapidmail",
-      "url": "https://www.rapidmail.de/preise",
+      "key": "brevo",
+      "url": "https://www.brevo.com/pricing/",
       "own": false,
       "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-11-03/rapidmail.jpg"
-    },
-    {
-      "key": "expertsender",
-      "url": "https://www.expertsender.com/pricing/",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-11-03/expertsender.jpg"
-    },
-    {
-      "key": "sessy",
-      "url": "https://sessy.do/pricing",
-      "own": false,
-      "cz": false,
-      "prices": [],
-      "shot": "pricing-shots/2026-11-03/sessy.jpg"
-    },
-    {
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/cenik/",
-      "own": false,
-      "cz": true,
-      "prices": [],
-      "shot": "pricing-shots/2026-11-03/smartemailing.jpg"
-    },
-    {
-      "key": "boldem",
-      "url": "https://www.boldem.cz/cenik/",
-      "own": false,
-      "cz": true,
-      "prices": [],
-      "shot": "pricing-shots/2026-11-03/boldem.jpg"
-    },
-    {
-      "key": "leadhub",
-      "url": "https://www.leadhub.co/cenik",
-      "own": false,
-      "cz": true,
       "prices": [
-        "216 Kč",
-        "0,80 Kč",
-        "1,10 Kč"
+        "$8 .08",
+        "$10.80",
+        "$27.92",
+        "$18",
+        "$16 .17",
+        "$499",
+        "$449 .08",
+        "$58.50",
+        "$2,499",
+        "$0.00",
+        "$8.08",
+        "$9.00"
       ],
-      "shot": "pricing-shots/2026-11-03/leadhub.jpg"
+      "shot": "pricing-shots/2026-11-04/brevo.jpg"
+    },
+    {
+      "key": "mailerlite",
+      "url": "https://www.mailerlite.com/pricing",
+      "own": false,
+      "cz": false,
+      "prices": [
+        "$10.80",
+        "$22.50",
+        "$25",
+        "$270.00",
+        "$12",
+        "$129.60"
+      ],
+      "shot": "pricing-shots/2026-11-04/mailerlite.jpg"
     },
     {
       "key": "nas-web",
@@ -160,51 +177,45 @@
         "3,00 Kč",
         "5,40 Kč"
       ],
-      "shot": "pricing-shots/2026-11-03/nas-web.jpg"
+      "shot": "pricing-shots/2026-11-04/nas-web.jpg"
     }
   ],
   "changes": [],
   "nenacteno": [
     {
-      "key": "kit",
-      "url": "https://kit.com/pricing",
-      "shot": "pricing-shots/2026-11-03/kit.jpg",
+      "key": "smartmailer",
+      "url": "https://www.smartmailer.cz/cenik",
+      "shot": "pricing-shots/2026-11-04/smartmailer.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "cleverreach",
-      "url": "https://www.cleverreach.com/en/prices/",
-      "shot": "pricing-shots/2026-11-03/cleverreach.jpg",
+      "key": "intelimail",
+      "url": "https://www.intelimail.sk/cennik",
+      "shot": "pricing-shots/2026-11-04/intelimail.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "rapidmail",
-      "url": "https://www.rapidmail.de/preise",
-      "shot": "pricing-shots/2026-11-03/rapidmail.jpg",
+      "key": "quanda",
+      "url": "https://www.quanda.cz/cenik",
+      "shot": "pricing-shots/2026-11-04/quanda.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "expertsender",
-      "url": "https://www.expertsender.com/pricing/",
-      "shot": "pricing-shots/2026-11-03/expertsender.jpg",
+      "key": "mailkit",
+      "url": "https://www.mailkit.com/cz/cenik",
+      "shot": "pricing-shots/2026-11-04/mailkit.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "sessy",
-      "url": "https://sessy.do/pricing",
-      "shot": "pricing-shots/2026-11-03/sessy.jpg",
+      "key": "clipsan",
+      "url": "https://www.clipsan.com/cenik",
+      "shot": "pricing-shots/2026-11-04/clipsan.jpg",
       "drzeloPredtim": 0
     },
     {
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/cenik/",
-      "shot": "pricing-shots/2026-11-03/smartemailing.jpg",
-      "drzeloPredtim": 0
-    },
-    {
-      "key": "boldem",
-      "url": "https://www.boldem.cz/cenik/",
-      "shot": "pricing-shots/2026-11-03/boldem.jpg",
+      "key": "klaviyo",
+      "url": "https://www.klaviyo.com/pricing",
+      "shot": "pricing-shots/2026-11-04/klaviyo.jpg",
       "drzeloPredtim": 0
     }
   ],

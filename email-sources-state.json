@@ -266,7 +266,10 @@
     "https://reallygoodemails.com/emails/primal-kitchen-halloween-bogo-collagen",
     "https://reallygoodemails.com/emails/de-la-calle-dia-los-muertos-tepache",
     "https://reallygoodemails.com/emails/gir-halloween-black-tools-sale",
-    "https://reallygoodemails.com/emails/yelp-halloween-cleaning-promo"
+    "https://reallygoodemails.com/emails/yelp-halloween-cleaning-promo",
+    "https://reallygoodemails.com/emails/the-washington-post-relentless-campaign",
+    "https://reallygoodemails.com/emails/amuse-apple-music-video-distribution",
+    "https://reallygoodemails.com/emails/rockstar-games-gtav-album-launch"
   ],
   "catalogs": {
     "rge-cart": {
@@ -289,18 +292,18 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-10-30",
+      "date": "2026-11-04",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-11-02",
-      "odkazu": 50
+      "date": "2026-11-04",
+      "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
