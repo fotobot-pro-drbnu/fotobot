@@ -1,68 +1,55 @@
 {
-  "generatedAt": "2026-11-04T04:44:43.511Z",
-  "konkurence": [],
+  "generatedAt": "2026-11-05T04:43:39.758Z",
+  "konkurence": [
+    {
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/mailchimp-ai-peak-season",
+      "title": "Two quiet problems to address before the peak season rush from MailChimp - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-05/mailchimp--rge-promo-1.jpg"
+    }
+  ],
   "inspirace": [
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/the-washington-post-relentless-campaign",
-      "title": "Go inside the relentless pursuit of our reporting from The Washington Post - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-04/inspirace--rge-announcement-1.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/koa-welcome-camping-difference",
+      "title": "Discover the KOA Difference from Kampgrounds of America - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-05/inspirace--rge-welcome-1.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/amuse-apple-music-video-distribution",
-      "title": "Music Video Distribution to Apple Music is Here from amuse - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-04/inspirace--rge-announcement-2.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/heidi-welcome-club-ski-discount",
+      "title": "Welcome to the Heidi Club ⛷️ from Heidi - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-05/inspirace--rge-welcome-2.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/rockstar-games-gtav-album-launch",
-      "title": "Grand Theft Auto VI: The Album Coming November 19 from Rockstar Games - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-04/inspirace--rge-announcement-3.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/cava-welcome-to-cava",
+      "title": "Welcome to CAVA from CAVA - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-05/inspirace--rge-welcome-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 100
     },
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 100
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
       "odkazu": 100
     }
   ],
-  "archivy": [
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "url": "https://mailchimp.com/blog/newsletter",
-      "title": "Marketing Resources | Mailchimp",
-      "shot": "emails/2026-11-04/mailchimp--archiv.jpg"
-    },
-    {
-      "znacka": "Omnisend",
-      "key": "omnisend",
-      "url": "https://www.omnisend.com/newsletter",
-      "title": "Free and Customizable Email Newsletter Templates",
-      "shot": "emails/2026-11-04/omnisend--archiv.jpg"
-    },
-    {
-      "znacka": "ActiveCampaign",
-      "key": "activecampaign",
-      "url": "https://www.activecampaign.com/newsletter",
-      "title": "Blog | ActiveCampaign",
-      "shot": "emails/2026-11-04/activecampaign--archiv.jpg"
-    }
-  ],
+  "archivy": [],
   "poznamky": []
 }

@@ -269,12 +269,16 @@
     "https://reallygoodemails.com/emails/yelp-halloween-cleaning-promo",
     "https://reallygoodemails.com/emails/the-washington-post-relentless-campaign",
     "https://reallygoodemails.com/emails/amuse-apple-music-video-distribution",
-    "https://reallygoodemails.com/emails/rockstar-games-gtav-album-launch"
+    "https://reallygoodemails.com/emails/rockstar-games-gtav-album-launch",
+    "https://reallygoodemails.com/emails/mailchimp-ai-peak-season",
+    "https://reallygoodemails.com/emails/koa-welcome-camping-difference",
+    "https://reallygoodemails.com/emails/heidi-welcome-club-ski-discount",
+    "https://reallygoodemails.com/emails/cava-welcome-to-cava"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "odkazu": 100
     },
     "emaillove-newsletter": {
@@ -307,12 +311,12 @@
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-11-02",
-      "odkazu": 50
+      "date": "2026-11-05",
+      "odkazu": 100
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "odkazu": 100
     }
   },
