@@ -273,7 +273,10 @@
     "https://reallygoodemails.com/emails/mailchimp-ai-peak-season",
     "https://reallygoodemails.com/emails/koa-welcome-camping-difference",
     "https://reallygoodemails.com/emails/heidi-welcome-club-ski-discount",
-    "https://reallygoodemails.com/emails/cava-welcome-to-cava"
+    "https://reallygoodemails.com/emails/cava-welcome-to-cava",
+    "https://reallygoodemails.com/emails/sign-in-to-shop",
+    "https://reallygoodemails.com/emails/your-rides-waiting",
+    "https://reallygoodemails.com/emails/thanks-for-riding-with-waymo"
   ],
   "catalogs": {
     "rge-cart": {
@@ -291,17 +294,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-03",
+      "date": "2026-11-06",
       "odkazu": 100
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "odkazu": 100
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "odkazu": 100
     },
     "rge-newsletter": {
@@ -459,14 +462,14 @@
     "dotdigital": {
       "working": "https://dotdigital.com/blog/newsletter",
       "fails": {
-        "https://dotdigital.com/newsletter": 2,
-        "https://dotdigital.com/newsletter-archive": 2,
-        "https://dotdigital.com/emails": 2,
-        "https://dotdigital.com/email-archive": 2,
-        "https://dotdigital.com/resources/newsletter": 2,
-        "https://dotdigital.com/blog/newsletter": 0,
-        "https://dotdigital.beehiiv.com/archive": 1,
-        "https://dotdigital.substack.com/archive": 1
+        "https://dotdigital.com/newsletter": 3,
+        "https://dotdigital.com/newsletter-archive": 3,
+        "https://dotdigital.com/emails": 3,
+        "https://dotdigital.com/email-archive": 3,
+        "https://dotdigital.com/resources/newsletter": 3,
+        "https://dotdigital.com/blog/newsletter": 1,
+        "https://dotdigital.beehiiv.com/archive": 2,
+        "https://dotdigital.substack.com/archive": 2
       }
     },
     "hubspot": {
