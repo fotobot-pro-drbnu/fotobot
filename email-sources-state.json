@@ -276,7 +276,10 @@
     "https://reallygoodemails.com/emails/cava-welcome-to-cava",
     "https://reallygoodemails.com/emails/sign-in-to-shop",
     "https://reallygoodemails.com/emails/your-rides-waiting",
-    "https://reallygoodemails.com/emails/thanks-for-riding-with-waymo"
+    "https://reallygoodemails.com/emails/thanks-for-riding-with-waymo",
+    "https://reallygoodemails.com/emails/close-trial-onboarding-do-one-thing",
+    "https://reallygoodemails.com/emails/cursor-connect-repos-onboarding",
+    "https://reallygoodemails.com/emails/hims-hair-regrowth-assessment"
   ],
   "catalogs": {
     "rge-cart": {
@@ -304,18 +307,18 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-06",
+      "date": "2026-11-09",
       "odkazu": 100
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-11-04",
+      "date": "2026-11-09",
       "odkazu": 100
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-11-05",
-      "odkazu": 100
+      "date": "2026-11-09",
+      "odkazu": 150
     },
     "rge-promo": {
       "fails": 0,

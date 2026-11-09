@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-11-06T04:51:11.457Z",
+  "generatedAt": "2026-11-09T04:44:12.982Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/sign-in-to-shop",
-      "title": "Sign in to Shop from Shop - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-06/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/close-trial-onboarding-do-one-thing",
+      "title": "Don't overthink your Close trial. Do one thing. from Close - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-09/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/your-rides-waiting",
-      "title": "Your ride's waiting ⏱️ from Bolt - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-06/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/cursor-connect-repos-onboarding",
+      "title": "Connect your repos to Cursor from Cursor - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-09/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/thanks-for-riding-with-waymo",
-      "title": "Thanks for riding with Waymo from Waymo - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-06/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/hims-hair-regrowth-assessment",
+      "title": "A new approach to hair regrowth from hims - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-09/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
-    {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 100
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 100
-    },
     {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 100
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 100
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
+      "odkazu": 150
     }
   ],
   "archivy": [
@@ -47,21 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-11-06/flodesk--archiv.jpg"
+      "shot": "emails/2026-11-09/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-11-06/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-11-06/smartemailing--archiv.jpg"
+      "shot": "emails/2026-11-09/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
