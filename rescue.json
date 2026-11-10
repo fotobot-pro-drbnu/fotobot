@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-09T04:44:55.332Z",
+  "generatedAt": "2026-11-10T05:00:50.081Z",
   "pacienti": 2,
   "zachraneno": [
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-09/targito.jpg",
+      "shot": "rescue/2026-11-10/targito.jpg",
       "health": {
         "imgTotal": 71,
-        "imgBroken": 40,
+        "imgBroken": 37,
         "h1": "",
         "ruleCount": 80
       }
@@ -18,7 +18,7 @@
       "key": "e-goi",
       "url": "https://www.e-goi.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-09/e-goi.jpg",
+      "shot": "rescue/2026-11-10/e-goi.jpg",
       "health": {
         "imgTotal": 0,
         "imgBroken": 0,

@@ -279,13 +279,16 @@
     "https://reallygoodemails.com/emails/thanks-for-riding-with-waymo",
     "https://reallygoodemails.com/emails/close-trial-onboarding-do-one-thing",
     "https://reallygoodemails.com/emails/cursor-connect-repos-onboarding",
-    "https://reallygoodemails.com/emails/hims-hair-regrowth-assessment"
+    "https://reallygoodemails.com/emails/hims-hair-regrowth-assessment",
+    "https://reallygoodemails.com/emails/mcdonalds-monopoly-week-two-winners",
+    "https://reallygoodemails.com/emails/organic-valley-thanksgiving-giveaway",
+    "https://reallygoodemails.com/emails/pure-halloween-dog-food-education"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-11-05",
-      "odkazu": 100
+      "date": "2026-11-10",
+      "odkazu": 50
     },
     "emaillove-newsletter": {
       "fails": 1,
@@ -297,8 +300,8 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-06",
-      "odkazu": 100
+      "date": "2026-11-10",
+      "odkazu": 50
     },
     "rge-announcement": {
       "fails": 0,
@@ -322,8 +325,8 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-11-05",
-      "odkazu": 100
+      "date": "2026-11-10",
+      "odkazu": 50
     }
   },
   "archives": {
@@ -470,9 +473,9 @@
         "https://dotdigital.com/emails": 3,
         "https://dotdigital.com/email-archive": 3,
         "https://dotdigital.com/resources/newsletter": 3,
-        "https://dotdigital.com/blog/newsletter": 1,
-        "https://dotdigital.beehiiv.com/archive": 2,
-        "https://dotdigital.substack.com/archive": 2
+        "https://dotdigital.com/blog/newsletter": 2,
+        "https://dotdigital.beehiiv.com/archive": 3,
+        "https://dotdigital.substack.com/archive": 3
       }
     },
     "hubspot": {

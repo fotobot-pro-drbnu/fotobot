@@ -1,60 +1,67 @@
 {
-  "generatedAt": "2026-11-09T04:44:12.982Z",
+  "generatedAt": "2026-11-10T04:59:58.113Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/close-trial-onboarding-do-one-thing",
-      "title": "Don't overthink your Close trial. Do one thing. from Close - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-09/inspirace--rge-onboarding-1.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/mcdonalds-monopoly-week-two-winners",
+      "title": "Matt, Think You Can Get Another Win? from McDonald’s - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-10/inspirace--rge-promo-1.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/cursor-connect-repos-onboarding",
-      "title": "Connect your repos to Cursor from Cursor - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-09/inspirace--rge-onboarding-2.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/organic-valley-thanksgiving-giveaway",
+      "title": "Hey there, Enter For a Chance to Win $400! from Organic Valley - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-10/inspirace--rge-promo-2.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/hims-hair-regrowth-assessment",
-      "title": "A new approach to hair regrowth from hims - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-09/inspirace--rge-onboarding-3.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/pure-halloween-dog-food-education",
+      "title": "Do you really know what's in traditional dog food? from Pure - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-10/inspirace--rge-promo-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
-      "odkazu": 100
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
+      "odkazu": 50
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
-      "odkazu": 100
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "odkazu": 50
     },
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
-      "odkazu": 150
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
+      "odkazu": 50
     }
   ],
   "archivy": [
     {
-      "znacka": "Flodesk",
-      "key": "flodesk",
-      "url": "https://flodesk.com/emails",
-      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-11-09/flodesk--archiv.jpg"
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-11-10/smartemailing--archiv.jpg"
     },
     {
-      "znacka": "Customer.io",
-      "key": "customerio",
-      "url": "https://customer.io/blog/newsletter",
-      "title": "Learn with Customer.io",
-      "shot": "emails/2026-11-09/customerio--archiv.jpg"
+      "znacka": "Targito",
+      "key": "targito",
+      "url": "https://www.targito.com/newsletter",
+      "title": "Newsletter - Targito",
+      "shot": "emails/2026-11-10/targito--archiv.jpg"
+    },
+    {
+      "znacka": "Boldem",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/resources/newsletter",
+      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
+      "shot": "emails/2026-11-10/boldem--archiv.jpg"
     }
   ],
   "poznamky": []
