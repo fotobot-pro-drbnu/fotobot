@@ -1,405 +1,405 @@
 {
   "smartemailing": {
-    "pix": "HR4dHR0dHR0cGBkaGhoaGhoaGhkaGRgcHh4eHh0dHR0uLTAwLy8wLzNJSEhISUhISUlJSUlJSjMuLi4uMC8uLzEvLTEyMzQtTfT4+Pj3+Pn29fX19u/STSw0MjEuLi4xNCslKjQ2Ny9R+9rW1+bX2v3//////vdMKzcyMCYnJjMQDxAPDxASCDH76OHc6eLb5Pr+/v3//jEJEhIREREREQAAAAAAAAIAI/7//Pvl3uTh5+X8///+JAAEAwIBAQECAwMDAwMDBQAl/vvn4eTk4fT//v/+//4nAAgHBgUFBQYCAgICAQIDACT//Ojh5uLm7P3///7//igABgQGBgYGBQICBgYKCAkBKv786ODj4OP4/////v/+KwMOBQQHBwcGAgEJCwsKDQMt/vn6+fj59/n////+//82BwoJBQgICAkCAQsTDw4TCjP97v3//////v39/fz9/zMACAwHCAoKCQIBCRIXExEAJP76/P39/f39/f39/P3+LQUKDAcICggFAgEFCgcICQAl/fD7/v79/v39/f38/f4vAQcLBwkJBQQCAgIBAQEDACf+/f39/f37/f39/fz9/i0ABQoGCQgFBAIBBw0LDA4AI/337e/w7/b9///+/f/9IwAHCwYEBAQDAgIFBwYGCDVe+fTw8vLx9vz+/P7///5nNgoJBAMEAgICAQwXFhUV2/Pr6Pb//P38/fr/zbzDv8nRBQIDAgICAgIBDRkXFxjU5ODe393g3d/d4PykgIyHh8EKAgICAgICAgIEBQUDBNn78vn6+/z6+vr7/4FRZV9WuwoAAgICAgICAgICAgICjaafpainqKioqKeml5GRkJeKAgICAgICAg==",
-    "struct": "e37fc38931ea04ac1db0d808ed1d4b5395e7b706",
+    "pix": "kpORkZKSkpKSkZegn56fnZ+cnZmblpGSkpOTk5GRkpLq4fDx7e7u7u7u7u7u7+/v7u/u7u7u7u7n4+Pk8e3q7fjp4vT++/z8/Pz8/Pv6+fr8+vv7+/r8+vj5+PTo5+f4+ta0z/j//v///////fTv9f7y+/f58//z8//06ry9vPNNTU5KS01NTU1NTU1NT1BPTlBPUE9RUVRTU1hWUlFPUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIGBgUKEgwFAwMEDw4PDw8ODw8PDw8ODg4OEA8PEREUFhodGiElHBcVFxkMDAoJBQgGBQYHBAkMCwwNDhISFRgZGx0ZGhkeHBkbGQwIHyAvKCQuKS0zEwkMDA4SFTI2Njc2NDw+HxMeICEaDQgqNTYwNTk3NSoVCQwMCQ4nLiAmKE9zSCovGiIlJSYNBjZeSEdWV1xLBwkMDAwtKjIrIBg2lmclITwlIysqJgwHK1duW0kJAwULDAsMJ1o9Mi03Vjs6OEMoPCIjLyQWDAkaLiMlIg4MDAsLCwwtMSY4LzFogmtHKx82Iy0sFxEKCwgFBAUGDQ0ODw0PEiA3ITo5MT5NRy0eETEgKSYRDgsGIz42OTkqLCoqKi4aAxANLS4gIRgaGBYcOh8QDg0NCggYIh4bIFtjX15hZlpIT1FaamxvbmxuXC8sEQ0ODAsLBDtvamto5fDw7Pj///////3/0L/HwsbREAwODQwMCwwDQXp0dHLg4d/d3t3f3N7c3/ykgIyHh8MVDQ0MDAoKCgkTFxUSFdv78fj5+vr5+vn6/4BQZF5UvBYLDQwLCgsKCgoKCwoKkamiqKurq6urrKqqm5OUk5qPDAwNCwsKCw==",
+    "struct": "12af4ba1c3da2d957fe19dc3435f98dd839d5deb",
     "h1": "E-mail marketing, který skutečně vydělává",
-    "ts": "2026-11-10T04:41:03.622Z"
+    "ts": "2026-11-11T04:41:02.481Z"
   },
   "boldem": {
     "pix": "mI2Ml5ycmZKRlpiRkJSakpGSmpGQlpiQm52XkZaTk5uHe3qEi4qIg4KGh4KChYiDgoOJg4KGh4OJi4aChoSEiUNFRUJBQUJDQkFCQ0NCQEFCQkBAPz4+Pzw8PT4+Pj49QD8+Pj8/Pz49PDw8PDw8PDs6OkFCQ0NDQ0NDQ0JCQkBGSUhHSUdIR0ZLTElJSUVBNy0lf5OPkI6OjIqLhYOLcEVGR0ZFR0hCXcfd7ejq6OXi4OHw9u3fpJSXl5eXmJ91Wl1cW1RSX1Rn5+nx9fHu7/Hu7/Do5vWkkZiZmZeRmHNPV1FWVldaTGzq29fd4efx8O7u8+3v+6WSlZeXknyBb1ZUT1NZV1ZOde/q5+fr+P38/Pr5+/7+noyQj5CRkphzVFxaVVtbWj9X69vf4ODU09LX3uLj6/ulkZSVk5WVl3NCRkNEQ0RGO1zp2tze29ja4uXu7O3s+aeUmJmUlpicdHSLhIWFhoaBnvDl5uTl6OXOxM/Y1dLnp5OWlpSTl5p0V2ViYmNjY115+vf17PH49qWTmZ6WjsGulZiZl5ebnnU9PT4+Pj8+N1j+//7///n08/j//////pyJjIyGi4+JXj8/Pz8/Pj83V+Xd3t/e5OLd2+/u7u7uVDU8Ozo6Ojo7QUFBQUFAQEBBSkpJSklJSkpKSUhISElAPz8/Pz8+Pj6Pj4+Pj4+Pj46LjIyMjIuLjIuMjIyMjI6Pj4+Pj4+Pj5ubm5ubm5qeoKGhn5+foKGgoaGhn6Cgn5ybm5ubnJycmJiYmJiXm4J6eHyHfXqCfXp7gXuGgXyElpiYmJmXZH2ZmZmZmZmajYSChI+Ii4eEh4SBg4mIg4qVmZmZmZl2iA==",
     "struct": "3f38b34f67cde8b6557fbe4236c2dff1c285ec30",
     "h1": "Boldem CDP systém pro marketingovou komunikaci",
-    "ts": "2026-11-10T04:41:03.622Z"
+    "ts": "2026-11-11T04:41:02.481Z"
   },
   "leadhub": {
-    "pix": "TD8SHyUhEAsLChAsSFdbWlhZQUtFNE52eHBYYVJSPxJMRhUjLigQCgwNG0NSS1BdXUoyIBkeL3JzdWFiXE4/FUFBGAgIByY5GR81RFxeYlhEOy4pKy4wOUlRVGFdSzcTOUMYERM2UlI2PVNWXWBjU15QPEU4NUFugHBpdmtYPiGFbEw4OWRnWT5Rbn1ca3pncWpWU0pRO1Jjc4eNinV3eauZfGhnZl4+NkiLnpWZnKCckoxlea6Xd1lEQU9ranZ6p6K3sqiKdWZeg62/wMK4rru0pHOKnpqkpZt/XDdTcm2oorC1tZqFWXHArsK9urensbaYZJiUmJicoKCkX0tmYaqmmpuSi4uRkaSgoZ2cn4uIkIJppJ+hn6GhoqJNVmdgq6Kxwq6tsby2vre6vcKura2mjJ6xoaKgoqOolEBsd3qopKujn5CVo6OMcI6ll4eKh45vdlRagJGRjJRoOWNiXKipqKmnlY2TZysZFF53Vlh0TzUlHR83P2yDikg8SFFQpqixtayhn4llWFdIW3NVS4F+TzgfHikjKUlqRUpESECkoqGbk5ORimZhXVlTS1AydnpjZkYoOjcwMT1MU0tARKChlpSWlpORgz0aExEeRy05WWRqaWJkSUdWUFdXUj1GlpmWlpSTkIqKRQgMDi5IPzxOWGNac4l9YklETVBGPkaQkZGTk5CNiIOAZA4cTEU/LDZJTixAa1UrMDc6QEA8Q4qIio2NjIqIgn6AV0xDPkAwNUQ2KzVYQkFDNjQ5OztDg4OEiImHh4KDg4SHhWs6Miw9RjY5Qkw9PTs5ODw6NTp5eHN2h4+NjpCPj4uIimpfZ1BLNzlEQThFQUBCRzk2NA==",
-    "struct": "6f476a0cf32b79d194d8912cdc06b7a800062bbc",
+    "pix": "TD8SHyUhEAsLChAsSFdbWlhZQUtFNE52eHBYYVJSPxJMRhUjLigQCgwNG0NSS1BdXUoyIBkeL3JzdWFiXE4/FUFBGAgIByY5GR81RFxeYlhEOy4pKy4wOUlRVGFdSzcTOUMYERM2UlI2PVNWXWBjU15QPEU4NUFugHBpdmtYPiGFbEw4OWRnWT5Rbn1ca3pncWpWU0pRO1Jjc4eNinV3eauZfGhnZl4+NkiLnpWZnKCckoxlea6Xd1lEQU9ranZ6p6K3sqiKdWZeg62/wMK4rru0pHOKnpqkpZt/XDdTcm2oorC1tZqFWXHArsK9urensbaYZJiUmJicoKCkX0tmYaqmmpuSi4uRkaSgoZ2cn4uIkIJppJ+hn6GhoqJNVmhgq6Kxwq6tsby2vre6vcKura2mjJ6xoqGgoqOnkz9sdnqopKujn5CVo6OMcI6ll4eKh45vdlJjkqKinah1PnFwW6ipqKmnlY2TZysZFF53Vlh0TzUlHhYmSHOKk01AS1RQpqixtayhn4llWFdIW3NVS4F+TzgfIysNFjRXNUBESD+koqGbk5ORimZhXVlTS1AydnpjZkckKyoiJTFCTkRARKChlpSWlpORgz0aExEeRy05WWRqaWJoSklcUVZdSDtGlpmWlpSTkIqKRQgMDi5IPzxOWGNacoh9aE1CUE5DP0aQkZGTk5CNiIOAZA4cTEU/LDZJTiw/alY1PDg6QT88Q4qIio2NjIqIgn6AV0xDPkAwNUQ2KjtiQENAMjU5OztDg4OEiImHh4KDg4SHhWs6Miw9RjY5QlA8QT04ODw6NTp5eHN2h4+NjpCPj4uIimpfZ1BLNzlEQDhEQUFCRzk2NA==",
+    "struct": "53f6cf78e2bfa5e26fb28153e104f70fe5d31634",
     "h1": "Měníme data na efektivní marketing",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "targito": {
-    "pix": "7+vr6+z5///////////////////////86e3x6vT29fz39PT29/3///////////////////////32+Pno6fv9/v////////////////////////////////z9/PPp9////v7+/v7///////////////////////7/6tvj6tzn///////////////////////////////////8+fn8///////////////////////////////////+//Pt6vb//v7+/////////////////////////////////fr9/vf5/vz////////////////////////////////08v7/+/z///////////////////////////////////X3//z+/v39//////////////////////////////////79/f39/fz////////////////////////////////w8P/+/v7+/v///////////v7//v7+/v7//v7+///+/v7+/f39/f38//////////////////////////////7/8/L//v7+/v72/f3+///+//bw/PD4+O/x+PL59vb38Pn59//9/f39/P7+/v///////Pr++/39+vv9+/38/Pz6/fv4+/7+/v7+//////////////////////////////7/8+n1//7+/v7///////////////////////////////7+///+/v7+/f////////////////////////////////3////////+/////////////////////////////////f////////7////////////////////////////////9/////////Q==",
+    "pix": "9Ozt7vv///////////////////////nl7vjm7Pv09f38+vr6/v///////////////////////fn9//np8P3+//////////////////////////////////Py9Ozl+P///v7+/v//////////////////////////6eLs6+Dy//7////////////////////////////////5+fb9//////////////////////////////////////Hv7fr+/f39/////////////////////////////////Pr+/fb7/f3////////////////////////////////v9f7/+/3///////////////////////////////////X7/v3+/f39////////////////////////////////+/z+/v7+/v7////////////////////////////////t9v/+/v7+/v/////////////////////////////////+/f39/f39/f7+////////////////////////////6/P//f7+/v73/f3+///+//bv++73+O7w+PH59vb37/j7/f79/f39/f/+/v////////7//v7//v7//v///v7+/vj2/P7+/v7+////////////////////////////////8Ov5//7+/v7////////////////////////////////+/////////v////////////////////////////////3+///////+/////////////////////////////////f////////7////////////////////////////////8/f39/f39/A==",
     "struct": "9c8c6b7ffa4510af4589bc8c5cc2a4795d10ed48",
     "h1": "",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "incomaker": {
     "pix": "vbi1rqWdlYyEfHR2b2lqYGhjYWFhXGNfWWJjXH6AWza7t7Wso5uTioJ6c3FrZmVeY19fXl5aXFlUWVhRaGNONrq0raihmpGIgHhyamVgXV1aWVlYWFdST0xGSEc0UD43uLKtp56TjYN8dGplYGBfXVxbWllZVlJQTElTSEyWQza3saqns66qop6DlI2KYFhZWFpaWVlVUk5LSUQ/R0Y4N7WvqqOyqaKfk4qVi45vd29qYFhZWFRRTkpIRUE9Ojk2s66oo6+xrKCXh5aSi5iViZ54U1pWU1BMSkdDQD88ODWyraWisp6NioN8eXRuXFdXXVxYWVVSUExJRkJAPjs3NbCrpJyhkoeCeXhwamhgXVxaWVlYVVJOSkhFQUA9OjY0r6qinJiRjIN9eXVta2FbW1paWVhUUU1KSERBPzw5NjStqKGZmZGJhH1zcmxuaV1bWllZVlNQTElHQ0E+PDg1M6ylnZWOiYB7eXFuZF5eW1paWVlVUk9LSUZCQD07NzUyrKqjl5SWhIKNhINsXV1cXFlZWVRRTkpIRUFAPTo2NTK2u7+4m3qAfW5pZWNkZGFSRUZTVVFNSkhDQD88ODY0MMzUwJZxW1VhaWZgX11TRz4+QT9FTU1KR0NBPTc0MzMwtpp5WUNNS0ZLVl5XSTwzKSg0PD0+QkhGQDkxKy4wMC9uV0ExLCovNz9ESD8zKyYnJyYqMjo8PTowKSYkJSgrLiYeICIgHBgVFh4fFxcXFxcXFxcUFh0ZFBQUFBQUExMTmJqamZiXlpWVk5OUlZSUlJSUlJSUk5KTlJSTk5OTk5P//////////////////////////////////////////w==",
     "struct": "95a25c9b55fcea94a1347a7bcc292ccb1e6894cd",
     "h1": "Switch your digital marketing to autopilot",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "emailkampane": {
     "pix": "7eLq//j4+P38+v35/vr4/f///////vv++fX/5MzRzN/j0uT/9/f3/Pv5/Pj++fb9/v7+/v79+v349f7iyc3J3f///vz9/v79/f39/vz9/f38/P39/f3+/f7//v7//////v7//////////////////////////////////v7+/v7//s/e1t3d5tvV4+Xe2dHk4OT6///////////////////82tPGwMTLwMHOyMDAxMjNxPL//v////////////////7Vze3r3t3j5N3h5Ozk5ebk3Pv//////////////////NTe7uvi6eXl5eTn6eTn5eTn/P///////////////////v35+fr6//////////////////////////////////+ypauqpq/7//7+/v/+/v7+/v///////////////////+Pe4N/f5v7//////////////////////////////////v7+/v7///////////////////////////////////////////7////////////////////////////////8+/r6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vv7+/v7/Pj19vb29/r7+vv8+vv5+fr6+/r7+/z7+vz89/b29vX4+Pf39/jw5+Hm3t3n4ero5OPh5OPd3eLk3N3z+Pf39/j49/f3+PDk3OHV2eLe5OLf3tvh3Nja1uHZ1/L49/f2+Pj29ff29/r6+v38+/z7+/z8/fv8/fz9+vr89/b39/f5+Pb58fPy8vz29fj29PX19fX19vb29vfx6+3q8ff29vb49vf09PT09/b37fP5+Pj4+ff19vb29fno4ejo5uvx6w==",
     "struct": "7489631b8594770b73d165f1f280716f9e7d05d5",
     "h1": "Profesionální platforma pro provoz emailingu",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "emailmachine": {
     "pix": "//Hj3+Dc3uH6////+/Dz7vT08vTz5qSb0ezU2dbp+f//8OTb39na2/f//f778/Xx9vb19PbkqZ7Q7dnd2ur5/vf6/P79/v7++Pb39/j6+fv5+vr5+//3/fz7/v3++/j39/b29vX29vb39/f39/f39/f39vrqeC5+/PX29fX39/f4+vz7/fz5+Pj4+Pj4+Pj4+Pj3/8g9dmXm/Pf9+/f4+Pvv6ezj6PT5+Pj4+fn6+vr6+vf+6quljen9/t3i/vn6/Ozg39fe9P/9///+/vv6+vzt3u30x4Cn9PKdbOj++fr929Ld2tDEytXMyr7G9/r78drY6O3Tgafo69LF/vn6+vzf4Ojn4OHh6eHf4t33/Pr24enq4+ni4ODc7fn5+vr6+/Dp7uXp5urr6ejt7eTu/Pz66N/n6N7i48va+vv7+/v96dvi7Orr7O7r6e3q7u76/Pjo6/Xz5+/u2Nv7+/v7+/v18vb+/f39/f3+/f39/fv96OD53uXl2d3uwer9+vv7/+bKyub/+/z8/Pz8/Pz8+//XptvVv8i3zc+J3P/7/Pz99ezt9v79/f39/f39/f38//Sr1OzJ0Mzo0bj9/vz8/P7+///+/v7+/f79/f7+/vz8++PT09PR0by5w8PS8f/+/v39/f3+/f3//v/+//7+//3kzMPJxc3b2dvi6PH8/v7+/v7+/v///ev/7vH//f/T1f/+//7////////////+/v/////+/+Byrf/IctH/6V5p7v+Qq+z/uHve//z///////////7/7aXp///c7f/5naL8/uig2P/OfdL//P///////v39/f/06vD/9eTq//Lk5vb96uv1//z//v/8/f3+/w==",
     "struct": "e32ef293ef7b69dcf3441c134bd2ef6c5d1fdac1",
     "h1": "pro e-mailové rozesílky",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "smartmailer": {
     "pix": "////+/Tk8f///PX4+/v7/fv3///8+t2io9P4+/3////+/v789uby//78+Pv46+3s8fr///394Kin2Pn4+v7+/v/+/v7///7+///9/9MnPxxs/PP6/v76/v7/3p28+/X8//r18/P39vL8//z/zxIbAFj+6fHy7+3t8vX18vP29vb/69Hm5NbV6f7//f/PEBwFXf/z9vj7+vT2+fj1+fr29f/ntL26r6a29//9/9M3Qy1z8+3/9+T3/PDl/frs8P34/9m0x9fS/f/+//3/zxwhBWL/7vz66fH89ur3/vLt+/v/68rEvMrs7ubq/f/OERQAWv/x7/f59vf59/f0+Pv5+v/utK61rMy5r9H//84QHABb//P2+/z8/Pb7+uft+fr6//vz8fT39Pb49fH/0A4SAFz/+Pr3+e727fr96e728PP/9ezu6urm6Ofk5f/PEyICWv/08fT86vDv+P3h5fDn8v/v1tnY3vT08/L1/88NFwBb//D3+fbz+fL6+tzh9/X0/8Rpdm+H8e3u9fz/zwYQAF3/7vP4+fn5/v/55fr99fb/9+vs6+/8/Pz8/P/NAAQAVP/7/v/////+//vx9/z19/j6/f7+/vr6+fn3++qztrHK+vX29fX19fb29fX19/X29fT16OLi4+T09erf6vPu9e/h5ujj6Obn5uLo5ur29vb29vb09PPy9Pb28vHw7u7t8PHx8fLy8fLx8fHx8vb29v7+/v///////////////////////////////////v7+////7OPq7/bz7+ru6+3v4Ono7////////////////////v/nx8/R3tvU0cfE18nJx77a//7//////////////w==",
     "struct": "9784f88a1089073c5d46f0881503da1ded1f5233",
     "h1": "Newsletter,\nkterý si\nnapíšete sami",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "intelimail": {
-    "pix": "/fz/8uXn5e3/9vny8vP69/b2+PP8+vbfxMXU+/z9/f34+Pn07+7u8/j19vLz8/b19PX18/f39Ozh4ef3+Pj4+PT09PX29vb08/T09PX19PT09PT18/T09vj49/T09PT09PT08/Pz9Pf2+Pf39fX29/b3+Pb59/f39/Tz9PT09PT09PT08/faxMS+zMfR07/KzNDEvMjDzsDD4fbz9PT09PT09PT09e7q593q5efo4uTh3dvc29/l3+Xr9fT09PT09PT09PT09fb2+Pbz8/b39vT29vPz+Pf49/X09PT09PT19fX19fX19fX09PnllZOWlpOS5fnz9PT09fX19fX19fX19fX19fX19fX19vDV1NbV1dXv9fX19fX19fX19fX19fX19fX19fX19fX19vz8+/z9+fb29PX19fPy9PX19fX19fX19fX19fX19fX28eTCrrfE3O/29fX18/L09fX19fX19fX19fX19fX19enSubHAvbKapOD29PX19fX19fX19fX19fX19fX19fTu3srC2cW4qpicquj39PX19fX19fX09PT09PT09PT09OTh3slno8CtpK+auO/18/T09PT09Pf39/f39/f39/f04tfhu1qf1p2Xg52k2fv29/f39/f3//////////////7w98yie8LEiYeIk6TB//3////////////////////////I5+JI4fGapKaiirv//v//////////////////////++P/wsmuoL3DtrR/xv/+/////////////////////////v+49MiTvqW2mIjn//7//////////////////////t7DuaCwlHuCnrGNzP///////////w==",
-    "struct": "c15759b682ded5c11c0e5e3c1bb37ce2a49cb81c",
-    "h1": "Inteligentné riešenia podávajú výk|",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "pix": "/fz/8uXn5e3/9vny8vP69/b2+PP8+vbfxMXU+/z9/f34+Pn07+7u8/j19vLz8/b19PX18/f29Ozh4ef3+Pj4+PT09PX29vb08/P09fX18/T09PT18/T09vj49/T09PT09PT08/Pz9ff3+Pf29Pb29/f49/f59/f3+PXz9PT09PT09PT09PLMx7/Dy8jXysPKzszAvMjEzbzB2fP09PT09PT09PT09Ovr4uHs5enl4+Xg29zc2eHj4eTp8/T09PT09PT09PT09vb4+Pbz8/b39vX29vT0+Pf49/b09PT09PT19fX19fX19fT09PnllZSWlpOS5fnz9fT09fX19fX19fX19fX19fX19fX19vDV1NbV1dXv9fX19fX19fX19fX19fX19fX19fX19fX19vz8+/z9+fb29PX19fPy9PX19fX19fX19fX19fX19fX28eTCrrfE3O/29fX18/L09fX19fX19fX19fX19fX19enSubHAvbKapOD29PX19fX19fX19fX19fX19fX19fTu3srC2cW4qpicquj39PX19fX19fX09PT09PT09PT09OTh3slno8CtpK+auO/18/T09PT09Pf39/f39/f39/f04tfhu1qf1p2Xg52k2fv29/f39/f3//////////////7w98yie8LEiYeIk6TB//3////////////////////////I5+JI4fGapKaiirv//v//////////////////////++P/wsmuoL3DtrR/xv/+/////////////////////////v+49MiTvqW2mIjn//7//////////////////////t7DuaCwlHuCnrGNzP///////////w==",
+    "struct": "776395b4cd0b33a61ecf31ab5c011dff53157abb",
+    "h1": "Inteligentné riešenia podávajú výkon|",
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "quanda": {
-    "pix": "5cDIzent5ers7O7s7ffx9frz+//69/Ppn5eYvsHE5+rt2d/j7e/p7e/w8fDy+Pb5/Pj9//z7+PHHwsHX2Nns6u/z8vLw8fP09fb3+vz8/v///////////v////38+/js8fDw8fLz9PX29vj5+/7///////////79+/n5+ff39+709PT09fb29vf4+vv8+fr6+vr6/f/+/v7+/v37+/r68fb29vb39/j5/P////74+Pj4+Pr+/////////v79/Pzz+fn5+fn6+v3u5/Dq7+7t8fbz8O/x8O72//////7+//X9/f39/f79/+/m5+rl5+rj5PDl6e/l5fL//v//////9/7+/v///v7+/fTz8vPw8PH09fjx8Ovv/f/+/v39/f30/v7+/f39/P379PHy8vTz9fn2+Pbz9fP8/vz8+/v7+/H8+/v6+vr6+vr7/Pz8/f7+/v///////vz7+vn4+Pf37/n49/f39vb29vb29/f4+Pn6+vv6+vr5+fj39vb19fXs9/b19fX09PT09PT19fX29/f29vb29vb29vX19PLy8unz8/Ly8fHx8fHx8fHy8/Pz8/Ly8fHx8fHy8vHw7+7u5vLx8O/v7u7u7u7u7+/w8O/v7+7u7u7u7u7u7u7t7ezk7+7t7Orr6urq6urq6+vq6urp6enp6enp6enp6erq6uHt7Ovt8/Lx8fHy8/P09PPz8vLx8fHx8fHx8PDx6ufn3uzq7N+8vr69vby7u7q4t7e2tra2tra2tra2trfa5+Tc6eXypCs7Ozo2Mi8rJiEgICAgISEhIiIiIyMlGZ3u4Nnn4/CgLDw7Ojg2My8rKCcnJycoKCgpKSkqKiwfmuzd2A==",
+    "pix": "5cDIzejt5ers7e7s7ffx9frz+//69/PpnpeYvsHE5+rt2d/j7e/p7e/w8fDy+Pb5/Pj9//z7+PDHwsHX2Nnt6u/z8vHv8fP09fb3+fv8/v///////////v////38+/js8fDw8fLz8/T29vf5+/3///////////79+/n5+fj29+709PT09fX29vf4+vv9+/z8/Pz8/v/////+/v37+/r68fb29vb39/j5+vz9//74+Pj4+Pn+/////////v79/Pzz+Pj4+fn6+vz5+Pv6+/v7/P39/Pv8+/v9//////7+//X8/Pz9/f3+//r3+Pj3+Pn39/r3+fr49/v/////////9/7+/v7////+/vz8+/z7+/v8/P37+/r7/v/+/v79/f71//7+/f39/f38+fn5+vr6+/38/fz8/Pv9/f38/Pv7+/L8+/v7+vr6+vr6+/v7/P39/f7////+/fz7+vr5+Pj47/n4+Pf39/b29vb39/f4+fn7+/v7+vr6+fj39vb19fbs9/b19fT19PT09PX09fb29/j39vb29vb29vX19PPy8un08/Ly8fHx8fHx8fLy8/P08/Py8vLy8vLy8vHw8O/v5vLx8O/v7+7u7u7v7+/x8PDv7+/u7u7u7u7u7u7t7e3k7+7t7Ovq6urq6urr6+vr6urq6enp6enp6enp6evq6uHt7Ozt8/Ly8vLy8/T09PTz8/Ly8fHx8fHx8fHx6ufn3uzr7N+9vr69vLy7u7q4t7e3tra2tra2tra3t7fb5+Tc6uXypCs7Ozo2Mi8rJiEgICAgISEhIiIiIyQmGZ3u4Nnn4/GgLDw7Ojg2My8rKCcnJycoKCgpKSkqKiwgmuze2A==",
     "struct": "951be606ec8c8e4943937bb3df7c70972e281e18",
     "h1": "Marketing není jen rozesílání e-mailů",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "mailkit": {
     "pix": "+fn5+vPLzNb5+fr07/fs+e/w+O73+Pnz8+rl9/n5+fn8+/v8+u3u8vz7/Pv3+/f8+Pj+/v////39/fz8/Pz8/P/9///+/f/+/v78+//9/v/+/+/h5Obl6Onp5fv//////v3///bEw8TZz7u+v8jj//v/lFp4YmZqf2JV5P/+///y7///98rFzdPY2dO/xdX3/v+WSWKHkG1unnze//7///v8///wwMvJzMvPztnb3/f+/5NuwdSkjKPkl9r//v///v7///nJv8jKy8jV8v/+//3/iGSWdHjl9fyQ1f/9///+/f//88rJzM29wMe3sMTJ+f/AipuhoNbc7MHo//7////9/f/yyM3LzPH78/fz+vn+//PPztHV1szm//3///////37/+Z7g4N65//+////////89vY3/j5+fv9/P///////f39/PPy8vP8/v7//v7+///9/Pz+/f39/Pz+///////9///////////////////////////////+//////////3+///09+vr7fj/9/j48v3///z1+/Py9/////////////3+/+z26ern7v/y8/Pq+P///PD47O35//////////////39/v769//+/v/////+/v7+/v7//v79/v/////////////+//bu//39/f39/f39/f79/v39/f39/f7//////////////////////////////////////////v3////////////8+vv8///////y8vPw8PT59u/z9f///v7///////////Dj4PT6+/7+/9S+ysbDxdPHuL7R//7//f/////////v6srk+uLA+f//zbi/tsr//v/////////9/g==",
     "struct": "c115b386461d93d93ed469648f078f534d0c630a",
     "h1": "Česká e-mailingová\nplatforma se snadnou implementací a profesionální podporou.",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "clipsan": {
     "pix": "ysrKyMHHysrKysrKysrKysrKycjIyMjIyMjIycjKysrBwcK8t7zBwcHBwcHBwcHBv7+3r7Ovs7CwsLG0sb/Bwbm5ubi2t7i4uLi4uLi4ubjBycfGxsbGxsbGwsHBubm58fHx8fT09PT09PT09fXy98GTmpmampqampmusbjw8fH////42+Hh297d4N/Y3+L/g6PDv8XFxcTHubHAhu///v7+/v366NbO087OydLz9f+P5//+/////v/uxtmV6//9///++v39+vr4+/n7/v/9/43f//v58fz19fPl8pbq//7///3d3N7b3drc3OPy7+7/juD+9vX1+fb1/P7/l+j//v///NrU3dvU3NnY3O/u7P+O1fj1+OPN0+v7+f+S6P/+///95uL1/v7+/f7+///9/5Hm//7/7NDN8v/9/5Pn//7///3x7vDx7vDx8PT///v/f4KgnqGQdXh4maSlaO3//v///uTa3t7b297d5Pj4/f/VoKakqHpha6ClpaG8//////7/8OXp6evv9/L5+vn+//////7/y6u19//+//////////3p4uTh7Ozu+////////fv99d7LwMTY7P77/P///////une49zi6er8///////9/P/osLi7vK/P//3///////7/8ebq6fH4//v7+vz9//////rr6eXk5/P//v///////v/z5vHy7+/w8/r39fj/xMDVxLzD5uPe4+v0+v///////uTd4d3i3N/l5O7//f/Px8nDyM756+Pj5e/3///////+6ePm5OXk5eXj5u71///37P/+/9n0//bp7vv///////zj7ezs7ezs7u3r6er6/+nl9//QQqL/4Y+X6//+/w==",
     "struct": "d356334427b6ba4384bdc609d290eefb291214b9",
     "h1": "Chcete efektivně komunikovat se svými zákazníky?",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "samba-ai": {
     "pix": "5+bt5fD28PPx8/Pv8vPw9vj4+fr6+/r7+vfmzNDT2vTB19/Q5fbn7+js7eXp7ubz+fj5+vr6+fv579uws7fD8Pj4+vz59/n4+fj5+vn5+vj4+Pn6+/v6+vv9/f/////89fT09PX19fb29vb29vf29/j4+fr6+fr6+vr6+fn5+fv19fX19fX19fX29vb39/f3+Pf5+fv//Pj5+fn6+/v7+/X19fT09PT19PX19fb39/f3+vj7+eT1//7///37+/r68/T09/j39/T39Pn6+Pb3+Pnu9u55QU+128651/75+vr0+MKzvbzEy73Qq8LG0/3zzb/z2FNzPT5+mJTI//n6+vP3xbbAxbu7vL3M5+fu+8mSnszAjHpleJChrdX++vr78/TVzs3b0snUxuj9+fb6woCfh5SUXWWOjnZqs//5+/vz9OLX4d7X1NnY1MvS7fy/goeCmGKoxrmvoJTI/fr7+vP1z7zO0M3PzNHS1dLd+ciVhH+JbL7s0tjOyNDm+/n58vLq5+ro5uXd5ePk5fP6xqa2kHZwtd+vt9vS4fb4+fnw8eXb4OXy9vb19vb18vnCvuff39CkrFpRg4SZ8fr3+O/0xJyoueny8fLy8vPy+b/E/djh86qHPlCJjqX1+fj47+/w8fLy8PDx8fLz8/L3zbfIsbTNwq+httnu8/r3+Pju7u/v7+/w8PDw8fHy8/Pz7+719PD0+P36+Pr49vf39+3t7e7u7u/w8PDx8PHz8/P09PX29fX19PT19vb39/f37ezs7e3t7e7v7+/w8PDx8vLz8vP19PT09PT19fX19vft7u7u7u7u7+/w8PDx8fHy8/T08/T29fX19fX19fX29g==",
     "struct": "db26786bdc20893192b907841c3765a48c21dcc4",
     "h1": "Maximize the Value of Every Customer",
-    "ts": "2026-11-10T04:41:03.623Z"
+    "ts": "2026-11-11T04:41:02.482Z"
   },
   "mailchimp": {
-    "pix": "TU1OUVBRTlFNU1ZXV1dXV1dXV1hYV1ZWVlZWVlVSUlI4NDy82tbV1tfV19jW19fW1dfV0dLQz8/Pz87Tuj85PWBcb/Dk3+jg4OHf6O7p4eXx6fH//v///////v/vcWZzTUtU6OPU3dzX29XU3tTW2N/W5f/7/P////38/+Y1JihDQEvp+PHy8vPv+vv3+Pr6+fv9///+7vT4/v7/5iYVGUZBS+n//f/+/v3///////////7/76Fuk7Hu///mKhkdRUBL6PLt7+zt/P7+//7+/v79/+/MzePu+//7/+YoGR1EP0rp+/X6+fn7+/v2/v/////+y+3+9/n5+PL66CoYIERASun/+v7+/v7+/vr+///+/+mn7fP06/zy+v7nOSobPTdD6Pv29fb19Pf29/X1/f3/04Lp+P3/9/D5/+g8LJgvKTnn8u309PTx9PT29PX//f/Za9zp8vLy/f7/5zgko0E7ROj/9fj9/////vv6+vf6//t9yvbi3NrXqOTsMCwyPjpE6P/v8PP4///88+/x7vr+/82ElnZaRSpi++gpJjQ/OkTo//Hy7/n///zz8fPy8/z+/8RvY19wofH/5ScfMz86Rej/7vDw+////fTx8vHw9P/+//jh7/3//P/lJBovPzxF6P/z8vf////89vT09Pz////////////+/+UkFik6NTXk//39/f7+/v7+/v7+/v7+/fj4+fPx8e//5B0NG1NMTur//v/////////////////97+343NHT0PLrRTlAdnZ94PTw8fHx8PDx8PHw7u7u7u7u7u7u7u7u9OB9d3hzbmVqaWloZmlra2hoaGtzc3Nzc3R0c3R0dG1rampxcg==",
-    "struct": "326c076eb0eb2e05dd56cff3be85a1632902e2fb",
+    "pix": "TU1OUVBRTlFNU1ZXV1dXVldXWFhYV1ZWVlZWVlVSUlI4NDy82tbV1tfV19jW19jX1dfV0dLQz8/Pz87Tuj85PV9cb/Dk3+jg4OHf6O7p4eXx6fH//v///////v/vcWZzTktV6OPU3dzX29XU3tTW2N/W5f/7/P////38/+Y1JihEQEvp+PHy8vPv+vv3+Pr6+fv9///+7vT4/v7/5iYVGEZBTOn//f/+/v3///////////7/76Fuk7Hu///mKhodRUBK6PLt7+zt/P7+//7+/v79/+/MzePu+//7/+YoGR1EP0rp+/X6+fn7+/v2/v/////+y+3+9/n5+PL66CgYIEM/Sen/+v7+/v7+/vr+///+/+mn7fP06/zy+v7nNiUZQTxG6Pv29fb19Pf29/X1/f3/04Lp+P3/9/D5/+g9LZctKDjn8u309PTx9PT29PX//f/Za9zp8vLy/f7/5zgkoz45Quj/9fj9/////vv6+vf6//t9yvbi3NrXqOTsMisyPzpE6P/v8PP4///88+/x7vr+/82ElnZaRSpi++gqJzU/OkTo//Hy7/n///zz8fPy8/z+/8RvY19wofH/5ScgMz86ROj/7vDw+////fTx8vHw9P/+//jh7/3//P/lJBswPjpF6P/z8vf////89vT09Pz////////////+/+UjFSo+Ojzl//39/f7+/v7+/f39/v7+/fj4+fLx8e//5SMTITw0M+f//v/////////////////+8O753dLU0fToIhMePy8v0/Hp6+vq6+rr6+vr6+vr6+vq6urp6ero8M8kGiRta2pub21tbW1tbW1tbW1tbW1tbW5ubWxsbW1sa2lqag==",
+    "struct": "f64c16cb0d2b25973f694b4ffc35d1ae29e73e25",
     "h1": "Turn ideas into\nemails & SMS that connect",
-    "ts": "2026-11-10T04:41:03.624Z"
+    "ts": "2026-11-11T04:41:02.483Z"
   },
   "klaviyo": {
-    "pix": "7O/v7+3t7e7t3tjY2NrY3NvV3Nje3uft7Ozu7PP58+z67+/u9vf59vb19vHz9fL29PX19fj3+fr6+PT93rjN/P/k2+b38Pnv7u/58fT47/nw9vf0///////98Pq5YpL//v///////v///////v7//v/+/v79/f39/f3+/f7///7//v7+/v7///7+//7////////////////////////+//////////7+/v7+/+7W29vZ2NjY2NjY2NjY2NjX1PP///n29Pb4//////7/0eju6/H39fb39/b39vb29vfk2v//5+Hk4ebb3tjf/f/X9PDy/P////////////////Pd///p2d/l3trd4eT7/9bz8fH6/v7+/vzx8/r+/v7+8Nz//9vN4N7b193s//7/1vXv7/v//////uzt+////v/z3P//4dXf19Ph//7//v/Y9PX99vn99//6/P/0/Pz2//Pc///s4+jt5unu7e74/9f2+/z8/v/8//z8//r+/fv/89z///n78/Dx8PDv7/3/2Pbt6/Hx8fHw9/r5+vn5+Pnx3f//3Mnv/fv6+/7//v/Y9fP09PP08/P29/f39/f3+e7d//+JUsbv5eXn+vz7/9L3/fv///////////////7/89j///////////////7/4+Dn5ubm5ubm5ebm5+Xl4ubc6P9ycnFycnJxcnRzc3RzYmBhYGBhYGFgYGBgX2FraWp/eB8qJycnJyclHBsbHBwgIiAhHyIgIB8hHyAYNZyWdJ5hISIiIiIiIiEfIB8fHx8eHx8fHh8fHx8fHx8hMDEtMywvLy8vLy8vLzAwMDAwMDAwMDAwMDAwMDAwMC8wMDAwOQ==",
-    "struct": "061d35436cb3522d2c46840b1d14b4aa4f3acaa5",
+    "pix": "7O/v7+3t7e7t3tjY2NrY3NvV3Nje3uft7Ozu7PP58+z67+/u9vf59vb19vHy9PL18/X09Pf2+Pn59/T83rfN+//k2+b38Pnv7u/68fX68vzz+Pn2///////98v27ZZP//v///////v////7/5cHGxMXExcXDw8TExMTGw8nM7////v7+/v7///7+/v/Zo6moqKioqKioqKioqKioqaPh//////////7+/v79/8uDjIuKiomJiYmJiYqKiomKgtj///n29Pb4//////3/toGNiYyPj5CQkJCQj4+Pj5GBx///5+Hk4ebb3tjf+/+3foSEiouLi4uMjYyLi4uLjH7H///p2d/l3trd4eT6/7Nye3l9f39/fnx4en5/f3+AcsT//9vN4N7b193s//z/sGhwbnR2dXaAgnVudHV1dXhpwv//4dXf19Ph//7//P+uXWlpbXJzbXV7cnBwcm1nbV7A///s4+jt5unu7e73/6tTYF9eX2J6gn5/e15fXl5jU77///n78/Dx8PDv7/v/qEdRT1FQUmBiYGRhUlJSUlRIvP//3Mnv/fv6+/7//P+lPElGRkZGQ0NERERHR0dHSTy6//+JUsbv5eXn+vz5/6AxQD0/Pz8/Pz8/Pz4+Pj9BM7b///////////////z/oSIxLy8vLy8vLy8vLy8vLC8htv9ycnFycnJxcnRzcnlQHyUjIyMkJCQkJCMjIyQvLydlfR8qJycnJyclHBsbGyIrKyoqKSwpKikrKSoiP6agf6NgISIiIiIiIiEfIB8fHhwcHRwdHBwcHBwcHR0fLjAqMiwvLy8vLy8vLzAwMDAwMDAwMDAwMDAwMDAwMC8wMDAwOQ==",
+    "struct": "59007c0c9db5ae588c28e7a55ef2ce6aeae6d718",
     "h1": "Your AI marketing agent, always a step ahead",
-    "ts": "2026-11-10T04:41:03.624Z"
+    "ts": "2026-11-11T04:41:02.483Z"
   },
   "brevo": {
-    "pix": "7ODl5uHq4uLq4ufi4+vt7e3t7e3t7ujj66+Ci8/Z2O3s3+Tn5Ovl5evl6OXl7O3t7e3t7e3u6OPqsoaO09/d7O3w7u/u7fDv7O/u7u7t7e3t7e3t7ezt7uz3//3x7+/t7O7hwc/DxN7x7vDv7+7s7Ozt7e3t7/Dw9eO06Ovm+Pvs79/Bzsm+v8zLx8TH1fHv7+3t7e7q8PTs4cr64u3v9O3u5NbV1dbV1tfV0tXX3d7h7O3t7ujw9ezt+/3a7vLz7e3r4uLl4d3f3t7d3d3b2+Xt7e3u7O729PPv7Nzm8+/r9rpQW0ul6drc6fHv8PDw7+3t7e3t6/bq5fDs4e/z8ev2uU5aSaLl1djm7ezs7Ozt7ezv8uzw8ujg7PHd7ezw7e7p3eHh5evt7e3t7e3t7e3t7Onh0+Pr9f39++/v8+/s8N3K087o7u3t7e3t7e3t7ezy0Iyfy+ru+O399PP/9Ozt7e3r6+3t7e3t7e3t7e3t7PHWlJ/I7+358e31/e/z8Ozt7e3t7e3t7e3s7O3t7Ovs8Nal2vDw2Nfe4/Lx9vb9+/z+/f39/Pz7+/z++/v+//v88t71///w7PP6/v7//v//9+Tk6env7fj/+un//+Xd/f/b3v/60+v/+/D7///////47e/s8/79/v/78/7/8On9/+np//7o7f/89f3//////////////////v7///////////////////////////////////////////////7+///+/v///v7//////////////vj4/f38/Orv///////////////////////////////98PX//v38wM///v///////////////////////w==",
+    "pix": "7ODl5uHq4uLq4ufi4+vt7e3t7e3t7ujj66+Ci8/Z2O3s3+Tn5Ovl5evl6OXl7O3t7e3t7e3u6OPqsoaO09/d7O3w7u/u7fDv7O/u7u7t7e3t7e3t7ezt7uz3//3x7+/t7O7hwc/DxN7x7vDv7+7s7Ozt7e3t7/Dw9eO06Ovm+Pvs79/Bzsm+v8zLx8TH1fHv7+3t7e7q8PTs4cr64u3v9O3u5NbV1dbV1tfV0tXX3d7h7O3t7ujw9ezt+/3a7vLz7e3r4uLl4d3f3t7d3d3b2+Xt7e3u7O729PPv7Nzm8+/r9rpQW0ul6drc6fHv8PDw7+3t7e3t6/bq5fDs4e/z8ev2uU5aSaLl1djm7ezs7Ozt7ezv8uzw8ujg7PHd7ezw7e7p3eHh5evt7e3t7e3t7e3t7Onh0+Pr9f39++/v8+/s8N3K087o7u3t7e3t7e3t7ezy0Iyfy+ru+O399PP/9Ozt7e3r6+3t7e3t7e3t7e3t7PHVlJ7I7+358e31/e/z8Ozt7e3t7e3t7e3t7e3s7O3s79al2u/w2dbe4/Lx9vb9+/z+/f39/Pz7+/z7+/7/+/r+8d32//7s7vb6/v7//v//9+Tk6env7fn/+f//6OH+/9Pg//jR7f/35/r////////47e/s8/79/v/7/v/x6/7/5+z//Ofw//nv+//////////////////+/v///////////////////////////////////////////////v7///7////+/v///////////////vj4/f38/Orv///////////////////////////////98PX//v38wM///v///////////////////////w==",
     "struct": "8c18c735a01a07264ce688a7e538c821d1d88478",
     "h1": "Turn Every\nEmail\nSMS\nOrder\nInteraction\ninto a Lifetime Customer",
-    "ts": "2026-11-10T04:41:03.624Z"
+    "ts": "2026-11-11T04:41:02.483Z"
   },
   "mailerlite": {
     "pix": "///76OPo//bw//X3+e78+vD9+e/5//f0+ffsxsX1//7///vn7Pj/+vX++Pn79Pz79f379fv/+vj7+vHV1fj////////////////////////////////////////////////88/79/Pv3+fXy+/fy9fT7/P7+//7+//7+/f3////+/+uvpZye1o+aiauMkpiFkZHj//7//////////////////Ofl4+bpytna497NzNXfzPT//v7+/v7+/////////v/upau8t6GQq7KwxJuzq6bM//7///////////////////jp9PHx8vX38fLy9PX09PLw7vLx8PDw7/z//////////Ors6vDz8fPx8vLz8/Lz8/Px9PXy8vHw/P///////v/wsLWu4v/2/P7////////////////////////////2+vfg4d/t9PT29/f5/v7+/v7+/v7+/v/w6fP+/f7///r///////75/v7+/v7//////////////+jc7PXz9f7/+P38+/v8+/X7/Pz8/Pz8/Pz8/Pz8/Pz8/Pn9/P3+/P/49fT09PTz7fP29vb19PT09PT09PT09PL99+Hl/Pnz//j29fX19fTu9e/u7PP29fb29vb19fX18unm5OTn7fX/+Pb19fX19O723tLS5+7u7O7s7/b29vby8vj49/j29f/49vX19fX07vTo5Ont7Ozs7Ovs7u7u7/D8//////jy/vj19PT19fTv8dXU1NTU1NTU1NTT09LW7fz/////9vL/+Pr5+fX19O/y19PU1NTU1NTU1NTU09ft/fv4+P355+Dxz83N3uHk8PPW09TU1NTU1NTU1NTT1+/x5uXk6vPm3g==",
-    "struct": "dd20861e18877791ca1e3ed1c237f799a3bcbde2",
+    "struct": "d7a58f8c9b7f2285d8abb141e62e356b986e1f6f",
     "h1": "Create\nemail marketing\nautomations\nlanding pages\nsignup forms\nwebsites\nyour audience will love",
-    "ts": "2026-11-10T04:41:03.624Z"
+    "ts": "2026-11-11T04:41:02.483Z"
   },
   "omnisend": {
     "pix": "1tXU1dXV1NXV2sGizMjJyMfIycTD0dfW19fX1tjW1dbz7uXr6ern6/Ly8/Py8vLx8vLy8vLy8vLu7e7t5ODu8//z5/jy+P////7////9/f/+/v////////Ps9eWQieP/X19gYF9hYGFhYGFiYF9eX15dX19fYmNlYmNnbmNgamgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECA8SIxoOAgAuakA6WUlTNHZ4d1IABQQEBAMDBQkQFhNFqUwQKR8YAChuXmx6O3NMaXlzVwACAQAAAgEBAwsVEGCxVxsiHRMAInRlYXVwd3lnWQABAQEBCwMAAQIEBw8QSnU4MBEmLAAYP0M/O0dDOlJsCQUCAwA1VTkHAAEAAg4xIRkqCzY2ABEjJiUmEiUgJB05EwAFACBXayABVlciERgPGh8hOC4ACRgZFBAVDxQNCQIBAwkQEy1MKh2Xvqs1GiAYFhIcJgADAwMBDA8NDwUCAQEDCRQWEjA4DS1ShnEWHBQYEREaAB9cUF0sBA0MCgIAAwUHDSYrDCktHhsfIBITFBcMDxIAN56Jn1APHBoRAwEEBQYGJT4aEhgjLhoiExAMCwgZDAAAAAAABQkBAAAAAgQFBggLDR0cEhMUGBEJCRMVHiMIAQIDAgMBAAEBAQEEBQYHCgoJCAgLDRANCA0XExARDRwBAAAAAAAAAAAAAAABAQIHBgMDAwQEBAMCDggDBQcIFAoREBAQEBAQEBASFBYWFx4bFxcXGBkdHx4cFhcXFxcN0efj5OTk5OTk4+Hj4eDl3+Pi5OPf4OXn5uXl5eXk59L////////////+6u707v/n9u/3+err/f///////////w==",
     "struct": "83b563e0d9a6dae18de62c6dd223384894b1a78e",
     "h1": "Email & SMS marketing",
-    "ts": "2026-11-10T04:41:03.624Z"
+    "ts": "2026-11-11T04:41:02.483Z"
   },
   "activecampaign": {
     "pix": "CRYYGxQKCxYSDhUWEw8WFRcVDxIRDwgNFw0PIChaRwgJEBETEAUACAgBCAgEAgYECAsHCgkHAwcNBQkVFzAnCAkHBwgBNVAvPk0uOUdKPlI4JSchIiglISIpGwUHAgQJCQkJCgUqWT04Uzw9WlJQUVpJMS4oMS8iJDUbCAoKCgkJCQkJCgUABAUAAwQAHzYuLz4gAAYDAwUFAwcJCQkJCQkJCQkJCgwNEBgYGBcZGhkVGRsWFhcWEA0MCgkJCQkJCQkJCQkKEBUaJikvNS4tIBYbHyMqJSQaFhIMCQkJCQkKCgoKCxEXHiQoKy8qKR89cWxxaywmJiMfGhQNCgoKCgYDBQUIEBgfJi02KhgcCUmun6ebKjAsJB4XEQkDAwIFHDIoJCYrMThASkOIl4qKg319gYh+QE1FQTw3MzI0OyA5ZElBOj9BPktkWM27uKimqK2utMRWaWAxJyMiJi47PTNeRz86PEE+SF9TdlhjGBYdKygtak5VTyEZHR0YEx80LD43NTQ2Oj88N0l7KTI2PEA9RiplRVBLKzA6SUk3RDMmMz8/QzIxMickNFIQGBkaHBtNOkAvODsiH0c9KSo2MSU6RkYxKTc8EB4iJSYhKDAnIikhHiccDyETOS8SFR4vJTlHQjM9OkUZCg4ODw8RKSsTEBANDwwQPDUgHhgTIC8mLDEyOT00MiMoL0EfOC0tKipFPS8qNzkpNDMyNScjLjRya15fZ2NYa3BGWxYiIiUgHRwVRDhGOSAiKCglICAxPoFsWlxaXmpufVBaGCMeHh0aGRJKPUo6JS8zKycrLDFEZjxAT2JRTEFrTYqIgHt2cW9udHhAZFYeLDU2QDcyNQ==",
-    "struct": "780c57b78159ad53151af02d468f78f7e3613be2",
+    "struct": "5f40cfe11b1d856f1509ea6dce706f050a3b1b48",
     "h1": "Run the marketing you never had time for",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.483Z"
   },
   "getresponse": {
     "pix": "///99PH3/fj8+Pz99/34/f////////j38frny9f///+Pj52Vi4WOgoeDhYh/h4SMkI+Pj4+Phoyfj31zfI+OjgAFGEUmKiQWGhkYFCgeGQgAAAAAAAABHlFQSUgQAAEAJC40Qjk3LSkrLiorQ0g8Nh8eHh0dISs/PEZJPyUdHh7k5OXg5OHf4eDg4N/f5OXm4+Hk5uPl5OTe3d3b4eLi4vv7+vf09fb29fX5/Pz7+/v6/vDn+PP19v38/Pz8/Pz89ffw4unq6OTq6e/09Pb29vj56uLz5+7v8vPz9PLy9fX2++aptre0xbGsw/789vf47vP79vP29vPq3tzZ6/L29/f578W/tr/Dycy2w9f89vq61u3q6ef07tfLzNDd7vf39vrqtb67wbrCzbyvxfP49vD57/j05/Xx87SbvPr09vf2++ews77DsrSurLWlvvz5rMv16PD17O/v7ebj0Nr39/f49OXg4+Lf5tzX6OTl7v+6yPfl8fv34nnY7eC9tuT69/jy3eDi3d3d3+z39PP29/z79PjBt/zpueHk5MvH7fj39/j6+vr5+v766ePk5e/49vb4+NHJ9OHj4eTbl6z59/f3+Pf39vT3//fYy87P5vj39urZ3N7a49DO5NrA0Pj39/f17Ozs7ezv8fP6+vn4+Pnvwqeppa/z6+Tz9Pf39/f39/bw8PDw7/Du7/Py8vPz8vLs5+fm7Pf4+ff49vf39/f3+Pf5+fj59evt7Ozq6err6u3v7+zy9vb19/X2+M/s9/jz0uvv6fPr4eze8/HS5fPq8Ofn7cHb6Njx3/H47fT39/bz9ff39/b29/X29vb49/b29vX29fb29vf39/f5+A==",
     "struct": "cb8265edfbfd3dd8d41258ff8cf0408d2d34629e",
     "h1": "Convert more customers. Keep\nthem coming back.",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "campaignmonitor": {
     "pix": "///////////////+//PQ3M/P9v/+///////////////9/Pz8/Pz8/Pz8/Pz8+/fx7/X6/Pz8/Pz8/Pz8/Pz8/f////////////////////v7///////////////////////////////////////////+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
     "struct": "a82852aaf8c0a64f432b017974a7f38c0cc28a2a",
     "h1": "403 Forbidden",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "constantcontact": {
-    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////z+/f3//vz8/f38/P3+/v/////////////////////66dvA0dHHyMHNysLM2Mbi//7///////////////////ze1dbY0dbU2dvQ6fr3+Pn7+/v7+////////////////uvq6e/08/L29fTz8/T08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pn6//7+/v7+/v7////////////////////////89Ozr5evw+////////////////w==",
+    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////z+/f3//vz8/f38/P3+/v/////////////////////66dvA0dHHyMHNysLM2Mbi//7///////////////////ze1dbY0dbU2dvQ6fr3+Pn7+/v7+////////////////uvq6e/08/L29fTz8/T08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj6//7+/v7+/v7////////////////////////89O3r5Ovw+////////////////w==",
     "struct": "88f3a0534411c9a2ad637f9fe0e5f2416aa0c1c8",
     "h1": "www.constantcontact.com",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "aweber": {
     "pix": "FxcdHx8eGzdFSTooMjIzODk4Nzw/O3qjhT1CRUNFRkiwsJ+YmqiyuLq6uLW3t7i5sbG2sre1xtGvlpiZs7a/wP//6d/i8v/+///////////+/v/9/f36/ODc3tz4/f//+vr+///9+fr6+fr5+/z8+/39/fz7+/z9/v///vz8+vr+/v38/f3+/v7//v/59PX29vbz+////v38/Pz8/f3+/v7+/v7+/v3++OX49vjz8vLs8vTv9fLw//7+/v7+/v7+/v7+/v7+/v/uwsSvzcOwz7O9n62yxcX8//7+/v7+/v7+/v7+/v7x6fPz4+/p7eTt8fHf6fLq6+3z9v/+/v7+/v7+/v7+/+3r8vDu9e/x7/T38vX29/L08/T4//7+/v7+/v7+/v/z7O3t8O7w7+3u7+/u6+3u7+zv7+34//7+/v7+/v/9+vrs5Obr6evr6ujr6ujq6+rp6+vl8Pr6/f/+/v7/+vP6/P3+/ff39/f3+Pf39/f4+Pf3+vz7+vjz+v/+/v/0++zg4t/n//39/v7+/f7+/v39/v7v6uvq8vr0//7+//P9rYWIhJv9+fn//fr4/v76+Pn//7eqsKG+/vP//v7/9Prw59/Z4fPz9PLz8vPx8/X19vT16+bq7vX59P/+/v/0+f///v/9+vv7+/v7+/r7+/r7+/r9/v7///n0//7///Xx9PP19vf39/f49/f4+Pf3+Pf49/b39fT18fX//////vXx8+rm5+Xj5eXk5ebm5ebl5eTm5uTr8/H1//n9//////////7///z78e7y8PXz9fPy+//+/v//////8/v////+/v7+/////////////////v7//////v7+/v///w==",
     "struct": "4a4b04982b6ec547c2240ed5712230c8125a88b2",
     "h1": "If you can imagine it,\nyou can build it with AWeber",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "moosend": {
     "pix": "8/X48OHf3+Hh3N7i3d7h4eHd3t7d4eDs7fH2/////fH88uzr8fzz+fny+ff1+PP1+/n7+/v8/P36+vKqqqe3/v3m5t3s/+35+Ov5+PH47e/++/7////+//b06W1xa4L+8vHx8e/t7+7u7+3u7+7v7+3u8u/v7+/v8PDx9/T1+PPtc2BkY2NgYF9eXV1dXVxcXVzR7OXm5uXk5OPi4+Lf7+tWUWFfXV5dXFxYQDw/Pj8+PMfv19TT0tPS1+bm5eDu7F9XWVhZVVRQUlJKTEdFRkZFyezd3t7e3dze4OHk4e7sYHqJf3Z7fHNqiXl7V0hMSUTK57G0rK+0sbOzqNLj7uxhd4aSdHlzbXt4dW9rbndmRMrmpay1qqytxOPd4N/u7GBvg3pSUE5MS0hISEdISEpIyuS4srLB5ePl4uDh3+7sYVNYVlZTUlBPTk5NTk9RTkvJ6+Hi4uLi4eHg3uLh7ulgU1dWVl1dWVpYWVhaWlNQS8jo1dfX2drZ1trf4+Hs9mBlfnt3VlFRUFFRUVFSUVJR0vXn6Orr6+7z8vL07/g6FC5EQT8ZExQTExQUFBUVFBQyOTU4ODg4Njo5OTk4OgAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwECBAAhMiwwMTAsKioxJxwfHRoaHiIiDgEDAwMDAwMAAAAAABMgHR0eHB8cGyAcFxkZCgsLDAsBAgEAAAAAAAAAAAAAEA8BIhIFGB4FECMJByQUCwAAAAAAAAAAAAAAAAAAAAAJHBUDAQECAgEBAgEBAgEAK0kuNEkjAAEAAAAAAAAAAAYSDgEAAAAAAAAAAAAAAAAfNCElNBkAAQAAAA==",
     "struct": "05a4a946751626337256fe494d375a04e584430e",
     "h1": "Send, Convert, Repeat: Delight your audience in every email​",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "sender": {
-    "pix": "U05qbWp4WFBVZWdqcHBzeXx+hIeFhomLkJWcoqqxtLsuLTY3NT8wLC84Ojs+P0FFREdISkpJTEtOT0xPUltiZQMCCxISAQECAwIDBAUGBwoVDRMPDhQIDgcRWmJkJgABCAcNExUJCQoMDxARFBYWGR8ZHR0aHBQVERQ2OjwcBgoHBwYGBgoNEBENFRkXIiodJUEpFxoVExMQCwIAAAQIBwcHCQsOERUYIkY0MEBGSThNV0dJOz88IBgUEA0KCAcHBwoMDxQZHyA3k3Npim2IW3SBgn96hGonIhwVDwsJBwcKDRAWHCMpNT1JU1JQVEtIR0dHT0tHPTgwJx4WDwoHBwwRFh0lLjFScHNrdHd7dXR3c3FqdGx4eVIyKyAWDgkHDxUcJC02PUNKWVtdXl9eXVdYW1tfY2NXUEY7LR8UDAgRGSEqNDxCRkxWW15fW1lWWFpgaGxtbWZgWEw9KxwQChMbJS84P0RIS05MQEBQS0xNUFVQVmtycm9nW0w4JRULFB0mMDpARklMUEU4PERNRUZTTU5Oan56eHJoWEQvGw4UHSYwOUBESUtPQlBaMmRGSnFGb2prg359eXBhTTYgERQbJC43PkJGSUxFOjw3Pj1CSklUVnKDgH97c2VROSISEhkgKTI6P0JGR09UU1RVU2eCiY+Vin6AfnpyZFA5IhEQFRwkLDM5PUA9b5uXl5l4zvjm6fnRdX97dm1fSzQgEQwSGB0kKjA0ODlFUlFTWFFrkJiam4d2eHVvZFVBLRYLCg4TFhsgJSksLi0tLjA0PUJKVVtfZ2xqZ2BVRTQfMB4JCg0PEhYYGx0eHyEmKC0xOUBHTk9RUVBMRDsuIhMkGQ==",
+    "pix": "U05qbWp4WFBVZWdqcHBzeXx+hIeFhomLkJWcoqqxtLsuLTY3NT8wLC84Ojs+P0FFREdISkpJTEtOT0xPUltiZQMCCxISAQECAwIDBAUGBwoVDRMPDhQIDgcRWmJkJgABCAcNExUJCQoMDxARFBYWGR8ZHR0aHBQVERQ2OjwcBgoHBwYGBgoNEBENFRkXIiodJUEpFxoVExMQCwIAAAQIBwcHCQsOERUYIkY0MEBGSThNV0dJOz88IBgUEA0KCAcHBwoMDxQZHyA3k3Npim2IW3SBgn96hGonIhwVDwsJBwcKDRAWHCMpNT1JU1JQVEtIR0dHT0tHPTgwJx4WDwoHBwwRFh0lLjFScHNrdHd7dXR3c3FqdGx4eVIyKyAWDgkHDxUcJC02PUNKWVtdXl9eXVdYW1tfY2NXUEY7LR8UDAgRGSEqNDxCRkxWW15fW1lWWFpgaGxtbWZgWEw9KxwQChMbJS84P0RIS05MQEBQS0xNUFVQVmtycm9nW0w4JRULFB0mMDpARklMUEU4PURNRUZTTU5Pan56eHJoWEQvGw4UHSYwOUBESUtPQlNiM2RGSnFHbGVsg359eXBhTTYgERQbJC43PkJGSUxFOzw3Pj1CSklTVXKDgH97c2VROSISEhkgKTI6P0JGR09UVFRVU2eCiY+Vin6AfnpyZFA5IhEQFRwkLDM5PUA9b5uXl5l4zvjm6fnRdX97dm1fSzQgEQwSGB0kKjA0ODlFUlFTWFFrkJiam4d2eHVvZFVBLRYLCg4TFhsgJSksLi0tLjA0PUJKVVtfZ2xqZ2BVRTQfMB4JCg0PEhYYGx0eHyEmKC0xOUBHTk9RUVBMRDsuIhMkGQ==",
     "struct": "4203f4971eee2fb30ef4a4f314323d24a609c995",
     "h1": "Email marketing without the hassle",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "benchmarkemail": {
     "pix": "8PDw9PLy8PHx8fHv8vHv7+/v7+/v7+/x8PD1//vw8PDw8PHl7+729PXz9Pvx8vr8/Pz8/Pz8+/X3+N+bufXv8PDw8ODs6/X29fT2//T2/v////////789fj52out9e/w8PDw9PLy8PDw8ezl6+Xi6eXm6Ofk6PDw8PD0//vv8PDw8PDv7+/v8O/z38fPx7vSyrrMzcHa9O/w8O/s7vDw8PDw8PDw8PDw8O/14MfJx8fQxsjL6/Tv8PDw8PDw8PDw8PDw8PDw8PDw8erb3eXi4OHl5dze8PDw8PDw8PDw8PDw8PDw8PDw8PDx7vTRdX99fX520fTv8PDw8PDw8PDw8PDw8PDw8PDw8O7u9s9udnZ3eG/N9u7w8PDw8PDw8PDw8PDw8PDw8O/w4eTl6vLk7O7s9uno6uzv7/Dw8PDw8PDw8PDw8PDs7u7v8O7r8fLx7+/l6fHx8vLx7fDw8PDw8PDw8PDw8Orz9ff58+Hi4d/k4dDX5ODf4+Dl8fDw8PDw8PDw8PDw6vX09vj43dreyKCupq2ptNvb1+Py7/Dw8PDw8PDw8PHr9Pj3+PXe2uK3ZHR0fYaY2d3a5PDv8O/w8PDw8PDt6+Xw9Pb49t7a4MN6mnSAjozb3e7s9fLs8PDw8PDv89K7tK6s6vjv3drhwGmShnt2ddfc5ejy8O7w8PDw8O/w5+Lg4uH0+ffe2t7Bj5aThY+a2uDe6PHv7+/w8PDw7/Hw9fj9+/j3+t3d5d3UycjMztrZ8Pb9//788PDw8O/w9/T1///7/Pj52+Py5srGx8bI09nq6efq7//w7/Dw8O3/wFjq//3/9/nd3tfQ1Ma7vdDU2uLP3NHn//Dv8A==",
     "struct": "85be663e14883b67ec9880f1a6c4a4046915e053",
     "h1": "Powerfully simple email marketing software.",
-    "ts": "2026-11-10T04:41:03.625Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "emailoctopus": {
-    "pix": "/czb5ePt+vj67+r48u336/H57ev1+vn5+vPy9K2exfz54ujv7PH6+fny7/f08Pfv8/fx8PX5+fn59fT1x7zW+ff7+/r8+/n5+fv//Pz++/78/f3+/Pr5+fn5+Pf+//z19vX29vb3+Pn68+Lw7t7v7+/j7+Hr9vj5+Pb29vDl7fX39/f29vf39/7ifJ2IiL6RjpKUj4uD6fz19vb26+Dm8/b29vf29vf3+ffy6snQxsbdz8jV7Nbz+/j09fTy7PDy9vX29/f29vb3+P/rpJaQn8OTlpP0//3s8Pvz8/Pz8e/29/Hm8vn29vf49+fu6Ovo6Ojp4er8und8z/vz8vDu7fb049vk9ff29vjz4d7m8O7u7Ozj6+uGb22J7O7w7e3s8uHh5+Hi9fj29/n6/7R5hYV5sv/awX5zgn6k5PHs7Ozk4fL28uHk8vf2+Pf/tniAgHa1/9S6pnFue6Tr7uzs693n9PX26Nvn+Pb3+fn9//////34/f7/yYOd6/Ls7Ovq5OLx9fHg4/D29ff49/b19/j39/n39fT65un17e3s6+rx4eLs5+n6//78/f3///76+fn5+fj39vP29fDu7ezr6vXz37fCvtPEwcTTyL7Ey/H7+Pn4+Pb19fLy8u/t7Ovq9PXuparT3tbV2dLg197P8Pv4+/v7+ff08/Lx7uzs6+v08/XQyfH5+vr5+fr9+vz6+fny7u/u7/f29fX19e7w7PT09eLh2NfY29vW2tra7vr5+fDr7Ovy///////p6t7s9Pb12Nnh2t3h4ODh4ePp+fn5+Pj7+f3v6+nn5e3XfOD29vbm6/j19vb3+Pj4+Pj5+fr28PT1/ISNd2NOw/nY7g==",
+    "pix": "/czb5ePt+vj67+r48u336/H57ev1+vn5+vPy9K2exfz54ujv7PH6+fny7/f08Pfv8/fx8PX5+fn59fT1x7zW+ff7+/r8+/n5+fv//Pz++/78/f3+/Pr5+fn5+Pf+//z19vX29vb3+Pn68+Lw7t7v7+/j7+Hr9vj5+Pb29vDl7fX39/f29vf39/7ifJ2IiL6RjpKUj4uD6fz19vb26+Dm8/b29vf29vf3+ffy6snQxsbdz8jV7Nbz+/j09fTy7PDy9vX29/f29vb3+P/rpJaQn8OTlpP0//3s8Pvz8/Pz8e/29/Hm8vn29vf49+fu6Ovo6Ojp4er8und8z/vz8vDu7fb049vk9ff29vjz4d7m8O7u7Ozj6+uGb22J7O7w7e3s8uHh5+Hi9fj29/n6/7R5hYV5sv/awX5zgn6k5PHs7Ozk4fL28uHk8vf2+Pf/tniAgHa1/9S6pnFue6Tr7uzs693n9PX26Nvn+Pb3+fn9//////34/f7/yYOd6/Ls7Ovq5OLx9fHg4/D29ff49/b19/j39/n39fT65un17e3s6+rx4eLs5+n6//78/f3///76+fn5+fj39vP29fDu7ezr6vXz37fCvtPEwcTTyL7Ey/H7+fj4+Pb19fLy8u/t7Ovq9PXuparT3tbV2dLg197P8Pv4+/v7+vj08/Lx7uzs6+v08/XQyfH5+vr5+fr9+vz6+fnx7O7s7vj39vb19u7w7PT09eLh2NfY29vW2tra7vr5+fDr6+vz///////p6d7s9Pb12Nnh2t3h4ODh4ePp+fn5+Pj8+v3u6ufk4+3XfOD29vbm6/j19vb3+Pj4+Pj5+fr18fT2/XmEbVc+t/vX7g==",
     "struct": "82fbe5a66a98a5107119396360f90b9a4a3a77cd",
     "h1": "Email marketing made easy",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "mailjet": {
-    "pix": "9PLp6PDw7+/x7vLu8PLy8vLy8vLy8vDr2dHT5+Hr8vT+/+rl8v/+/v///////////////////v/Ksbz19Pn//tiao6GfoKCgn6GfoaCfn5+fn5+fn5+foKKio6GioprYXwAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAF9cAAcDAwMCAAIAAQEAAAEAAAABAAAAAAAAAgMDAwcAXFsABAABABJHIzwbKyoqHCklNCAjKCkuMyMLAAAABABbWgAEAAEAFlwYTDw2UUk8QkpUKUlWV2BFWiAAAQAEAFpaAAQAAAEAJ1ZLREZGKVVMMDdDUzWiR1UbAAEAAAQAWloABAAAAAAKC0RKPyg+PkhWNUBJPlYxCwQAAAAABABaWgAEAAAAAAAANDkwJ0o6Pk0xPzwqLjkAAQAAAAAEAFpaAAQAAAAAAQEAAQAhQ09IV1NEFQABAAEAAAAAAAQAWloABAAAAAAAAAICAg8WGAsGCAgJAQIBAAAAAAAABABaWgAEAAAAAAAAAAACWHByQAgfHQwCAAAAAAAAAAAEAFpaAAQAAAAAAAAAAAAGCQgEAQICAgAAAAAAAAAAAAQAWloABAAAAAAAAAABDhIMDg8QDw8PFQEAAAAAAAAABABaWwAEAQEBAAAAAAEFBgYIBwYHBQYHAQEBAQABAAEFAFtaAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAgACAAQAWmIABxEQCgICCAUPEBIVDgERDwMKCwoIBwUAEgIPGwdvwToaiotfJBE0ZKu9wMO9rtDaYHGDgqnDl1jZcsX25NDDLQ17jiUpFSBrvarR1+Th7/V3gGFpr7+Yk/6x3v/74w==",
+    "pix": "9PLp6PDw7+/x7vLu8PLy8vLy8vLy8vDr2dHT5+Hr8vT+/+rl8v/+/v///////////////////v/Ksbz19Pn//tiao6GfoKCgn6GfoaCfn5+fn5+fn5+foKKio6GioprYXwAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAF9cAAcDAwMCAAIAAQEAAAEAAAABAAAAAAAAAgMDAwcAXFsABAABABJHIzwbKyoqHCklNCAjKCkuMyMLAAAABABbWgAEAAEAFlwYTDw2UUk8QkpUKUlWV2BFWiAAAQAEAFpaAAQAAAEAJ1ZLREZGKVVMMDdDUzWiR1UbAAEAAAQAWloABAAAAAAKC0RKPyg+PkhWNUBJPlYxCwQAAAAABABaWgAEAAAAAAAANDkwJ0o6Pk0xPzwqLjkAAQAAAAAEAFpaAAQAAAAAAQEAAQAhQ09IV1NEFQABAAEAAAAAAAQAWloABAAAAAAAAAICAg8WGAsGCAgJAQIBAAAAAAAABABaWgAEAAAAAAAAAAACWHByQAgfHQwCAAAAAAAAAAAEAFpaAAQAAAAAAAAAAAAGCQgEAQICAgAAAAAAAAAAAAQAWloABAAAAAAAAAABDhIMDg8QDw8PFQEAAAAAAAAABABaWwAEAQEBAAABAAEFBgYIBwYHBQYHAQEBAQABAAEFAFtaAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAgACAAQAWmMACBEPCgICCQYQEBIVDQIRDgMLCwoIBwUCEwERGghvvy4hkodZIBM5a6+9wMS7r9PSWXeCha3Fi2LZbdH04c+6JRGIgyMpFCN3vKzT2OTh8+1wg11xscCPofyr6P/44w==",
     "struct": "0102a6bbf6178db4a1d7df020a6ea380484b40a2",
     "h1": "The best email marketing software that’s built \n for devs and \n loved by marketers.",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "mailercloud": {
-    "pix": "9vPY2uPt7ePi3uDe2uDZ4Nne3tjh5OTl5N/gh36D4/ny8dTV1Oru5uXb3t/Y4dng2d7f1+Ll5ebk29tzbHDd+Orw+fn4+PPw7evn5ujn6ejp5+fp6Ofn6Ojp6/f5+ezr5err6u3z8u/w8O7q6urp6enr6uno6+vq6urt6+no6uvk5ufn6Orq6d7n5ODj5OHj5dvi4unh4Ovv8vPz8/P18+Tk5efo6evprKKhqZiqpaqnraOvssCmp/P09PTz8vLy5+Xn5ufq7e3r6Ovep666v6a1uLHi8e7p7/Dw7u7u7e7k5Obm6e3u7u/u8efEwsXHzb3Aw+bx7vHw8fDv7u3r6+Pj5ejs7+/v8ObW2t3e3uDi4ePj3dvr8vHx8O7s6ufn4uLk6ezv8fHw+Pj29PP28ufn6ejp6fTz8/Hw7urm4+Pk5OXo7O7w8PnFiZCOk4i68+rn5+jr7PPz8vDt6OLf4Ojo6uzu8PLv/4EQJB0pEGTy593b3ezn9PPz8O3o49/f7u7u7/Dy9PT08+Hg5eXg9PXt8/Xx7vL09PTy7uvm4+Px8fHy9PT09PP0+/bc2vns4vns3fT39fX19fTx7ero6PT09PX19fb2+Pn18NjZ8+zo9+jY8ff19vb29fTx7+3t9vb29fX19Pfs4vf1+Pn19ff0+Pr19fX29fT29fTy8vL19fX19Oji986j+NjG6PXp6PL06ujx9vDv7vD29fX08/X19fX19fX28u718/L19vb29fX29fX29PX19fb29Pv79fX19fX39/f4+ff3+Pj39/f4+Pj49/f4+Pj29fT7y8f19fX19fn09vr5/PDz+ff49/r+/v36+vr6+vj18/26sw==",
+    "pix": "9vPY2uPt7ePi3uDe2uDZ4Nne3tjh5OTl5N/gh36D4/ny8dTV1Oru5uXb3t/Y4dng2d7f1+Ll5ebk29tzbHDd+Orw+fn4+PPw7evn5ujn6ejp5+fp6Ofn6Ojp6/f5+ezr5err6u3z8u/w8O7q6urp6enr6uno6+vq6urt6+no6uvk5ufn6Orq6d7n5ODj5OHj5dvi4unh4Ovv8vPz8/P18+Tk5efo6evprKKhqZiqpaqnraOvssCmp/P09PTz8vLy5+Xn5ufq7e3r6Ovep666v6a1uLHi8e7p7/Dw7u7u7e7k5Obm6e3u7u/u8efEwsXHzb3Aw+bx7vHw8fDv7u3r6+Pj5ejs7+/v8ObW2t3e3uDi4ePj3dvr8vHx8O7s6ufn4uLk6ezv8fHw+Pj29PP28ufn6ejp6fTz8/Hw7urm4+Pk5OXo7O7w8PnFiZCOk4i68+rn5+jr7PPz8vDt6OLf4Ojo6uzu8PLv/4EQJB0pEGTy593b3ezn9PPz8O3o49/f7u7u7/Dy9PT08+Hg5eXg9PXt8/Xx7vL09PTy7uvm4+Px8fHy9PT09PP0+/bc2vns4vns3fT39fX19fTx7ero6PT09PX19fb2+Pn18NjZ8+zo9+jY8ff19vb29fTx7+3t9vb29fX19Pfs4vf1+Pn19ff0+Pr19fX29fT29fTy8vL19fX19Oji986j+NjG6PXp6PL06ujx9vDv7vD29fXz8/X19fX19fX28u718/L19vb29fX29fX29PX19fb29Pv79fX19fX39/f4+ff3+Pj39/f4+Pj49/f4+Pj29fP9v7v19fX19fn09vr5/PDz+ff49/r+/v36+vr6+vj18/+mnw==",
     "struct": "8a0178a14bd31efabeab635a82acbe5edd20ded4",
     "h1": "Email Marketing Platform That Delivers Results",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "elasticemail": {
     "pix": "7Ozq5Ojn5uvs6ufr6uTm4+Pm5ebp7Ozq5+zOu8Hk6Ofu7+vU293V6vDn2+nl2Ojb2ufj2+Xv7erl76yElOTr6PHx8fPz8vPw8PHz8e3t6+/u7vLz8vDw8O/v8vPz8ezr8/Pz8vLz8/Lz8vLy7uvr4unv8vHx8vPy9PPy8/Pz8Oz19fX19fLw+PP39/f4+ezW9Pf5+Pr39Pnw9vn09fXz7vf39/X+3oynmKGwzJ+nkbq0pKCkpKOerJWasfX49/Xw9/f39/XZ0b7M1dvSy93Y3NbNzN7J1tHK29TY5/X49vP6+vj/0ZSjoKKvssGb1J6oqquhormfqKSorKqn8fz29fz8/P31+fz+/f79/f367f78/f3r/Pz7/v36+/38+vb2/v7+/v/78O3s7Ovq6+vt6evq6/Pr6uvo7Ony/v76+fn////+/f398+/w8/T8/Pv59fT1+PPy9fP1+v///fr6+vv6+vn5+fn6+/r/6qSqotL/+fr4/P/////+/f35+fn5+Pj4+Pj4+Pj49/3hjZSKxfvx9PL3/Pz8/P39+vj4+Pj4+Pj39/j4+Pf39/n////+/Pz9/f37+/z8/Pv4+Pj4+Pj4+Pn59/f3+fv4+/38/fv7/v38+/38+/v7+Pf39/f5+fn6+vj29vfv4/Te4vTv+OvG8/P34e/4+fj29vb39/r4+Pj8/Pz7/fXn+eTi7+v08df5+Pvr9vz9+/v7+/b3+Pj3/LaUmJiYmZ2Znp6dnJueo52dnJ+enZycnZa1+vf4+Pf8iniKgoiGgIZwamxwcG9ub29vb2tra2tsaIv89/j49/yQjLOpra+uoqKXknd4en5+fn1+zt7b2+CPk/33+A==",
-    "struct": "c9cdcf2e0071a2c0741ab19c316348ff84f86949",
+    "struct": "60fdbe3c80770e937d68dfe2cbbd2b8ace12ed31",
     "h1": "Modern email communication platform for growing businesses",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "sendpulse": {
-    "pix": "HBwcIiYkHx8eHx4gHyAfHiAcHBwgIR8eHiAjMCobHBwcHBsmLCogISAhHyIfISAgIR0cHCIlIR4eIyc6MBocHBwcHBoZGRsaGxscGxwbGxwbHBwcGxsdHhwbGhgZHBwcHBwbISUkIiUgGxsbHBwcHBwcHB0eHyIiHxwcHB0cHBwcHBshJCQiIiIhHyEdGxscHBwfJCMgHh8cHB0jIBwcHBwcGjI2OzsyOjw4OCEfHx0eHR8iIR0gIx0hKCUgHBwcHBwbLDo9MzU5ODo2Ojw6KRodHyUlKENLSDwjHR8eHBwcHBwiJCMjIyMjJSYjIyEdHBwgKTFYZ3BtZEkiHx0cHBwcGykwLy8wLi8uLzEnHxwcHB0iMGRpaGZrUiEfHBwcHBwcHh8eHxwdHR0dIRwbHBwcHSAiM1RkYkswKSEcHBwcHBo3TEZJeHFxb3YyFx0cHBweICEhJS0sJSglIB0cHBwcGjRFP0JoYmNiZS4YHRwcHSAeISoiHh4fIyAeHBwcHBwcHh4fHhoaGx0YGR0cHBwdHh4eHRwcHCAgHRwcHBwcHBwjKCgeIyksLCIcHBwcHBwdHRwcHBwcHhwcHBwcHBwcHB0eHRwdHh4eHhwcHBwcHBwcHBwcHBwcHBwcHBwcHR4eHR0dHR4eHh4dHR0dHR4eHh4eHR0dHR0eHR4eHh0YExQbGxsaFRUVFBkfHxsZFRUWFRggHhwbGhkcGhQTGHJjZ2ttaWdnZ2ZlZ2ppamtnZWVmZmxsa2dqbmxmZ2VymqOJb2yQopKWmqOWmaKOhpWjho6kkYmOo41feaSXlJ2VmI6DgZCYkI+TmJGTmJGPk5iWkJiSkJGZiXKImZSTlw==",
-    "struct": "2d0107ddd8c0414fff4a8551cf8c68167cc86b52",
+    "pix": "HBwcIiYkHx8eHx4gHyAfHiAcHBwcHBweHiAjMCobHBwcHBsmLCogISAhHyIfISAgIR0cHBwcHB4eIyc6MBocHBwcHBoZGRsaGxscGxwbGxwbHBwcHB0eHRwbGhgZHBwcHBwbISUkIiUgGxsbHBwcHBwcHB0dHiEiHxwcHB0cHBwcHBshJCQiIiIhHyEdGxscHBwfJCMgHh8cHB0jIBwcHBwcGjI2OzsyOjw4OCEfHx0eHR8iIR0gIx0hKCUgHBwcHBwbLDo9MzU5ODo2Ojw6KRodHyUlKENLSDwjHR8eHBwcHBwiJCMjIyMjJSYjIyEdHBwgKTFYZ3BtZEkiHx0cHBwcGykwLy8wLi8uLzEnHxwcHB0iMGRpaGZrUiEfHBwcHBwcHh8eHxwdHR0dIRwbHBwcHSAiM1RkYkswKSEcHBwcHBo3TEZJeHFxb3YyFx0cHBweICEhJS0sJSglIB0cHBwcGjRFP0JoYmNiZS4YHRwcHSAeISoiHh4fIyAeHBwcHBwcHh4fHhoaGx0YGR0cHBwdHh4eHRwcHCAgHRwcHBwcHBwjKCgeIyksLCIcHBwcHBwdHRwcHBwcHhwcHBwcHBwcHB0eHRwdHh4eHhwcHBwcHBwcHBwcHBwcHBwcHBwcHR4eHR0dHR4eHh4dHR0dHR4eHh4eHR0dHR0eHR4eHh0YExQbGxsaFRUVFBkgHxsZFRUWFRghHxwbGhkcGhQTGHJjZmtsa2dnZ2dlZ2poaWtoZWRmZmtsa2hobm1mZmVymKCUcm2ApJSUl6KblqKWhY+ij4ajl4qLnZtnap6elZyUl5KFgoqYko+Rl5OQl5SOkpaYkJaUkJGXknR/mJaTlg==",
+    "struct": "b9304bf739ebf899a44f592aeb22da6b93187aca",
     "h1": "AI-driven email and chatbot marketing platform",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "sendx": {
     "pix": "AAwSCQAAAAAAAAIAAQIAAgIBAAABAQAAAQIDAA5hWQI0Q0hBNjc3NzU3Pjc5Pzg5Pzs5PTo+ODc4Oz89RH95N////fv//v7+////////////+vz7/P7+/////v/++Pj/+/38+fn6+fn+/v7+/v79/P7x8vPx9fb29vb1+/r9//z+/srU29DR4M/Mws/c0/P/+vLx7f768vT6+uvg5/n+/P7+3OPq3t7r5Obk5+Dt+P/66/Ly+f7y8/fv4t/w//z8/vzNzde9yO7//v////////vn6Ovz//n2+fHp6vv++/v+/vr2+PX5+Pr6+fz7+/7/++vt7vT/+vj67+Tf9f/6+/7+8e7u7e7v7+/u7/Hu+v/76Ort9f749ffx6Of8/fn6/v7w7uzw7u/u7O7s7vX///z07u/v9Pb3+fr19vP2+vn+/vf29vb08/v8/P38/f7+/ffm4u38//////fw7/T5+P7/1ba3sam07/f29fb8/f396PP///HZ+f/24Pr//Pf3///07+7s7Or7//39/f39/f7h7///7Nb7//Xf/v/89vb//+rh5+rn+Pr4/v39/Pz8+vn39fT2+vX19/v38fX29v7/o2yMl2u/8Oj+/Pz8/Pz7+fj4+Pf19/Ps5+jT5fj1///8+vz7+Pz9/fz8+/v7+vr6+vn4+Pf39PTy8PPz9PT//////////v38/f39/Pz8/Pz8+/v7+vv7+/v8+/r6+v7+/v7+/v7+/v///////////////////////////////f39/f39/P735PHx7uvn8ezt7O3l6e37/f39/f39/f39/f39/f39/vnf4NvYz9Df2dzd2dXY3vn+/f39/f39/Q==",
     "struct": "b5101be33b5f712e753584356f1e31e25ae7a44a",
     "h1": "No more sending in the dark.",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "mailmodo": {
-    "pix": "//fc5ubl9v/+///28/3x9/zz/v/////69+WjqKWk7v//+ef19PP7///9/fj2/PT4+/b8/v39/fr37cbIxsbz/////////////////////////////////v/+//////79///+/v7+//7/0sve09LQz8XJy9bF0+T9/Pv6+vr5+Pf//////////v/TqsrIuqbBvq6strK1tv76+vr59vPv6v///////////////rTStLuntKqz+v/6/fv29PHr5NzY//////////Px8/Pw5eno5NzX5eDu7u/m6O/n3dPNzNL/////////9uLW29/d3N/i397c19PVy9Lb2c7HxMjP2P///////////vv8/vz9+fr59/b07+ne1czDwcLFy9Ha//////////7////9/86Di4mAxPLc0MbBv8DBw8bL0dj///////////////7/266xrKC7z8O/v8DAwMHCxsrP2P///////v7+/f39/Pjy8OPUx7i5vLy7u7y9vsHEytXe///////////////++ezb0MnIysnHx8fIycvJw8vV29//////+dfGpY+KgnlwZ2FfX15cW1pYV1ZXVHLL1djd5f/////wsLeYeXBoYl1aWFZUUlFPTkxLR0k8Jcja3eXr/Pr6++7H+P3z8vPw9PPw8/Ly8fPz8/n///M9veXl6+7z6Ofu+vn2+ene4t/j4eXy8vLx8/Tz9fv8+UWy8Ont7vLs7Ofw9/j8+vXx7uzu/f/z8/Dw7/D8/v3/T6L36u3v7/7z/8iyp8//9Pj2+Pv///D19/b5+v7//f9Zkfvq7vDb59/rsJ/L3vz08e7s7+r4/fLs7/Dv8P78/2p//ezv8g==",
+    "pix": "//fc5ubl9v/+///28/3x9/zz/v/////69+WjqKWk7v//+ef19PP7///9/fj2/PT4+/b8/v39/fr37cbIxsbz/////////////////////////////////v/+//////79///+/v7+//7/0sve09LQz8XJy9bF0+T9/Pv6+vr5+Pf//////////v/TqsrIuqbBvq6strK1tv76+vr59vPv6v///////////////rTStLuntKqz+v/6/fv29PHr5NzY//////////Px8/Pw5eno5NzX5eDu7u/m6O/n3dPNzNL/////////9uLW29/d3N/i397c19PVy9Lb2c7HxMjP2P///////////vv8/vz9+fr59/b07+ne1czDwcLFy9Ha//////////7////9/86Di4mAxPLc0MbBv8DBw8bL0dj///////////////7/266xrKC7z8O/v8DAwMHCxsrP2P///////v7+/f39/Pjy8OPUx7i5vLy7u7y9vsHEytXe///////////////++ezb0MnIysnHx8fIycvJw8vV29//////+dbGpY+KgnlwZ2FfX15cW1pYV1ZXVHLL1djd5f7+/v/ytbiZeXBoYl1aWFZUUlFPTk1LR0k8Jcja3eXr/v38/eau9v7z8vPw9PPw8/Ly8fPz8/n///M9veXl6+77+PTxzKD6/Ozd4t/j4eXy8vLx8/Tz9fv8+UWy8Ont7vPs4tuvk//+/fXx7uzu/f/z8vDw7/D8/v3/T6L36u3v4dbMz5qJ//799fj2+Pv///D19/b5+v7//f9Zkfvq7vDQycTPiYT//fv18e3s7+r4/fLs7/Dv8P78/2p//ezv8g==",
     "struct": "ad532e88a150df6f5fca11ebb658e436f39a78a0",
     "h1": "Run Email Marketing\non Autopilot",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "drip": {
-    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////39/vr9/v3////////////////////////////////9zMnOxcjVwvX//f////////////////////////////zd1dXY0NXU2t3S6v36+vr7+/v7+////////////////uvq6e708/L19PPy8/P08vTz8vT1///////////////++Pj0+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj6//7+/v7+/v7////////////////////////89O3r5Ozw+////////////////w==",
+    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////39/vr9/v3////////////////////////////////9zMnOxcjVwvX//f////////////////////////////zd1dXY0NXU2t3S6v36+vr7+/v7+////////////////uvq6e708/L19PPy8/P08vTz8vT1///////////////++Pj0+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj6//7+/v7+/v7////////////////////////89O3r5Ovw+////////////////w==",
     "struct": "99ce938a85d8aa677734421ae94399b8b997070b",
     "h1": "www.drip.com",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "kit": {
     "pix": "///////////////+/v////////////////////////////////////7/7cfL8f/+///////////////////////////////////78fH5//////////////////////////////////////vw8u3t/P//////////////////////////////////+u7w8fH09vX19vb8///////////////////////////69v/9/Pz//Pv7+/7///////////////////////////zu6/D49+L0//7//////////////////////////////Ovo8/ju3vP//v/////////////////////////////////////////////////////////////////////////+/v///v7//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
     "struct": "ba799b526929678b9802008ab9cc9b7de792d83c",
     "h1": "",
-    "ts": "2026-11-10T04:41:03.626Z"
+    "ts": "2026-11-11T04:41:02.484Z"
   },
   "beehiiv": {
     "pix": "BwQSLiYODhAREBESDhQNFg4SCwYHCBANGBNxkI8fAQgIBw4gGg0NDg8ODxANEAsRDQ8KCAgJDgwTEERWVBUFCQcHBgEAAwMEAQEBAgYGBgUGBgcHBwcGBgUGAgAABgcHBwYKGBsZFRMgHhoYCQYHBwcHBwYFBgYHBwcJCQoIBwcIAh6Qho5/c19glpdFAAkHBwgIDxMTEgwLCwsKCAcHBwgBIHVya293ZFMJEhMHBwcJCw0XHx8dCAkLCggICAcHCAIdZnt7eXpqeTIBBAgHCAoOExccGBttaj8tJA0JBwcIAhpueIB3boBaVBsJBwcIEB4aFx41NZiQSz1FGAoIBwgDGW96VktIUkdVZUIHBwkRHxkUJSYkFRANCg0KDQkHBwYNJCUhIiYhGyEhFAcHCRI3LRMaECcsESQqDAkOCQcHBg0pJiwsJCwmJiMhEAYJEBYLERQQKjAaICAQCg0IBwcHCA0WGBITGxMPAwYIBwgOFxoWDw4RExEYEhAOCwgHCAMaek5MUUYfKiorGwYHBwsLDAwLDBQYExoVDwwIBwcIBBJINDM0MBseGxwTBgcHCAkKDA4ODAsMCgoJCQgHBwcHBgMFBQUGCwUEBAYIBwcHBwgICQkKCgkJCAcHBwcHBwcHCAcICAgHCAYHBwYHBgYGBgYGBQcIBwcIBwcHBwcHBwcHBwUDBQMJGxUWGxMWGRcbFhkeCgADBAUFBwcHBwcHCQkHFR0QFhoRHRQSIBseFRIYFw0XJBoYEBAHCAcHBwcKEgweNxosNhgxJRlBPkUnHy8tGCtGPzoaHQ4LBwcHBwYGBwQBBQMCBQIEBgEBAQQEAwMFBAEBAQQEBwcHBw==",
-    "struct": "0362fb5d9d213e1227d051dd4853498fc64e272b",
+    "struct": "7897b20069c7d1882b9991f6b2f0a5769aaf112a",
     "h1": "NEWSLETTERS.\nPODCASTS.\nCOMMUNITY.\nONE PLATFORM.",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "flodesk": {
-    "pix": "8tnc9vj4+Pj4+Pj27PLv7vTr8e72+Pj4+Pj298lUZ+n14+T3+Pj4+Pj4+Pfx9PLx9e/z8vb4+Pj4+Pf42YiU7vn9/fj4+Pj4+Pj4+Pr5+fr5+vn6+Pj4+Pj4+Pn7///5+Pf3+Pj4+Pj39/f29vb29vf29vf29/f3+Pj49/f09Pj4+Pj4+Pj4+Pn9/f78/v39/v3+/P3+/fr3+Pj4+Pj4+Pj4+Pj4+Pf76cbe0tbY2c3Xy9neyNXP7/r3+Pj4+Pj4+Pj4+Pj49/zmtryXyMCvqLC6pMGysL3j/Pf4+Pj4+Pj4+Pj4+Pj49/vwoK6pu7DCtMumr6is8/z3+Pj4+Pj4+Pj4+Pj4+Pj4+PPm5tve3OHX3tva0eH3+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+fzx8fD29Pf28fH1/fj4+Pj4+Pj4+Pj39/f39/f39/f39vj2/7w3NLn/9vf29/f39vX19fX19fz8/Pz8/Pz8/Pz8+/n/0mtp0P/6/Pz8/Pv9////////4ODf39/f39/f4N/n5t7m7e7l3d7e3t/f5826vsDAwMCjpampqampqamln7OtnaGjo6WmpqamopyuUB8mGhoaGqiYgIKCg4KCgJ2lta6imH6AgH+AgX6Yoq9WJUB4dnd2rIE9QEhaRkA+jqi0rqaFNzhCWEA4OIWmrlgfXf//7uGsglBmW15hYk2OqLSupoVieGpndHhdgqWuUxdV++C0sqyBVnFlaGt1V4yptK6nf5a9pJW6zIeQtLF6VoHgpp2WrINITltiWk9Kjqi0rqeAjrq0rrOvjaCwqJWIm71WSWashENKe7NzSEOPqLStp4B2mZOYl4VxlLKzdk56wKOLbA==",
-    "struct": "6d9babe7b1f60e260bbbfe622ed582d778908a65",
+    "pix": "zNDQy8vLy8vLy8q/wMHBwcDDwbq7y8vLy8vLy9Lf3crt2dzx8vLy8vLy8vDn7Onp7ubr6e/y8vLy8vHyymR05fXf4Pj5+fn5+fn5+PH18/L27/Ty+Pn5+fn5+PrTc4Lt+P389/f39/f39/f3+fj5+fj6+Pn39/f39/f3+fv///j49/f4+Pj4+Pj29/f39/b39/b39/b39/j4+Pj49/T0+Pj4+Pj4+Pj4+f39/fz+/P3+/f37/f3++fj4+Pj4+Pj4+Pj4+Pj49/vrz+Tb3N/g1t7U4eTR3dfy+ff4+Pj4+Pj4+Pj4+Pj3/OSvvpjHv6+mrrWlwq+ut+L89/j4+Pj4+Pj4+Pj4+Pj3+++hqqu8sMG1zaSvrK7x+/f4+Pj4+Pj4+Pj4+Pj4+Pj58t3i1NjW3dDa1dXI2Pb4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5/fHy8PX5+/bx8fT++Pj4+Pj4+Pj4+Pf39/f39/f39/f29/X/xEtIwf/29vb39/b29vb29vb2+/v7+/v7+/v7+vr7+f/KU1LH//n7/Pv8///////////l5eXl5eXl5ubq7OXm5Ozx8ezk5ebl6t/KztDQ0NDQ0Kurq6urq6uooq+1nqSop6amp6iopZ+vbCMuIyIhIiIiiYqKiYmKh5qmr7Shn4eIh4WHiIWVoq5rJTZhZGZmZWVDP0VaSUA8fauutKOUPzo/WUc6N3SmrWkdPPH/8eLs/lBiWl5fX01+qq60o5JZamRgaGpcdqmyhVRu3unPrbquVHJkY2h1XXyrrrSliorArZG6x5pwrq+RgpfBv8BXVppMUGJwaVNMfqqus6WMe7KppKWuinOqs4NSbMGxklmCtQ==",
+    "struct": "06b57699184211b152d51832a53429309d8d1656",
     "h1": "Email marketing that’s\ndifferent by design",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "loops": {
-    "pix": "+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vn9yWn6+vr5+fr5+vn5+vn5+vr6+vr6+vr6+vr6+vr6+f3Jafr6+vz8+/v7+vz8+/z7+vr6+vr6+vr6+vr6+vr5/chp+vrV1tTM0tnV3Nrf0dH8/Pv6+vr6+vr6+vr6+vn9yGn6+uvk4+no6enr6efq6e/s9Pr5+vr6+vr6+vr6+f3Iafr69vn77Ojn5+rp6+rp6uXo7vX7+vr6+vr6+vr5/chp+vylhovf9fL6+vv7+vr7+/r5+vr6+vr6+vr6+vn9yGn6/aB+hd738vr6+vr6+vr6+vr6+vr6+vr6+vr6+f3Iafr6/v///Pv7+fr6+vr6+vr6+vr6+vr6+vr6+vr5/Mhp+vng7Ofl9unt793z8fP15/Xs5vPl9uTv6e/w5fT3yWn6+vb07+7y8/b19PX19vX09fT19fT29fb19fXz+/3Iafr57/Pt6+/t8/P08/Pz9PX19PPz9PPz8/Hz8/PW6cpp+vnx8fz//vn9/v7+/v/58e37/v7+/v787/v++bHbzGj6+PHq9Pn5+vz9/f39/fr29fv9/f39/frs9Pv6/vzGafr57u/5+Pf3+/39/f399O3w+/39/f39/PXz8/Py+sZp+vj4/f35/v79/f39/f3+/v39/f39/f389vr1+Pf8xmn6+Pj9/Pn8/Pz9/f39/f39/f39/f39/fvy+/79+vvGafv5+f79/v39/P39/f39/f39/f39/f39++vx/P34+8dp+vj4/v39/f38/f39/f39/f39/f39/f39/Pn8/Pz7xmn6+Pj+/f39/fz9/f39/f39/f39/f39/fz9/f39/fvGaQ==",
+    "pix": "+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vn9yWn6+vr5+fr5+vn5+vn5+vr6+vr6+vr6+vr6+vr6+f3Jafr6+vz8+/v7+vz8+/z7+vr6+vr6+vr6+vr6+vr5/chp+vrV1tTM0tnV3Nrf0dH8/Pv6+vr6+vr6+vr6+vn9yGn6+uvk4+no6enr6efq6e/s9Pr5+vr6+vr6+vr6+f3Iafr69vn77Ojn5+rp6+rp6uXo7vX7+vr6+vr6+vr5/chp+vylhovf9fL6+vv7+vr7+/r5+vr6+vr6+vr6+vn9yGn6/aB+hd738vr6+vr6+vr6+vr6+vr6+vr6+vr6+f3Iafr6/v///Pv7+fr6+vr6+vr6+vr6+vr6+vr6+vr5/Mhp+vng7Ofl9unt793z8fP15/Xs5vPl9uTv6e/w5fT3yWn6+vb07+7y8/b19PX19vX09fT19fT29fb19fXz+/3Iafr57/Pt6+/t8/P08/Pz9PX19PPz9PPz8/Hz8/PW6cpp+vnx8fz//vn9/v7+/v/58e37/v7+/v787/v++bLbzGj6+PHq9Pn5+vz9/f39/fr29fv9/f39/frs9Pv6/vzGafr57u/5+Pf3+/39/f399O3w+/39/f39/PXz8/Ty+sZp+vj4/f35/v79/f39/f3+/v39/f39/f389vr1+Pf8xmn6+Pj9/Pn8/Pz9/f39/f39/f39/f39/fvy+/79+vvGafv5+f79/v39/P39/f39/f39/f39/f39++vx/P34+8dp+vj4/v39/f38/f39/f39/f39/f39/f39/Pn8/Pz7xmn6+Pj+/f39/fz9/f39/f39/f39/f39/fz9/f39/fvGaQ==",
     "struct": "cec88b807b0030f84273f7c9391f1fcbc66a9779",
     "h1": "One platform for every email",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "customerio": {
     "pix": "JScnJiMjIyMiLS4zNDQ0NTY1NDU3LSQjJSwtLiYiIyPZyszQ5Ojn5+fm6NvZ49Xe39Xh29zo5+Lfil5rxtDO4Pv4+fr+/////////v7//f7+/f/+/f///v/Zxcz2+Pj9/v////////7//////////v7//v7+/f39/v7///////7/+drb8PT18+vz9vf55/b//v7+/////////f39/v7+///7rJuuq6DOqailoqKw5P/+//////////////////////3d8PDw8Pf07N/x5uv7//39/f//////////////////+a2zr63Rq7OgtL/PqNe0naqt/v/////////////////+8Ork7/Lm6ODp1+zq9eXN1dr///////////////////3m5OXi4ubi6O3r9//+//////////////////////////Pu7/Tu8O70//7+/v/+/v7+///////////////////7dmFZvu/h6Pr//v7////////////////////////////OwMPl8O3v9vn+//////////////////////////////////39/f78+////////////////////////////////v79///////////////////////////+////////+Pjz9Pj19fHx8/T49vf18e/09fPx7vDkv9Pj4uLl9/j///e96//9/P7+/v///////v//+P3+/uvA2+fs6+3+/6StonSUrKyknJ6fnp+enp6fo6OfoaGcqbi6v6eWlqOjNE9NTUtNUEo8PT0+QEE9QD4wLC4sLyJt0b3MakNIRzJBVVJPUFNSVVZYWFlPSkpMRj09PT09PT0+Pz4+NzI+PQ==",
     "struct": "5544ab0ea9f5dff48e077a1451515801f5dc4c56",
     "h1": "More impact\nfrom every \ni\nn\n-\na\np\np",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "encharge": {
-    "pix": "/////////////////////////////////////////////////////////////////////////////////////////////vn+/Pv+/vz////////////////////////////////529fFycXF0PH//f////////////////////////////zd1NXY0NTU2d3S6v36+vr7+/v7+////////////////uvq6e7z9PP19PPy8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pf5//7+/v7+/v7////////////////////////89O3r4+vw+////////////////w==",
+    "pix": "/////////////////////////////////////////////////////////////////////////////////////////////vn+/Pv+/vz////////////////////////////////529fFycXF0PH//f////////////////////////////zd1NXY0NTU2d3S6v36+vr7+/v7+////////////////uvq6e7z9PP19PPy8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pn6//7+/v7+/v7////////////////////////89O3r5Ovv+////////////////w==",
     "struct": "3a28dde2af3ee0d47f8f993f9030f66d0158f8e7",
     "h1": "encharge.io",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "ortto": {
-    "pix": "FiE7ISQdKBwlJBwpHRcYGRoaGhoaGhoaGhobFThtJhcYGh8aGhkbGRobGRsZGBgVEREQEBAPERESFBQUGycXExgYFhgYGBcYFxcYFxgYFiQ3Njg7QElNUVVVVVlaWV9iGBgYGBgYGBgYGBgYGBsNc+bl8/D56OXq6PP//v////8YGBgYGBgYGBgYGBgYGwuG/Ov3+PvSxsnG5v/9/v7+/RgYGBgYGBgYGBgYGBgbDIzz5Pf1/Pj0+PHz+/7///7/GBkaGhoaGhoaGhkYGBwPkvLe7/D89vH47+/6/v/+//8ZFQ8ODhEPEA4PEhkYHhGZ9uT59/717f3++/vy/v/5+xIyX1JkSUZES0c4ExcfFZn27fj2/fvl4uj6/vDj4/T+EjSAc3l2fF1sf1oeJCMWm/P2+PT/8+zX5Pf77OHe7PoVJERJNkpCOTQ+QVhXKxWe8O/59/74+/v+/fv5/v78/BcaICIkICEhJCsiFRggFqj/8fj3//Pi6Pn////////9Fx0wLzMxMDEyQjAYGiAVrv/2+Pj9/fT59/j5+fb6+f0YGR8dHh4dIBsdHBgYHhOx//T4+P778vb6/fb59/j3/RgYFxcXFxcXFxcXGBgdELT/9fj4/vz7/9XM/7fB//79GBgYGBgYGBgYGBgYGBsNuP/1+Pj+/fDElJjqlKr//f0YGBgYGBgYGBgYGBgYGg23//L29fr+54J/kbuLlcbz/hgYGBgYGBgYGBgYGBgaELT59v/////7493i6N3a3vr/GBgYGBgYGBgYGBgYGBkTgK+osrm/wMTNz9HN1NfZ1dUYGBgYGBgYGBgYGBgYGBgRDg4ODhASFBQWGBoaHBY/PQ==",
+    "pix": "FiE7ISQdKBwlJBwpHRcYGRoaGhoaGhoaGhobFThtJhcYGh8aGhkbGRobGRsZGBgVEREQEBAPERESFBQUGycXExgYFhgYGBcYFxcYFxgYFiQ3Njg7QElNUVVVVVlaWV9iGBgYGBgYGBgYGBgYGBsNc+bl8/D66OXq6PL//v////8YGBgYGBgYGBgYGBgYGwuG/Ov3+fvSxsnG5v/9/v7+/RgYGBgYGBgYGBgYGBgbDIzz5Pf1/Pj0+PHz+/7///7/GBkaGhoaGhoaGhkYGBwPkvLe7/H99vH57+/6/v/+//8ZFQ8ODhEPEA4PEhkYHhGZ9uT59/717f3++/vy/v/5+xIyX1JkSUZES0c4ExcfFZn27fj2/fvl4uj6//Dj4/T+EjSAc3l2fF1sf1oeJCMWm/P2+PT/8+zX5Pf77OHe7PoVJERJNkpCOTQ+QVhXKxWe8O/59/74+/v+/fv5/v78/BcaICIkICEhJCsiFRggFqj/8fj3//Pi6Pn////////+Fx0wLzMxMDEyQTAYGiAVrv/2+Pj9/fT49/j5+fb6+f0YGR8dHh4dIBsdHBgYHhOx//T4+P778vb5/fb59/j3/RgYFxcXFxcXFxcXGBgdELT/9fj4/vz7/9XM/7fB//7+GBgYGBgYGBgYGBgYGBsNuP/1+Pj+/fDElJjqlKr//f0YGBgYGBgYGBgYGBgYGg23//L29fr+54J/kbuLlcbz/hgYGBgYGBgYGBgYGBgaELX59v/////7493h6N3a3vr/GBgYGBgYGBgYGBgYGBkTgK+psrm/wMXNz9HN1NfZ1dUYGBgYGBgYGBgYGBgYGBgRDg4ODhASFBQWGBoaHBY/PQ==",
     "struct": "72d9247d0baa704df054861ad0f32ad2469e67ac",
     "h1": "DRIVING GROWTH",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "sendlane": {
-    "pix": "///97+nh8fr2/f72+/72+f///////vf89vT09Pn+//////zm29fo9u77/+/2/u/0///////+7/vx5+vr9v7///X19fn7/Pn29/X19/b19/f19fX19fX49fb39/f19fX18fHx8PDw8PHx8fHx8fHw8fHx8fHx8fDx8fHx8fHx8fHy8vLy8vLy8vLy8vLz9fLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8+zY4/Lx8fHx8fLy8vLy8vPy8vLy8vLy8vLy8vLy8vLz697v8vT39vT08vHx8fHw7PHy8vLy8vLx8PDw8PDx8PDx9fLz+e35///7/fv6/+Sq/fLy8vLy8vr8/Pz8/Pn8/P318PXtytTn/P3b6//x5+j48/Ly8vPtp7S2rqi7r7C8oMH58Pn9/Pz8/On0/e7i9/zy8vLy8vK7trCyr7HBtbKh0Pfw9vLy/P7//P7///b7/fLy8vLz7K+9lI/G//b7+/328fH39/v16vvw6P/94df98/Ly8vPvwtC+wNf08PHw8PHy8fjy2/HU7vbp9+7/1+v38fLy8vP59vr69e/w8fLy8vLx+fTZ9+T79e3949zR+vPy8vLy8vb39/f4+fn38vLy8vH49+j9+P3+/f/77Pn98vLy8vLw1tLS0tHRztvz8vLy8vP1+PT29PT09PX49fPy8vLy8+ylnZ2dmZeQsPXx8vLy8vHx8fHx8fHx8fHx8fLy8vLy8/Px8vHy8vLz8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vPy8vL09PPy8vLy8vLy8vLy8vLy8vLy8vLy8vLx8fLx8PHz7+Dg4/Lx7/Ly8vLy8vLy8vLy8vHx8fLx7w==",
+    "pix": "///97+nh8fr2/f72+/72+f///////vf89vT09Pn+//////zm29fo9u77/+/2/u/0///////+7/vx5+vr9v7///X19fn7/Pn29/X19/b19/f19fX19fX49fb39/f19fX18fHx8PDw8PHx8fHx8fHw8fHx8fHx8fDx8fHx8fHx8fHy8vLy8vLy8vLy8vLz9fLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8+zY4/Lx8fHx8fLy8vLy8vPy8vLy8vLy8vLy8vLy8vLz697v8vT39vT08vHx8fHw7PHy8vLy8vLx8PDw8PDx8PDx9fLz+e35///7/fv6/+Sq/fLy8vLy8vr8/Pz8/Pn8/P318PXtytTn/P3b6//x5+j48/Ly8vPtp7S2rqi7r7C8oMH58Pn9/Pz8/On0/e7i9/zy8vLy8vK7trCyr7HBtbKh0Pfw9vLy/P7//P7///b7/fLy8vLz7K+9lI/G//b7+/328fH39/v16vvw6P/94df98/Ly8vPvwtC+wNf08PHw8PHy8fjz2/HU7vbp9+7/1+v38fLy8vP59vr69e/w8fLy8vLx+fTZ9+T79e3949zR+vPy8vLy8vb39/f4+fn38vLy8vH49+j9+P3+/f/77Pn98vLy8vLw1tLS0tHRztvz8vLy8vP1+PT29PT09PX49fPy8vLy8+ylnZ2dmZeQsPXx8vLy8vHx8fHx8fHx8fHx8fLy8vLy8/Px8vHy8vL08vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLz9PTz8vPy8vLy8vLy8vLy8vLy8vLy8fHx8fLy8PDx8+fh4erz7/Hy8vLy8vLy8vLy8vLx8Q==",
     "struct": "7be234002ac0f53a1aca6c87ec34327b37ddc554",
     "h1": "Smarter Email & SMS",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "privy": {
     "pix": "VlRVVlZWVlZWVlhWY2tpa21qamNWWFZWV1hXWFhPTlj83OX////////++fv/+P78+f/7+/36/v/7+frz/Xx2/2BfX2BgYGBgYGBhYGFgYWBgYWFgYWBkVaj87/Ly59plHR0dHR0dHR0eGhYYGhcVGRkZFxgZFxYYNVJOT05TTR4qKioqKiorJzpmWFNlWGNkY153dVtbZjciICAfHx8fKigoKCgoKCgnK0xRT0pQX0xVTFNcSk1YPCkqKioqKiooKCgoKCgoJydiZ1ZhaW1SYnRqUF9xXGlrKyYoKCgoKCgoKCgoKCcsMkM8Ojk9Ozg+Ozs4Nz85PDwxLScoKCgoKCgoKCgoJzA1NTIzNTtHQERCRUg7MTU0NjkwJygoKCgoKCgoKCgoJyYmJyclKSUdHyQcISomJiYmJScoKCgoKCgoKCgoKCgoKCkoKCkkXYJyVZZrIykpKCgoKCgoKCgoKCgoKCgoKCgoKCgoKiR/sJtyzZAiKigoKCgoKCgoKCgoKCgoKCkoKCgoKCcyOCopMS0oIzc3KSgoKCgoKSgoKCgoKCgoJCQlJSUlJSUmJyYoKCgoJiYlJSUlJSQjKCgoKCgoKh1Vwbq+wcTFxcXFxcXFxcTExMXFxcbEzVkdKigoKCgrGG/78ff49/j4+Pj4+Pr8///++Pf39/P/dRcrKCgoKCsYbfC/zt/s7e3t7e3r9Pv39vnv8PLz8PxvGCsoKCgoKxdw9JeVmuLv7+/v7/Dl5/Dc/evh5ODr/28XKygoKCgrF3H4kKabofTv7+/v7+jj7O7y8Ojj7fT8cBcrKCgoKCsXcfmIs7Gy1PLu7+/s6ODZ2+L29O33+vxwFysoKA==",
     "struct": "eb06e0e0a75f72489771142352feb2eba20c4854",
     "h1": "Turn Email & SMS into your best sales channel",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "smartrmail": {
     "pix": "Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLjExMTExMC4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uIyAgIB8oLy4uLi4uLi4uLi4uLi4uLi4uLi4uLi4wMDFmdHV0eEspLy4uLi4uLi4uLi4uLi4uLi4uLi8xLSgkLLTU0NDieCIxLi4uLi4uLi4uLi4uLi4uLi4uLCBAq5qOZHh8mpVRKC8uLi4uLi4uLi4uLi4uLi4uLikPP1i3xqNNWZq2SSYvLi4uLi4uLi4uLi4uLi4uLiw2MDOWf3bHg1lcZK6dWSovLi4uLi4uLi4uLi4uLi4uLE1FWKiOaIJwVVtBdrBxMS0uLi4uLi4uLi4uLi4uLi4tQk2An1tNSk59goWcmm01LS4uLi4uLi4uLi4uLi4uLiw7cHyheGRnfJC0tquuejItLi4uLi4uLi4uLi4uLi4vK1B4dou9fHWNpL6ujp13My0uLi4uLi4uLi4uLi4uLi8pXH5if8KmWleitZ+VkXM0LS4uLi4uLi4uLi4uLi4uLypCeWdjmZM9SZqknJy5ezItLi4uLi4uLi4uLi4uLi4uLjBkcnSHZlKRkVB+ibd+MS4uLi4uLi4uLi4uLi4uLi4wMztjhZCYsZBXT1hMUlw3LC4uLi4uLi4uLi4uLi4uLTElFzZhfWkyMS8/RDc3SDQtLi4uLi4uLi4uLi4uLi4uLiwhKDNMSysyMTI0Ky0zLi4uLi4uLi4uLi4uLi4uLi4uLzEwLSoqLy4uLi0vLi0uLg==",
     "struct": "a6b2ae405a2decee3c524b4a4cfaffae5a28aee1",
     "h1": "From signup to first send before your coffee gets cold",
-    "ts": "2026-11-10T04:41:03.627Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "dotdigital": {
     "pix": "RFVUUVVFRUVFSEZGR0ZIRkZIRkZHSEZFRUVKWlhRVET4ys3J0PT19fLi7+3n7uHx6+Tx6uPh8fX0+buVnqy8/P/v7urt/v///vf8/Pj89v369fv69/T9//3/4s7T2+L/+vz9/v35+fr6/Pv7+/v8+vr+//78//v6//v9/////fr7+/v7+/z7+vr6+vr6+/v6/+S+2v/F4PrJ8vz3+fr6+/zu5ubp5O///v3+/v37+v/kgnWAtkuorXPU//78+/v7/+Xh5OXk5+Dp6tvn6/z5/714iX+dsKGGf9v3vPH9+vv/1Ky5trqysrnCwaPE//j/136Ce8G/iIKT6Kd85P/6+//MwMfZ2MnTzc/D5v/6+/v82bfQuXqDgM/Ssb3x8vv7/9DGv9DIxdDO2MHl//v8/Pz//f+aiIFix7q5y9DI//v/wLi5tazv//7+//39/Pz8/Pr+6rjOhle8vLi7r9f/+/7y5Ono5fP39vb2+Pj8/f39+//AkY9sUai9tLW28//8/u3m5+Xj5eXm5ePg4fX+/f3+962qeWSYwLbIs9n//P3+7N7h3OPm4ePj5N7i7P79/P/erLeHpKy7xPTf/P39/f739fbx8PHw8O/x7u/z/v79/8i3rLbndqnw//7+/v7+//Hi4fL58fPz/f/////+/v7/yLmi5/qX0f/8/f7+/v7/xJCNxeDGycny//z9/f7+/+7Dmsz//f7//f7+/v7+/v/+/Pz+//7//v7+/v7+/v3/46a4//79/v3+/v7+/v7+y9L//f7+/v7+/v7+/v7+/v7//v/+/v79/v7+/v7+/v6tuf/8/v7+/v7///////////7+/f7//////////////w==",
     "struct": "06bd5586bfdbcae60345a746b782de00aa6dc2a6",
     "h1": "Automation that frees you to be human",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "cleverreach": {
     "pix": "9vb3+fn5+Pj4+Pj4+fn5+fn4+fn4+Pn4+fb18+3u9fb38uTr6vD///////vv8vrw8/ry7vf47u/49PLwvbjt+Pb29/b19vf39/f39/b39/b29/b29/f29vb29vbx8fb29vb29vX39vX19fX19vb19vb19vb19vb1+fr29Pf39vb28/L49u/z9vb19ff39fb29vb29vb29PzFgvT+9fb29vrirrDCuK+5u9fX2tjS6fj19vb29vb3/6poqNX39vb29vPt6Ofq5+jo6uro6ery9vb29vf48+nHkFh7jsf89fb479ja5ern7Ozs6ujq6/f39vX39eXk15CSXoebm+749ffx4ODp7uvt7+3s7+3r6/T39ffpuKy7qK+ae4Kd4Pj29/Lo6ebh3+Hg3+Hg4eDe7vjz7/fj48yjoZdSXITo9fb47sbI7vLx9fj4+Pj4+Pj39friuLvl54uWYUacZbj/9PjsvsHr7+3z9fX19fX19fb2+ezS2PjZepFxb5l63fv19vb5+fTw8fPx8PP29vb29vb39/bvx6SHk4FZb8r/9Pb29fT09fb29vb19vb29vb29vb19fjEfpu9uJHB+fX29vb29vb29vb29vb29vb29vb29vb29vzi4/T1/v729vb29vb29vb29vb29vb29vb29vb29vb29vv69/b09Pb39fby8vLy8vLy8vLy8vLy8vLy8vLy8vLy8fLy9PX19vT39u/v7+/v7+/v7u/x8fLx8PHy8PDw8fLw7fLr4uXi7vv27+/v7+/v7+/018bHxMjKw83FwsjGx9jz6+bm5uXo5+nv7+/v7+/v7eTh393d4N/e4ODf4N3f4ejt7+7u7u7u7w==",
     "struct": "3a710ac32ecff220da5c5a1116e241cf835d7b01",
     "h1": "Your Intuitive Newsletter Tool for Successful Email Marketing",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "rapidmail": {
     "pix": "Ag8ZCwEOBQoJCw8LBgwCAQEBAQEBAQEBAQEHDj5ARBsCDxwLARIHCgwNEhAIEAMCAgICAgICAgEBAQoQRklOHwEAAAABAAEBAAAAAAAAAAAAAAAAAAAAAQEBAAEAAAAAAAABAQAAAAEZLhkRGhgZHSYdFBsYIxsFAAAAAAICAgEAAAAAAAAAAAY0RTJNRk9NUVMnUUEwTg8AAQAAAAAAAAAAAAAAAAAAADE/Mjg3HEU1QDEuNkAoAAEAAAAAAAAAAAAAAAAAAAAAKDUyKTAcMCo8Kz4yMyAAAAAAAAAAAAAAAAAAAAAAAAAABAkGAwYDBwYHCQoEAAAAAAAAAAAAAAIDAwMDAwMCAgMCARQeHB0JBAQDAgIBAAAAAAAAAAAAAAAAAAAAAAAAAAIAS3pycxwRHgwAAQEBAQEBAQEAAAAuXlhXVFhHJyofAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIry3fL//66BiYm6xMLAwsLDxMTExMTDw8PDxMCwFgABhenO4Pb+ysjI0fXIy9HKycjIyMjHxsjKysrD5vcdAAKL/+zs7PD6+v7/wAoYRBQJDAsLCg8WIRcYGQB97hkAAov+6e7t7Ors/ffs7+3r7+/u7u7016HC8+zt7fDkHAACjP/p7u/w7vb/9u///v7+/v//+vLe0Kr0//7/+uMcAAKM//Dv8/r7///47//76un0///xvbespa7I//354xwAAo//+f/0+dafpLDw//CgoZfx//HMfWhPotT8//njHAACO3NvYtr14b7CyPH/8Iuhxf7/+8JGQ0lj4fz/+eMcAAJdxrAn1Pv7/f748P/62eTz//7/0nlZSU3F/v/54xwAAg==",
     "struct": "db679a06b1bf9dbd308d2402692bb2b11d2ee617",
     "h1": "The newsletter tool for anyone: simply good.",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.485Z"
   },
   "activetrail": {
-    "pix": "LCdFTDY8MSsrMzAxMDI0MTAxMTAzKysrLUpQRkc1KSssJlFaV1w5LC5FPUE9QEg+PT5APEYtKys2q7V6gEsmLFhVTEZDPj02NS0sKywoIyclISQlICUpJyYkKCgoKisrXFlVUUVdjoZ/g4J1ZWl/l3Z7YId6emh/inIxKisrKytUUU5LREdZWFtZW1lOS1dVUW9SVF1VPUpKTDMpKysrK05MSkZERT45NzJCR0pIQUhIPkRFTTgpJygpLywrKysrSUdFQkJOT1RPTkw+Ozo8Ojc5OTkyQkdGRzw7LSorKytEQ0JBQDo9RD89PlJWWFZQb3NydHM+NDc3LSgrKysrK0FAPz48Ozk1NC4zbH6Cf26+v8C8xjslKiorLCsrKysrPj49PDo5NzUzMS8qKSkpKiotLC0rLCwrKysrKysrKys7Ozo5ODY0MispKCsrLSorLCwrKiYoKSsrKysrKysrKzg4NzY1MzEsTk0+Ky0kLysmIigsPjoyLSsrKysrKysrNTU0MzEwMCxEQzksJGOqZXZ6QR9TTkUwKisrKysrKysxMTEvLy4tLCYmKSVNscOPea+xUiEpJSYrKSkqKysrKy8vLi4qKCkqKi0sMpqsvJgli8izNiw/QTQ0NC8qKysrLCwsKTs9OkA/NCtVsLnFyqi6xMFZKUZRQkVFOCorKysrKyspPEJCR0g4LFCbvtPO0M/Lx10mLiwsJygqKyssLSsrKyspJyktKCkrKWKhrMXGv61iNykxMjAsLCwrLCYhKysrKywsLSxIPTQsPXplcoGUeytDSkpJLiorKywkVHErKysrKysrKVFIPiwlQ36Pko5UKC8tLy8rKysrLSNcfw==",
-    "struct": "518c30d069f9e5d75e1427956d2d7adb75f85c37",
+    "pix": "LCdFTDY8MSsrMzAxMDI0MTExMTAzKysrLUpQRkc1KSssJlFaV1s4LC1FPEA8QEg8PD5AO0UsKio1q7V6gEsmLFhVTEZCQEQ4Ni8vLS4rJy8pIiUqIyktKyslJykoKisrXFlVUUVelY6IjYt8am6Jnn2IZ5CFhG6Ik3wzKSsrKytUUU5KRUVPUFNQU1NLR1BMS2dOS1VMNUBAQzEpKysrK05MSkZER0A8OjRHSkxKRUxMQEdKUTwsKyssMiwrKysrSUdFQkJOUFdRUU9APT0+Pjs7Oz00Q0tJST08LSorKytEQ0JBQDo9RD89QVVXWVhIaHhzdXhHMTc2LCgrKysrK0FAPz48Ozk1NC08dYSEhVysy8TB0lMhKykrLCsrKysrPj49PDo5NzUzMS8qKSgpKyotLC0rKywrKysrKysrKys7Ozo5ODY0MisoKCsrLSsrLCwrKiYoKSorKysrKysrKzg4NzY1MzEsUE8+Ky0kLysnIigtPzozLSsrKysrKysrNTU0MzEwMCtFRDksI2avaXp+Qh5VT0YwKisrKysrKysxMTEvLy4tLCYmKiVOtsqUfbS3VCApJSYrKSkqKysrKy8vLi4qKCkqKy0sM56wwp4lkM+5Ny1BQzU0NC8rKysrLCwsKTw+PEJANCtXtb/M0a7BysdaKUhTREVGOCorKysrKyspPUNDSEo6LVKgxdrW2NfSzl8mLywtJygqKyssLSsrKyspJyktKCorKWWmsszNx7NkOCkyMzEsLCwrLCYhKysrKywsLS1KPjQsPn5odoWafytETExKLiorKywkVHErKysrKysrKVJJPiwlRYKUl5NWKC8tLy8rKysrLSNcfw==",
+    "struct": "a4e87440e6a2e961f950e68600765b5af0531147",
     "h1": "Everyone's talking about data,",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "mailup": {
     "pix": "2dbVyeP//v/////////////////////////////////5+Pj2+v///////////////////////////////////////////////////////////////////////////////v/+/v7//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
     "struct": "e638db22b4ef58752556074c89b635c56e957b1c",
     "h1": "403 Forbidden",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "acumbamail": {
-    "pix": "bW1taWppaWxtbW1tbWxrbGtsa2xsa2xsaWRgUVpubW1tbW1paWlpbG1tbW1tbGxsa2xsbGxrbGxqZmJUXG5tbW1tbW5ubm5tbW1tbW1tbW1tbW1tbW1tbW5ub3FwbW1tbW1tbW1tbW1tbW1tbW1tbW1ubW1tbW1tbW1tbGxtbW1tbW1ub29ub25ub29vbW1tbGpubmttbGxtaG5tbW1tbW1tbWhnZ2pmaGhlaGdtbW5qYmRkZGVkZWRjZWRrbW1tb29wWU1YWlRaV1dTWm5tbmhkZWZpaGdpZ2doY2dubW1jYmROSFBJSURLWFdsbm1uaGRmaGJYaWtnYWJeaG5tbaSlpZaQlZSTkI9iV2xtbW5oZmhpaGVpaWZnZGNnbm1t5+fx7+vv6fn//4pibm1tbmhkZ2ZnZ2VmZWVnYWhubW3u4+bn5Ob5/v3/hWBtbG1uaGRnaGlpZ2Zoamtmam5tbe/Z3ODc2+/v8v+IY29tbW5oZ2lhYWFjaWlqa2Vpbm1t79/j4uHm5uTm/28+R11vbWhpZDY+OjpoamprZmpubW3x4+bl5evx7+37hFxmam1uZ2doW1xZQWhqaWpkaW5tbe3V2drY2dPU1viMZnFubW1rZWZoaGhlZWVlZWRrbW1t8N3o5uXp5ePk9Ypkb21tbW1ta25qaG9tbW1rbW1tbW316/T29Pr9/P3/iWRvbW1tbW1tbW1tbW1tbW1tb25tbf79/P37/P///v+JZG9tbW1tbW1tbW1tbW1tbW5oaW5t69HX0tnh19rW6Itkb21tbWxrbW1tbG1tbW1sb0hOcWzAcYp7jJp1i3OljmJpZ2dqZmJrbGxka2ttbmZrZmdubQ==",
+    "pix": "bW1taWppaWxtbW1tbWxrbGtsa2xsa2xsaWRgUVpubW1tbW1paWlpbG1tbW1tbGxsa2xsbGxrbGxqZmJUXG5tbW1tbW5ubm5tbW1tbW1tbW1tbW1tbW1tbW5ub3FwbW1tbW1tbW1tbW1tbW1tbW1tbW1ubW1tbW1tbW1tbGxtbW1tbW1ub29ub25ub29vbW1tbGpubmttbG1uaG1tbW1tbW1tbWhnZ2pmaGhlaGdtbW5qYWRkY2RjZGRkZmVrbm1tb29wWU1YWlRaV1dTWm5tbmhiYGBjYWJrZGNlX2hubW1jYmROSFBJSURLWFdsbm1uaGRnZ2ppaGlnYmNgaG5tbaSlpZaQlZSTkI9iV2xtbW5oZGZnZmFoamhnaGNobm1t5+fx7+vv6fn//4pibm1tbmhlaGljWWlrZ2FiXmhubW3u4+bn5Ob5/v3/hWBtbG1uaGVoZ2hpZ2dmaWZkZ25tbe/Z3ODc2+/v8v+IY29tbW5oZGVlZmZnZWVlZ2Fobm1t79/j4uHm5uTm/28+R11vbWhlaGtraWFoaGlrZWpubW3x4+bl5evx7+37hFxmam1uZ2hmSU1IN2lqamtlaW5tbe3V2drY2dPU1viMZnFubW1rZWNRV1ZUZGVlZWRrbW1t8N3o5uXp5ePk9Ypkb21tbW1tbHJubHJtbG1rbW1tbW316/T29Pr9/P3/iWRvbW1tbW1tbGxsbG1tbW1tb25tbf79/P37/P///v+JZG9tbW1tbW1tbW1tbW1tbW5oaW5t69HX0tnh19rW6Itkb21tbWxrbW1tbG1tbW1sb0hOcWzAcYp7jJp1i3OljmJpZ2dqZmJrbGxka2ttbmZrZmdubQ==",
     "struct": "64cac7f002497ee73c139f6a53c230755e0cbe73",
     "h1": "Easily send email and SMS campaigns and boost your business",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "expertsender": {
-    "pix": "aGZmZ2dpbm9vZ2dvcHBvdXZwb3BvaGlydG1qaGdnZ2g6VllPSjQ0QDk7QjQyMzM0NDMzMjM0Mzg5Q0k8UWJfPCsvLi0sKiorKisrKioqKioqKioqKikpKSkuLSouMjEqJCMjJCQkJCQkJCQkJCQkJCQkJCQkLS4uLiImLCopKSslJSUlJSUlJSUlJSUlJSUlJSUlJSQ1PEE7Yk0wNTQ0MyUlJSUlJSYmJSUlJSUlJiYlJSYmIyoyMT24eig2NDQ3JSUlJSYmKCgoKCkoKCYgICUrLyFfv8PJpLR/KDQzMzglJSUmJSY9Pzw5NT4/PT8/KiwxJlu8y6S5z54xNzc7PiUlJiUlJFFZYF1ZYFs5Oz0uKyQdRoqki6RvWy0uL0I3JSYmJSUlNzk8Pj8+OSQiJCk6oKa+uK/AnFVhb3BweXEmJSUlJSU9Q0RCRENBRUZEKULh7fJWXYKVr7Wmp6moqSUlJSUoKjk7Njg4LyssLjUoQuTv6ainyPjo/8Rye3l5JSYpLCwrVGZlTyMkJCUrLCk4gpHU/+fg4NfhuWaAkI4oKywsLCw2OTo1KScnKywsLCshGbn8v8uri4ucmJyfny0tLS0tLCopKistLSstLCwsLTErptnF07afpKSlpKOkKioqKiotLS4rKiorMisuLy8qKyksL2l/eX18enp6ensaGhoZIDo8MhobFD5uFE1kWx00MBgoNCEjNS4cExUUFM3Nzc3Nz9DOzc7O0M3Lzc3Nzc/Pzc3Ozs/Oz87Ozs7O///////+/f7//v7+///////////////////////////9/f38//LX3d3a3Nvj4d3h6//9/f39/f39/f39/f39/Q==",
-    "struct": "03509ef9e561113e2ec5a70550557fc2c61f1a73",
+    "pix": "aGZmZ2dpbm9vZ2dvcHBvdXZwb3BvaGlydG1qaGdnZ2g6VllPSjQ0QDk7QjQyMzM0NDMzMjM0Mzg5Q0k8UWJfPCsvLi0sKiorKisrKioqKioqKioqKikpKSkuLSouMjEqJCMjJCQkJCQkJCQkJCQkJCQkJCQkLS4uLiImLCopKSslJSUlJSUlJSUlJSUlJSUlJSUlJSQ1PEE7Yk0wNTQ0MyUlJSUlJSYmJSUlJSUlJiYlJSYmIyoyMT24eig2NDQ3JSUlJSYmKCgoKCkoJyYgICUrLyFfv8PJpLR/KDQzMzglJSUmJSY9Pjc2MjtBPT8/KiwxJlu8y6S5z54xNzc7PiUlJiUlJFBcdG5rc001PD0uKyQdRoqki6RvWy0uL0I3JSYmJSUlNjtPTE5OLyEjJCk6oKa+uK/AnFVhb3BweXEmJSUlJSU+QkA/QEBDRkZEKULh7fJWXYKVr7Wmp6moqSUlJSUoKjk8Njk5LyssLjUoQuTv6ainyPjo/8Rye3l5JSYpLCwrVGZlTyMkJCUrLCk4gpHU/+fg4NfhuWaAkI4oKywsLCw2OTo1KScnKywsLCshGbn8v8uri4ucmJyfny0tLS0tLCopKistLSstLCwsLTErptnF07afpKSlpKOkKioqKiotLS4rKiorMisuLy8qKyksL2l/eX18enp6ensaGhoZIDo8MhobFD5uFE1kWx00MBgoNCEjNS4cExUUFM3Nzc3Nz9DOzc7O0M3Lzc3Nzc/Pzc3Ozs/Oz87Ozs7O///////+/f7//v7+///////////////////////////9/f38//LX3d3a3Nvj4d3h6//9/f39/f39/f39/f39/Q==",
+    "struct": "d928062ab5653a6160b768ec9ffbcc0bc9d1959c",
     "h1": "Boost your e-commerce sales with \npersonalization",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "manago-ai": {
-    "pix": "kJCPjo2PkJCQkYeFhoWFh4SGhX58gZGQj4+Pj4+PkJAAABsiJgkAAAAACgwCDwkCEAQHCwAAAAAODAVPfGYFAAAAAwMIAgAAAAADAwIDAgIEAwMDAgIAAAMDARMfGQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEELB0hGh4gIi0cGSodBAEBAAABAQEAAAAAAAAAAAAAAQAmKiEoITNHMSYcLikFAAAAAAAAAAAAAAAAAAABABo7PTo2QzQqKywzMS4zNTRKGwABAAAAAAAAAAAAAAAADBwXJhozIhUTExkZIRwYFigJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAgEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "pix": "kJCPjo2PkJCQkYeFhoWFh4SGhX58gZGQj4+Pj4+PkJAAABsiJgkAAAAACgwCDwkCEAQHCwAAAAAODAVPfGYFAAAAAwMIAgAAAAADAwIDAgIEAwMDAgIAAAMDARMfGQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEELB0hGh4gIi0cGSodBAEBAAABAQEAAAAAAAAAAAAAAQAmKiEoITNHMSYcLikFAAAAAAAAAAAAAAAAAAABABo7PTo2QzQqKywzMS4zNTRKGwABAAAAAAAAAAAAAAAADBwXJhozIhUTExkZIRwYFigJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAgEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxYSAQEADA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEGhcREQUREw==",
     "struct": "63ad811af12da2e596d5806ecfb678c07df06bfb",
     "h1": "Turns insights into campaigns in one prompt",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "edrone": {
-    "pix": "//b4+fz8/Pz9/fv9/Pz/////////+fj4/P39/Pv7////1Nje7vLz8/Pz7vXw8v/////////l4OLz9Pfz7u/9//3+/////////////v7+/fz9/f39/f39/vz9/f7+/v399vT08/X39/j4+Pn49/f29vX19fX19fX19fX19fX19fX39vP29/Dv8ez0+/n49/f39vb29vb29vb29vb29vb29v3CrsbR+Pv6+vr5+Pj39/f29vb29vb29vb29vb29vb2/rmXnp/5//7+/v38+Pj18/Pz8/P09vb29vb29vb29vb63dDQu8vAxsXM4Nn99vv///////v19vb29vb29vb29vzBoJuao6WXqam4s//+woSUkJOLw/309vb29vb29vb2+tfDzM7J0tbB9P/89f7OnqmnqaTO+/X29vb29vb29vb7yJyZmKC0z5vj/Pb49vr///////v09fX19vf39vb29vy+w8ziv8bDwvD59/f29fPz8PHu9/r6+vr38vT39vb2/biaj8innqej6vr29/f29/Do8+/8//////rz9vf29vb37Ork6fDs6+ru+Pb29vb1+fz///7+/v7+/v//9vb29vnc1dnn2NTX0OT59fb29vb4/P/////////////29vb2+OXi5N3y+vn69/X29vb29fj49/f39/f39/f3+Pb29vb44dHV2O359/f3+Pb29vb28/Hx8fHx8fHx8fHy9fb29vbw7+zu7e3t7evr9Pb29vb39/f39/f39/f39/f29vb299zQztHPz8nOz9Dq+Pb29vb19fX19fX19fX19fb29vb4283Q2ebl3+Pk6vb29vb29vb29vb29vb29vb29vb29g==",
-    "struct": "3306c9f7585af41d0b7a3a36717389f1b48f4ca2",
+    "pix": "//b4+fz8/Pz9/fv9/Pz/////////+fj4/P39/Pv7////1Nje7vLz8/Pz7vXw8v/////////l4OLz9Pfz7u/9//3+/////////////v7+/fz9/f39/f39/vz9/f7+/v399vT08/X39/j4+Pn49/f29vX19fX19fX19fX19fX19fX39vP29/Dv8ez0+/n49/f39vb29vb29vb29vb29vb29v3CrsbR+Pv6+vr5+Pj39/f29vb29vb29vb29vb29vb2/rmXnp/5//7+/v38+Pj18/Pz8vT29vb29vb29vb29vb63dDQu8vAxsXM4Nn99vv/////+vX29vb29vb29vb29vzBoJuao6WXqam4s//+w4KQjYjJ/fT29vb29vb29vb2+tfDzM7J0tbB9P/89f7OnKaloNP79fb29vb29vb29vb7yJyZmKC0z5vj/Pb49vr/////+/X19fX19vf39vb29vy+w8ziv8bDwvD59/f29fPz8PDw+Pr6+vr38vX39vb2/biaj8innqej6vr29/f29/Do8+/8//////ry9vf29vb37Ork6fDs6+ru+Pb29vb2+Pz///7+/v7+/v//9vb29vnc1dnn2NTX0OT59fb29vb4/P/////////////29vb2+OXi5N3y+vn69/X29vb29fj49/f39/f39/f3+Pb29vb44dHV2O359/f3+Pb29vb28/Hx8fHx8fHx8fHy9fb29vbw7+zu7e3t7evr9Pb29vb39/f39/f39/f39/f29vb299zQztHPz8nOz9Dq+Pb29vb19fX19fX19fX19fb29vb4283Q2ebl3+Pk6vb29vb29vb29vb29vb29vb29vb29g==",
+    "struct": "4d812d0a5889e0fbeba22c9d91c032ed9cfdb802",
     "h1": "Give customers a reason to buy more and come back",
-    "ts": "2026-11-10T04:41:03.628Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "resend": {
-    "pix": "AQEBAQIBAQECAQEBAQIBAQIBAgMEBwsQFBkcHRwZFhMCAQECAgICAQECAQICAgICAQIDAwUJDBEVGRwcGhcUEQICAgECAQIBAgECAgIBAQIBAgMDBwoNEhYZGxoXFBEOAgICAQEBAgEBAgIBAQICAwIDAwUICxATFhkZGBUSDgsBAQICAQEBAQEBAgIDAwMDBAQFBwoNERQWFxcVEg8MCQEBAQIEAwMEBAMCAwMDBAQFBQcJCw4SFBYWFRMPDAoHAQIBAw0NDg0MCgMDAwQEBQYICQsNDxIUFRQSDwwKBwUBAgEDBwEABgkHAQQEBAYHCAkKDA4QEhMTEhAMCggFBAICAA4lKCMxJSgiBgUHCAkKCwsNDxAREhEPDQoIBgQDAQIABRUWFx0OEhECBQgJCgsMDQ4QEBAQDg0KCAYEAwICAgEJJhkSHhwWGBoTCAoLDA0NDg4ODg0MCgkGBAMCAQICAQsfFRQXGiAZExIJCgwMDA0NDAwLCwoIBgQDAwICAQECBAoLDA0OEQ4QEQ8JCwwLCwsLCgkJBwUEAwMCAgICAgEDBwYJCQoNERMUEA4MCwkJCQkICAcFBAMDAwIBAQICAgMPFQoECgsHBwsOERISEA4LCAUEBAMDAwMCAgICAwICAgYIBAMFBgQEBQUFBgcKDA4ODQsHBAIBAQABAQEICAcGBAICAgEBAQEBAgIBAQEAAQIFCAsMDAkGAwEAAAIDBAUGBQQDAwIBAQAAAAAAAAAAAAAAAAECBAYHBgQCAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-    "struct": "d42ae32abb473a8219b67ffe546faf2596b1ccd7",
+    "pix": "AQEBAQIBAQECAQEBAQIBAQIBAgMEBwsQFBkcHRwZFhMCAQECAgICAQECAQICAgICAQIDAwUJDBEVGRwcGhcUEQICAgECAQIBAgECAgIBAQIBAgMDBwoNEhYZGxoXFBEOAgICAQEBAgEBAgIBAQICAwIDAwUICxATFhkZGBUSDgsBAQICAQEBAQEBAgIDAwMDBAQFBwoNERQWFxcVEg8MCQEBAQIFBAQEBAMCAwMDBAQFBQcJCw4SFBYWFRMPDAoHAQIBAw0ODw0MCQMDAwQEBQYICQsNDxIUFRQSDwwKBwUBAgEEBwEABgoHAQQEBAYHCAkKDA4QEhMTEhAMCggFBAICAA8oKiU0KCskBgUHCAkKCwsNDxAREhEPDQoIBgQDAQIABRYXGB4OEhECBQgJCgsMDQ4QEBAQDg0KCAYEAwICAgEJKRsTIB0YGhsUCAoLDA0NDg4ODg0MCgkGBAMCAQICAQsgFhUYGyEaFBIJCgwMDA0NDAwLCwoIBgQDAwICAQECBAsMDQ0PEg8QEg8JCwwLCwsLCgkJBwUEAwMCAgICAgEDBwcJCQoNERMUEA4MCwkJCQkICAcFBAMDAwIBAQICAgMQFgsFCgsHBwsOERISEA4LCAUEBAMDAwMCAgICAwICAgYIBAMFBQQEBQUFBgcKDA4ODQsHBAIBAQABAQEICAcGBAICAgEBAQEBAgIBAQEAAQIFCAsMDAkGAwEAAAIDBAUGBQQDAwIBAQAAAAAAAAAAAAAAAAECBAYHBgQCAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "struct": "7a557bac9a8c0b48e857936bcd4f87bae6982e5c",
     "h1": "Email for\ndevelopers",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "sessy": {
     "pix": "//7/89Hg//7/////////////////+Pj3+fn2+Pv////+/v7+/v7+/f39/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////////////7///////////////////////////////7/8OLl6t/i4OTk3ur//////////////////////////v/op7LGuLC9r6G/4P/////////////////////////+//HJ29TU2NjVze///v//////////////////////////+vT08vLz9PT18O3t9//+/v/+///////////////////89vj6+e7q7vj29vj+///////////////////////+/+q5vby67vr4+vv++Orm8Pj9+/v8/v////////////3/02dvbWjb9+7v8fnfvbrQ5/j19fb8/f39/f7////////////////////////////////////////////////+/+/FyMXGysvLy8vLysrKysvLy8vLy8vLzMrw//7///z/uw0dCgcJCQkJCQkJCQkJCQkJCQkJCQkRBrz//P///P+7BBAVFAgJCQkJCQkJCQkJCQkJCQkJCQoCvP/8///8/7sGExoZDxMNCQoKCgoKCgoKCgoKCQoKCwK8//z///z/vAQREBAOCgoKCgoJCQkJCQkJCQgSEhUNA7z//P///P+8BBEfGxkUEA8cGhkTDw8QEAkJCQsLCwoCvP/8///8/7sHEQsWDgoKChQPCwsKCwoLCgoKCQkJDwa7//z///z/ugolDRsgGw0JGx0bDAoKCgoKCgoJDRQYCLv//P///P+7CB8OEhYTCwkSFBQLCQkJCQkJCQkKEBMFu//8/w==",
     "struct": "70b35574d51b8e025b4a957e9af22204ef867f2c",
     "h1": "Know what happens after you hit send.",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.486Z"
   },
   "termii": {
-    "pix": "+v39/fDd7v/49/v0+/j79/j2/PT5/fz5+Nl/mvv+/f3+/f39+/P4/vz7/Pr8/P38/Pr9+vz9/Pz88tbe+/39/f39/f37/fv6+/z8/f3+/f3+/v3+/f39/f79///9/f39/f39/fr59/j6/v///f39/f39/f39/f39/Pr6+/z9/f39/f743djk19DT0M7x//z9/f39/f39/fz6+/z8/f39/f39/vnKysrIwtbs6vn+/f7+/f39/f39+vn7/Pz9/f39/f39/efh3uPc7P/+/Pr7+vr9/f39/fv4+vz8/Pz8/Pz9/f388Pb18+7n4OTj5eXj7fz9/f3++Pj7/Pz8/f39/P39/fzi4N/t9/b4+Pb4+Pf8/f39/fr1+fv7/Pv8/Pv8/fz++HdjVrr+7vr//v7+/v39/f399fj8+/v8/Pv8/P39/f387erq8vf1+v39/f39/f39/vf38OLp6unr+Pz9/f39/f3+//78+/r8/f39/f39/f378/n18vj39/j6/f39/f39/f39/f3+/v39/f39/f39/vX1+vv7+fr8/f39/f39/f39/f39/f39/f39/f39/P748vj59/f6/P39/f39/f39/f39/f39/f39/f39/f3++/H29/X4/P39/f39/f39/f39/f39/f39/f39/fz8/v3x8vP0+v39/f39/f39/f38/Pz9/f39/v7+/v39/v/77Orw+P39/f39/f39/f37+/z6+vj39vX09PX3+fr27uXr9/3+/f39/f39/f39/f7//Pz7+Pf18/Hx8fT4+vTy+f7+/fz9/f39/f39/fz/vbz9/f39/f39/v7///7+///+/Pz9/f39/f39/f39+/+kow==",
-    "struct": "d2f4aa11719868ea25adc393bf8fc81839202cfc",
+    "pix": "+f39/fDd7v/49/v0+/j79/j2/PT5/fz5+Nl/mvv+/f3+/f39+/P4/vz7/Pr8/P38/Pr9+vz9/Pz88tfe+/39/f39/f37/fv6+/z8/f3+/f3+/v3+/f39/f79///9/f39/f39/fr59/j6/v///f39/f39/f39/f39/Pr6+/z9/f39/f743djk19DT0M7x//z9/f39/f39/fz6+/z8/f39/f39/vnKysrIwtbs6vn+/f7+/f39/f39+vn7/P39/f39/f39/efh3uPc7P/+/Pr7+vr9/f39/fv3+fv8/Pz8/Pz9/f388Pb18+7n4OTj5eXj7fz9/f39+Pj7/Pz8/Pz8/P39/fzi4N/t9/b4+Pb4+Pf8/f39/fn1+vv7/Pz8/Pz8/fz++HdjVrr+7vr//v7+/v39/f389ff6+/z8+/v8/P39/f387erq8vf1+v39/f39/f39/vf1+fv7+/v6+/39/f39/f3+//78+/r8/f39/f39/f378vj6+/r6+fr8/f39/f39/f39/f3+/v39/f39/f39/fT2+vv6+vn7/f39/f39/f39/f39/f39/f39/f39/P728vj5+fj5/P39/f39/f39/f39/f39/f39/f39/f3++fD3+Pf4+v39/f39/f39/f39/f39/f39/f39/fz8/vvw9PT1+fz9/f39/f39/f38/Pz9/f39/v7+/v39/v/67Ozx9/z9/f39/f39/f37+/z7+fj39/X09fX3+vr17OXs9fz+/f39/f39/f39/f7//Pz6+Pf18/Lx8fT5+vPx+P3+/fz9/f39/f39/fz/vbz9/f39/f39/v7///39///+/f39/f39/f39/f39+/+kow==",
+    "struct": "4bf07083bf66a1be92c7ff7bb3c8b455b801546c",
     "h1": "Every \nNotification\nGuaranteed .",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "everlytic": {
     "pix": "//vx7erx//7//////fn7/P36/fv8/Pv7/Pr/6dXY9P//9dnX1drs6uvr6+vp4uTl5+Pp5ufp5ufo4+nTwMHs//lfOUE/Pjs7Ojo6Ojo8Ozs8ODEyMjQ1MTA5PT5COmD55i4dIiMjISMmJiYmJiYmJyBPi4WHfn2EZzIcJyYiLufpN0Q9NjhEPiwrKywrKysuH3bm1tzV0uTjzmkjLig36eg1ZX58d3p4JyspKCoqKiwfb9jOyd30jFm41mYhKTXo6DRecHh2bXFqfoBnLikqLB9w38GDr6WFMoSvxTckNujpMmyLeXZxgnhdREIsKiosH23jfEqPoHOBpJLKaxs46Og0O1FGRjpJRzMfJCcoKiwfb95QT5+eXaGxpMuFGzjo6DUvMDAyMzAwNjo5NzUpKx9r4lUwd3NOwMvE34IbOOjoNEBORkhKSUlHS0hHSjkxI0rfjxRQSxhyoJLLYR046Og1NEAzLTAuLi8xLi8wMC4qJajbZpGOPTVvvbwuJjbo6DUvOTYsKSkpKSgpKSkoKSslQcrUoJ9/QIzTUSMpNejoNzA6OC8sLCwsLSwsLCwsLC4lQ6nT0NHOuU8kLyk46OgrHB8fICAgICAgICAgICAgICIaHENjZkkeGSIhHSvo/oFTW1pZWVlZWVlZW1xbW1tbW1xbUk5OUVpbWVpTgf7////////////////7+/r8/Pv6/f/////////////////9/v7+///+/v///urh4eLg5eDm/v7+//7+/v7+/fz+/f7//v/h4//+9fb//fn9///9///+//7+///////////b09Dc/7uv//+ytf/boLbl/t/i/vTm4PLt5uHr4dnS4g==",
     "struct": "19e170eab59bdb1854e1038e1e788b9c9b5f29d1",
     "h1": "Powerful Communication Starts Here",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "unifonic-ar": {
-    "pix": "9vr39PX19PTw7evd3eDi4eHd4N/i3d7f8fLy8vH4/Pb81tHr5ePj5eXi4N3d3d3c29rZ2NfV1NHR0dLP25Sl//3H4f728/X27vb6//37+f36/Pz7+/v5+v7z3Nnspmb/+t7n9u/k4uXh4eDl5Nza29jZ2dfV1NHOz87Mytp5aP/47u3tzKCQgHtzb4JpSktDMS8qJSMYDAEAAQAABABu//js8tmtl4ifk3xycVtNRTopO2NYPEI8Jyc8LyU5AGv/9/b81qWaVaDJcW1lXE89LyVCaFhdXERVPzhIRVAAa//48PreoKy4aWN0dGFWTUArJyxjaEdLYUgqTFc8VQBr//js8e/HvaOBipN6YVVOPy0mUWFgWWFSNDw/R1E0AG3/+uLN4NTDaYaMi3VpXkk8NydPemdNWk86QSxIREMAbP//wY/BhHkqSWCqnX96aFs+NykoJSMbDgQCAQAABQBu//+1gp1ZLSgkEFrTm3x2aUQ7Ozo8OjMnGxcYGBkpAGz//65xcS4fLzEwH33FdF9aPy4vNjg3NCUXFhgWFhUAbf//q1lDKScoMzguL5F8b2k+Qz8wKSYuJx4YGBoYHgBt//+uQSsrMSElLB5ikXJkTTFIQC4pJyMbDQsLBgcGAG7//6Q+LR8pJRolIUNDJiIrO0E7MSojGg4CAAECAwYAbv//o0pBHyM1NiIwJhkrHiZNPzgoDRUTERMAmf3y0ABs//+eSU83HhQjIhkxNjpHODlENiQXFxEJAwBBdXBeAG7//6tTW25nPitCMTVOP0ReU05WR0E7NCocGQ0FBwgamvr39vDv7vX27+/v7e3w7e/y7u7x7u/u7u7u8PHx8enS8A==",
+    "pix": "9vr39PX19PTw7evd3eDi4eHd4N/i3d7f8fLy8vH4/Pb81tHr5ePj5eXi4N3d3d3c29rZ2NfV1NHR0dLP25Sl//3H4f728/X27vb6//37+f36/Pz7+/v5+v7z3Nnspmb/+t7n9u/k4uXh4eDl5Nza29jZ2dfV1NHOz87Mytp5aP/47u3tzKCQgHtzb4JpSktDMS8qJSMYDAEAAQAABABu//js8tmtl4ifk3xycVtNRTopO2NYPEI8Jyc8LyU5AGv/9/b81qWaVaDJcW1lXE89LyVCaFhdXERVPzhIRVAAa//48PreoKy4aWN0dGFWTUArJyxjaEdLYUgqTFc8VQBr//js8e/HvaOBipN6YVVOPy0mUWFgWWFSNDw/R1E0AG3/+uLN4NTDaYaMi3VpXkk8NydPemdNWk86QSxIREMAbP//wY/BhHkqSWCqnX96aFs+NykoJSMbDgQCAQAABQBu//+1gp1ZLSgkEFrTm3x2aUQ7Ozo8OjMnGxcYGBkpAGz//65xcS4fLzEwH33FdF9aPy4vNjg3NCUXFhgWFhUAbf//q1lDKScoMzguL5F8b2k+Qz8wKSYuJx4YGBoYHgBt//+uQSsrMSElLB5ikXJkTTFIQC4pJyMbDQsLBgcGAG7//6Q+LR8pJRolIUNDJiIrO0E7MSojGg4CAAECAwYAbv//o0pBHyM1NiIwJhkrHiZNPzgoDRUTERMAmf3y0ABs//+eSU83HhQjIhkxNjpHODlENiQXFxEJAwBBdXBeAG3//6tTW25nPitCMTVOP0ReU05WR0E7NCocGQ0FBwkXlvz39vDv7vX27+/v7e3w7e/y7u7x7u/u7u7u8PHx8ufO8A==",
     "struct": "80fba9cee2acc798db705535fb203c24a04ddd29",
     "h1": "المنصة المبنية على الذكاء الاصطناعي لتجارب عملاء متكاملة من البداية للنهاية",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "rdstation": {
     "pix": "7On9/v///v7////9///////////6/vr5+/v56+///fyjnaKop6Woo6enpqampZuho6Knq6aooKGgoKOanKilpxYYFxYWFxYYGBgYGRUoPjo5PiYUGRgaGRgXFxkYFhYVIiIjJCMjJB8aHRsaFT1zbm12PhUcGRoaICQjIyMjIiIgICEhISMbTFxET1lPTk8/SURPWWBZVl40HiIhISEgICAgISEhIh06V0FWVEhbVFNSTEVKUmJJVjMeIiEhISAgICAhISEiHixuZVpOZVNeamlnUWdJTFxdIyAhISEhICAgICEhISEhIS86LS8xLjAyMy0yNCotMSojISEhISEgICAgISEhISEhIS8/PjQwPDM3QDo9Oj8wISEhISEhISAgICAhISEhISEhISQkQk1MTUQlJSQkJCAhISEhISEhICAgICEhISEiIiIhISChwrfDqTI2Jx8gISIiIiIhISEgICAgISEhIR8gHiMfHyovKigmHiMiIiEiHhsbHiEhISAgICAhISEkLSsyHSsrHxglMCwsHB4hISAwPDwzHyIhICAgICEjHDGUYWsip5huLoi2i3cvMB8mGnjFw4wZIyEgICAgHB0ecMitqruvsJRObX9sjq16JyshjbW3hBkjISAgIB8WICSa1t/v6oBaUkgNHU2nxpQpKiSburuGGSMhICAgICYuKS9mMWhwUBkTMhcaGHCCXiEnHnO5v4kZIyEgICAhISclMGAmQUxPGxwVGx8VKiATIiQdNqKnehojISAgIB8XHCMjOyUxO0E0HBwbHRYoGR8iISIhGhocISEhICAgIB4dIh4aHyAfHiEhIB4vMR4iICAgICEiIiIgICAgIA==",
-    "struct": "ea48b19b3a8f0693b17c175bb601798db6a013a8",
+    "struct": "8498ac86d4f24110811f2614a5bf83097dd70063",
     "h1": "Conheça os produtos da RD Station",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "e-goi": {
-    "pix": "/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
-    "struct": "a93755f8273b0e8dc4b0ecc158e5853119a24bf0",
-    "h1": "",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "pix": "lo2TjZGVmpqbl42KkKSkpKSkpKSkpKKko6OjpKGajptSUio7My45NC44Ni01NS0uLi4uLi4uNTZAQEA7RH2CWDo7JC8rJy4sKC8vKS4uKCkpKSkpKCgsLTIxMi8zUVM9JSUpKSosKywtLS4wMDEzMzMyMjIwLy0tKiopKSggHyQpKScpKSorLCwtLjAxMjIyMjIyMjIxLy8vLi4tKywrKSgoLjExMzIzNTQ3NzQzMzMzNDIoLi0tJx8gICAvKygoJy02MDMyMjMzNTY6MzEyNDQ0Mh8fHyAeHh4eHiAgKigkOX18ZWp8fmlrhYiBjYVDKTIzICEhICEhICAhIiArKSYxfnpqc31/aV50h2ZdaV9UQipOVjQ1MCwqKS03LCoqJTZ+h3hnaXZiXGZ7YEhUWVxGLicqJyYiICAhJyYiLComM1VTUVBNXVdOJSQqLiwsLC8yHSIoJSAbGx0lJR8sKycrMzMyMzQ2NTc1NTY2NzQyMjAeJCgkIx0dHCEmICwsJyw9Oz0+PDw9PT09Pj4/PDAvMB8iJCMiHR0dISQgLCwoKSwrKywsLzg2ODAtLi8wLS4vHiQsLiwlIiAjKCAtLCU1Z2ZmZmpVLzU1NTU0LywsLC4fISMhIB8dHSMlICwrIz6TkZKRl3MwPDk7OzcwLCwrLR8mLiokHRwcJy4jLCsoKCcnJygnJywrKissLSwrKyssHhsaGxwdHR0bGRwsKigoLSkpJy4qJykuKigpKysrKysjKiomJCQjIyksJSsqKCgrKSknKiknJywpKCgpKSkpKicxMSwnKCgoLzQqKSkoKCgoKCkoKCgoJygoKCgoKCgpKigoKCoqKiopKCkpKA==",
+    "struct": "bd98ad73f6f48bb4437fbcb0c317780ffbeb6f9b",
+    "h1": "Turn every customer signal into a sale. Online and in-store.",
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "mailtarget": {
-    "pix": "9vX4+Pru0uXm5+ru5uvs7u3q7uzs7fHt7/f4/P359fb8/u/t9Pn++/D2+O/68/Xy9Pvz9/H1/Pz79fG8s9n/+///+/z//////f7+/P/8/fj6//z+/f/////++tTO6P/+iYOGhoWCgYGEg4SFg4KAgICAg4OFhYOCgoSDiImIgolDQ0NDQ0NDQ0NDPT08Pz4+PT8+Pj09QkNDQ0NCQkJDQ09PT09PT09PTVWAb3t3eHh2dW51cHJSTk9PT09PT09PTU1NTU1NTk5NV3N4d2trcnVvc29vblBMTU1NTU1NTU1NTU1NTE1MS0uGd3d7iIB6f3OCfYV8elRQU1RVVVZXWFBQUVFSU19fX2ZqaWxucW5xb3dycXB0am5qYWNjZGVmXV1eX2BhZWZoZmdna3R9eG1zZ2hubnFxc3NvcHFycnNra2xtbW5ub29xcXVhUE1/r6atjnV6eXp7fH1+foCAgXh5enp7fH1+f4B/hmFHP5DXyNKngomJiYmKi4uMjY2OhYaHiIiFhoaHiIiJjIuOiYKEhIuRkZKTk5SWmZubnJyTlJWVmbC0tLW2tre3uLi6u7u8u7u8vb29v7yqp6mqqqKio6Kr7e/r+P/////////////////////99bm0tre4sLCwsLfo7/3r8fvp+fXt/vj5/vb8/Pb++Pr4xMPExcW9vr69wujq++3r++L0+Or++vf/9f779f/3+PnNzs/Q0crKy8vL+P/+//////v29/f7/v779PDz/P//+dfZ29zc1dXV1tT5//749/vz7/Dw8PDx8e/x8vHw9v764eXm5+fg4eLh4Pn49PP08/X39/f39/b29/f29vb09fXs8vLz9A==",
+    "pix": "9vX4+Pru0ubm5+ru5uvs7u3q7uzs7fHt7/f4/P359fb8/u/t9Pn++/D2+O/69PXy9Pvz9/H1/Pz79fG8s9n/+///+/z//////f7+/P/8/fj6//z+/f/////++tTO6P/+iYOGhoWCgYGEg4SFg4KAgICAg4OFhYOCgoSDiImIgolDQ0NDQ0NDQ0NDPT08Pz4+PT8+Pj09QkNDQ0NCQkJDQ09PT09PT09PTVWAb3t3eHh2dW51cHJSTk9PT09PT09PTU1NTU1NTk5NV3N4d2trcnVvc29vblBMTU1NTU1NTU1NTU1NTE1MS0uGd3d7iIB6f3OCfYV8elRQU1RVVVZXWFBQUVFSU19fX2ZqaWxucW5xb3dycXB0am5qYWNjZGVmXV1eX2BhZWZoZmdna3R9eG1zZ2hubnFxc3NvcHFycnNra2xtbW5ub29xcXVhUE1/r6atjnV6eXp7fH1+foCAgXh5enp7fH1+f4B/hmFHP5DXyNKngomJiYmKi4uMjY2OhYaHiIiFhoaHiIiJjIuOiYKEhIuRkZKTk5SWmZubnJyTlJWVmbC0tLW2tre3uLi6u7u8u7u8vb29v7yqp6mqqqKio6Kr7e/r+P/////////////////////99bm0tre4sLCwsLfo7/3r8fvp+fXt/vj5/vb8/Pb++Pr4xMPExcW9vr69wujq++3r++L0+Or++vf/9f779f/3+PnNzs/Q0crKy8vL+P/+//////v29/f7/v779PDz/P//+dfZ29zc1dXV1tT5//749/vz7/Dw8PDx8e/x8vHw9v764eXm5+fg4eLh4Pn49PP08/X39/f39/b29/f29vb09fXs8vLz9A==",
     "struct": "5a858a01015e717d13ac230d7458492cbb6b3d10",
     "h1": "Email Infrastructure\nfor Enterprise Systems",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "netcore": {
-    "pix": "FBMQEBISEhEREBcnJCQmJSktMjY8NTQ7QEdNU1xkam4VODs4FxUWFhgSGxEcEhgPCgsLCwsLCgwUDRkfcXt6IQoODxAKCQkICQkKDQwICQgKDAsIBwkLCwwLDAwjLh4QAwICAwUEBAMEBAYSCwYHBQYQEBoTHhEfEwcRDBInByYEBAQFBQUFBAUGChIHBAcICxQPFQ4iOhUWERYMLUMUPQQEBAUFBQQEBgYKEQYFCAkOExETCh8gDBETFRsXExZTBAQEBQUFBAQFBgoWEhYYFQsRFhgPGQ52VxEaGBIPGlQEBAQFBQUEBAYEBQcKCQcFERYVIRkPL41sFS4gHBQdcwQFBQYFBAQGBwQFCA0HBQIdNTMdExgnjlcXO0YmHBVUBAIBAQEAAAABAQAAAAEEBRESKR83OxN3RiN2TjAvFg0CERcVFhoVHBYdIBodGQwLBAMFFGxhZ5V/aHpABgQVFwA2XUxGUE5ES0BGRUY7DwkNFQo4fHSMlo+DgGcHAQQJAB0mLzEtLA8VExQQDQADAQkMAFB2cnx+iXp2dR8DFQ8CEBcPHiUhGRQXFhcGAgMDBwULakMUHxseHBQ7MAIOEQAhR0M+Dw0HAwICAQICAAERBxBzQQQKCQYIAycrCg8PADBrZlkJAQcHBAMDAwUIDBMKFzIgCgsKCgkKFBsbHyYCAQAAAAMFBQUFBAcMEhUbCQMbHRADBQUEAwINFBcbJgMFCQcHBAMHCAIDBAEACy0kBgAABQgDAwkMDQkDBAoGAAMcHQ8AACYYAAEDAgIeGiEUAAEKFgEAGyIjGAAYOxcAAAAAAQAAAgAAAAACAxEVERYKAQAAAAAAAAAAAAECAQ==",
+    "pix": "FBMQEBISEhEREBcnJCQmJSktMjY8NTQ7QEdNU1xkam4VODs4FxUWFhgSGxEcEhgPCgsLCwsLCgwUDRkfcXt6IQoODxAKCQkICQkKDQwICQgKDAsIBwkLCwwLDAwjLh4QAwICAwUEBAMEBAYSCwYHBQYQEBoTHhEfEwcRDBInByYEBAQFBQUFBAUGChIHBAcICxQPFQ4iOhUWERYMLUMUPQQEBAUFBQQEBgYKEQYFCAkOExETCh8gDBETFRsXExZTBAQEBQUFBAQFBgoWEhYYFQsRFhgPGQ52VxEaGBIPGlQEBAQFBQUEBAYEBQcKCQcFERYVIRkPL41sFS4gHBQdcwQFBQYFBAQGBwQFCA0HBQIdNTMdExgnjlcXO0YmHBVUBAIBAQEAAAACAQAAAAEEBRESKR83OxN3RiN2TjAvFg0CERcVFhoVGxQbHhoeGQwLBAMFFGxhZ5V/aHpABgQVFwA2XUxGUE5MVEhOQ0E7DwkNFQo4fHSMlo+DgGcHAQQJAB0mLzEtLBgdFx0LAQECAQkMAFB2cnx+iXp2dR8DFQ8CEBcPHiUhFhEVExYHAgMDBwULakMUHxseHBQ7MAIOEQAhR0M+Dw0HAwICAQICAAERBxBzQQQKCQYIAycrCg8PADBrZlkJAQcHBAMDAwUIDBMKFzIgCgsKCQkJFBsbHyYCAQAAAAMFBgUEBQgMEhUbCQMbHRADBQUDAwIOFBYbJQMECAkHBQQECQUDBAEACy0kBgAABQUCBQsMDAYDBwwFAAAPHhoFAAwsBAACAgIeGiEUAAELDAAJIx8jCgAvQBUAAAABAQAAAQEAAAACAxEVERYKAQAAAAAAAAAAAAMCAQ==",
     "struct": "e1aa28b75748aba028a1a1e2524fdd4f3b433def",
     "h1": "Agentic Marketing platform that\nco-owns your \nOutcomes\nCustomer LTV\nCRM Revenue\nRetention Rate\nChannel ROI\nReactivation Rate\nSearch-to-Purchase Rate\nRepeat Purchase Rate",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "doppler": {
     "pix": "3d/i4N7e4dvLzc3L09TS09HT3d3FtLq60uXg3t7f3d3y6t3l7e/m7Onq7O3o7Ovr8vHx8e/w58zQzuDu7unv8v/15u/4/fP6+fj7/Pf6+fn//////v/0ztHM5v/08/7//v7///////////////////7///////7//////+Dh5en///7+9Pj3+Pr6+fP4+fX8/fj6+vv59vn7+vr5/vjt+P/+//qss7e/s7++rbO2sq/Puqy9w729tLe2ubr1//7///////78/vr09fb48/X17vD17/Lz9fjz9/z8/P/+/v7//////////fz7+/ny8/L18/L08/v7+vz+/////////////v7+//7+/v////////////////////7+//7+/v/////45P////nc/v///ub+/v796fz////0/f///+b4//////Hn9v//+Ob8///16Pb///rt9//+9O7x/f/76fP/////+Pf5///89/3///j2+P3++vX6///49/b+//z4+v//////////////////+/n49/f3+Pv///////////////////7+/v////7//////////////////v7+/////v7//////v7+/v7+/////v/ltby9teT//v/////////////////////////////+/+i6wMK75v/+/////////////////uri5eXm5vv//v////7y8/Tw9f/////////////+///++vf3+Pj4/v///////fj6+vn7/////////////////v7////////+/f3+/v7+///////+/v7+/v7+/v7/2O/u7u7u7u7u7u7r6e/u7u7u7u7u7u7u7u7u7u7u7u/c5w==",
     "struct": "5410fa04747d241db8cc0c54b5e9137d98ad506e",
     "h1": "Multi-channel Marketing, simple and AI-powered",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "taximail": {
-    "pix": "Hx5NMAUKBw8nQ0RCOjk5OTo7Ozo3Nzg2Nj1ARkpDODkjHmBLEBIMHDhKSUY+PT09PkA/Pjw8Ozw5SEdOVEk8PSQoJzAPAAQOOUVCQ0NCQkJEQkBAQEFBQUA+QUFCQEFBJikwOSYBBxo/P0ZGRERDQkVCPz48Oz4+Pz8/RklGRkYoLTI4Og4HJk1TXlZUVVdZWFJVWVdVSUZKSkpLTEpKSisxNTY/KQs1VVNjcnJxbXJyb25eSGVSS09OTk5OTk5OLjM4OT1AJERaVlxsZmdlamVLPz00MlVUU1NTVVNSUlIuNTs9PkJAU1xiWWF6eXhjTg4kMygRL1tWV1dZV1ZWVi40PD1DQUNYXmFZd6+uqnJvQ1FHLSUzUV9bXF5bW1taLjM7P0JMQlNgXV5eXVxdYGJOEihQXldAVWNgYV5eX14sNDg/RU9PU2pqbGxramlqZ2szTF07L1JRYGVkY2NjYis4PT5HUmA5HCcuN0BJU1tfaF85SVRpcF9Rc29sa2pnFyg2NTlDWDkOBwAAAAAAAAAABAMNHSccGBtKTlJXW16nq7S0tbe9xcbDvbexqqCamJeVmJWTkZSWmJiaoaess////////////////////////////////////////////Pz8/Pz8/f3y7uv3//79/f3+/f3+/v76+vv7+/z8/Pz//////////u/f4Ofs6uzp6ujs6+vn8fr9///////+/v39/f39/fz89eXp5+jp7Ovr7Ozs6/D1+fn8/f39/f7+///////////8+fn8/P3////+/f7+39bw//7/////9vW0tLS0tLS0ser//Pz9/Pv7+/j29/fY0tq1tLS0tLWqqg==",
+    "pix": "Hx5NMAUKBw8nQ0RCOjk5OTo7Ozo3Nzg2Nj1ARkpDODkjHmBLEBIMHDhKSUY+PT09PkA/Pjw8Ozw5SEdOVEk8PSQoJzAPAAQOOUVCQ0NCQkJEQkBAQEFBQUA+QUFCQEFBJikwOSYBBxo/P0ZGRERDQkVCPz48Oz4+Pz8/RklGRkYoLTI4Og4HJk1TXlZUVVdZWFJVWVdVSUZKSkpLTEpKSisxNTY/KQs1VVNjcnJxbXJyb25eSGVSS09OTk5OTk5OLjM4OT1AJERaVlxsZmdlamVLPz00MlVUU1NTVVNSUlIuNTs9PkJAU1xiWWF6eXhjTg4kMygRL1tWV1dZV1ZWVi40PD1DQUNYXmFZd6+uqnJvQ1FHLSUzUV9bXF5bW1taLjM7P0JMQlNgXV5eXVxdYGJOEihQXldAVWNgYV5eX14sNDg/RU9PU2pqbGxramlqZ2szTF07L1JRYGVkY2NjYis4PT5HUmA5HCcuN0BJU1tfaF85SVRpcF9Rc29sa2pnFyg2NTlDWDkOBwAAAAAAAAAABAMNHSccGBtKTlJXW16nq7S0tbe9xcfEvrixqqCamJeWmJWTkZWWmJiaoaess////////////////////////////////////////////Pz8/Pz8/f318O/v8fDu8O7t7/Du8e71+/v7+/z8/Pz//////////ff19/b5+fb4+Pf49/f5+fj9///////+/v39/f39/fz7/v///////////////////vn8/f39/f7+/////////v/z6OX1//39/f39/fz9/f79/v//////9vW0tLS0tLS0s+Lk4ufp6Ovo6efr6unn8+uytbS0tLWqqg==",
     "struct": "670d9df4f26e8dcdaae7187ba6c292519e412d71",
     "h1": "Drive your business with email marketing and automation",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.487Z"
   },
   "karte": {
-    "pix": "//3y8PT/9/74+vz/+fr+/P////////7/6snG6fP1///p6eLg4e3i5enr4trS3+7X2d3h5ezv3uXiycnk9Pb9/56osK6hqaCMmI1xZI+fr11RZnKShEoXQbzBy8jw//j1laCgpJmknYGgnX5ukpysZFpseoo8DAwEhsbDx/P1zdabm6Crn7y2msOwgGKEkqJbWGh5d2AvBwhSy8PF+Oq31p2lp7Oysa6SoqiXfJeloVJWZXdzTE4aEDO5wbrv1rLYipamxsK+wJ6ovrSPo62sSU1fcXdJZDsUEmvItbuyr9GBdoKZjpOMa36TgGSLjoJUXWVxkU5MNA8WNsSooK+nuoJ1gpiSmYt6j5uKbZaejlprbnyFNRIrFi0kpLafrKXDamdug291cWJ2jHlig4deLz9WZ4g+AjMaCCtImZmhqMNXSExvgX11bGRqYVBlUj0qPk1niCwSP0xxhYe2oGJHkEsjXaeqp6WkflpJRlNANSIySGp6Fyk7VZWdm8KoZjt2ZmFQQ0hCPD0zPkJDQEA/IjRFclwkXVFBRFZZeGtsUIJvbWBMRjY5NCspRUU/PyodNkxfMjdYY15hX2FdZG1EeBUWGhwWHD5QZmNXPj08MR0/VDEmU1lubGhjVlhsdk19QExXYGNbTENSWWw/Kx8pPDRLVUhYVF1XWFtjWGRwPYXl5Ovn6eTXz9HJ3cm+w77EucPZzcLM0M7MztTTz83E2f//4fXz/v/8+P7//+vk/v//9tf8//74+/7///n4/////f6x3eP6/+zX7/7/y7Tz/v7kyfj+9tvh8v7/7ef//P3////+/v/48//+//7+//3+/+nf/////vr8//jj5ff//w==",
+    "pix": "//3z8PT/+P75+/3/+Pr//P////////7/7cvK7fr6///f5d7c3+jg5OPk3+Hd2N3e4eLe4OPey8vOvbbO1dnd5WiSlpSWi4R6dIKDfYFoaHl0eWh0cDwqIRpeeXqEd4GJbpibn5uVioN0gYyDg21vfXqBcmo6LygPABZjZ2dgVZFslKSvoK6inpiWkHp9Zml9eHptZFYvCw4UB3Z9bIF3pFqDpK+soZ+VgpGhkZN/fHxtcGdwjGs4LToRs7CQnJGwVX2pwsK1s6SWr7qpnIeXelhaWF5rd2E3Mia6qIKTlrRReoyMgnh1bWF4jHp2UG6FaV9eWm13Vjo5MliVhp90pEtyjZWMiIF8dICHcX1lfo53a2FWXE5cSlA3H0qBqGeeTmBef31faWdicnNoYkloa0lUR1RjRlRkZFZcTzpufaRSWVp3e2RtdWBIXltRPj5OP0dDTmJOWnqRWVxPNT5UiUxHaqKrqaWlc0xObUdATVdaVz0+VltakINUYFlGPVakSEhDeGhCTVNXYG5xXkFOYl5NQUZPVV6UZFxmVU9KQpFSamZrSSYvPD1DZXFvSUViVlpPTlhXZ3lYaGRMSk42iV94YmVLMDxIOzNPXmVOQ1ZZZmxod22EgoGDeHBtVD2NUExLYz0jK0U/MDhMVkUeRlpycnVqcbOwvbKws7pbMovLyNHYy8DCzc3Kxs7XyMDN09/VzMjL09PUzcvNzcfG4P//5Pj4/v/8+f7//+jj////9df8//74+v7///n4/////f6w3OL5/+zX7v3/zLTz/v/lyvj/99vi8/7/7ef/+/7////+/v/48//+//7+//3+/+nf/////vr8//jj5ff//w==",
     "struct": "3ecb45be7209a793064b6e4e6c4cf608ec8dc253",
     "h1": "データとAIで、\n事業成長を加速させる",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "stibee": {
-    "pix": "+N3X9/z5+fn68/z////////////////////8+Maus/L37uv1+fj4+Pj2+Pn5+fn5+fn5+fn5+fn5+fj45t7f9fb4+Pb19fX29fX19fX19fX19fX19fX19fX19vb6+/v29vb5+vn6+vn5+/j29vb29vb09PXz9Pb29vb19fT09fb38+Ph5ODi6Obd6vf29vb19/78+P/+9fX29vn5+fj29vfvzcXGv8jLz7LO+vX29fv51+b6yNL++Pb3//7+/vb2+O/Pw8TNyrjW//j19vX4/7GMn4tPULb/7+r+9fP+9vb38ubk5Ofl4ujx8/b29P3uj8uzcpOKcf/n5/7+/v729vfz6urq5+bn7e7x9vb1+PyokZmBWFSp/+bl7u73+fb29/Lm5ubw9PP19/f29vb1/PPI2/Cxvvz/6ubm5fH29vb74JqinOH79fb29vb29vb1+f/8+v///f39/f7++Pb29vbz6urq8/b29vb29vb29vb19PT08vj8/P39/f349vb29vf5+fn39vb29vb29vb29vb29vb29vb29vb29vb29vb29vX19fb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////////////////////////////////////////////////////////////////////////////////////////////////////////+/v7+/v7+/v7+/v7+/v7///////////////////////j39/f39/f39/f39/f2+v///w==",
+    "pix": "+N3X9/z5+fn68/z////////////////////8+Maus/L37uv1+fj4+Pj2+Pn5+fn5+fn5+fn5+fn5+fj45t7f9fb4+Pb19fX29fX19fX19fX19fX19fX19fX19vb6+/v29vb5+vn6+vn5+/j29vb29vb09PXz9Pb29vb19fT09fb38+Ph5ODi6Obd6vf29vb19/78+P/+9fX29vn5+fj29vfvzcXGv8jLz7LO+vX29fv52Ob5x9L++Pb3//7+/vb2+O/Pw8TNyrjW//j19vX4/7GMn4pPUbb/7+r+9fP+9vb38ubk5Ofl4ujx8/b29P3uj8uzcZKNcf/o5/7+/v729vfz6urq5+bn7e7x9vb1+PyokZmBWFap/+bl7u73+fb29/Lm5ubw9PP19/f29vb1/PPI2/Cxvfz/6ubm5fH29vb74JqinOH79fb29vb29vb1+f/8+v///f39/f7++Pb29vbz6urq8/b29vb29vb29vb19PT08vj8/P39/f349vb29vf5+fn39vb29vb29vb29vb29vb29vb29vb29vb29vb29vX19fb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb2/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////////////////////////////////////////////////////////////////////////////////////////////////////////+/v7+/v7+/v7+/v7+/v7///////////////////////j39/f39/f39/f39/f2+v///w==",
     "struct": "0dd2f1bc038961450e96b602bcb47abda8cfcfbf",
     "h1": "고객이 좋아하는 이메일\n스티비로 보내세요",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "listmonk": {
-    "pix": "////+9rZ4v////////////////v1+ff5+uju8v7////+/v799/f5/v7+/v7+/v7+/v7+/fv9/Pz9+Pr7/v7+/v////////////7///////////////////////////////////7//////////vb09fLy8/7//////v///v////////////nx++/1+fz3+fL4+Pr1+PX3/Pz89/v///////////7/86KassOsrqmltsKitKalpqLAwaef6//+///////////+8fHt3ta/0dzR0tfV1tTc2tjo8O79///////////////+/9+wrKmuqL+ozL+ts6maoer//v////////////////7+/v/6+Pjq9vj5+vn59vD//v7+///////////////////+//v3/fvz8Ojp9vf4/f/+/////////////////////////v/bv7/Q//f6/////v/////////////////////////9/7eIjKb/7vD+/v////////////////////////////////////////////f8///////////////9+fr6+vr6+vr5+fbx+fr6+vr77/X7+PX0/v////////7x4/f6+vv7+/n5+fj5+fn5+fn7+vn37vb9/////////vPp8Pfr4uPl+/r7+vr6+vv6+vr6+/r4+P3////////99e/2+ff1+Pn8+fb7/Pv5+Pz8+/j3+/35/f////////338fb79fX//v/z4v3//vL5///89fv+//r8////////+/by+fr49/73+Pj5+PT69/j99/r9/v39+f3///////7v9vT5+vjs9P37/Pz8+/z08v38/Pz8/Pz5/f///w==",
+    "pix": "////+9rZ4v////////////////v1+ff5+uju8v7////+/v799/f5/v7+/v7+/v7+/v7+/fv9/Pz9+Pr7/v7+/v////////////7///////////////////////////////////7///////////fz8/Ly9P///////v///v////////////nx++/1+fz3+fL4+Pr2+fT3/Pz89/v///////////7/86KassOsrqiktsKjtKWlpqLAwaef6//+///////////+8fHt3ta/0dzR0tfV1tTc2tjo8O79///////////////+/9+wrKmuqL+ozL+ts6maoer//v////////////////7+/v/6+Pjq9vj5+vn59vD//v7+///////////////////+//v3/fvz8Ojp9vf4/f/+/////////////////////////v/bv7/Q//f6/////v/////////////////////////9/7eIjKb/7vD+/v////////////////////////////////////////////f8///////////////9+fr6+vr6+vr5+fbx+fr6+vr77/X7+PX0/v////////7x4/f6+vv7+/n5+fj5+fn5+fn7+vn37vb9/////////vPp8Pfr4uPl+/r7+vr6+vv6+vr6+/r4+P3////////99e/2+ff1+Pn8+fb7/Pv5+Pz8+/j3+/35/f////////338fb79fX//v/z4v3//vL5///89fv+//r8////////+/by+fr49/73+Pj5+PT69/j99/r9/v39+f3///////7v9vT5+vjs9P37/Pz8+/z08v38/Pz8/Pz5/f///w==",
     "struct": "fc4eb7a3dd833530b5d38d99b42faa21fdb68392",
     "h1": "Self-hosted newsletter and mailing list manager",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "__ownSeen": {
     "urls": [
@@ -804,7 +804,7 @@
       "https://ecomail.cz/ebook-ai-email-marketing/",
       "https://ecomail.cz/changelog/ema-sdileni-skills-pamet-webareal-tracking-api/"
     ],
-    "ts": "2026-11-10T04:41:03.584Z"
+    "ts": "2026-11-11T04:41:02.455Z"
   },
   "ecomail-cz": {
     "pix": "ICMlJSUhISIhISEtNTAvMjEsNTgxICAhIiEiISYoJibq0cvSzODk3+Xg4OLg5eHk6Ojp6ejn5uDc4t7hsp297f/17u/t+v38/vv7/Pv+/P7/////////+/j8+vvbzeL/8/b3+Pj08/Tz9PT09PP09PPz8/Py8/n7+/j19Pn8+PL29vb19/f39/n29vj39/b29vb39/n2z8jM2/T29fX19vb29vfr8vPx6PX27/Py9Pb29+7u5vavXp+97fj19vb29/f3+NDXy8a+vtLQw8Hi+/b46+nf4qiwqunp9Pj39/f4+Pj56dva2uDX09zX5/b4+Pf85s7nXoyY0Of2+Pj4+Pn5+fvh1M/W0uHV0M3s/fn5+Pvv3OV4erjp6/b5+fn5+vr6+vv9/v39+/39/Pj4+Pr6+/by6VNTedDp9/r6+vr7+/v86OHi5Obh5Obe4+Tn+vv89fHrZE4+kvH7+vv7+/z8/Pz+//////3+//7+/P38/Pz6+/JVPUdd7/77/Pz8/f38/8evtLO08vbx8/j+/f39/fz9+3JNWnf5/vz9/f3+/v3/yrS4trb08+7v+P/+///+/v/////////+/v7+/v////7//v7///3+/v/9/v78/P7++Pf++/r+/P7////////+/f739Pz8+Pj3+vb8+/j4/fvw9v/09f75+////////////////////////////////////////////////////ezq6ufm5+Pd2dLT3eHm6+3w8O/v8PDx8fHy/f/////52NfX19Xa8vj1eqHTztjX3t3l7+3t7Ozr6ur8//////jV19na2pnY7cSLdrzi39Xc2+Lp5en18/Lx8P3//w==",
@@ -819,57 +819,57 @@
     "ts": "2026-09-12T21:06:27.442Z"
   },
   "nas-web": {
-    "pix": "ICMlJSUhISIhICsxMTIwMC8uLzo+Nh4iIiEiISYoJibq0cvSzODk3+Xg4OHg5uHk6Ojo6eno5uDc4t7hsp297f/17u/t+v38/vv7/Pv+/P7/////////+/j8+vvbzeL/8/b3+Pj08/Tz9PT09PP09PPz8/Pz8/n7+/j19Pn8+PL29vb19/f39/n29vj39/b29vb39/n2z8jM2/T29fX19vb29vfr8vPx6PX27/Py9Pb29+7u5vavXp+97fj19vb29/f3+NDXy8a+vtLQw8Hi+/b46+nf4qiwqunp9Pj39/f4+Pj56dva2uDX09zX5/b4+Pf85s7nXoyY0Of2+Pj4+Pn5+fvh1M/W0uHV0M3s/fn5+Pvv3OV4erjp6/b5+fn5+vr6+vv9/v39+/39/Pj4+Pr6+/by6VNTedDp9/r6+vr7+/v86OHi5Obh5Obe4+Tn+vv89fHrZE4+kvH7+vv7+/z8/Pz+//////3+//7+/P38/Pz6+/JVPUdd7/77/Pz8/f38/8evtLO08vbx8/j+/f39/fz9+3JNWnf5/vz9/f3+/v3/yrS4trf08+7u+P/+/v/+/v/////////+/v7+/v////7//v7///3+/v/9/v78/P7++ff9+/r+/P3////////+/P749Pv8+fn3+ff8/Pj4/fzw9f729P/6+////////////////////////////////////////////////////ezq6ufm5+Pd2tLT3uHm6+3w8O/v7/Dx8fHy/f/////52NfX19Xa8vj1eqHTztjX3t3l7+3t7Ozr6ur8//////jV19na2pnY7cSLdrzi39Xc2+Lp5en18/Lx8P3//w==",
-    "struct": "f58f9d41702525ea89f8e7b664ef82dfc9455ae1",
+    "pix": "ICMlJSUhISIhICsxMTIwMC8uLzo+Nh4iIiEiISYoJibq0cvSzODk3+Xg4OHg5uHk6Ojo6eno5uDc4t7hsp297f/17u/t+v38/vv7/Pv+/P7/////////+/j8+vvbzeL/8/b3+Pj08/Tz9PT09PP09PPz8/Pz8/n7+/j19Pn8+PL29vb19/f39/n29vj39/b29vb39/n2z8jM2/T29fX19vb29vfr8vPx6PX27/Py9Pb29+7u5vavXp+97fj19vb29/f3+NDXy8a+vtLQw8Hi+/b46+nf4qiwqunp9Pj39/f4+Pj56dva2uDX09zX5/b4+Pf85s7nXoyY0Of2+Pj4+Pn5+fvh1M/W0uHV0M3s/fn5+Pvv3OV4erjp6/b5+fn5+vr6+vv9/v39+/39/Pj4+Pr6+/by6VNTedDp9/r6+vr7+/v86OHi5Obh5Obe4+Tn+vv89fHrZE4+kvH7+vv7+/z8/Pz+//////3+//7+/P38/Pz6+/JVPUdd7/77/Pz8/f38/8evtLO08/bx8/j+/f39/fz9+3JNWnf5/vz9/f3+/v3/yrS4trf08+7u+P/+/v7+/v/////////+/v7+/v////7//v7///3+///8/v38/P7++Pj++vv+/P7////////+/f739P37+fj3+vb9+/j3/vnw9v/09f74/P/+/////////////////////////////////////////////////ezq6ufm5+Pd2dLT3uHm6+3w8O/v7/Dx8fHy/f/////52NfX19Xa8vj1eqHTztjX3t3l7+3t7Ozr6ur8//////jV19na2pnY7cSLdrzi39Xc2+Lp5en18/Lx8P3//w==",
+    "struct": "a1f0fc98a0921f7d4e11bd4deed1a8649d1516ca",
     "h1": "E-mailing, který zvládne každý",
-    "ts": "2026-11-10T04:41:03.622Z"
+    "ts": "2026-11-11T04:41:02.481Z"
   },
   "nas-agent": {
-    "pix": "ICMlJSUhISEgICsxMDIwMC8uLzo+Nh4hIiEiISYoJibq0cvSzODk3+Xg4OLg5uHk6Ojo6urp5+He49/is56+7v/17/Du+v38/vv6+/r++/3////////++PT49PbVxt3/8vX39vTv7Ovp6eno6unr6+zs7e3r6ebl4t7f3eHk4dv08/Lv7erm4+Hh4OHi5uns7vDy9PLz9O/s6ujn5eTk5fHw7+zp5uTg3dvf5OXm7vL3+vn4+/Tq8/Ty8O/u7Ovr6urq6Obl4t/c3sGuwNLFzs/R4+nmzMT4+Pf29fTz8fDi4+Tl5OTi4N3kupmftK+0obPa8uPr9/v7+/v6+fj39drc3t/g4OHh6LGgwZyUwKy/wLSit7HR//r7/Pz8+/n40tXY2dze3+Dk0sHNwcTOyMjGy9DU1vL9/Pz8/Pz8+/rNztDS1dnd5+7y9/b5+PX49/n8/Pz9+ff4+/z8/Pz8/MrKy8zQ1dv19fXz8/T//v79/f39/f3+/fT7/P39/fz8ycnJy87T2vPy8vPx8vr6+vr6+vr6+vv17Pz8/f39/f3Ky8zN0NXb5O7z9vj49/j5+Pn69/j5+ff2+/z7/P39/c/P0dPW3ePt3dXk4+Xj4+Xp6OXs5+ji9P/6/Pv8/f391dbY2+Dm6+ba1dvd3Nrb293a2+Dc4N7g8fz7+/v8/Pzc3eHl6Ors6N/f4OLg39/k5OXk4eTl5ej0+/v6+vr6+uTl5ufn6eru6ujr8PL09Pb38u/x8vDv9fv5+fj4+Pf35+fm5ufn6evt7/Di2tbUz9L09PP0+Pj39vf29vX09PTo6Ojn5+jp6uvs7cq2raebn+7k4OTz9PT19fX19PPx8Q==",
-    "struct": "586374e69a7c44af4d5851e604e279e6410454a5",
+    "pix": "ICMlJSUhISEgICsxMDIwMC8uLzo+Nh4hIiEiISYoJibq0cvSzODk3+Xg4OLg5uHk6Ojo6urp5+He49/is56+7v/17/Du+v38/vv6+/r++/3////////++PT49PbVxt3/8vX39vTv7Ovp6eno6unr6+zs7e3r6ebl4t7f3eHk4dv08/Lv7erm4+Hh4OHi5uns7vDy9PLz9O/s6ujn5eTk5fHw7+zp5uTg3dvf5OXm7vL3+vn4+/Tp8/Ty8O/u7Ovr6urq6Obl4t/c3sGuwNLFzs/R4+nmzcT4+Pf29fTz8fDi4+Tl5OTi4N3kupmftK+0obPa8+Pr+Pv7+/v6+fj39drc3t/g4OHh6LGgwZyUwKy/wLSit7HR//r7/Pz8+/n40tXY2dze3+Dk0sHNwcTOyMjGy9DU1vL9/Pz8/Pz8+/rNztDS1dnd5+7y9/b5+fj59vn8/Pz9+ff4+/z8/Pz8/MrKy8zQ1dv19fXy8/L08fr+/f39/f3+/fT7/P39/fz8ycnJy87T2vPy8vPx8PHv9/v6+vr6+vv17Pz8/f39/f3Ky8zN0NXb5O7z9vf5+fr6+Pn69/j5+ff2+/z7/P39/c/P0dPW3ePt3dXk4+Xj4+Xp6OXs5+ji9P/6/Pv8/f391dbY2+Dm6+ba1dvd3Nrb293a2+Dc4N7g8fz7+/v8/Pzc3eHl6Ors6N/f4OLg39/k5OXk4eTl5ej0+/v6+vr6+uTl5ufn6eru6ujr8PL09Pb38u/x8vDv9fv5+fj4+Pf35+fm5ufn6evt7/Di2tbUz9L09PP0+Pj39vf29vX09PTo6Ojn5+jp6uvs7cq2raebn+7k4OTz9PT19fX19PPx8Q==",
+    "struct": "9ad6e835b469a2871c1602188dc83039dee1a138",
     "h1": "Ahoj, já jsem EMA\n\nDo čeho se pustíme?",
-    "ts": "2026-11-10T04:41:03.622Z"
+    "ts": "2026-11-11T04:41:02.481Z"
   },
   "czechdesign-kalendar": {
-    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////3+/f3//fr7/P3+///////////////////////////98trB0dLFx8PFwdTi//7///////////////////////zf1dbX0dbV2drN5/r6+vr7+/v7+////////////////urq6e/08/P29fXz8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj5//7+/v7+/v7////////////////////////89Ozr5Orv+////////////////w==",
+    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////3+/f3//fr7/P3+///////////////////////////98trB0dLFx8PFwdTi//7///////////////////////zf1dbX0dbV2drN5/r6+vr7+/v7+////////////////urq6e/08/P29fXz8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pn6//7+/v7+/v7////////////////////////89Ozr5Orw+////////////////w==",
     "struct": "1910b424f279da7a9cd2f96c9313beb651bbee9d",
     "h1": "www.czechdesign.cz",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "czechdesign-graficky": {
-    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////3+/f3//fr7/P3+///////////////////////////98trB0dLFx8PFwdTi//7///////////////////////zf1dbX0dbV2drN5/r6+vr7+/v7+////////////////urq6e/08/P29fXz8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pj6//7+/v7+/v7////////////////////////89Ozs5Ovw+////////////////w==",
+    "pix": "//////////////////////////////////////////////////////////////////////////////////////////////3+/f3//fr7/P3+///////////////////////////98trB0dLFx8PFwdTi//7///////////////////////zf1dbX0dbV2drN5/r6+vr7+/v7+////////////////urq6e/08/P29fXz8/P08vTz8vT1///////////////++Pj1+f/+/v////////////////////////////////7o3enx8tfg//7///////////////////////////////z7/v759fr///////////////////////////////////////////////////////////////////////////////////7+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7+/v7//////////////////////////////////////////////////////////////////////v7+/v7+/v76+Pn5//7+/v7+/v7////////////////////////89Ozs5Orw+////////////////w==",
     "struct": "1910b424f279da7a9cd2f96c9313beb651bbee9d",
     "h1": "www.czechdesign.cz",
-    "ts": "2026-11-10T04:41:03.629Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "nas-ebooky": {
     "pix": "ICMlJSUhISIhICsxMTIwMC8uLzo+Nh4iIiEiISYoJibq0cvSzODj3+Xg4OHg5uHk6Ofo6eno5uDc4t3gsp297f/17/Dv+/38//z8/Pz//f7//////////Pn9+vvbzeL/9/r8/Pz59/n4+Pj4+fj59vHy8vLy8vLz9PP08/j79/H6+fn6+fn5+fn5+vn5+fn48/T09PT09PT09fT08/Lz9Pr69O32//7+/f79/f3////59fT09PT08/b29PT09PT0+/vi3drf5+Dt6u/u7uja4+nt9PP08/P0+vbz9PT09PT6/c+4sLS3rcnD0c/QwLK9qeP79PT1+Pr79vT09PT09Pv77OPU2N7j2djP5//+//78/fj19PX5/Pv29PT09PT0/Pz28/T3+fv6+Pj3+/v7/Pz18/T09PP2/Pbz9PT09PT+/vXw9vn9/v7//v7+/v3+9/P09PT09PP5+PP09PT09P7+/f38/P79/f39/v7+/vz09PT09PT08/X68/T09PT0/v7//////v///v7+/v7++vP09PT09PT08/z48/T09PT///Ts+Pj69/f8/P7////78/Tz8/Tx8fHw+f318fL09P/////////////////9//jy9fT09P7//////////PT5/v/JrbO2trW2s7/08/j1+uve5eXrsaWnp66zrKPA9vP+/1tQR3cyODIqQeLeq5uz5cPS1t0iDBMPCBIVBE/48v7/WkOde4vR3tvZ7Kak09rmw8zX2jYhIj5lPx4qZvPz/v9MV5dtjdXd2NnijaSfwPLVzd3ZNCAhmv+NHxxc9fP+/1J1in9BRDcqQtqMz+WL5eLGxdksGR1uq1IhEVX28w==",
-    "struct": "d9419974d8f219f689ef9c7efd6ae8e2159419a5",
+    "struct": "475876567b834fc3a94d263e7eaa3014bab72750",
     "h1": "Vzdělávejte se v e‑mailingu\ns našimi e‑booky",
-    "ts": "2026-11-10T04:41:03.630Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "nas-adresar-partneru": {
     "pix": "ICMlJSUhISEgICsxMTIwMC8uLzo+Nh4iIiEiISYoJibq0cvTzODk4OXg4OLg5eHk6Ofo6erp5uDd497hsp2+7f/07e7t+v37/vv7/Pv+/P7//////////Pb7+PnYzOH/7/L08/Px8PDv8PHy8/T09PT09PTt6enw6+fs5e/16eLy8fLy8/Lx8fHx8fLz9fb29vj39/bu6ens6Ono6+Tj6fPy8e7t8vn08/P09PX4+Pr6+Pj49vXv6ejo5+jn6O7z8/Tu3ebf1+jr6eXr7Obu5uz89/Hu7Ovp5+fm5+jp6efz9uq/tbahtLeyubaytr6m2v/27u3q6Ojo5ufn6Ojm5fT08+7u8fLt7Ovs5+vy8fT8+/v69/Xx6+fn5+jn6/D09vbw29/f2tfZ2Njc2d3i8Pv8/Pz78uro7Onp6evl5/D29/Pc3t3d5eXk6Ofp6vf9/f39/fPs6/Lv6O7m7+/l5fj29fDx8PL29fb29/n6+/z9/f/87vD4+uvq8+jq+fPq+Pf4+Pj49/b29vf4+fr8/f3+//79/f/26u/77Oj2/vz5+Pj49/j49/j4+fn6+/z9/v7////+//To9f/y5vX9/Pr6+fP08e/1+fn6+vv8/P3+////////+PL9/fzw+f79+/zxy8Li/fr8/P7+/////////////////////v/////8/ffn5u3z8fLy7/L18/X0+v/////+/9fF9vHz9v////3++eXh4+Pf3+Ph4ePh4t3u+///////2sbr4O7+/v///f378fLz9PP09vP19vT08/T2//////74+vr4+v7+///+/v7//////////////////////////////////////w==",
-    "struct": "f119c3ba45c9233baf9979696e2c4b94293f92a6",
+    "struct": "6cdd54283c1f257aebea44250130aac28e41c88c",
     "h1": "Certifikovaní partneři",
-    "ts": "2026-11-10T04:41:03.630Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "smartemailing-brozura": {
-    "pix": "+fz//Pj4+Pj4+Pj4+Pn5+fj5+fn4+fj58uzt7v359Pf45NPq/v39/f39/f379vX3/Pb7+Pr3/Pb1+/bx29vb9/bQtMn0//7///////rr6O387fjy9un97ev97ea5urny//7//v7//v3//v///////////////v7///z//////////v79/fv49PPz+v3+/v78+/3//fv8/v7+/v7+/v7+//////////36+vn+//////79/v7///////38/f7+/v7+///9/9GyvMS7vbqv3P/+/v7+/9va8Pj////++/7//v7///7/58yYpJmfr9Pr//7+/f/QgafCwrbBy+D8/////v///////b65uLzS/f/+/f3/4YSiyc+/q6aQivL//f/+///79/f3/f79/P31/f/+//aOiLXGzse6s6CT8v/9//////jp7e3o6+nr8PD2/P7/9dLHwbexnJujmJTx//3//f7++vX4+Pj39/3///z7+/7+///99uvUvKifjO3//P78//78/f3///79/v////7+/fz9/v///////PLg+f38//76/Pj38e7v7/j6/fz9+/z8/f/+/f79/Pz9///7+f3+//T6+vj49vb2+Pv+/Pv+/v3+///8/Pv7/P37+fz8/f///v///////vz6+/r8/fz8/f39/f7/////+/3+///+/v74+Pj4+Pnz9efs5/X++/z8/fr/zrvDwbzt9vn4+Pj4+Pj4+Pj4+fTz4eTg4uDj4OLg4/+ng4+LhOL3+Pj4+Pj4+Pj4+Pf65PHp5+zv8O/t7uvw/3dDWFNC1vn3+Pj4+Pj4+Pj49/rq4ODj5ePi6Ojy7+jp29PV0tLm8vn4+Pj4+A==",
-    "struct": "ad7be22c68e586ce51943cc34075d2c0acb5ec99",
+    "pix": "+fz//Pj4+Pj4+Pj4+Pn5+fj5+fn4+fj58uzt7v359Pf45NPq/v39/f39/f379vX3/Pb7+Pr3/Pb1+/bx29vb9/bQtMn0//7///////rr5+387fjy9un97ev97ea5urny//7///7//////v///v////////////7///3//////////v7//Pz9/fz8/fz7+vf8//3+/fz8/v7+//7+/v7+//7+/vz+//////////379/7//vr+/////v39/v7+//////38/82vur62urqu3P/5+/76/tva8Pf+/////v79/v///v3/5cuYppufq9Ls//z9/f/QgqfCwrbBzeL+//79/f7+/v7//b24ubvO/f7+//3/4oSiyc+/q6aQivT//v/9/v/79/f2/P7+/Pr0/f/+//aOiLXGzse6s6CT9P/+//7+//fq7ezo7Ons8PD3//7/+NPHwbexnJujmJPy//3+//39+ff59/b3+f3/////+/v9///+9unUvKmfjO7//f///v79/f7//fz8/v7///36+fv9/f///v///O/e9/v6/v76/fn38u7t7vb5/v3+/fv7/P38/f38/f3+///3+fj7/fj9+/n49fX2+Pz//v79+/3+/v/+/f39/f3//vj7+/r+//7+/v///vz7+/r9/vz9/f39/f7//////f3//Pz//v74+Pj4+Pnz9efs5/X+/Pz7/Pr/zbzDwLzt9fj4+Pj4+Pj4+Pj4+fTz4eTg4uDj4OLg4/+ng4+LhOL3+Pj4+Pj4+Pj4+Pf65PHp5+zv8O/t7uvw/3dDWFNC1vn3+Pj4+Pj4+Pj49/rq4ODj5ePi6Ojy7+jp29PV0tLm8vn4+Pj4+A==",
+    "struct": "f028415f5390191c93523165159e26ffb226cdfc",
     "h1": "Automatizační desatero",
-    "ts": "2026-11-10T04:41:03.630Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "beehiiv-shop": {
     "pix": "BwcHBwcHBwcHBwcHCAEeKR8OBAgHBwcHBwcGChEOEggHBwcHBwcHBwcHBwcHCyArHRcOBwcHBwcHBwcJDQsNCAcHBwcHBwcHBwcHBwUJBwUECgcFBwcHBwcHBwcGBgYHBwcHBwcHBwcHBwcIEBsaJyMgIxAIBwcHBwcHBwgHCAcHBgUFBQUFBQUFBwAQRjdRUUpDEAAHBQUFBQUFBQUGBwcODw8PDw8PDxAINU9FRkJDRENONQgQDw8PDw8PDw4HBx0jIyMiIiMiJg2p/+7w8vLx7/+pDSYiIiIiIiIjHQcHHCIgISEhICAlDZ/t6O3t7O7n7Z8NJSEiIyMjISIcBwccIiEjICEjIiUNof++Z2lnaL7+oQ0lIRoXGBkhIhwHBx0hIyclKSkjJQ2hnBoSExMSHZ+hDSUeQ19fSyEiHQcHHSEiKSQ7OSElEYwqDyUfLzgNL44THEu7wMHBYhoeBwcdIyEoJyYmJCgLqbMtGyAjHyy0qQ0dcrWLfriOHx0HBx0kICcnJiYkKQ2e/2MQIiERaf+eDh9uqZiQqIgkHAcHHiUiJicmJiQpDZ/5WBMiIhRg+p8PGmu9sbK0kSEcBwccJCMnJiUnIyYMn/pLCBYWCFD6nw4fRndUTmheIB0HBxshICMjIyQhJAyg92c7R0k8a/igDSUcFxgYGBkiHAcHHCIhISEhISElDZ/v4ePk5eTg758NJCIjIyMjIiIcBwcdIiAhISAgICUNqP7r7u7u7uv+qA0mIiEhISEiIx0HBw0VGRkXGBkZFAg5VVhZWFdaWFY4CBIPFhgXFxAQDgcHBA0VEighEhYKBQIACQYaFQgJAAIGBQQMIigQBQUGBw==",
     "struct": "fd054fc792b70dec29a0fa7c97f32fd67cd6f33d",
     "h1": "ALL PRODUCTS",
-    "ts": "2026-11-10T04:41:03.630Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   },
   "loops-resources": {
     "pix": "/f3t1+v//P39/f39/f7w9Pju++7z9vD19vb5mmCO//39/fju9f38/Pz8/Pz8/Pb4+/X89vf69vn5+fvVvNH+/f39/v////7+///+///////+//3//v7+/v7+/v7///39/fzq7fPx8/b08Pb18vX09Pz8/fz8/fz9/Pz9/Pv8/f39/d3Y1dXd49nS4Nzd3tve+/39/f39/f39/f39/f39/f399/b09fT09PXz8/T09Pby8/Hy8vHw9PLy+v39/f39/f35+/39/f39/Pz+/v7+/v/9/P39//7+//38/Pz9/f39/ejw+vn4+Pj8++nn5+bp5/T9+vbo5+rn9/37+/n9/f388O/09vX09Pv76OXp7+7u8vP49+fu7e/y8/Tz+P39/f37/P7+/v/+/fz9/f7///79/f38/v/+/fz8/f39/f39/f79/f39/f39/PDu7u7r9v38+vft7PD+/v38/Pr9/f39/f39/f39/f385OXr6+nv8/P49eLj5err7/T8+/39/f39/f39/f39/fz5/P////7//fz7+vv6+Pj8//z9/f39/f39/f39/f39+/Ty8fHv8vH1/Pn08/Tx9PHy+/n9/f39/f39/f39/f3729ra3evr6fL99OPi4+bo5Ob0+/39/f39/f39/f39/fzu7/Hw8PH3+/769ff6//7//vz9/f39/f39/f39/f39/PPz9PPy8/X5+/r39PTy9PP1+/v9/f39/f39/f39/f385ubj4uXm4+398tzs7Ozu7O/7+v39/f39/f39/f39/fzz8vLz/Pz8+/715+/v7vD28/n9/P38/Pz8/Pz8/Pz8/Pz8/Pz7+/v7+/r4+Pf3+Pv8+/v8/A==",
     "struct": "224193f6a6aabb41660f32d6346441de57804f54",
     "h1": "Email guides, examples, and resources",
-    "ts": "2026-11-10T04:41:03.630Z"
+    "ts": "2026-11-11T04:41:02.488Z"
   }
 }

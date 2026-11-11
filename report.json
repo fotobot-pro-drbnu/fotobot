@@ -1,162 +1,98 @@
 {
-  "runAt": "2026-11-10T04:41:03.631Z",
-  "date": "2026-11-10",
+  "runAt": "2026-11-11T04:41:02.489Z",
+  "date": "2026-11-11",
   "pixelThreshold": 0.07,
-  "tema": "cenik",
+  "tema": "sablony",
   "counts": {
     "targets": 76,
     "ok": 76,
     "failed": 0,
-    "suspicious": 2,
-    "changed": 22,
+    "suspicious": 1,
+    "changed": 24,
     "queue": 0,
-    "deep": 17,
-    "naseNovinky": 1
+    "deep": 10,
+    "naseNovinky": 0
   },
-  "naseNovinky": [
-    {
-      "key": "nase--novinka--changelog-ema-sdileni-skills-pamet-webareal-tracking-api",
-      "url": "https://ecomail.cz/changelog/ema-sdileni-skills-pamet-webareal-tracking-api/",
-      "shot": "deep/2026-11-10/nase--novinka--changelog-ema-sdileni-skills-pamet-webareal-tracking-api.jpg",
-      "h1": "EMA se sdílením, skills a pamětí, Webareal s automatickým trackingem a API chytré rozesílky",
-      "ok": true
-    }
-  ],
+  "naseNovinky": [],
   "deep": [
     {
-      "key": "rapidmail--cenik",
-      "url": "https://www.rapidmail.com/pricing",
-      "shot": "deep/2026-11-10/rapidmail--cenik.jpg",
+      "key": "rdstation--sablony",
+      "url": "https://www.rdstation.com/produtos/marketing/conversao/landing-page/templates/",
+      "shot": "deep/2026-11-11/rdstation--sablony.jpg",
       "own": false,
-      "h1": "Newsletter dispatch at fair rates and \nwithout hidden costs\n\nWant to try it out first? Send your first mailing to up to 2,000 recipients free of charge. Start for free now!\n\nStart for free",
+      "h1": "TEMPLATES DE LANDING PAGE",
       "ok": true
     },
     {
-      "key": "activetrail--cenik",
-      "url": "https://www.activetrail.com/pricing/",
-      "shot": "deep/2026-11-10/activetrail--cenik.jpg",
+      "key": "e-goi--sablony",
+      "url": "https://www.e-goi.com/features/free-editable-newsletter-template/",
+      "shot": "deep/2026-11-11/e-goi--sablony.jpg",
       "own": false,
-      "h1": "FAQ's Marketing Plans",
+      "h1": "Free Editable Newsletter Template for Email Marketing",
       "ok": true
     },
     {
-      "key": "activetrail--cenik-2",
-      "url": "https://www.activetrail.com/pricing/thank-you/",
-      "shot": "deep/2026-11-10/activetrail--cenik-2.jpg",
+      "key": "e-goi--sablony-2",
+      "url": "https://www.e-goi.com/br/funcionalidades/templates-newsletter/",
+      "shot": "deep/2026-11-11/e-goi--sablony-2.jpg",
       "own": false,
-      "h1": "Thank you very much! A member from our team will contact you soon.",
+      "h1": "Templates Newsletter Grátis",
       "ok": true
     },
     {
-      "key": "mailup--cenik",
-      "url": "https://mailup.com/pricing/",
-      "shot": "deep/2026-11-10/mailup--cenik.jpg",
+      "key": "mailtarget--sablony",
+      "url": "https://mailtarget.co/email-template",
+      "shot": "deep/2026-11-11/mailtarget--sablony.jpg",
       "own": false,
-      "h1": "403 Forbidden",
+      "h1": "Ready-To-Use Email Templates For Every Campaign",
       "ok": true
     },
     {
-      "key": "mailup--cenik-2",
-      "url": "https://mailup.com/pricing/sms/",
-      "shot": "deep/2026-11-10/mailup--cenik-2.jpg",
+      "key": "netcore--sablony",
+      "url": "https://netcore.ai/interactive-demo/amp-email-template-from-scratch/",
+      "shot": "deep/2026-11-11/netcore--sablony.jpg",
       "own": false,
-      "h1": "403 Forbidden",
+      "h1": "Creating an AMP Email Template from Scratch",
       "ok": true
     },
     {
-      "key": "acumbamail--cenik",
-      "url": "https://acumbamail.com/pricing/",
-      "shot": "deep/2026-11-10/acumbamail--cenik.jpg",
+      "key": "doppler--sablony",
+      "url": "https://www.fromdoppler.com/en/email-marketing-templates/",
+      "shot": "deep/2026-11-11/doppler--sablony.jpg",
       "own": false,
-      "h1": "Precios de email marketing",
+      "h1": "Create high impact Campaigns in a few minutes",
       "ok": true
     },
     {
-      "key": "expertsender--cenik",
-      "url": "https://expertsender.com/pl/cennik/",
-      "shot": "deep/2026-11-10/expertsender--cenik.jpg",
+      "key": "karte--sablony",
+      "url": "https://karte.io/feature/flex-editor/",
+      "shot": "deep/2026-11-11/karte--sablony.jpg",
       "own": false,
-      "h1": "Wybierz platformę Marketing Automation z ludźmi, którzy pomagają Ci \nsprzedawać częściej.",
+      "h1": "もっと柔軟に、もっと自由に、 アイデアを止めないエディタ",
       "ok": true
     },
     {
-      "key": "manago-ai--cenik",
-      "url": "https://manago.ai/pricing",
-      "shot": "deep/2026-11-10/manago-ai--cenik.jpg",
+      "key": "nas-ebooky--sablony",
+      "url": "https://ecomail.cz/slovnik-pojmu/sablona/",
+      "shot": "deep/2026-11-11/nas-ebooky--sablony.jpg",
       "own": false,
-      "h1": "Pricing",
+      "h1": "Co je Šablona",
       "ok": true
     },
     {
-      "key": "manago-ai--cenik-2",
-      "url": "https://manago.ai/request-pricing",
-      "shot": "deep/2026-11-10/manago-ai--cenik-2.jpg",
+      "key": "nas-ebooky--sablony-2",
+      "url": "https://ecomail.cz/changelog/filtr-nezarazenych-sablon-upozorneni-api/",
+      "shot": "deep/2026-11-11/nas-ebooky--sablony-2.jpg",
       "own": false,
-      "h1": "Built for your growth\nand around your needs",
+      "h1": "Nový filtr nezařazených šablon, oprava jednotlivých upozornění a API",
       "ok": true
     },
     {
-      "key": "edrone--cenik",
-      "url": "https://edrone.me/pricing/",
-      "shot": "deep/2026-11-10/edrone--cenik.jpg",
-      "own": false,
-      "h1": "Build a plan that fits your store",
-      "ok": true
-    },
-    {
-      "key": "resend--cenik",
-      "url": "https://resend.com/changelog/pay-as-you-go-pricing",
-      "shot": "deep/2026-11-10/resend--cenik.jpg",
-      "own": false,
-      "h1": "Pay-as-you-go Pricing",
-      "ok": true
-    },
-    {
-      "key": "termii--cenik",
-      "url": "https://termii.com/pricing",
-      "shot": "deep/2026-11-10/termii--cenik.jpg",
-      "own": false,
-      "h1": "Simple pricing, by product",
-      "ok": true
-    },
-    {
-      "key": "everlytic--cenik",
-      "url": "https://www.everlytic.com/pricing/",
-      "shot": "deep/2026-11-10/everlytic--cenik.jpg",
-      "own": false,
-      "h1": "Everlytic’s Email Marketing Platform Packages",
-      "ok": true
-    },
-    {
-      "key": "everlytic--cenik-2",
-      "url": "https://www.everlytic.com/understanding-meta-whatsapp-pricing/",
-      "shot": "deep/2026-11-10/everlytic--cenik-2.jpg",
-      "own": false,
-      "h1": "What Meta’s New WhatsApp Support Charge Means in Practice",
-      "ok": true
-    },
-    {
-      "key": "unifonic-ar--cenik",
-      "url": "https://www.unifonic.com/en/pricing",
-      "shot": "deep/2026-11-10/unifonic-ar--cenik.jpg",
-      "own": false,
-      "h1": "",
-      "ok": true
-    },
-    {
-      "key": "unifonic-ar--cenik-2",
-      "url": "https://www.unifonic.com/ar/pricing",
-      "shot": "deep/2026-11-10/unifonic-ar--cenik-2.jpg",
-      "own": false,
-      "h1": "",
-      "ok": true
-    },
-    {
-      "key": "nase--cenik",
-      "url": "https://ecomail.cz/cenik/",
-      "shot": "deep/2026-11-10/nase--cenik.jpg",
+      "key": "nase--sablony",
+      "url": "https://ecomail.cz/funkce/",
+      "shot": "deep/2026-11-11/nase--sablony.jpg",
       "own": true,
-      "h1": "Ceník",
+      "h1": "Chytré funkce\npro ještě lepší výsledky",
       "ok": true
     }
   ],
@@ -165,154 +101,168 @@
       "key": "nas-web",
       "url": "https://ecomail.cz/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/nas-web.jpg",
+      "shot": "changed/2026-11-11/nas-web.jpg",
       "h1": "E-mailing, který zvládne každý"
     },
     {
       "key": "nas-agent",
       "url": "https://ecomail.cz/funkce/ai/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/nas-agent.jpg",
+      "shot": "changed/2026-11-11/nas-agent.jpg",
       "h1": "Ahoj, já jsem EMA\n\nDo čeho se pustíme?"
     },
     {
       "key": "smartemailing",
       "url": "https://www.smartemailing.cz/",
       "why": "obraz 36.0 % + struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/smartemailing.jpg",
+      "shot": "changed/2026-11-11/smartemailing.jpg",
       "h1": "E-mail marketing, který skutečně vydělává"
     },
     {
       "key": "leadhub",
       "url": "https://www.leadhub.co/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/leadhub.jpg",
+      "shot": "changed/2026-11-11/leadhub.jpg",
       "h1": "Měníme data na efektivní marketing"
     },
     {
       "key": "intelimail",
       "url": "https://www.intelimail.sk/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/intelimail.jpg",
-      "h1": "Inteligentné riešenia podávajú výk|"
+      "shot": "changed/2026-11-11/intelimail.jpg",
+      "h1": "Inteligentné riešenia podávajú výkon|"
     },
     {
       "key": "mailchimp",
       "url": "https://mailchimp.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/mailchimp.jpg",
+      "shot": "changed/2026-11-11/mailchimp.jpg",
       "h1": "Turn ideas into\nemails & SMS that connect"
     },
     {
       "key": "klaviyo",
       "url": "https://www.klaviyo.com/",
-      "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/klaviyo.jpg",
+      "why": "obraz 19.1 % + struktura (H1/CTA/og:image/CSS)",
+      "shot": "changed/2026-11-11/klaviyo.jpg",
       "h1": "Your AI marketing agent, always a step ahead"
+    },
+    {
+      "key": "mailerlite",
+      "url": "https://www.mailerlite.com/",
+      "why": "struktura (H1/CTA/og:image/CSS)",
+      "shot": "changed/2026-11-11/mailerlite.jpg",
+      "h1": "Create\nemail marketing\nautomations\nlanding pages\nsignup forms\nwebsites\nyour audience will love"
     },
     {
       "key": "activecampaign",
       "url": "https://www.activecampaign.com/",
-      "why": "obraz 9.8 %",
-      "shot": "changed/2026-11-10/activecampaign.jpg",
-      "h1": "Run the marketing you never had time for"
-    },
-    {
-      "key": "aweber",
-      "url": "https://www.aweber.com/",
-      "why": "obraz 11.6 % + struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/aweber.jpg",
-      "h1": "If you can imagine it,\nyou can build it with AWeber"
-    },
-    {
-      "key": "sender",
-      "url": "https://www.sender.net/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/sender.jpg",
-      "h1": "Email marketing without the hassle"
+      "shot": "changed/2026-11-11/activecampaign.jpg",
+      "h1": "Run the marketing you never had time for"
     },
     {
       "key": "elasticemail",
       "url": "https://elasticemail.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/elasticemail.jpg",
+      "shot": "changed/2026-11-11/elasticemail.jpg",
       "h1": "Modern email communication platform for growing businesses"
     },
     {
       "key": "sendpulse",
       "url": "https://sendpulse.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/sendpulse.jpg",
+      "shot": "changed/2026-11-11/sendpulse.jpg",
       "h1": "AI-driven email and chatbot marketing platform"
     },
     {
       "key": "beehiiv",
       "url": "https://www.beehiiv.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/beehiiv.jpg",
+      "shot": "changed/2026-11-11/beehiiv.jpg",
       "h1": "NEWSLETTERS.\nPODCASTS.\nCOMMUNITY.\nONE PLATFORM."
     },
     {
-      "key": "customerio",
-      "url": "https://customer.io/",
-      "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/customerio.jpg",
-      "h1": "More impact\nfrom every \ni\nn\n-\na\np\np"
+      "key": "flodesk",
+      "url": "https://flodesk.com/",
+      "why": "obraz 11.6 % + struktura (H1/CTA/og:image/CSS)",
+      "shot": "changed/2026-11-11/flodesk.jpg",
+      "h1": "Email marketing that’s\ndifferent by design"
     },
     {
-      "key": "dotdigital",
-      "url": "https://dotdigital.com/",
+      "key": "activetrail",
+      "url": "https://www.activetrail.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/dotdigital.jpg",
-      "h1": "Automation that frees you to be human"
+      "shot": "changed/2026-11-11/activetrail.jpg",
+      "h1": "Everyone's talking about data,"
     },
     {
       "key": "expertsender",
       "url": "https://expertsender.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/expertsender.jpg",
+      "shot": "changed/2026-11-11/expertsender.jpg",
       "h1": "Boost your e-commerce sales with \npersonalization"
+    },
+    {
+      "key": "edrone",
+      "url": "https://edrone.me/",
+      "why": "struktura (H1/CTA/og:image/CSS)",
+      "shot": "changed/2026-11-11/edrone.jpg",
+      "h1": "Give customers a reason to buy more and come back"
     },
     {
       "key": "resend",
       "url": "https://resend.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/resend.jpg",
+      "shot": "changed/2026-11-11/resend.jpg",
       "h1": "Email for\ndevelopers"
     },
     {
-      "key": "unifonic-ar",
-      "url": "https://www.unifonic.com/ar",
+      "key": "termii",
+      "url": "https://termii.com/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/unifonic-ar.jpg",
-      "h1": "المنصة المبنية على الذكاء الاصطناعي لتجارب عملاء متكاملة من البداية للنهاية"
+      "shot": "changed/2026-11-11/termii.jpg",
+      "h1": "Every \nNotification\nGuaranteed ."
+    },
+    {
+      "key": "rdstation",
+      "url": "https://www.rdstation.com/",
+      "why": "struktura (H1/CTA/og:image/CSS)",
+      "shot": "changed/2026-11-11/rdstation.jpg",
+      "h1": "Conheça os produtos da RD Station"
+    },
+    {
+      "key": "e-goi",
+      "url": "https://www.e-goi.com/",
+      "why": "obraz 78.0 % + struktura (H1/CTA/og:image/CSS)",
+      "shot": "changed/2026-11-11/e-goi.jpg",
+      "h1": "Turn every customer signal into a sale. Online and in-store."
     },
     {
       "key": "karte",
       "url": "https://karte.io/",
-      "why": "obraz 9.2 %",
-      "shot": "changed/2026-11-10/karte.jpg",
+      "why": "obraz 9.6 %",
+      "shot": "changed/2026-11-11/karte.jpg",
       "h1": "データとAIで、\n事業成長を加速させる"
     },
     {
       "key": "nas-ebooky",
       "url": "https://ecomail.cz/ebooky/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/nas-ebooky.jpg",
+      "shot": "changed/2026-11-11/nas-ebooky.jpg",
       "h1": "Vzdělávejte se v e‑mailingu\ns našimi e‑booky"
     },
     {
       "key": "nas-adresar-partneru",
       "url": "https://ecomail.cz/certifikace-partneri/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/nas-adresar-partneru.jpg",
+      "shot": "changed/2026-11-11/nas-adresar-partneru.jpg",
       "h1": "Certifikovaní partneři"
     },
     {
       "key": "smartemailing-brozura",
       "url": "https://www.smartemailing.cz/brozura/",
       "why": "struktura (H1/CTA/og:image/CSS)",
-      "shot": "changed/2026-11-10/smartemailing-brozura.jpg",
+      "shot": "changed/2026-11-11/smartemailing-brozura.jpg",
       "h1": "Automatizační desatero"
     }
   ],
@@ -321,11 +271,6 @@
       "key": "targito",
       "url": "https://www.targito.com/",
       "why": "rozbite obrazky (40/71), nenacetl se stylesheet"
-    },
-    {
-      "key": "e-goi",
-      "url": "https://www.e-goi.com/",
-      "why": "nizka stranka (0px)"
     }
   ],
   "failed": [],
@@ -344,17 +289,17 @@
         "failedResources": 0
       },
       "title": "E-mailing pro každého s AI agentem EMA | Ecomail.cz",
-      "struct": "f58f9d41702525ea89f8e7b664ef82dfc9455ae1",
+      "struct": "a1f0fc98a0921f7d4e11bd4deed1a8649d1516ca",
       "h1": "E-mailing, který zvládne každý",
       "suspicious": false,
       "path": "latest/nas-web.jpg",
       "fullPath": "full/nas-web.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0001838235294117647,
+      "pixelDiff": 0.00022671568627450982,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/nas-web.jpg"
+      "changedPath": "changed/2026-11-11/nas-web.jpg"
     },
     {
       "key": "nas-agent",
@@ -370,17 +315,17 @@
         "failedResources": 0
       },
       "title": "EMA: První AI agent pro váš e-mailing | Ecomail.cz",
-      "struct": "586374e69a7c44af4d5851e604e279e6410454a5",
+      "struct": "9ad6e835b469a2871c1602188dc83039dee1a138",
       "h1": "Ahoj, já jsem EMA\n\nDo čeho se pustíme?",
       "suspicious": false,
       "path": "latest/nas-agent.jpg",
       "fullPath": "full/nas-agent.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00030637254901960784,
+      "pixelDiff": 0.00045955882352941176,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/nas-agent.jpg"
+      "changedPath": "changed/2026-11-11/nas-agent.jpg"
     },
     {
       "key": "smartemailing",
@@ -389,14 +334,14 @@
       "status": 200,
       "finalUrl": "https://www.smartemailing.cz/",
       "health": {
-        "ruleCount": 11361,
+        "ruleCount": 8356,
         "imgBroken": 1,
         "imgTotal": 59,
         "bodyHeight": 8756,
         "failedResources": 0
       },
       "title": "E-mail marketing pro firmy | SmartEmailing",
-      "struct": "e37fc38931ea04ac1db0d808ed1d4b5395e7b706",
+      "struct": "12af4ba1c3da2d957fe19dc3435f98dd839d5deb",
       "h1": "E-mail marketing, který skutečně vydělává",
       "suspicious": false,
       "path": "latest/smartemailing.jpg",
@@ -406,7 +351,7 @@
       "structChanged": true,
       "changed": true,
       "changeReason": "obraz 36.0 % + struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/smartemailing.jpg"
+      "changedPath": "changed/2026-11-11/smartemailing.jpg"
     },
     {
       "key": "boldem",
@@ -447,16 +392,16 @@
         "failedResources": 0
       },
       "title": "CDP pro e-shopy: e-mail, SMS a automatizace | Leadhub",
-      "struct": "6f476a0cf32b79d194d8912cdc06b7a800062bbc",
+      "struct": "53f6cf78e2bfa5e26fb28153e104f70fe5d31634",
       "h1": "Měníme data na efektivní marketing",
       "suspicious": false,
       "path": "latest/leadhub.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0023223039215686274,
+      "pixelDiff": 0.0034558823529411762,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/leadhub.jpg"
+      "changedPath": "changed/2026-11-11/leadhub.jpg"
     },
     {
       "key": "targito",
@@ -465,11 +410,11 @@
       "status": 200,
       "finalUrl": "https://www.targito.com/",
       "health": {
-        "ruleCount": 5729,
+        "ruleCount": 5783,
         "imgBroken": 40,
         "imgTotal": 71,
-        "bodyHeight": 30970,
-        "failedResources": 136
+        "bodyHeight": 30962,
+        "failedResources": 138
       },
       "title": "🎯 Targito - CDP pro Omnichannel komunikaci s AI",
       "struct": "9c8c6b7ffa4510af4589bc8c5cc2a4795d10ed48",
@@ -478,7 +423,7 @@
       "suspiciousWhy": "rozbite obrazky (40/71), nenacetl se stylesheet",
       "path": "latest/targito.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0018504901960784313,
+      "pixelDiff": 0.0026654411764705883,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -593,8 +538,8 @@
         "failedResources": 0
       },
       "title": "InteliMail - Inteligentné riešenia vybudované pre e-shopy",
-      "struct": "c15759b682ded5c11c0e5e3c1bb37ce2a49cb81c",
-      "h1": "Inteligentné riešenia podávajú výk|",
+      "struct": "776395b4cd0b33a61ecf31ab5c011dff53157abb",
+      "h1": "Inteligentné riešenia podávajú výkon|",
       "suspicious": false,
       "path": "latest/intelimail.jpg",
       "attempts": 1,
@@ -602,7 +547,7 @@
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/intelimail.jpg"
+      "changedPath": "changed/2026-11-11/intelimail.jpg"
     },
     {
       "key": "quanda",
@@ -623,7 +568,7 @@
       "suspicious": false,
       "path": "latest/quanda.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0016605392156862746,
+      "pixelDiff": 0.0049693627450980386,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -683,7 +628,7 @@
       "status": 200,
       "finalUrl": "https://www.samba.ai/",
       "health": {
-        "ruleCount": 5974,
+        "ruleCount": 5989,
         "imgBroken": 0,
         "imgTotal": 80,
         "bodyHeight": 6413,
@@ -707,23 +652,23 @@
       "status": 200,
       "finalUrl": "https://mailchimp.com/",
       "health": {
-        "ruleCount": 5599,
-        "imgBroken": 3,
+        "ruleCount": 5626,
+        "imgBroken": 2,
         "imgTotal": 159,
-        "bodyHeight": 5884,
+        "bodyHeight": 5948,
         "failedResources": 1
       },
       "title": "Email & SMS Marketing Platform | Mailchimp",
-      "struct": "326c076eb0eb2e05dd56cff3be85a1632902e2fb",
+      "struct": "f64c16cb0d2b25973f694b4ffc35d1ae29e73e25",
       "h1": "Turn ideas into\nemails & SMS that connect",
       "suspicious": false,
       "path": "latest/mailchimp.jpg",
       "attempts": 1,
-      "pixelDiff": 0.000030637254901960784,
+      "pixelDiff": 0.006580882352941177,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/mailchimp.jpg"
+      "changedPath": "changed/2026-11-11/mailchimp.jpg"
     },
     {
       "key": "klaviyo",
@@ -732,23 +677,23 @@
       "status": 200,
       "finalUrl": "https://www.klaviyo.com/",
       "health": {
-        "ruleCount": 7034,
+        "ruleCount": 7056,
         "imgBroken": 2,
         "imgTotal": 198,
         "bodyHeight": 8801,
         "failedResources": 1
       },
       "title": "Klaviyo: AI Email Marketing & SMS | B2C CRM",
-      "struct": "061d35436cb3522d2c46840b1d14b4aa4f3acaa5",
+      "struct": "59007c0c9db5ae588c28e7a55ef2ce6aeae6d718",
       "h1": "Your AI marketing agent, always a step ahead",
       "suspicious": false,
       "path": "latest/klaviyo.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00045343137254901964,
+      "pixelDiff": 0.19110906862745097,
       "structChanged": true,
       "changed": true,
-      "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/klaviyo.jpg"
+      "changeReason": "obraz 19.1 % + struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/klaviyo.jpg"
     },
     {
       "key": "brevo",
@@ -769,7 +714,7 @@
       "suspicious": false,
       "path": "latest/brevo.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0034681372549019607,
+      "pixelDiff": 0.0032659313725490195,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -781,22 +726,23 @@
       "status": 200,
       "finalUrl": "https://www.mailerlite.com/",
       "health": {
-        "ruleCount": 1894,
+        "ruleCount": 1896,
         "imgBroken": 16,
         "imgTotal": 77,
         "bodyHeight": 5976,
         "failedResources": 4
       },
       "title": "Create Email Marketing Your Audience Will Love - MailerLite",
-      "struct": "dd20861e18877791ca1e3ed1c237f799a3bcbde2",
+      "struct": "d7a58f8c9b7f2285d8abb141e62e356b986e1f6f",
       "h1": "Create\nemail marketing\nautomations\nlanding pages\nsignup forms\nwebsites\nyour audience will love",
       "suspicious": false,
       "path": "latest/mailerlite.jpg",
       "attempts": 1,
       "pixelDiff": 0,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/mailerlite.jpg"
     },
     {
       "key": "omnisend",
@@ -805,7 +751,7 @@
       "status": 200,
       "finalUrl": "https://www.omnisend.com/",
       "health": {
-        "ruleCount": 4905,
+        "ruleCount": 4907,
         "imgBroken": 1,
         "imgTotal": 163,
         "bodyHeight": 11177,
@@ -829,23 +775,23 @@
       "status": 200,
       "finalUrl": "https://www.activecampaign.com/",
       "health": {
-        "ruleCount": 3332,
+        "ruleCount": 3338,
         "imgBroken": 0,
         "imgTotal": 47,
         "bodyHeight": 10295,
         "failedResources": 4
       },
       "title": "Marketing automation for any business | ActiveCampaign",
-      "struct": "780c57b78159ad53151af02d468f78f7e3613be2",
+      "struct": "5f40cfe11b1d856f1509ea6dce706f050a3b1b48",
       "h1": "Run the marketing you never had time for",
       "suspicious": false,
       "path": "latest/activecampaign.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0977328431372549,
-      "structChanged": false,
+      "pixelDiff": 0,
+      "structChanged": true,
       "changed": true,
-      "changeReason": "obraz 9.8 %",
-      "changedPath": "changed/2026-11-10/activecampaign.jpg"
+      "changeReason": "struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/activecampaign.jpg"
     },
     {
       "key": "getresponse",
@@ -854,7 +800,7 @@
       "status": 200,
       "finalUrl": "https://www.getresponse.com/",
       "health": {
-        "ruleCount": 2040,
+        "ruleCount": 2011,
         "imgBroken": 1,
         "imgTotal": 35,
         "bodyHeight": 6868,
@@ -900,7 +846,7 @@
       "url": "https://www.constantcontact.com/",
       "ok": true,
       "status": 403,
-      "finalUrl": "https://www.constantcontact.com/?__cf_chl_rt_tk=eG8F1Dv.2hAaC46J_WyztV9GcoHQC9DyYl_ZBfsJrNU-1794285448-1.0.1.1-c71BknBRZhZ6JbeRPZwAUfUMQ5MbUjf5s1ZClJ0sNuE",
+      "finalUrl": "https://www.constantcontact.com/?__cf_chl_rt_tk=4hp13G36fBkJBBWxoLUyKa.2RWLNeelKR95uwmCKi2k-1794371846-1.0.1.1-XurmhNfpHMoqIlcNfqO9gY0ShBtJ_9WzQl.Hbzk1Gpc",
       "health": {
         "ruleCount": 235,
         "imgBroken": 0,
@@ -914,7 +860,7 @@
       "suspicious": false,
       "path": "latest/constantcontact.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00014093137254901958,
+      "pixelDiff": 0.00001838235294117647,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -930,7 +876,7 @@
         "imgBroken": 0,
         "imgTotal": 43,
         "bodyHeight": 12336,
-        "failedResources": 29
+        "failedResources": 1
       },
       "title": "Email Marketing for Small Businesses, Free or From $15 | AWeber",
       "struct": "4a4b04982b6ec547c2240ed5712230c8125a88b2",
@@ -938,11 +884,10 @@
       "suspicious": false,
       "path": "latest/aweber.jpg",
       "attempts": 1,
-      "pixelDiff": 0.11564950980392158,
-      "structChanged": true,
-      "changed": true,
-      "changeReason": "obraz 11.6 % + struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/aweber.jpg"
+      "pixelDiff": 0,
+      "structChanged": false,
+      "changed": false,
+      "changeReason": null
     },
     {
       "key": "moosend",
@@ -987,11 +932,10 @@
       "suspicious": false,
       "path": "latest/sender.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0015870098039215685,
-      "structChanged": true,
-      "changed": true,
-      "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/sender.jpg"
+      "pixelDiff": 0.00017156862745098037,
+      "structChanged": false,
+      "changed": false,
+      "changeReason": null
     },
     {
       "key": "benchmarkemail",
@@ -1036,7 +980,7 @@
       "suspicious": false,
       "path": "latest/emailoctopus.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0010784313725490198,
+      "pixelDiff": 0.0006556372549019607,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1060,7 +1004,7 @@
       "suspicious": false,
       "path": "latest/mailjet.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0013174019607843138,
+      "pixelDiff": 0.001917892156862745,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1084,7 +1028,7 @@
       "suspicious": false,
       "path": "latest/mailercloud.jpg",
       "attempts": 1,
-      "pixelDiff": 0,
+      "pixelDiff": 0.000428921568627451,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1096,23 +1040,23 @@
       "status": 200,
       "finalUrl": "https://elasticemail.com/",
       "health": {
-        "ruleCount": 3054,
+        "ruleCount": 3133,
         "imgBroken": 0,
         "imgTotal": 65,
         "bodyHeight": 7682,
         "failedResources": 0
       },
       "title": "Email Communication, Marketing & API | Elastic Email",
-      "struct": "c9cdcf2e0071a2c0741ab19c316348ff84f86949",
+      "struct": "60fdbe3c80770e937d68dfe2cbbd2b8ace12ed31",
       "h1": "Modern email communication platform for growing businesses",
       "suspicious": false,
       "path": "latest/elasticemail.jpg",
       "attempts": 1,
-      "pixelDiff": 0.030361519607843137,
+      "pixelDiff": 0,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/elasticemail.jpg"
+      "changedPath": "changed/2026-11-11/elasticemail.jpg"
     },
     {
       "key": "sendpulse",
@@ -1121,23 +1065,23 @@
       "status": 200,
       "finalUrl": "https://sendpulse.com/",
       "health": {
-        "ruleCount": 10347,
+        "ruleCount": 10368,
         "imgBroken": 1,
-        "imgTotal": 169,
+        "imgTotal": 168,
         "bodyHeight": 10860,
         "failedResources": 1
       },
       "title": "AI-driven email and chatbot marketing platform | SendPulse",
-      "struct": "2d0107ddd8c0414fff4a8551cf8c68167cc86b52",
+      "struct": "b9304bf739ebf899a44f592aeb22da6b93187aca",
       "h1": "AI-driven email and chatbot marketing platform",
       "suspicious": false,
       "path": "latest/sendpulse.jpg",
       "attempts": 1,
-      "pixelDiff": 0,
+      "pixelDiff": 0.0017095588235294117,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/sendpulse.jpg"
+      "changedPath": "changed/2026-11-11/sendpulse.jpg"
     },
     {
       "key": "sendx",
@@ -1182,7 +1126,7 @@
       "suspicious": false,
       "path": "latest/mailmodo.jpg",
       "attempts": 1,
-      "pixelDiff": 0.05327205882352941,
+      "pixelDiff": 0.006495098039215687,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1192,7 +1136,7 @@
       "url": "https://www.drip.com/",
       "ok": true,
       "status": 403,
-      "finalUrl": "https://www.drip.com/?__cf_chl_rt_tk=gC37kWNBGgydPOoXg8cGPo0TjYOd53N9vnNCwDzSVo4-1794285477-1.0.1.1-icwQRFx0QyA5p2n3XGsMXXrSjhu9ZF7Du7rFfkUQ9z4",
+      "finalUrl": "https://www.drip.com/?__cf_chl_rt_tk=XoRpAcOhPGKOerherFSfjdK6bUHgDF_a4QTYwxvvwMI-1794371872-1.0.1.1-osgCMnCEyBaRlYX2rc_bHYwRPZNB.8iJnZi5wSTUTUk",
       "health": {
         "ruleCount": 235,
         "imgBroken": 1,
@@ -1206,7 +1150,7 @@
       "suspicious": false,
       "path": "latest/drip.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00002450980392156863,
+      "pixelDiff": 0.0000061274509803921575,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1216,7 +1160,7 @@
       "url": "https://kit.com/",
       "ok": true,
       "status": 403,
-      "finalUrl": "https://kit.com/?__cf_chl_rt_tk=wAyVn3Z9Z4h_xmF9OhV_8_gUsQPFzaHAJXJBPP1iJbQ-1794285480-1.0.1.1-Twf0Llj81.hPdY8OFDy.IwlfkXK6F7u5fJ8V99jrsBo",
+      "finalUrl": "https://kit.com/?__cf_chl_rt_tk=ia_kX2mRr7EgAjgNBjj7bQnNHdjTeJd3sy2w_Yu91w8-1794371878-1.0.1.1-__hG6lfYTz_o2OeiW_VOQ4SDkNBtmZJ6aUN96plWfzA",
       "health": {
         "ruleCount": 47,
         "imgBroken": 0,
@@ -1230,7 +1174,7 @@
       "suspicious": false,
       "path": "latest/kit.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00031249999999999995,
+      "pixelDiff": 0,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1242,14 +1186,14 @@
       "status": 200,
       "finalUrl": "https://www.beehiiv.com/",
       "health": {
-        "ruleCount": 4557,
+        "ruleCount": 4615,
         "imgBroken": 0,
         "imgTotal": 72,
         "bodyHeight": 9443,
         "failedResources": 1
       },
       "title": "Newsletter Platform: Create Newsletters and Websites - beehiiv",
-      "struct": "0362fb5d9d213e1227d051dd4853498fc64e272b",
+      "struct": "7897b20069c7d1882b9991f6b2f0a5769aaf112a",
       "h1": "NEWSLETTERS.\nPODCASTS.\nCOMMUNITY.\nONE PLATFORM.",
       "suspicious": false,
       "path": "latest/beehiiv.jpg",
@@ -1258,7 +1202,7 @@
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/beehiiv.jpg"
+      "changedPath": "changed/2026-11-11/beehiiv.jpg"
     },
     {
       "key": "flodesk",
@@ -1267,22 +1211,23 @@
       "status": 200,
       "finalUrl": "https://flodesk.com/",
       "health": {
-        "ruleCount": 657,
+        "ruleCount": 675,
         "imgBroken": 1,
         "imgTotal": 90,
-        "bodyHeight": 14559,
+        "bodyHeight": 14608,
         "failedResources": 0
       },
       "title": "Email marketing that’s different by design",
-      "struct": "6d9babe7b1f60e260bbbfe622ed582d778908a65",
+      "struct": "06b57699184211b152d51832a53429309d8d1656",
       "h1": "Email marketing that’s\ndifferent by design",
       "suspicious": false,
       "path": "latest/flodesk.jpg",
       "attempts": 1,
-      "pixelDiff": 0.05385416666666667,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "pixelDiff": 0.11626838235294118,
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "obraz 11.6 % + struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/flodesk.jpg"
     },
     {
       "key": "loops",
@@ -1291,7 +1236,7 @@
       "status": 200,
       "finalUrl": "https://loops.so/",
       "health": {
-        "ruleCount": 1786,
+        "ruleCount": 1795,
         "imgBroken": 0,
         "imgTotal": 3,
         "bodyHeight": 7368,
@@ -1303,7 +1248,7 @@
       "suspicious": false,
       "path": "latest/loops.jpg",
       "attempts": 1,
-      "pixelDiff": 0.01011029411764706,
+      "pixelDiff": 0.000012254901960784315,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1327,18 +1272,17 @@
       "suspicious": false,
       "path": "latest/customerio.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00003676470588235294,
-      "structChanged": true,
-      "changed": true,
-      "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/customerio.jpg"
+      "pixelDiff": 0,
+      "structChanged": false,
+      "changed": false,
+      "changeReason": null
     },
     {
       "key": "encharge",
       "url": "https://encharge.io/",
       "ok": true,
       "status": 403,
-      "finalUrl": "https://encharge.io/?__cf_chl_rt_tk=9WiHYXJwIhj47W4q7Hpnlg2yQwK9.MG0ho0x9.C3Sj8-1794285490-1.0.1.1-ZV9Ba.ON6acQ76xI8kun8NgowbiYkmlX5CMEjrRbics",
+      "finalUrl": "https://encharge.io/?__cf_chl_rt_tk=Tn.o.8niCXlJjGN4hz8CN5xDhc0E5SElHt_vt6qENLc-1794371888-1.0.1.1-i_irR2xp06gmLXPphlAqbqvBm6wvvBR3MdaiL4owm6I",
       "health": {
         "ruleCount": 235,
         "imgBroken": 0,
@@ -1352,7 +1296,7 @@
       "suspicious": false,
       "path": "latest/encharge.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00004289215686274509,
+      "pixelDiff": 0.000030637254901960784,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1376,7 +1320,7 @@
       "suspicious": false,
       "path": "latest/ortto.jpg",
       "attempts": 1,
-      "pixelDiff": 0.000030637254901960784,
+      "pixelDiff": 0.00009803921568627452,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1400,7 +1344,7 @@
       "suspicious": false,
       "path": "latest/sendlane.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0006066176470588236,
+      "pixelDiff": 0.0007904411764705883,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1412,7 +1356,7 @@
       "status": 200,
       "finalUrl": "https://www.privy.com/",
       "health": {
-        "ruleCount": 824,
+        "ruleCount": 871,
         "imgBroken": 0,
         "imgTotal": 28,
         "bodyHeight": 7478,
@@ -1462,9 +1406,9 @@
       "health": {
         "ruleCount": 3765,
         "imgBroken": 0,
-        "imgTotal": 80,
-        "bodyHeight": 11272,
-        "failedResources": 5
+        "imgTotal": 87,
+        "bodyHeight": 11310,
+        "failedResources": 10
       },
       "title": "Dotdigital: Cross-channel marketing automation platform",
       "struct": "06bd5586bfdbcae60345a746b782de00aa6dc2a6",
@@ -1473,10 +1417,9 @@
       "path": "latest/dotdigital.jpg",
       "attempts": 1,
       "pixelDiff": 0,
-      "structChanged": true,
-      "changed": true,
-      "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/dotdigital.jpg"
+      "structChanged": false,
+      "changed": false,
+      "changeReason": null
     },
     {
       "key": "cleverreach",
@@ -1533,22 +1476,23 @@
       "status": 200,
       "finalUrl": "https://www.activetrail.com/",
       "health": {
-        "ruleCount": 7387,
+        "ruleCount": 7359,
         "imgBroken": 0,
         "imgTotal": 63,
         "bodyHeight": 6732,
-        "failedResources": 2
+        "failedResources": 0
       },
       "title": "Email Marketing Software | Email, SMS, Whatsapp - ActiveTrail",
-      "struct": "518c30d069f9e5d75e1427956d2d7adb75f85c37",
+      "struct": "a4e87440e6a2e961f950e68600765b5af0531147",
       "h1": "Everyone's talking about data,",
       "suspicious": false,
       "path": "latest/activetrail.jpg",
       "attempts": 1,
-      "pixelDiff": 0.03420955882352941,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "pixelDiff": 0.006740196078431373,
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/activetrail.jpg"
     },
     {
       "key": "mailup",
@@ -1582,9 +1526,9 @@
       "finalUrl": "https://acumbamail.com/en/",
       "health": {
         "ruleCount": 1813,
-        "imgBroken": 63,
+        "imgBroken": 61,
         "imgTotal": 130,
-        "bodyHeight": 6834,
+        "bodyHeight": 6829,
         "failedResources": 1
       },
       "title": "Acumbamail | Email Marketing & SMS Campaigns",
@@ -1593,7 +1537,7 @@
       "suspicious": false,
       "path": "latest/acumbamail.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0033394607843137253,
+      "pixelDiff": 0.0036090686274509805,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1605,14 +1549,14 @@
       "status": 200,
       "finalUrl": "https://expertsender.com/",
       "health": {
-        "ruleCount": 4441,
+        "ruleCount": 4310,
         "imgBroken": 0,
-        "imgTotal": 2125,
+        "imgTotal": 2127,
         "bodyHeight": 7582,
         "failedResources": 0
       },
       "title": "Marketing Automation for e-commerce | ExpertSender",
-      "struct": "03509ef9e561113e2ec5a70550557fc2c61f1a73",
+      "struct": "d928062ab5653a6160b768ec9ffbcc0bc9d1959c",
       "h1": "Boost your e-commerce sales with \npersonalization",
       "suspicious": false,
       "path": "latest/expertsender.jpg",
@@ -1621,7 +1565,7 @@
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/expertsender.jpg"
+      "changedPath": "changed/2026-11-11/expertsender.jpg"
     },
     {
       "key": "manago-ai",
@@ -1630,7 +1574,7 @@
       "status": 200,
       "finalUrl": "https://manago.ai/",
       "health": {
-        "ruleCount": 4526,
+        "ruleCount": 4540,
         "imgBroken": 2,
         "imgTotal": 187,
         "bodyHeight": 10338,
@@ -1642,7 +1586,7 @@
       "suspicious": false,
       "path": "latest/manago-ai.jpg",
       "attempts": 1,
-      "pixelDiff": 0,
+      "pixelDiff": 0.0012254901960784314,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1654,22 +1598,23 @@
       "status": 200,
       "finalUrl": "https://edrone.me/",
       "health": {
-        "ruleCount": 2477,
-        "imgBroken": 0,
-        "imgTotal": 50,
+        "ruleCount": 1107,
+        "imgBroken": 2,
+        "imgTotal": 55,
         "bodyHeight": 10441,
-        "failedResources": 0
+        "failedResources": 2
       },
       "title": "Ecommerce CRM and marketing automation | edrone",
-      "struct": "3306c9f7585af41d0b7a3a36717389f1b48f4ca2",
+      "struct": "4d812d0a5889e0fbeba22c9d91c032ed9cfdb802",
       "h1": "Give customers a reason to buy more and come back",
       "suspicious": false,
       "path": "latest/edrone.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00030637254901960784,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "pixelDiff": 0.0018504901960784313,
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/edrone.jpg"
     },
     {
       "key": "resend",
@@ -1678,23 +1623,23 @@
       "status": 200,
       "finalUrl": "https://resend.com/",
       "health": {
-        "ruleCount": 664,
+        "ruleCount": 666,
         "imgBroken": 0,
         "imgTotal": 73,
         "bodyHeight": 12360,
         "failedResources": 0
       },
       "title": "Resend · Email for developers",
-      "struct": "d42ae32abb473a8219b67ffe546faf2596b1ccd7",
+      "struct": "7a557bac9a8c0b48e857936bcd4f87bae6982e5c",
       "h1": "Email for\ndevelopers",
       "suspicious": false,
       "path": "latest/resend.jpg",
       "attempts": 1,
-      "pixelDiff": 0.006458333333333333,
+      "pixelDiff": 0.0004105392156862745,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/resend.jpg"
+      "changedPath": "changed/2026-11-11/resend.jpg"
     },
     {
       "key": "sessy",
@@ -1715,7 +1660,7 @@
       "suspicious": false,
       "path": "latest/sessy.jpg",
       "attempts": 1,
-      "pixelDiff": 0.000012254901960784315,
+      "pixelDiff": 0,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1727,22 +1672,23 @@
       "status": 200,
       "finalUrl": "https://termii.com/",
       "health": {
-        "ruleCount": 456,
+        "ruleCount": 477,
         "imgBroken": 0,
         "imgTotal": 79,
         "bodyHeight": 13864,
         "failedResources": 0
       },
       "title": "Transactions guaranteed | Termii",
-      "struct": "d2f4aa11719868ea25adc393bf8fc81839202cfc",
+      "struct": "4bf07083bf66a1be92c7ff7bb3c8b455b801546c",
       "h1": "Every \nNotification\nGuaranteed .",
       "suspicious": false,
       "path": "latest/termii.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00020833333333333332,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "pixelDiff": 0.0013174019607843138,
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/termii.jpg"
     },
     {
       "key": "everlytic",
@@ -1787,11 +1733,10 @@
       "suspicious": false,
       "path": "latest/unifonic-ar.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00004289215686274509,
-      "structChanged": true,
-      "changed": true,
-      "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/unifonic-ar.jpg"
+      "pixelDiff": 0.00011029411764705883,
+      "structChanged": false,
+      "changed": false,
+      "changeReason": null
     },
     {
       "key": "rdstation",
@@ -1807,15 +1752,16 @@
         "failedResources": 0
       },
       "title": "RD Station: Soluções para alavancar marketing e vendas nº 1 🇧🇷",
-      "struct": "ea48b19b3a8f0693b17c175bb601798db6a013a8",
+      "struct": "8498ac86d4f24110811f2614a5bf83097dd70063",
       "h1": "Conheça os produtos da RD Station",
       "suspicious": false,
       "path": "latest/rdstation.jpg",
       "attempts": 1,
       "pixelDiff": 0,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/rdstation.jpg"
     },
     {
       "key": "e-goi",
@@ -1824,23 +1770,23 @@
       "status": 200,
       "finalUrl": "https://www.e-goi.com/home/",
       "health": {
-        "ruleCount": 3,
+        "ruleCount": 2202,
         "imgBroken": 0,
-        "imgTotal": 0,
-        "bodyHeight": 0,
+        "imgTotal": 33,
+        "bodyHeight": 13715,
         "failedResources": 0
       },
-      "title": "",
-      "struct": "a93755f8273b0e8dc4b0ecc158e5853119a24bf0",
-      "h1": "",
-      "suspicious": true,
-      "suspiciousWhy": "nizka stranka (0px)",
+      "title": "Omnichannel Marketing Automation Platform - E-goi",
+      "struct": "bd98ad73f6f48bb4437fbcb0c317780ffbeb6f9b",
+      "h1": "Turn every customer signal into a sale. Online and in-store.",
+      "suspicious": false,
       "path": "latest/e-goi.jpg",
       "attempts": 1,
-      "pixelDiff": 0,
-      "structChanged": false,
-      "changed": false,
-      "changeReason": null
+      "pixelDiff": 0.7798529411764706,
+      "structChanged": true,
+      "changed": true,
+      "changeReason": "obraz 78.0 % + struktura (H1/CTA/og:image/CSS)",
+      "changedPath": "changed/2026-11-11/e-goi.jpg"
     },
     {
       "key": "mailtarget",
@@ -1861,7 +1807,7 @@
       "suspicious": false,
       "path": "latest/mailtarget.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0031372549019607846,
+      "pixelDiff": 0.000012254901960784315,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1885,7 +1831,7 @@
       "suspicious": false,
       "path": "latest/netcore.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0014338235294117645,
+      "pixelDiff": 0.001948529411764706,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1922,7 +1868,7 @@
       "finalUrl": "https://www.taximail.com/",
       "health": {
         "ruleCount": 885,
-        "imgBroken": 17,
+        "imgBroken": 15,
         "imgTotal": 33,
         "bodyHeight": 7764,
         "failedResources": 0
@@ -1933,7 +1879,7 @@
       "suspicious": false,
       "path": "latest/taximail.jpg",
       "attempts": 1,
-      "pixelDiff": 0.010386029411764705,
+      "pixelDiff": 0.0070465686274509805,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -1947,7 +1893,7 @@
       "health": {
         "ruleCount": 714,
         "imgBroken": 1,
-        "imgTotal": 70,
+        "imgTotal": 68,
         "bodyHeight": 13975,
         "failedResources": 0
       },
@@ -1957,11 +1903,11 @@
       "suspicious": false,
       "path": "latest/karte.jpg",
       "attempts": 1,
-      "pixelDiff": 0.09170955882352941,
+      "pixelDiff": 0.09626225490196079,
       "structChanged": false,
       "changed": true,
-      "changeReason": "obraz 9.2 %",
-      "changedPath": "changed/2026-11-10/karte.jpg"
+      "changeReason": "obraz 9.6 %",
+      "changedPath": "changed/2026-11-11/karte.jpg"
     },
     {
       "key": "stibee",
@@ -1982,7 +1928,7 @@
       "suspicious": false,
       "path": "latest/stibee.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00007965686274509804,
+      "pixelDiff": 0.00008578431372549018,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -2006,7 +1952,7 @@
       "suspicious": false,
       "path": "latest/listmonk.jpg",
       "attempts": 1,
-      "pixelDiff": 0,
+      "pixelDiff": 0.00008578431372549018,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -2016,7 +1962,7 @@
       "url": "https://www.czechdesign.cz/kalendar-akci",
       "ok": true,
       "status": 403,
-      "finalUrl": "https://www.czechdesign.cz/kalendar-akci?__cf_chl_rt_tk=gmucQem3O5eytoXW.31Nu3zz1THZsSDgaxdeaAtlOr4-1794285556-1.0.1.1-XmF.l0pdTvLFM_OnS2l8xmLlqI.QlCGEzr_DsX4sq2M",
+      "finalUrl": "https://www.czechdesign.cz/kalendar-akci?__cf_chl_rt_tk=lKtVboTQzM39PD9qmpKXYXIxaRENZ_t4RKgsfVJadsc-1794371956-1.0.1.1-X6bRClui_TriVR6gzybaU.4stx5cPziqhJ8THWeiDME",
       "health": {
         "ruleCount": 235,
         "imgBroken": 0,
@@ -2030,7 +1976,7 @@
       "suspicious": false,
       "path": "latest/czechdesign-kalendar.jpg",
       "attempts": 1,
-      "pixelDiff": 0.00002450980392156863,
+      "pixelDiff": 0.00001838235294117647,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -2040,7 +1986,7 @@
       "url": "https://www.czechdesign.cz/graficky-design",
       "ok": true,
       "status": 403,
-      "finalUrl": "https://www.czechdesign.cz/graficky-design?__cf_chl_rt_tk=aG91JzkN.Gn0fYGiQy8yikLs4zmIcPAwliK0j4Mc_R4-1794285563-1.0.1.1-Uaw_CgzoxLcDQgSRWePMYIppq0BnEoh0m04pRKG5gzs",
+      "finalUrl": "https://www.czechdesign.cz/graficky-design?__cf_chl_rt_tk=CmcLgwt1iGiJE5fnlJq2pa4fZ7Dj4WaPuiw63uRfMMI-1794371957-1.0.1.1-kz08MQjiUaEVUt.GSbIdFyW58DzywRPmbQzCfqSJlYU",
       "health": {
         "ruleCount": 235,
         "imgBroken": 0,
@@ -2054,7 +2000,7 @@
       "suspicious": false,
       "path": "latest/czechdesign-graficky.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0000061274509803921575,
+      "pixelDiff": 0.00001838235294117647,
       "structChanged": false,
       "changed": false,
       "changeReason": null
@@ -2073,7 +2019,7 @@
         "failedResources": 0
       },
       "title": "Vzdělávejte se v e‑mailingu s našimi e‑booky | Ecomail.cz",
-      "struct": "d9419974d8f219f689ef9c7efd6ae8e2159419a5",
+      "struct": "475876567b834fc3a94d263e7eaa3014bab72750",
       "h1": "Vzdělávejte se v e‑mailingu\ns našimi e‑booky",
       "suspicious": false,
       "path": "latest/nas-ebooky.jpg",
@@ -2082,7 +2028,7 @@
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/nas-ebooky.jpg"
+      "changedPath": "changed/2026-11-11/nas-ebooky.jpg"
     },
     {
       "key": "nas-adresar-partneru",
@@ -2098,7 +2044,7 @@
         "failedResources": 0
       },
       "title": "Certifikovaní partneři | Ecomail.cz",
-      "struct": "f119c3ba45c9233baf9979696e2c4b94293f92a6",
+      "struct": "6cdd54283c1f257aebea44250130aac28e41c88c",
       "h1": "Certifikovaní partneři",
       "suspicious": false,
       "path": "latest/nas-adresar-partneru.jpg",
@@ -2107,7 +2053,7 @@
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/nas-adresar-partneru.jpg"
+      "changedPath": "changed/2026-11-11/nas-adresar-partneru.jpg"
     },
     {
       "key": "smartemailing-brozura",
@@ -2116,23 +2062,23 @@
       "status": 200,
       "finalUrl": "https://www.smartemailing.cz/brozura/",
       "health": {
-        "ruleCount": 11025,
+        "ruleCount": 8148,
         "imgBroken": 1,
         "imgTotal": 20,
         "bodyHeight": 3948,
         "failedResources": 0
       },
       "title": "TOP 10 marketingových automatizací - Brožura - SmartEmailing",
-      "struct": "ad7be22c68e586ce51943cc34075d2c0acb5ec99",
+      "struct": "f028415f5390191c93523165159e26ffb226cdfc",
       "h1": "Automatizační desatero",
       "suspicious": false,
       "path": "latest/smartemailing-brozura.jpg",
       "attempts": 1,
-      "pixelDiff": 0.0023590686274509803,
+      "pixelDiff": 0.0026654411764705883,
       "structChanged": true,
       "changed": true,
       "changeReason": "struktura (H1/CTA/og:image/CSS)",
-      "changedPath": "changed/2026-11-10/smartemailing-brozura.jpg"
+      "changedPath": "changed/2026-11-11/smartemailing-brozura.jpg"
     },
     {
       "key": "beehiiv-shop",
