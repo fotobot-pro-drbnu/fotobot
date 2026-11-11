@@ -282,7 +282,10 @@
     "https://reallygoodemails.com/emails/hims-hair-regrowth-assessment",
     "https://reallygoodemails.com/emails/mcdonalds-monopoly-week-two-winners",
     "https://reallygoodemails.com/emails/organic-valley-thanksgiving-giveaway",
-    "https://reallygoodemails.com/emails/pure-halloween-dog-food-education"
+    "https://reallygoodemails.com/emails/pure-halloween-dog-food-education",
+    "https://reallygoodemails.com/emails/airbnb-every-stay-supports-emergency-housing",
+    "https://reallygoodemails.com/emails/uvu-performance-facility-announcement",
+    "https://reallygoodemails.com/emails/chanel-gabrielle-essence-purse-spray"
   ],
   "catalogs": {
     "rge-cart": {
@@ -305,18 +308,18 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-11-06",
-      "odkazu": 100
+      "date": "2026-11-11",
+      "odkazu": 50
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-09",
-      "odkazu": 100
+      "date": "2026-11-11",
+      "odkazu": 50
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-11-09",
-      "odkazu": 100
+      "date": "2026-11-11",
+      "odkazu": 50
     },
     "rge-welcome": {
       "fails": 0,
