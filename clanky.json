@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T05:01:30.821Z",
+  "generatedAt": "2026-11-11T04:44:21.900Z",
   "verze": 1,
-  "datum": "2026-11-10",
-  "oknoOd": "2026-10-31",
+  "datum": "2026-11-11",
+  "oknoOd": "2026-11-01",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,93 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 35,
+      "pocetPolozek": 34,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/import-dodavatelskeho-ceniku-muze-pokazit-ceny-i-produkty-co-zkontrolovat-pred-nahranim-dat/",
+      "datum": "2026-11-10",
+      "perex": "Při importu produktů může stačit jediná chyba v datech. Podívejte se, co zkontrolovat ještě před nahráním dodavatelského ceníku.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Import dodavatelského ceníku může pokazit ceny i produkty. Co zkontrolovat před nahráním dat?",
+        "meta": {
+          "ogTitle": "Import produktů do e-shopu: Co zkontrolovat předem?",
+          "ogDesc": "Při importu produktů může stačit jediná chyba v datech. Podívejte se, co zkontrolovat ještě před nahráním dodavatelského ceníku.",
+          "published": "2026-11-10T10:38:17+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Import dodavatelského ceníku může pokazit ceny i produkty. Co zkontrolovat před nahráním dat?"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n4 min. doba čtení\nImport dodavatelského ceníku může pokazit ceny i produkty. Co zkontrolovat před nahráním dat?\n\nPři importu produktů nestačí, aby e-shop soubor bez chyby načetl. Nesprávný kód, zaměněná cena nebo jediná nula navíc mohou změnit údaje u desítek či stovek položek. Před hromadným nahráním se proto vyplatí zkontrolovat nejen formát souboru, ale i význam dat, která obsahuje.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nImport dodavatelského ceníku může pokazit ceny i produkty. Co zkontrolovat před nahráním dat?\nZdroj: Gemini\n\nDodavatel pošle nový ceník v Excelu, CSV nebo PDF a e-shop z něj potřebuje aktualizovat desítky či stovky produktů. Riziko často nevzniká při samotném importu, ale už při přípravě dat.\n\nPodklady k praktickému checklistu poskytl Petr Goubej, autor projektu Ceník do e-shopu. Jeho nástroj připravuje z dodavatelských ceníků produktová data pro další import a upozorňuje na místa, která je potřeba před nahráním zkontrolovat.\n\nKód produktu může tabulkový editor změnit, dva stejné kódy mohou označovat různá balení a sloupec „Cena“ nemusí říkat, zda jde o nákupní cenu, doporučenou maloobchodní cenu nebo cenu konkrétního odběratele. Technicky správný soubor proto ještě nemusí obsahovat správná data.\n\nNejdřív si ujasněte, co vlastně importujete\n\nU cen je potřeba znát měnu, DPH, cenu za kus nebo balení i období, pro které ceník platí. Pokud dodavatel uvede pouze sloupec „Cena“, jeho význam nelze bezpečně odhadnout.\n\nPodobně u produktů nestačí název. Kód dodavatele nemusí být totožný s interním kódem e-shopu a při párování může pomoci EAN, pokud patří přesně ke konkrétní položce nebo balení.\n\nJedna nula v kódu může rozhodnout, ke kterému produktu se cena přiřadí\n\nTypickým problémem jsou kódy s nulou na začátku. Hodnota 00127 se po otevření v tabulkovém editoru může změnit na 127. Pro e-shop přitom může jít o dva různé identifikátory.\n\nNa tento problém upozorňuje také dokumentace Shoptetu. Při exportu umožňuje před kód produktu přidat znak $, aby Excel počáteční nuly neodstranil.\n\nPozor je potřeba dát také na duplicity. Pokud se stejný kód objeví dvakrát s rozdílnou cenou, není bezpečné jeden řádek automaticky smazat. Může jít o jinou jednotku, balení nebo variantu.\n\nPozor na rozdíl mezi nulou a prázdnou buňkou\n\nPři hromadných úpravách může záležet i na tom, zda je pole prázdné, nebo obsahuje nulu.\n\nU Shoptetu se hodnota 0 u ceny uloží jako nulová cena. Chování prázdné buňky se však může lišit podle verze importu a nastavení e-shopu, proto se vyplatí zkontrolovat aktuální dokumentaci k importu produktů.\n\nStejně tak je potřeba ověřit, zda importovaná cena není nákupní místo prodejní a zda odpovídá měna i DPH. Při hromadném importu se jedna nesprávná interpretace může přenést do velkého množství produktů.\n\nMalý test je levnější než oprava celého katalogu\n\nPřed importem celého ceníku má smysl vytvořit malý testovací vzorek. Měl by obsahovat běžnou položku i problematický případ, například produkt s počáteční nulou v kódu nebo chybějící hodnotou.\n\nPo importu je potřeba zkontrolovat protokol v administraci i konkrétní produkty na e-shopu.\n\n„Vytvoření CSV je příprava dat. Správné přiřazení produktů a výsledek v e-shopu je stále potřeba zkontrolovat,“ upozorňuje Goubej.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nPřed importem si nechte otevřená zadní vrátka\n\nPř"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/selltoro-pomaha-e-shopum-rust-bez-vlastniho-ppc-tymu-kampane-ridi-automaticky-pomoci-ai/",
+      "datum": "2026-11-10",
+      "perex": "Jak mohou e-shopy spravovat výkonnostní kampaně bez vlastního PPC týmu? AI pomáhá s rozpočtem, optimalizací i odhadem výsledků.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Selltoro pomáhá e-shopům růst bez vlastního PPC týmu. Kampaně řídí automaticky pomocí AI",
+        "meta": {
+          "ogTitle": "Automatizace PPC kampaní pro e-shopy pomocí AI",
+          "ogDesc": "Jak mohou e-shopy spravovat výkonnostní kampaně bez vlastního PPC týmu? AI pomáhá s rozpočtem, optimalizací i odhadem výsledků.",
+          "published": "2026-11-10T08:25:13+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Selltoro pomáhá e-shopům růst bez vlastního PPC týmu. Kampaně řídí automaticky pomocí AI"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n3 min. doba čtení\nSelltoro pomáhá e-shopům růst bez vlastního PPC týmu. Kampaně řídí automaticky pomocí AI\n\nE-shopy, které chtějí více objednávek, často stojí před důležitou volbou: vybudovat vlastní marketingový PPC tým nebo svěřit reklamu externím partnerům. Česká platforma Selltoro nabízí cestu. Výkonnostní kampaně automatizuje pomocí AI a jejich potenciál vyhodnotí ještě před spuštěním. Řešení postavené na zkušenostech cenového srovnávače Srovnáme.cz dnes využívá více než tisíc e-shopů.\n\nJan Janouškovec\nCEO, Srovname.cz\nChceš se přidat k e-commerce expertům jako Jan?\nPřidat se\nÚvod\n/\nČlánky\n/\nSelltoro pomáhá e-shopům růst bez vlastního PPC týmu. Kampaně řídí automaticky pomocí AI\nZdroj: Selltoro\n\nOnline reklama je pro většinu e-shopů jedním z hlavních zdrojů návštěvnosti a objednávek. Její správa je ale stále složitější. Velcí hráči na to mají specialisty, datové týmy a technologie. Pro ostatní e-shopy však takové zázemí znamená vysoké fixní náklady. Právě tento rozdíl chce Selltoro napravit.\n\nKampaně bez vlastního PPC týmu\n\nSelltoro je nástroj pro správu a optimalizaci PPC reklamy pro e-shopy. S pomocí umělé inteligence automatizuje výkonnostní kampaně a průběžně je optimalizuje. E-shop tak může pouze sledovat výsledky a ušetřit si značnou část manuální práce. Na celé fungování zároveň dohlížejí zkušení PPC specialisté.\n\nNejvětší přínos nabízí Selltoro obchodům se širším sortimentem a dostatkem dat, které chtějí růst, ale nevyplatí se jim budovat vlastní výkonnostní tým. Pro velké e-shopy může platforma fungovat jako doplňkový prodejní kanál.\n\nNástroj mohou využívat i marketingové agentury. Ty si ponechají strategii a vztah s klientem, zatímco Selltoro převezme technické provedení kampaní.\n\nNejdřív čísla, potom rozpočet\n\nJeště před spuštěním reklamy mohou e-shopy využít bezplatný nástroj Forecast. Ten pracuje se sortimentem e-shopu, interními daty, vývojem trhu a sezónními vlivy. Na jejich základě odhadne potenciál kampaní, očekávané tržby i potřebnou investici.\n\nE-shop získá konkrétní podklad pro rozhodování a nemusí reklamní rozpočet nastavovat pouze odhadem. Selltoro pak kampaně spustí a vedle produktové inzerce podporuje také spolupráci s affiliate sítěmi.\n\nPlatba za skutečně přivedené objednávky\n\nVedle standardního PPC režimu nabízí Selltoro také model Pay per Sales. E-shop v něm neplatí fixní částku za správu, ale předem dohodnutou provizi z objednávek, které nástroj skutečně přivede.\n\n„Selltoro přebírá složitou a časově náročnou část správy PPC kampaní. Naše řešení s pomocí AI vyhodnocuje potenciál produktů, rozděluje rozpočet a kampaně průběžně optimalizuje. Majitelé e-shopů se tak mohou soustředit na zákazníky a rozvoj svého podnikání,“ vysvětluje Jan Janouškovec, CEO Selltoro & Srovnáme.cz.\n\nNa vánoční kampaně je potřeba myslet s předstihem\n\nVýznamnou část roku představuje pro e-shopy vánoční sezóna. S blížícím se závěrem roku proto roste také počet obchodů, které se do Selltoro registrují a chtějí kampaně rychle spustit.\n\nAutomatizované kampaně však potřebují dostatek času, aby získaly dostatek dat o produktech, zákaznících a objednávkách. E-shopy, které chtějí vánoční poptávku využít naplno, by proto měly začít s přípravou s dostatečným předstihem ještě před hlavní sezónou.\n\nPrvním krokem může být právě bezplatný Forecast, který ukáže potenciál kampaní i orientační investici potřebnou k dosažení výsledků.\n\nDnes působí ve více než dvaceti evropských zemích. Mezi "
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/chatgpt-nedoporucuje-stale-stejne-firmy-data-ukazuji-co-rozhoduje/",
+      "datum": "2026-11-10",
+      "perex": "Jak ChatGPT vybírá firmy do lokálních doporučení? Slovenské měření ukazuje, co může ovlivnit jejich viditelnost.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "ChatGPT nedoporučuje stále stejné firmy. Data ukazují, co rozhoduje",
+        "meta": {
+          "ogTitle": "Doporučení ChatGPT: Co rozhoduje o výběru firem?",
+          "ogDesc": "Jak ChatGPT vybírá firmy do lokálních doporučení? Slovenské měření ukazuje, co může ovlivnit jejich viditelnost.",
+          "published": "2026-11-10T08:04:39+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "ChatGPT nedoporučuje stále stejné firmy. Data ukazují, co rozhoduje"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n5 min. doba čtení\nChatGPT nedoporučuje stále stejné firmy. Data ukazují, co rozhoduje\n\nStejná otázka v ChatGPT nemusí pokaždé přinést stejné firmy. Slovenské měření ukázalo, že u lokálních doporučení hrají roli recenze, hodnocení i zdroje, ze kterých ChatGPT čerpá.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nChatGPT nedoporučuje stále stejné firmy. Data ukazují, co rozhoduje\n\nMarketingová agentura RESULTY položila ChatGPT během dvou dnů 160 otázek na lokální firmy v osmi krajských městech. Testovala deset oborů, od autoservisů a kadeřnictví přes restaurace až po účetní či advokáty, a doporučení porovnala s první dvacítkou výsledků v Mapách Google.\n\nV 78 % porovnání měla firma doporučená ChatGPT více recenzí než alespoň polovina firem z první dvacítky výsledků v Mapách Google. Počet recenzí však nebyl jediným faktorem, který rozhodoval o tom, kdo se do odpovědi dostal.\n\nVíce recenzí pomáhá, ale ne vždy\n\nDoporučované firmy měly často mnoho recenzí na Googlu, neplatilo však, že ChatGPT vždy vybral ty s jejich nejvyšším počtem.\n\nV Košicích například dvakrát doporučil restauraci se 127 recenzemi, přestože řada konkurenčních podniků jich měla násobně více. V tomto případě se opíral o gastronomické průvodce Gault&Millau a Falstaff.\nPodobně dvakrát zařadil na první místo penzion se 79 recenzemi. I zde měli někteří konkurenti recenzí podstatně více, ChatGPT však čerpal z Bookingu.\nDo doporučení se dvakrát dostalo také žilinské kadeřnictví se 17 recenzemi. Pomoci mu mohlo velmi vysoké hodnocení 5,0.\n\nJen přibližně ve 2 % případů doporučil ChatGPT firmu, která měla zároveň méně recenzí i horší hodnocení než většina porovnávaných konkurentů.\n\nOliver Dodok, spoluzakladatel RESULTY, vysvětluje, že počet recenzí sice hraje důležitou roli, sám o sobě však nerozhoduje.\n\n„Recenze na Googlu jsou podle nás nejsilnějším signálem, ale ne jediným. Firma, která má silnou pozici v průvodci nebo katalogu svého oboru, se do odpovědi dostane i s menším počtem recenzí.“\n\nChatGPT častěji citoval katalogy než weby firem\n\nWeb některé z doporučených firem citoval ChatGPT jen ve 26 ze 160 odpovědí. Katalog, žebříček nebo profesní komoru použil alespoň jednou v 93 ze 160 odpovědí.\n\nZdroj se přitom měnil podle oboru. U penzionů se často objevoval Booking, u restaurací Tripadvisor, u advokátů Slovenská advokátní komora. Mezi časté zdroje patřily také žebříčky Zlatá Firma a Orly, které vycházejí z veřejných zákaznických hodnocení. „Čekali jsme, že ChatGPT bude u místních firem čerpat hlavně z jejich webů. Pro firmu to znamená, že nestačí mít dobrý web. ChatGPT se dívá hlavně na to, co o ní píší zákazníci a katalogy,“ říká Dodok.\n\nTo je důležitý rozdíl oproti klasickému uvažování o SEO. Firma může mít pod kontrolou vlastní web, při doporučování ale vstupují do hry také zdroje, které přímo nevlastní.\n\nStejná otázka, jiná doporučení\n\nMěření proběhlo ve dvou kolech. Prvních 80 otázek položili výzkumníci bez přihlášení, dalších 80 v bezplatném účtu. Otázky přitom zůstaly stejné.\n\nPři opakování stejné otázky se změnila přibližně polovina doporučených firem. Alespoň jedno stejné jméno se objevilo téměř vždy, stejná firma však zůstala na prvním místě jen ve 45 ze 78 porovnávaných dvojic.\n\nFirmy, které ChatGPT doporučil v obou kolech, měly typicky 2,4krát více recenzí než firma uprostřed první dvacítky výsledků v Mapách Google. U firem, kt"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/co-se-stane-po-objednavce-muze-rozhodnout-zda-se-zakaznik-vrati-beata-altansukh-packeta/",
+      "datum": "2026-11-10",
+      "perex": "Prečítajte si Co se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+      "autor": "Michal Moricz",
+      "textKarty": null,
+      "detail": {
+        "h1": "Co se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta)",
+        "meta": {
+          "ogTitle": "Co se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta)",
+          "ogDesc": "Prečítajte si Co se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+          "published": "2026-11-10T07:19:54+00:00",
+          "autor": "Michal Moricz",
+          "h1": "Co se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta)"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n7 min. doba čtení\nCo se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta)\n\nVrácení zboží bez tiskárny a bez štítku? Stačí kliknout v aplikaci, napsat kód na balík a vložit ho do boxu. Zásilkovna dnes na Slovensku doručuje 98 % zásilek hned druhý den a na Vánoce má připravenou kapacitu o 40 % vyšší. O tom, zda se zákazník vrátí, ale často nerozhoduje kurýr, nýbrž samotný e-shop. Rozhoduje popis produktu, jednoduchá vratka i krabice, kterou si zákazník nechá doma. Proč může pár centů navíc za balení vydělat víc než placená reklama? Více informací nám poskytla Beata Altansukh, Managing Director, Packeta Slovakia.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\nCo se stane po objednávce, může rozhodnout, zda se zákazník vrátí (Beata Altansukh, Packeta)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n02:52 Je logistika pořád jen hra o centy?\n03:39 Co se dá odkoukat od Alzy a velkých e-shopů?\n06:07 Jak proměnit vratku v další nákup?\n10:34 Jak funguje vrácení přes aplikaci Zásilkovny?\n15:05 Kdo má zákazníkovi posílat notifikace o zásilce?\n17:49 Jak z balení udělat zážitek, který prodává?\n23:24 Co dělat, když doručení selže?\n25:48 Jak zvládnout vánoční sezónu bez výpadků?\n30:33 Kdy půjde objednat večer a mít balík ráno?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nLogistika už není jen hra o centy\n\nBeata Altansukh vede slovenskou Zásilkovnu, tedy Packetu Slovakia, od dubna 2025. Předtím čtyři roky pracovala ve velkém e-shopu, takže logistiku zná i z druhé strany. Spolupracovala téměř se všemi přepravci na Slovensku a ví, co se děje na pozadí každé objednávky.\n\nDlouhé roky se doprava řešila hlavně cenou. Kdo doručí za tři eura, kdo za 2,50 a kdo za 2,70. Kvalita doručení zůstávala stranou, a když se něco pokazilo, e-shop se jednoduše vymluvil na kurýra. Podle Beaty to většina e-shopů stále takto bere, ale ty velké už začínají na kvalitu doručení opravdu klást důraz.\n\nCo mohou menší e-shopy převzít od Alzy\n\nAlza nastavila na trhu nové standardy. Objednávka do půlnoci a ráno balík v boxu je něco, co běžný e-shop nezopakuje. Jsou ale věci, které zvládne každý. První jsou kvalitní popisy produktů, protože právě podle nich zákazník pochopí, co si skutečně objednává a v jakém stavu mu zboží přijde.\n\nDruhou inspirací je předplacený program s prémiovými službami, jaký má Alza nebo Allegro, například s dopravou zdarma na všechny objednávky. Velké e-shopy stejně vozí drtivou většinu objednávek zdarma, protože zákazníci nakupují nad hranicí, od které se za dopravu neplatí. Doručení do boxů je navíc levnější než kurýr, takže v segmentu, kde se nakupuje pravidelně, může mít roční poplatek za takovou službu smysl.\n\nVratka může přinést další nákup\n\nKaždý z nás už aspoň jednou něco vracel. Beata proto říká jasně, že vrácení zboží by mělo být pro zákazníka co nejjednodušší. Rozumí i nákladům. E-shop neplatí jen dopravu, zboží musí zkontrolovat, znovu naskladnit a uvolnit k prodeji. Často se vrátí poškozené a ztratí část hodnoty. Na druhé straně stojí zákazník, který při dobré zkušenosti s vrácením rád nakoupí znovu. Když e-shop vratky záměrně komplikuje, může ho ztratit.\n\nNejlepší prevence vratek začíná ještě před nákupem. Popisy nemají být jen pro SEO a umělou inteligenci, ale pro lidi, a k nim patří skutečné fotky místo katalogových. Když zákazník zjist"
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -38,7 +118,7 @@
           "autor": "Terézia Papáneková",
           "h1": "Nejnovější iPhone nemusí být nejžádanější. E-shop ukázal, které modely zákazníci skutečně kupují"
         },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n7 min. doba čtení\nNejnovější iPhone nemusí být nejžádanější. E-shop ukázal, které modely zákazníci skutečně kupují\n\nNejnovější iPhone nemusí být nejžádanější, pokud má zákazník na výběr nové i použité modely několika generací. Globální prodeje ukazují, že iPhone 17 měl úspěšný rok. Data slovenského prodejce za posledních 12 měsíců však ukazují, že mezi staršími zařízeními vedou jiné modely a výrazně opotřebené telefony tvoří jen zlomek prodejů.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nNejnovější iPhone nemusí být nejžádanější. E-shop ukázal, které modely zákazníci skutečně kupují\nZdroj: ChatGPT\nNejnovější iPhony vedou globální prodeje\n\niPhone 17 byl ve druhém čtvrtletí roku 2026 nejprodávanějším smartphonem na světě. Podle údajů Counterpoint Research dosáhl 6% podílu na celosvětových prodejích a další dvě příčky obsadily iPhone 17 Pro Max a iPhone 17 Pro. Prodeje iPhonů meziročně vzrostly o 5 %, zatímco celý trh se smartphony ve stejném období klesl o 11 %.\n\nAni srovnání posledních generací nepotvrzuje, že by zájem o každý nový iPhone postupně slábl. Na americkém trhu se během prvních pěti měsíců prodalo o 9,2 % méně základních iPhonů 15 než jejich předchůdců. U iPhonu 16 činil rozdíl už jen 0,9 % a iPhone 17 překonal prodeje předchozí generace za stejné období o 7,7 %.\n\nDařilo se i celé řadě 17. Za první rok prodeje vygenerovala velkoobchodní tržby přesahující 170 miliard dolarů, tedy o 11 % více než řada iPhone 16.\n\nGlobální čísla tedy neukazují, že by nové modely ztrácely zákazníky. Jinak však vypadá výběr ve chvíli, kdy má kupující před sebou několik generací za různé ceny.\n\nNa trhu použitých iPhonů mají silné postavení starší modely\n\nApple má na trhu použitých a repasovaných telefonů dlouhodobě silné postavení. Poslední podrobné globální údaje Counterpoint Research ukazují, že v roce 2024 tvořily iPhony 56 % prodaných repasovaných smartphonů. O rok dříve to bylo 51 %.\n\nRůst přitom táhly především řady iPhone 11 a 12. Counterpoint zároveň upozornil na horší dostupnost novějších modelů, protože si je jejich majitelé nechávali déle.\n\nNa slovenském trhu nabízejí konkrétnější pohled data košického e-shopu iguru za období od listopadu 2025 do listopadu 2026. Firma iPhony prodává, vykupuje i opravuje, takže může porovnat, které modely zákazníci nejvíce kupují, které si často prohlížejí, aniž by je koupili, a které se prodávají pomalu.\n\nNejprodávanější je iPhone 13, rozdíly mezi generacemi jsou však malé\n\nGenerace iPhone 13 tvořila přibližně 17 % všech prodaných iPhonů. Těsně za ní skončil iPhone 15 s 16% podílem. Následovaly iPhone 16 s 15 % a iPhone 14 se 14 %. Na iPhone 17 připadlo 11 % prodejů.\n\nMezi čtyřmi nejprodávanějšími generacemi je tedy rozdíl pouhé tři procentní body. Prodeje se nerozdělily mezi jeden dominantní a několik okrajových modelů, ale poměrně rovnoměrně mezi více generací.\n\nSvé kupce si stále nacházejí i podstatně starší iPhony. Modely iPhone 11 a starší společně představovaly přibližně 15 % prodejů.\n\niPhone 7 přitahuje návštěvníky, ale málokdo si ho koupí\n\nProdeje lze porovnat také s návštěvností produktových stránek. U nejžádanějších telefonů si obě čísla většinou odpovídají. Mezi nejnavštěvovanější stránky patří iPhone 13, 15 Pro, 14 Pro a iPhone 12 a tyto modely se zároveň dobře prodávají.\n\nVýjimkou je iPhone 7. Jeho produktová stránka měla přibližně stejnou návštěvnos"
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n9. listopadu 2026\n7 min. doba čtení\nNejnovější iPhone nemusí být nejžádanější. E-shop ukázal, které modely zákazníci skutečně kupují\n\nNejnovější iPhone nemusí být nejžádanější, pokud má zákazník na výběr nové i použité modely několika generací. Globální prodeje ukazují, že iPhone 17 měl úspěšný rok. Data slovenského prodejce za posledních 12 měsíců však ukazují, že mezi staršími zařízeními vedou jiné modely a výrazně opotřebené telefony tvoří jen zlomek prodejů.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nNejnovější iPhone nemusí být nejžádanější. E-shop ukázal, které modely zákazníci skutečně kupují\nZdroj: ChatGPT\nNejnovější iPhony vedou globální prodeje\n\niPhone 17 byl ve druhém čtvrtletí roku 2026 nejprodávanějším smartphonem na světě. Podle údajů Counterpoint Research dosáhl 6% podílu na celosvětových prodejích a další dvě příčky obsadily iPhone 17 Pro Max a iPhone 17 Pro. Prodeje iPhonů meziročně vzrostly o 5 %, zatímco celý trh se smartphony ve stejném období klesl o 11 %.\n\nAni srovnání posledních generací nepotvrzuje, že by zájem o každý nový iPhone postupně slábl. Na americkém trhu se během prvních pěti měsíců prodalo o 9,2 % méně základních iPhonů 15 než jejich předchůdců. U iPhonu 16 činil rozdíl už jen 0,9 % a iPhone 17 překonal prodeje předchozí generace za stejné období o 7,7 %.\n\nDařilo se i celé řadě 17. Za první rok prodeje vygenerovala velkoobchodní tržby přesahující 170 miliard dolarů, tedy o 11 % více než řada iPhone 16.\n\nGlobální čísla tedy neukazují, že by nové modely ztrácely zákazníky. Jinak však vypadá výběr ve chvíli, kdy má kupující před sebou několik generací za různé ceny.\n\nNa trhu použitých iPhonů mají silné postavení starší modely\n\nApple má na trhu použitých a repasovaných telefonů dlouhodobě silné postavení. Poslední podrobné globální údaje Counterpoint Research ukazují, že v roce 2024 tvořily iPhony 56 % prodaných repasovaných smartphonů. O rok dříve to bylo 51 %.\n\nRůst přitom táhly především řady iPhone 11 a 12. Counterpoint zároveň upozornil na horší dostupnost novějších modelů, protože si je jejich majitelé nechávali déle.\n\nNa slovenském trhu nabízejí konkrétnější pohled data košického e-shopu iguru za období od listopadu 2025 do listopadu 2026. Firma iPhony prodává, vykupuje i opravuje, takže může porovnat, které modely zákazníci nejvíce kupují, které si často prohlížejí, aniž by je koupili, a které se prodávají pomalu.\n\nNejprodávanější je iPhone 13, rozdíly mezi generacemi jsou však malé\n\nGenerace iPhone 13 tvořila přibližně 17 % všech prodaných iPhonů. Těsně za ní skončil iPhone 15 s 16% podílem. Následovaly iPhone 16 s 15 % a iPhone 14 se 14 %. Na iPhone 17 připadlo 11 % prodejů.\n\nMezi čtyřmi nejprodávanějšími generacemi je tedy rozdíl pouhé tři procentní body. Prodeje se nerozdělily mezi jeden dominantní a několik okrajových modelů, ale poměrně rovnoměrně mezi více generací.\n\nSvé kupce si stále nacházejí i podstatně starší iPhony. Modely iPhone 11 a starší společně představovaly přibližně 15 % prodejů.\n\niPhone 7 přitahuje návštěvníky, ale málokdo si ho koupí\n\nProdeje lze porovnat také s návštěvností produktových stránek. U nejžádanějších telefonů si obě čísla většinou odpovídají. Mezi nejnavštěvovanější stránky patří iPhone 13, 15 Pro, 14 Pro a iPhone 12 a tyto modely se zároveň dobře prodávají.\n\nVýjimkou je iPhone 7. Jeho produktová stránka měla přibližně stejn"
       }
     },
     {
@@ -58,143 +138,53 @@
           "autor": "Terézia Papáneková",
           "h1": "Dovoz z Číny má další poplatek. Ke 3eurovému clu přibyly od listopadu další 2 eura"
         },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n5 min. doba čtení\nDovoz z Číny má další poplatek. Ke 3eurovému clu přibyly od listopadu další 2 eura\n\nKe 3eurovému clu zavedenému v červenci přibyl od listopadu další poplatek. Při online nákupech ze zemí mimo EU se nově účtují 2 eura za položku celního prohlášení. Nové náklady se týkají také nákupů z Temu, Shein či AliExpressu, jejich výše ale nezávisí jen na počtu výrobků v balíku.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nDovoz z Číny má další poplatek. Ke 3eurovému clu přibyly od listopadu další 2 eura\nZdroj: ChatGPT\n\nOd 1. listopadu 2026 se při online nákupech zboží dováženého ze zemí mimo Evropskou unii uplatňuje nový manipulační poplatek ve výši 2 eur za položku celního prohlášení. Na rozdíl od 3eurového cla, které platí od července u zásilek do 150 eur, se nový poplatek vztahuje i na dražší objednávky.\n\nZměna je součástí širší celní reformy EU. Jak vysvětluje Rada Evropské unie, cílem nového poplatku je pokrýt část nákladů na celní kontroly a zpracování obrovského množství zásilek, které každoročně přicházejí na evropský trh.\n\nJak se nové poplatky počítají?\n\nPři výpočtu je důležité rozlišovat mezi počtem výrobků v balíku a počtem samostatných položek v celním prohlášení.\n\n3eurové clo se u zásilek do 150 eur účtuje za každou kategorii zboží. Nový 2eurový manipulační poplatek se počítá za každou položku celního prohlášení. V praxi tak může jedna položka zahrnovat i více stejných výrobků, pokud mají stejné celní zařazení, popis a původ.\n\nV praxi může výpočet vypadat takto:\n\nJedna nabíječka za 10 eur: Pokud představuje jednu položku celního prohlášení, uplatní se 3eurové clo a 2eurový manipulační poplatek. Celkem tedy 5 eur.\nTři stejné nabíječky: Pokud mají stejné celní zařazení, popis i původ a jsou uvedeny jako jedna položka, počet kusů nerozhoduje. Clo a manipulační poplatek tak opět představují celkem 5 eur.\nTričko a ponožky: Jde o dvě rozdílné kategorie zboží. Clo u zásilky do 150 eur představuje 6 eur a manipulační poplatek další 4 eura. Celkem tedy 10 eur.\nDvě podobná trička: Pokud je jedno bavlněné a druhé ze syntetického materiálu, mohou spadat pod rozdílné celní kódy. V takovém případě se v celním prohlášení uvádějí odděleně a poplatky se uplatní na obě položky zvlášť.\n\nUvedené částky představují clo a manipulační poplatek, nikoli nutně konečnou částku, kterou zákazník doplatí. Do výsledné ceny vstupuje také příslušná DPH.\n\nPoplatky navíc nemusí zákazníci hradit přímo. Povinnost je zaplatit mají příslušné podnikatelské subjekty, například prodejci, platformy nebo společnosti zajišťující celní odbavení. Ty mohou náklady zahrnout do ceny zboží nebo je zákazníkovi účtovat samostatně.\n\nCelníci musí zvládnout miliardy zásilek\n\nDůvodem zpřísňování pravidel je prudký nárůst drobných zásilek ze zemí mimo EU. Jejich množství roste rychleji, než jsou celní orgány schopny rozšiřovat své kontrolní kapacity.\n\nMichal Král, předseda asociace E-commerce Slovakia, upozorňuje především na rozsah dovozu. „Podle Evropské komise přišlo v minulém roce do EU až 5,8 miliardy zásilek. To je v průměru 16 milionů zásilek každý den, které musí projít přes hranice a zatěžují sklady i personál. Odhaduje se, že více než 90 % z nich přichází přímo z Číny.“\n\nPřestože celní orgány provádějí ročně statisíce kontrol, jejich podíl v poměru k množství dováženého zboží klesá. Podle Evropské komise se v roce 2025 usku"
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n5 min. doba čtení\nDovoz z Číny má další poplatek. Ke 3eurovému clu přibyly od listopadu další 2 eura\n\nKe 3eurovému clu zavedenému v červenci přibyl od listopadu další poplatek. Při online nákupech ze zemí mimo EU se nově účtují 2 eura za položku celního prohlášení. Nové náklady se týkají také nákupů z Temu, Shein či AliExpressu, jejich výše ale nezávisí jen na počtu výrobků v balíku.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nDovoz z Číny má další poplatek. Ke 3eurovému clu přibyly od listopadu další 2 eura\nZdroj: ChatGPT\n\nOd 1. listopadu 2026 se při online nákupech zboží dováženého ze zemí mimo Evropskou unii uplatňuje nový manipulační poplatek ve výši 2 eur za položku celního prohlášení. Na rozdíl od 3eurového cla, které platí od července u zásilek do 150 eur, se nový poplatek vztahuje i na dražší objednávky.\n\nZměna je součástí širší celní reformy EU. Jak vysvětluje Rada Evropské unie, cílem nového poplatku je pokrýt část nákladů na celní kontroly a zpracování obrovského množství zásilek, které každoročně přicházejí na evropský trh.\n\nJak se nové poplatky počítají?\n\nPři výpočtu je důležité rozlišovat mezi počtem výrobků v balíku a počtem samostatných položek v celním prohlášení.\n\n3eurové clo se u zásilek do 150 eur účtuje za každou kategorii zboží. Nový 2eurový manipulační poplatek se počítá za každou položku celního prohlášení. V praxi tak může jedna položka zahrnovat i více stejných výrobků, pokud mají stejné celní zařazení, popis a původ.\n\nV praxi může výpočet vypadat takto:\n\nJedna nabíječka za 10 eur: Pokud představuje jednu položku celního prohlášení, uplatní se 3eurové clo a 2eurový manipulační poplatek. Celkem tedy 5 eur.\nTři stejné nabíječky: Pokud mají stejné celní zařazení, popis i původ a jsou uvedeny jako jedna položka, počet kusů nerozhoduje. Clo a manipulační poplatek tak opět představují celkem 5 eur.\nTričko a ponožky: Jde o dvě rozdílné kategorie zboží. Clo u zásilky do 150 eur představuje 6 eur a manipulační poplatek další 4 eura. Celkem tedy 10 eur.\nDvě podobná trička: Pokud je jedno bavlněné a druhé ze syntetického materiálu, mohou spadat pod rozdílné celní kódy. V takovém případě se v celním prohlášení uvádějí odděleně a poplatky se uplatní na obě položky zvlášť.\n\nUvedené částky představují clo a manipulační poplatek, nikoli nutně konečnou částku, kterou zákazník doplatí. Do výsledné ceny vstupuje také příslušná DPH.\n\nPoplatky navíc nemusí zákazníci hradit přímo. Povinnost je zaplatit mají příslušné podnikatelské subjekty, například prodejci, platformy nebo společnosti zajišťující celní odbavení. Ty mohou náklady zahrnout do ceny zboží nebo je zákazníkovi účtovat samostatně.\n\nCelníci musí zvládnout miliardy zásilek\n\nDůvodem zpřísňování pravidel je prudký nárůst drobných zásilek ze zemí mimo EU. Jejich množství roste rychleji, než jsou celní orgány schopny rozšiřovat své kontrolní kapacity.\n\nMichal Král, předseda asociace E-commerce Slovakia, upozorňuje především na rozsah dovozu. „Podle Evropské komise přišlo v minulém roce do EU až 5,8 miliardy zásilek. To je v průměru 16 milionů zásilek každý den, které musí projít přes hranice a zatěžují sklady i personál. Odhaduje se, že více než 90 % z nich přichází přímo z Číny.“\n\nPřestože celní orgány provádějí ročně statisíce kontrol, jejich podíl v poměru k množství dováženého zboží klesá. Podle Evropské komise se v roce 2025 usk"
       }
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-45-2026-nove-udaje-pri-dovozu-do-eu-organicka-kliknuti-rostou-pomohla-regulace-cinskych-prodejcu/",
-      "datum": "2026-11-09",
-      "perex": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Novinky z e-commerce 45/2026: Nové údaje při dovozu do EU, organická kliknutí rostou, pomohla regulace čínských prodejců?",
-        "meta": {
-          "ogTitle": "Novinky z e-commerce 45/2026",
-          "ogDesc": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
-          "published": "2026-11-09T06:02:27+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Novinky z e-commerce 45/2026: Nové údaje při dovozu do EU, organická kliknutí rostou, pomohla regulace čínských prodejců?"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n10 min. doba čtení\nNovinky z e-commerce 45/2026: Nové údaje při dovozu do EU, organická kliknutí rostou, pomohla regulace čínských prodejců?\n\nNejdůležitější novinky z e-commerce, marketingu a online dění za uplynulý týden si můžete poslechnout v našem podcastu UPDATE nebo si je jednoduše přečíst. Všechno na jednom místě. Stačí si vybrat, co vám vyhovuje víc.\n\nRedakce\nÚvod\n/\nČlánky\n/\nNovinky z e-commerce 45/2026: Nové údaje při dovozu do EU, organická kliknutí rostou, pomohla regulace čínských prodejců?\nZdroj: ChatGPT\n\nNemáte čas číst, ale chcete zůstat v obraze? Pusťte si Ecommerce Bridge UPDATE. Aktuální epizodu si můžete poslechnout v autě, cestou do práce nebo tehdy, kdy vám to nejvíc vyhovuje. Klikněte na svou oblíbenou platformu a pusťte si ji hned:\n\n   \n\nRaději čtete? Všechny novinky najdete níže\n\nVšechna témata z aktuálního UPDATE najdete níže také v textové podobě. Projděte si je vlastním tempem, vraťte se ke konkrétní novince nebo si otevřete celý článek, pokud vás některé téma zaujme víc.\n\nPři dovozu do EU přibyly nové údaje\n\nOd 1. listopadu se změnily údaje, které je potřeba uvádět v celních prohlášeních při dovozu zboží do EU. U produktů prodávaných online mají být informace přesnější, aby celníci dokázali zboží jednoznačněji identifikovat. Může jít například o označení produktu od prodejce nebo výrobce, modelové číslo či EAN. E-shop přitom nemusí celní prohlášení podávat sám. Musí ale zajistit, aby potřebné údaje dostal dopravce nebo celní zástupce, který ho podává.\n\nOrganická kliknutí z Googlu opět rostou\n\nPo měsících zpráv o zero-click vyhledávání přinesla nová data od Semrush pozitivnější obraz. V září skončila kliknutím na externí web téměř polovina vyhledávání ve 32 sledovaných evropských zemích. V USA dosáhl podíl organických kliknutí nejvyšší úrovně za celé sledované 15měsíční období. Výsledky je ale potřeba číst opatrně. Analýza sleduje desktopové vyhledávání, takže automaticky nevypovídá o chování uživatelů na mobilech.\n\nČínských zásilek ubylo, efekt na e-shopy je nejasný\n\nOd července se u nízkohodnotových zásilek ze zemí mimo EU platí clo tři eura za položku. V Česku pak jejich počet mezi červnem a srpnem klesl o 59 %. Více než 95 % těchto zásilek přitom pocházelo z Číny. Znamená to více objednávek pro domácí e-shopy? Experti, které jsme oslovili, zatím vidí rozdílný vývoj. Někteří u levnějšího zboží zaznamenali růst poptávky o 10 až 12 %, jiní zatím žádný výrazný efekt nevidí. Čínské platformy navíc část zboží posílají ze skladů v EU. Lokální e-shopy proto nemohou očekávat, že jim regulace automaticky přivede zákazníky. Jejich výhodou zůstává především rychlé doručení, jednodušší vrácení zboží a servis.\n\nCoffeein vyrostl ze 120 kilogramů na 120 tun\n\nPeter Szabó z Coffeeinu vysvětluje, jak se firma dostala ze 120 kilogramů kávy ročně na přibližně 120 tun. Nechce ale růst za každou cenu ani být „kávovým GymBeamem“. Když Coffeein získá zákazníka na první nákup, podle Petera se v 80 % případů vrátí. Získávat nové zákazníky je ale stále dražší a firma dnes investuje do marketingu přibližně dvojnásobek toho, co před dvěma lety. Další růst proto spojuje také s efektivnější výrobou. Součástí plánu je nová pražírna, která má být co nejvíce soběstačná.\n\nEET může spustit i platba při osobním odběru\n\nOd ledna 2027 se do Česka vrací EET. E-shopy si budou muset dát pozor především na platby při osobním odběru. Pokud zákazník objednávku zaplatí až ve výdejně, může jít o"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/ai-misto-chybejicich-kolegu-miliony-investovane-do-orechu-i-podnikani-se-sesitem-co-prinesl-ecommerce-bridge-live-v-banske-bystrici/",
-      "datum": "2026-11-06",
-      "perex": "Ecommerce Bridge LIVE Banská Bystrica přinesl příběhy podnikatelů, kteří otevřeně mluvili o úspěších, chybách i nečekaných problémech.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "AI místo chybějících kolegů, miliony investované do ořechů i podnikání se sešitem. Co přinesl Ecommerce Bridge LIVE v Banské Bystrici?",
-        "meta": {
-          "ogTitle": "Ecommerce Bridge LIVE Banská Bystrica: Úspěch i tvrdé lekce",
-          "ogDesc": "Ecommerce Bridge LIVE Banská Bystrica přinesl příběhy podnikatelů, kteří otevřeně mluvili o úspěších, chybách i nečekaných problémech.",
-          "published": "2026-11-06T12:00:42+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "AI místo chybějících kolegů, miliony investované do ořechů i podnikání se sešitem. Co přinesl Ecommerce Bridge LIVE v Banské Bystrici?"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n6. listopadu 2026\n16 min. doba čtení\nAI místo chybějících kolegů, miliony investované do ořechů i podnikání se sešitem. Co přinesl Ecommerce Bridge LIVE v Banské Bystrici?\n\nCo se stane, když zakladatel rodinné firmy ze dne na den vypadne a nikdo jiný nemá jeho kontakty ani přehled o dodavatelích? Vyplatí se vyrábět všechno vlastními silami, i když vás to stojí téměř veškerý volný čas? A opravdu potřebujeme umělou inteligenci na každou drobnost? Listopadový Ecommerce Bridge LIVE v Banské Bystrici přinesl pět vystoupení, ve kterých se mluvilo také o podnikatelských chybách, nečekaných problémech a rozhodnutích, která by dnes jejich aktéři udělali jinak.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nAI místo chybějících kolegů, miliony investované do ořechů i podnikání se sešitem. Co přinesl Ecommerce Bridge LIVE v Banské Bystrici?\n\nNe každý podnikatel se rád pochlubí tím, co se mu nepovedlo. V Banské Bystrici se ale mluvilo i o takových zkušenostech. O investicích, které předběhly poptávku, o marketingových nástrojích, které měly šetřit práci, ale nakonec ji jen přidaly, i o situaci, kdy rodinná firma musela fungovat bez člověka, který měl velkou část jejího know-how jen ve vlastní hlavě.\n\nEcommerce Bridge LIVE se 5. listopadu konal v Záhradě – Centru nezávislé kultury a na pódiu se vystřídali zástupci Slowlandie, DPD, GROOW, Panakeie a LAVELIN.\n\nKaždý přišel s jiným příběhem. Zatímco jeden vysvětloval, proč by dnes některé činnosti raději svěřil externistům, další ukazovali, jak obyčejný skript dokáže ušetřit více starostí než drahý AI nástroj. A nechyběl ani pohled na podnikání, které začalo bez e-shopu, reklamního rozpočtu a s objednávkami zapisovanými do obyčejného sešitu.\n\nMichal Repík ze Slowlandie: Ne všechno, co dokážete dělat sami, byste také měli\n\nSlowtellu dnes zná nejeden milovník oříškových krémů. Michal Repík dokonce přiznal, že jejich nejznámější produkt občas zastíní samotnou značku Slowlandia. A přestože má firma za sebou řadu ocenění a letos počítá s obratem přes tři miliony eur, jeho přednáška nebyla oslavou podnikatelského úspěchu. Spíše naopak.\n\nRepík otevřeně mluvil o tom, kolik práce a peněz může firmu stát snaha dělat všechno vlastními silami.\n\nMichal Repík ze Slowlandie\n\nSlowlandia se původně věnovala distribuci produktů jiných výrobců. Když ale jeden z jejích hlavních dodavatelů po vstupu investora ze dne na den ukončil spolupráci s distributory, firma zůstala bez zboží, které by mohla prodávat. Přitom už měla sklady, zaměstnance i finanční závazky.\n\nMísto hledání dalšího dodavatele se rozhodli začít vyrábět vlastní produkty. Zajímavé je, že první Slowtella vznikla ještě před samotnou značkou Slowlandia a zpočátku se vyráběla pro jiné slovenské značky.\n\nPostupně přibývaly vlastní stroje, receptury, sklady, prodejny, marketing, logistika a další činnosti. Dnes má Slowlandia přibližně 40 lidí a věnuje se nejen výrobě oříškových produktů, ale také čokolády. Nejnověji se dokonce pustila do pěstování lískových ořechů.\n\nA právě u posledního projektu se člověk možná trochu zarazí. Firma buduje přibližně 60hektarový sad, který vyžaduje kapitálovou investici kolem dvou milionů eur. První výraznější úrodu přitom očekává až za několik let.\n\nRepík vysvětlil, že vlastní výroba a kontrola nad kvalitou mají své výhody. Jenže každá další činnost přináší náklady, nové povinnosti a další lidi, k"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/slevy-ktere-berou-marzi-reklamy-v-chatgpt-a-temu-ztraci-evropu-mudrovacka-10-2026/",
-      "datum": "2026-11-06",
-      "perex": "Prečítajte si Slevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026 . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
-      "autor": "Michal Moricz",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Slevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026",
-        "meta": {
-          "ogTitle": "Slevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026",
-          "ogDesc": "Prečítajte si Slevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026 . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
-          "published": "2026-11-06T09:54:53+00:00",
-          "autor": "Michal Moricz",
-          "h1": "Slevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n6. listopadu 2026\n12 min. doba čtení\nSlevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026\n\nBlack Friday se protáhl na celé týdny, vyšší obrat ale ještě neznamená, že na slevách vyděláte. ChatGPT a Google začínají ukazovat reklamy přímo u nákupních doporučení, Temu v Polsku za půl roku přišlo téměř o sedm milionů uživatelů a Ahold Delhaize kupuje české i slovenské Tesco. Do toho Google Ads ukazuje, proč vysoký ROAS nemusí znamenat zisk, a test sta slovenských webů odhalil, co nejvíc brzdí e-shopy na mobilu. A některá čísla z průzkumů mezi malými a velkými e-shopy vás opravdu překvapí. Pusťte si celou Mudrovačku a zjistěte, co v říjnu hýbalo e-commerce.\n\nMichal Moricz\nExecutive Director v Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nSlevy, které berou marži, reklamy v ChatGPT a Temu ztrácí Evropu | MUDROVAČKA 10/2026\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV MUDROVAČCE se dozvíte:\n01:15 Slevy můžou zvýšit prodej, ale co dělají s marží a hodnotou značky?\n03:58 ChatGPT a Google přidávají reklamy k AI odpovědím. Přes ChatGPT už jdou objednat i květiny\n06:45 Počet followerů už nezaručuje vysoký dosah. Na Facebooku si vyberete, jaký obsah chcete vidět\n10:17 Temu, Shein a AliExpress ztrácejí zákazníky i tržby v Evropě\n12:45 Jak zůstat dobrým copywriterem v době AI?\n14:54 Ahold Delhaize kupuje české a slovenské Tesco\n17:36 Vysoký ROAS ještě nemusí znamenat zisk. Google Ads testuje výpočet podle marže\n18:52 Výdejní boxy a místa si vybírá víc než 82 % zákazníků\n20:39 Velké e-shopy investují do růstu, malé pořád řeší náklady\n23:36 E-shop se může načítat přes osm sekund. Nejčastěji ho brzdí obrázky a skripty\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSlevy můžou zvýšit prodej, ale co dělají s marží a hodnotou značky?\n\nBlack Friday už dávno není jeden pátek. E-shopy chystají několikatýdenní akce, zákazníci čekají slevy a obchodníci utrácejí víc za reklamu. Loňská data ui42 ukázala, že během Black Friday Week tržby sledovaných e-shopů meziročně klesly o 10 %, přestože investice do placených kampaní vzrostly o víc než 5 %. Při vyhodnocení akce proto nestačí dívat se na obrat, ale na to, kolik vám zbylo po odečtení slev, reklamy, dopravy a dalších nákladů. Když dáte 20% slevu na produkt s 30% marží, z původního prostoru pro zisk vám zbude jen malá část. Nejdražší je sleva pro zákazníka, který by nakoupil i za plnou cenu.\n\nNeustálé zlevňování má i další důsledek. Zákazníci si zvyknou na akční cenu, nakupují do zásoby a čekají na další akci. Když doplněk stravy za 20 eur opakovaně kupují za 14, návrat k plné ceně vnímají jako zdražení a klidně se podívají ke konkurenci. Lépe může fungovat dárek místo slevy, třeba drobnost k nákupu nad 40 eur a další nad 70 a 100 eur. Zákazník zaplatí plnou cenu a nezvykne si na nižší hodnotu produktu. Slevy pomůžou při doprodeji zásob nebo získávání nových zákazníků, značka, která komunikuje téměř výhradně procenta, ale postupně ztrácí to, kvůli čemu by si ji lidé vybrali i bez slevy.\n\nChatGPT a Google přidávají reklamy k AI odpovědím. Přes ChatGPT už jdou objednat i květiny\n\nKdyž se ChatGPT zeptáte, co si máte koupit, můžete dostat i reklamu. V jednom z říjnových testů se zobrazila až ve třech ze čtyř případů a nemusela být od firmy, kterou vám ChatGPT doporučil. U citlivých témat, jako jsou zdravotní potíže nebo finanční tíseň, se inzerce může přestat zobrazovat i v "
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/slovaci-chteji-na-black-friday-nejvyssi-slevy-cesi-a-madari-jsou-mene-narocni/",
-      "datum": "2026-11-06",
-      "perex": "Slováci chtějí během Black Friday vyšší slevy než Češi a Maďaři. Data ukazují rozdíly v očekáváních i nákupním chování.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Slováci chtějí na Black Friday nejvyšší slevy. Češi a Maďaři jsou méně nároční",
-        "meta": {
-          "ogTitle": "Black Friday slevy: Slováci chtějí nejvyšší slevy",
-          "ogDesc": "Slováci chtějí během Black Friday vyšší slevy než Češi a Maďaři. Data ukazují rozdíly v očekáváních i nákupním chování.",
-          "published": "2026-11-06T08:30:31+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Slováci chtějí na Black Friday nejvyšší slevy. Češi a Maďaři jsou méně nároční"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n6. listopadu 2026\n6 min. doba čtení\nSlováci chtějí na Black Friday nejvyšší slevy. Češi a Maďaři jsou méně nároční\n\nBlack Friday láká zákazníky v celém regionu, jejich očekávání se ale liší. Slováci chtějí výraznější slevy než Češi a Maďaři, mladí na akce reagují nejcitlivěji a rozdíly mezi zeměmi jsou vidět i v tom, co plánují nakupovat a jak brzy se na výprodeje připravují.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nSlováci chtějí na Black Friday nejvyšší slevy. Češi a Maďaři jsou méně nároční\nZdroj: ChatGPT\n\nSlováci vstupují do Black Friday s nejvyššími očekáváními od slev ze tří sledovaných zemí. Aby nabídku považovali za dostatečně výhodnou, očekávají v průměru minimálně 55% slevu.\n\nVyplývá to z průzkumu NMS Market Research pro online tržiště Allegro, který porovnával nákupní chování v Česku, na Slovensku a v Maďarsku. Sběr dat probíhal od 9. do 16. října 2026 mezi 3 000 respondenty. Slovenský vzorek tvořilo 1 000 lidí ve věku 18 až 65 let s vlastními finančními prostředky.\n\nPřibližně čtyři z deseti Slováků plánují během Black Friday nakupovat. Ve srovnání se sousedními trhy ale vynikají především tím, jak výrazné zlevnění od obchodníků očekávají.\n\nSlováci chtějí výraznější slevy než Češi a Maďaři\n\nPrůzkum ukazuje, že slovenští zákazníci mají na výši slevy nejvyšší nároky ze tří sledovaných zemí.\n\nPrůměrná minimální sleva, při které Slováci začínají nabídku považovat za výhodnou, dosahuje 55 %. Tisková zpráva přesná srovnatelná procenta pro Česko a Maďarsko neuvádí, podle výsledků ale slovenská očekávání převyšují oba sousední trhy.\n\nSamotná výše slevy přitom není jediným faktorem. Zajímavé je také to, jak zákazníci posuzují, zda je nabídka skutečně výhodná.\n\nNa nejnižší cenu produktu za předchozích 30 dní se dívá 26 % slovenských respondentů. Téměř třetina, 32 %, se spoléhá spíše na ceny, které si pamatuje, a na aktuální porovnávání mezi obchody.\n\nVysoké procento na cenovce proto samo o sobě nemusí stačit. Zákazník ho porovnává s tím, co už viděl u konkurence nebo co si pamatuje z předchozího období.\n\nTÝDENNÍ PODCAST\nUPdate\nSlováci nakupují spontánněji\n\nRozdíly mezi zeměmi jsou vidět také v přípravě na Black Friday.\n\nSlováci si ve srovnání s Maďary méně často připravují nákupní seznam několik týdnů či měsíců dopředu. Alespoň týden předem plánuje nákupy přibližně pětina slovenských zákazníků, kteří se chtějí do výprodejů zapojit.\n\nTéměř polovina, 49 %, naopak nemá přesně stanovené, co chce koupit, a reaguje na nabídky, které ji během výprodejů zaujmou. Pro 26 % může být samotná nabídka dostatečným důvodem k nákupu, i když produkt původně koupit neplánovali.\n\nVolněji přistupují také k rozpočtu. Tři čtvrtiny Slováků nakupují bez pevného finančního limitu. Ti, kteří si ho stanoví, jsou ochotni utratit v průměru přibližně 200 eur.\n\nNejčastější motivací přitom není koupit něco úplně nového. Úsporu na produktech, které by si koupili i tak, uvádí 39 % respondentů.\n\nSlovensko chce módu, Maďarsko domácí spotřebiče\n\nOdlišnosti mezi trhy se projevují také v tom, po jakém sortimentu zákazníci během Black Friday sahají.\n\nNa Slovensku vede oblečení a obuv s 32 %, následuje elektronika s 26 %.\n\nV Maďarsku se podle průzkumu dostávají do popředí domácí spotřebiče. Výsledky tak naznačují, že jednotná Black Friday kampaň nemusí fungovat stejně dobře na každém trhu ani u stejného sortimentu.\n\nPro e-shop působící "
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/e-shop-roste-kdy-uz-ucetnictvi-nestiha/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/uvodni-stranky-ztraceji-kliknuti-z-googlu-pro-e-shop-to-nemusi-byt-spatna-zprava/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/vyssi-marze-z-ciny-muze-byt-pro-e-shop-horsi-nez-nizsi-marze-z-evropy/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/pomohla-regulace-cinskych-prodejcu-domacim-e-shopum/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/marketing-potrebuje-vic-nez-dalsi-trendy-rulezz-2026-prinese-to-co-opravdu-funguje/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/jak-muziker-diky-fokusu-datum-a-ai-buduje-ziskovejsi-byznys-ondrej-proksa-muziker/",
       "datum": null,
       "perex": null,
       "autor": null,
