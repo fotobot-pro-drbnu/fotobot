@@ -1,68 +1,48 @@
 {
-  "generatedAt": "2026-11-11T04:43:09.108Z",
+  "generatedAt": "2026-11-12T04:46:04.466Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/airbnb-every-stay-supports-emergency-housing",
-      "title": "Your next trip supports free emergency housing from Airbnb - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-11/inspirace--rge-announcement-1.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/spruce-welcome-cleaning-discount",
+      "title": "Welcome to Spruce! Claim Your $45 Credit from Spruce - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-12/inspirace--rge-welcome-1.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/uvu-performance-facility-announcement",
-      "title": "Inside the UVU Performance Facility from UVU - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-11/inspirace--rge-announcement-2.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/akris-chronicles-origin-story",
+      "title": "The Akris Chronicles: Chapter 1 - Origin from Akris - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-12/inspirace--rge-welcome-2.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/chanel-gabrielle-essence-purse-spray",
-      "title": "Limited edition: the GABRIELLE CHANEL ESSENCE purse spray from CHANEL - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-11/inspirace--rge-announcement-3.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/chicago-bulls-welcome-nation",
+      "title": "Smiles, Welcome to Bulls Nation from Chicago Bulls - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-12/inspirace--rge-welcome-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 50
     },
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 50
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
       "odkazu": 50
     }
   ],
-  "archivy": [
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "url": "https://mailchimp.com/blog/newsletter",
-      "title": "Marketing Resources | Mailchimp",
-      "shot": "emails/2026-11-11/mailchimp--archiv.jpg"
-    },
-    {
-      "znacka": "Omnisend",
-      "key": "omnisend",
-      "url": "https://www.omnisend.com/newsletter",
-      "title": "Free and Customizable Email Newsletter Templates",
-      "shot": "emails/2026-11-11/omnisend--archiv.jpg"
-    },
-    {
-      "znacka": "ActiveCampaign",
-      "key": "activecampaign",
-      "url": "https://www.activecampaign.com/newsletter",
-      "title": "Blog | ActiveCampaign",
-      "shot": "emails/2026-11-11/activecampaign--archiv.jpg"
-    }
-  ],
-  "poznamky": []
+  "archivy": [],
+  "poznamky": [
+    "Dnes se nenašel žádný e-mail konkurence. Když se to opakuje, nejde o chybu — ty značky svoje kampaně veřejně nevystavují."
+  ]
 }
