@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-11-12T04:46:36.453Z",
-  "pacienti": 1,
+  "generatedAt": "2026-11-13T04:50:19.939Z",
+  "pacienti": 2,
   "zachraneno": [
+    {
+      "key": "aweber",
+      "url": "https://www.aweber.com/",
+      "duvod": "spadlo",
+      "shot": "rescue/2026-11-13/aweber.jpg",
+      "health": {
+        "imgTotal": 43,
+        "imgBroken": 0,
+        "h1": "If you can imagine it,\nyou can build it with AWeber",
+        "ruleCount": 7
+      }
+    },
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-12/targito.jpg",
+      "shot": "rescue/2026-11-13/targito.jpg",
       "health": {
         "imgTotal": 71,
         "imgBroken": 40,

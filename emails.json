@@ -1,48 +1,68 @@
 {
-  "generatedAt": "2026-11-12T04:46:04.466Z",
+  "generatedAt": "2026-11-13T04:49:33.208Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/spruce-welcome-cleaning-discount",
-      "title": "Welcome to Spruce! Claim Your $45 Credit from Spruce - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-12/inspirace--rge-welcome-1.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/margin-shipping-confirmation",
+      "title": "A shipment from order OMW15946 is on the way from Margin - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-13/inspirace--rge-transactional-1.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/akris-chronicles-origin-story",
-      "title": "The Akris Chronicles: Chapter 1 - Origin from Akris - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-12/inspirace--rge-welcome-2.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/please-confirm-your-subscription-community-trust",
+      "title": "Please confirm your subscription! from The New York Community Trust - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-13/inspirace--rge-transactional-2.jpg"
     },
     {
-      "katalog": "rge-welcome",
-      "url": "https://reallygoodemails.com/emails/chicago-bulls-welcome-nation",
-      "title": "Smiles, Welcome to Bulls Nation from Chicago Bulls - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-12/inspirace--rge-welcome-3.jpg"
+      "katalog": "rge-transactional",
+      "url": "https://reallygoodemails.com/emails/200-bonus-390-apy-awaits-you",
+      "title": "$200 bonus & 3.90% APY awaits you! 🌟 from Live Oak Bank - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-13/inspirace--rge-transactional-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
       "odkazu": 50
     },
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 50
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
       "odkazu": 50
     }
   ],
-  "archivy": [],
-  "poznamky": [
-    "Dnes se nenašel žádný e-mail konkurence. Když se to opakuje, nejde o chybu — ty značky svoje kampaně veřejně nevystavují."
-  ]
+  "archivy": [
+    {
+      "znacka": "Flodesk",
+      "key": "flodesk",
+      "url": "https://flodesk.com/emails",
+      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
+      "shot": "emails/2026-11-13/flodesk--archiv.jpg"
+    },
+    {
+      "znacka": "Customer.io",
+      "key": "customerio",
+      "url": "https://customer.io/blog/newsletter",
+      "title": "Learn with Customer.io",
+      "shot": "emails/2026-11-13/customerio--archiv.jpg"
+    },
+    {
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-11-13/smartemailing--archiv.jpg"
+    }
+  ],
+  "poznamky": []
 }

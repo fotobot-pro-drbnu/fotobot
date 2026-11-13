@@ -288,7 +288,10 @@
     "https://reallygoodemails.com/emails/chanel-gabrielle-essence-purse-spray",
     "https://reallygoodemails.com/emails/spruce-welcome-cleaning-discount",
     "https://reallygoodemails.com/emails/akris-chronicles-origin-story",
-    "https://reallygoodemails.com/emails/chicago-bulls-welcome-nation"
+    "https://reallygoodemails.com/emails/chicago-bulls-welcome-nation",
+    "https://reallygoodemails.com/emails/margin-shipping-confirmation",
+    "https://reallygoodemails.com/emails/please-confirm-your-subscription-community-trust",
+    "https://reallygoodemails.com/emails/200-bonus-390-apy-awaits-you"
   ],
   "catalogs": {
     "rge-cart": {
@@ -306,17 +309,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-10",
+      "date": "2026-11-13",
       "odkazu": 50
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "odkazu": 50
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "odkazu": 50
     },
     "rge-newsletter": {
@@ -479,7 +482,7 @@
         "https://dotdigital.com/emails": 3,
         "https://dotdigital.com/email-archive": 3,
         "https://dotdigital.com/resources/newsletter": 3,
-        "https://dotdigital.com/blog/newsletter": 2,
+        "https://dotdigital.com/blog/newsletter": 3,
         "https://dotdigital.beehiiv.com/archive": 3,
         "https://dotdigital.substack.com/archive": 3
       }
