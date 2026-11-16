@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T04:50:59.686Z",
+  "generatedAt": "2026-11-16T04:43:51.085Z",
   "verze": 1,
-  "datum": "2026-11-13",
-  "oknoOd": "2026-11-03",
+  "datum": "2026-11-16",
+  "oknoOd": "2026-11-06",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,113 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 37,
+      "pocetPolozek": 36,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/ai-mela-zakaznikum-vybrat-spravny-produkt-v-temer-polovine-testu-selhala/",
+      "datum": "2026-11-13",
+      "perex": "AI nákupní asistenti v testu Visa neuspěli ve 42,8 % pokusů. Podobné slabiny ukazují i nezávislé akademické benchmarky.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "AI měla zákazníkům vybrat správný produkt. V téměř polovině testů selhala",
+        "meta": {
+          "ogTitle": "AI nákupní asistenti selhali v téměř polovině testů",
+          "ogDesc": "AI nákupní asistenti v testu Visa neuspěli ve 42,8 % pokusů. Podobné slabiny ukazují i nezávislé akademické benchmarky.",
+          "published": "2026-11-13T10:35:48+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "AI měla zákazníkům vybrat správný produkt. V téměř polovině testů selhala"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n13. listopadu 2026\n6 min. doba čtení\nAI měla zákazníkům vybrat správný produkt. V téměř polovině testů selhala\n\nAI nákupní asistenti mají v budoucnu vybírat produkty, porovnávat nabídky a nakupovat jménem zákazníků. Nový benchmark společnosti Visa však ukazuje, že problém může vzniknout ještě před samotnou platbou. Z 22 testovaných modelů neprošlo 42,8 % pokusů, protože AI nezjistila všechny potřeby zákazníka nebo zvolila nesprávný produkt. Podobné slabiny přitom ukazují i nezávislé akademické testy.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nAI měla zákazníkům vybrat správný produkt. V téměř polovině testů selhala\nZdroj: ChatGPT\n\nPředstava agentického nakupování je jednoduchá. Zákazník řekne umělé inteligenci, co potřebuje, AI zjistí podrobnosti, vybere vhodný produkt a časem může vyřídit i samotnou objednávku. Právě první část tohoto procesu ale zatím není příliš spolehlivá.\n\nSpolečnost Visa 5. listopadu představila Agentic Commerce Benchmark, ve kterém 22 AI modelů od 12 vývojářů řešilo 15 nákupních scénářů. Každý model dostal na jednu úlohu tři pokusy. Úkolem nebylo jen najít produkt. AI měla během rozhovoru zjistit všechny požadavky zákazníka a až potom rozhodnout, co má koupit. Pokud vhodný produkt neexistoval, správným výsledkem bylo doporučit nekoupit nic.\n\nV průměru uspělo 57,2 % pokusů\n\nVýsledek ukazuje poměrně velké rozdíly mezi jednotlivými modely. V průměru prošlo testem 57,2 % pokusů, nejlepší model dosáhl 82,2 % a nejslabší jen 28,9 %. Ještě zajímavější je, co se stalo při neúspěšných pokusech.\n\nV 54 % z nich AI i přes chybu dospěla k rozhodnutí produkt koupit.\n\nBuď doporučila výrobek, který nesplňoval zjištěné požadavky zákazníka, nebo se před nákupem vůbec nedopracovala ke všem jeho potřebám.\n\nPrávě to je pro e-commerce podstatné. AI nemusí udělat očividnou chybu typu „nevím“. Může působit přesvědčivě, vybrat produkt a pokračovat v nákupu, přestože jí pro správné rozhodnutí chybějí informace.\n\nNestačí najít produkt. AI musí vědět, na co se zeptat\n\nVisa v jednom ze scénářů testovala nákup televizoru. Zákazník na začátku neuvedl všechny požadavky. Model se musel během rozhovoru dopracovat například k rozpočtu, podpoře konkrétního obrazového formátu nebo požadavkům na hraní her. A právě schopnost odhalovat takové skryté potřeby měla výrazný vliv na výsledek.\n\nPět modelů, které nejlépe zjišťovaly chybějící požadavky, dosáhlo průměrné úspěšnosti 70,2 %. Pět nejslabších jen 44,4 %.\n\nTo naznačuje, že problém AI nákupních asistentů nemusí spočívat jen v samotném vyhledávání produktů. Kritické je také to, zda dokážou pochopit, co zákazník skutečně potřebuje, i když to neřekne hned v první otázce.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nStejnou úlohu nezvládnou pokaždé stejně\n\nBenchmark odhalil také problém s konzistentností. Každý model řešil stejný scénář třikrát. Všechny tři pokusy skončily úspěšně jen ve 34,2 % kombinací modelu a nákupního scénáře.\n\nJinými slovy, ani správně vyřešená úloha ještě neznamená, že ji stejný model příště zvládne správně znovu.\n\nU klasického chatbota může nekonzistentní odpověď znamenat nepříjemnost. U agenta, který má vybírat a později i objednávat produkty za zákazníka, už může znamenat chybný nákup.\n\nVisa proto plánuje benchmark dále rozšiřovat. Současná verze končí u výběru produktu a rozhodnutí koupit nebo nekoupit. Reálný checkou"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/platite-za-claude-uzivatele-upozornuji-na-necekane-platby-jedno-nastaveni-se-vyplati-zkontrolovat/",
+      "datum": "2026-11-13",
+      "perex": "Uživatelé Claude popisují sporné platby ve stovkách eur. Zjistěte, jak nastavit limity, vypnout dodatečné kredity a zabezpečit účet.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Platíte za Claude? Uživatelé upozorňují na nečekané platby. Jedno nastavení se vyplatí zkontrolovat",
+        "meta": {
+          "ogTitle": "Předplatné Claude: Jak předejít nečekaným platbám?",
+          "ogDesc": "Uživatelé Claude popisují sporné platby ve stovkách eur. Zjistěte, jak nastavit limity, vypnout dodatečné kredity a zabezpečit účet.",
+          "published": "2026-11-13T08:55:51+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Platíte za Claude? Uživatelé upozorňují na nečekané platby. Jedno nastavení se vyplatí zkontrolovat"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n13. listopadu 2026\n6 min. doba čtení\nPlatíte za Claude? Uživatelé upozorňují na nečekané platby. Jedno nastavení se vyplatí zkontrolovat\n\nPředplatné AI nástroje nemusí být konečnou částkou, kterou za něj zaplatíte. Claude umožňuje aktivovat dodatečnou spotřebu a automatické dobíjení kreditů. Na internetu se přitom objevují zkušenosti uživatelů, kteří popisují nečekané platby ve stovkách eur. Jejich jednotlivé případy nejsou nezávisle ověřené, existují však konkrétní nastavení, kterými lze riziko dalších nákladů omezit.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nPlatíte za Claude? Uživatelé upozorňují na nečekané platby. Jedno nastavení se vyplatí zkontrolovat\nZdroj: ChatGPT\nUživatelé popisují platby, které podle svých slov neschválili\n\nVe slovenské facebookové skupině Marketéri se objevil příspěvek upozorňující na nečekané platby za službu Claude od společnosti Anthropic. Autorka popisuje zkušenost své známé, které měly z účtu odejít stovky eur nad rámec předplatného. Podle jejích slov se do účtu někdo přihlásil z USA, změnil nastavení a aktivoval další placené služby. Dalším platbám údajně zabránily až bankovní limity.\n\nPodobnou zkušenost popsal koncem června 2026 uživatel na GitHubu. Tvrdí, že mu někdo bez jeho vědomí změnil předplatné Claude Max 5x na dražší Max 20x a následně mu byly naúčtovány dodatečné kredity. Sporné platby měly dosáhnout 490,94 €.\n\nDalší uživatel ze Slovenska upozornil na údajnou neoprávněnou změnu předplatného z Pro na Max 20x. Později svůj příspěvek doplnil o informaci, že mu obě sporné platby vrátili.\n\nAni jeden z uvedených případů nemáme nezávisle ověřený. Nemáme přístup k originálním fakturám, kompletní komunikaci s podporou ani k výsledkům případného vyšetřování. Nelze proto určit, zda za platbami stálo nesprávné nastavení účtu, jeho zneužití, chyba služby nebo jiná příčina. Cílem není připisovat odpovědnost uživatelům ani společnosti Anthropic, ale upozornit na možnosti zabezpečení účtu a kontroly výdajů, které mohou podobným situacím předcházet.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nRiziko zneužití účtu není jen teoretické\n\nBez ohledu na uvedené stížnosti existují i zdokumentované případy neoprávněného přístupu k účtům Claude. V srpnu 2026 BleepingComputer informoval o bezpečnostním upozornění, které Anthropic rozesílal dotčeným uživatelům. Útočníci pomocí škodlivého softwaru získávali přístup k aktivním přihlašovacím relacím a následně čerpali prostředky přidělené cizím účtům.\n\nTakový útok nemusí vyžadovat znalost hesla. Pokud škodlivý program ukradne údaje z již přihlášeného prohlížeče, může útočník v některých případech získat přístup bez opětovného přihlášení.\n\nAnthropic podle zveřejněného upozornění reagoval odhlašováním kompromitovaných relací, odstraňováním uložených platebních metod a vracením plateb, které identifikoval jako neoprávněné.\n\nZneužití účtu však automaticky neznamená vznik dodatečných plateb. Útočník může čerpat také prostředky, které má uživatel zahrnuté v předplatném. Stejně tak nelze tyto bezpečnostní incidenty automaticky spojovat s výše popsanými stížnostmi.\n\nJak může Claude účtovat více, než stojí předplatné?\n\nClaude nabízí platícím uživatelům funkci Usage credits, která umožňuje pokračovat v práci i po vyčerpání limitů zahrnutých v předplatném. Místo čekání na obnovení limitu začne služba využívat zakoupené kre"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/proc-e-shopy-meni-logistickeho-partnera-cena-neni-jedinym-duvodem/",
+      "datum": "2026-11-13",
+      "perex": "Fulfilment partner může rozhodnout o dalším růstu e-shopu. Důležitá je cena, komunikace, kapacita i přehled o zásobách.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Proč e-shopy mění logistického partnera? Cena není jediným důvodem",
+        "meta": {
+          "ogTitle": "Fulfilment pro e-shopy: kdy logistika začne brzdit růst",
+          "ogDesc": "Fulfilment partner může rozhodnout o dalším růstu e-shopu. Důležitá je cena, komunikace, kapacita i přehled o zásobách.",
+          "published": "2026-11-13T08:51:28+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Proč e-shopy mění logistického partnera? Cena není jediným důvodem"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n13. listopadu 2026\n4 min. doba čtení\nProč e-shopy mění logistického partnera? Cena není jediným důvodem \n\nZpožděné zásilky, nepřehledné faktury nebo sklad, který nestíhá během sezóny. Logistika se pro rostoucí e-shopy může postupně stát překážkou dalšího rozvoje. Analýza 75 rozhovorů s e-commerce značkami ukazuje, že při hledání nového fulfilment partnera rozhoduje nejen cena, ale také komunikace, transparentnost a schopnost přizpůsobit se růstu podnikání.\n\nPeter Magula\nDigital Marketing Specialist, AWGifts Europe\nChceš se přidat k e-commerce expertům jako Peter?\nPřidat se\nÚvod\n/\nČlánky\n/\nProč e-shopy mění logistického partnera? Cena není jediným důvodem \nZdroj: ChatGPT\n\nCo skutečně vede e-shopy ke změně logistiky?\n\nPodle analýzy společnosti fulfilment.com ze září 2026, založené na 75 rozhovorech s firmami, které aktivně hledaly nového logistického partnera, patří mezi opakovaně zmiňované problémy ceny, neočekávané poplatky, nedostatečná komunikace a provozní komplikace. Nejde tedy o reprezentativní průzkum celého e-commerce trhu, ale o zkušenosti firem, které už změnu logistiky zvažovaly.\n\nZajímavým zjištěním je, že problémy se často hromadí. Nepřehledná fakturace, chybějící informace o zásobách nebo pomalé reakce podpory mohou být stejně frustrující jako samotné chyby při expedici.\n\nVýběr fulfilment partnera proto není jen otázkou ceny za uskladnění palety, ale také důvěry a kontroly nad celým logistickým procesem.\n\nKdyž logistika nestíhá růst e-shopu\n\nDalším důvodem ke změně bývá nedostatečná kapacita. Zatímco běžný provoz může fungovat bez problémů, sezónní špičky rychle odhalí limity skladu, zaměstnanců nebo používaných systémů.\n\nAnalýza fulfilment.com popisuje dokonce případy, kdy firmy musely omezit marketingové kampaně, protože jejich sklad nedokázal zpracovat zvýšený počet objednávek.\n\nProblémem mohou být také minimální požadované objemy. Menší značky někdy potřebují uskladnit pouze několik palet, ale jejich současný poskytovatel požaduje výrazně vyšší počet zásilek.\n\nTransparentní ceny a flexibilita ze Slovenska\n\nNa flexibilní logistická řešení se zaměřuje AW Fulfilment Europe, které provozuje 8 000 m² skladových prostor v CTParku Trnava na Slovensku, pouhých 50 km od Bratislavy. Distribuční centrum se nachází v bezprostřední blízkosti dálničního propojení D1 a R1, což zajišťuje výhodnou dopravní dostupnost jak pro příjem zboží od obchodníků, tak pro následnou expedici objednávek zákazníkům v Česku a dalších evropských zemích.\n\nSpolečnost nabízí skladování, Pick & Pack, expedici, manipulaci s kontejnery i přebalování zboží. Služby mohou využívat menší firmy, rostoucí e-shopy i zavedené značky, které hledají dodatečné skladové kapacity.\n\nVýhodou je transparentní model účtování podle skutečně využitých služeb. Podle zveřejněného ceníku začíná standardní skladování na 2,20 € za paletu týdně, Pick & Pack na 1,50 € za položku a vykládka kontejneru na 200 €. Konečná cena závisí na konkrétních požadavcích.\n\nKontrola nad zásobami i bez vlastního skladu\n\nJedním z důležitých zjištění průzkumu je také potřeba lepšího přehledu o skladových zásobách a objednávkách.\n\nAW Fulfilment proto poskytuje zákazníkům online Live Dashboard, který umožňuje sledovat zásoby, stav objednávek, produktová data, reporty i fakturaci.\n\nFirmy tak mohou mít přehled o svých zásobách a objednávkách odkudkoliv, zatímco jejich fyzické skladování, balení a expedici zajišťuje tým AW Fulfilment v Trnavě.\n\nJak poznat"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/ai-asistenti-uz-nejsou-jen-chatboti-nova-data-ukazuji-jejich-vliv-na-nakupovani/",
+      "datum": "2026-11-13",
+      "perex": "AI asistenti mění způsob nakupování. Data Adobe, Amazonu a Zalanda ukazují vyšší konverze i více nákupních interakcí.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "AI asistenti už nejsou jen chatboti. Nová data ukazují jejich vliv na nakupování",
+        "meta": {
+          "ogTitle": "AI asistenti mění nakupování. Nová data ukazují jejich vliv",
+          "ogDesc": "AI asistenti mění způsob nakupování. Data Adobe, Amazonu a Zalanda ukazují vyšší konverze i více nákupních interakcí.",
+          "published": "2026-11-13T08:14:58+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "AI asistenti už nejsou jen chatboti. Nová data ukazují jejich vliv na nakupování"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n13. listopadu 2026\n6 min. doba čtení\nAI asistenti už nejsou jen chatboti. Nová data ukazují jejich vliv na nakupování\n\nZákazníci přicházející z AI nástrojů mají podle nových dat Adobe o 90 % vyšší konverzní poměr než ostatní návštěvníci amerických e-shopů. Amazon zase uvádí vyšší pravděpodobnost dokončení nákupu u uživatelů svého asistenta a Zalando zaznamenalo nárůst přidávání produktů do košíku. Umělá inteligence se postupně posouvá od vyhledávání produktů k aktivní pomoci při nákupu. Co ukazují konkrétní čísla a kde jsou jejich limity?\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nAI asistenti už nejsou jen chatboti. Nová data ukazují jejich vliv na nakupování\nZdroj: ChatGPT\n\nVyhledávání produktů se mění. Zákazník už nemusí zadávat pouze název výrobku nebo procházet desítky výsledků. AI asistentovi může popsat, co potřebuje, požádat ho o porovnání možností a postupně zpřesňovat výběr. Některé nástroje už dokážou produkty vložit do košíku nebo připravit objednávku.\n\nZajímavější než samotné funkce jsou však výsledky. Přibývají údaje, které naznačují, že zákazníci využívající AI se při nakupování chovají jinak. Častěji dokončují nákupy, tráví více času na e-shopech a při výběru produktů používají podrobnější otázky. Zatím však není možné všechny tyto rozdíly připisovat výhradně umělé inteligenci.\n\nNávštěvníci z AI mají o 90 % vyšší konverzní poměr\n\nJedny z nejvýraznějších výsledků přinesla společnost Adobe. Její analýza z 29. října 2026 vychází z dat o více než bilionu návštěv amerických maloobchodních webů, 100 milionech produktů a 18 produktových kategoriích.\n\nV září 2026 měly návštěvy přicházející z AI nástrojů o 90 % vyšší konverzní poměr než návštěvy z ostatních zdrojů. Ještě v srpnu 2025 přitom AI návštěvnost konvertovala o 9 % hůře.\n\nRozdíl se projevil i u dalších ukazatelů:\n\nO 83 % vyšší tržby na návštěvu oproti ostatní návštěvnosti\nO 53 % vyšší míra přidávání produktů do košíku\nO 73 % více času stráveného na webu\nO 25 % více zobrazených stránek na návštěvu\n\nZároveň návštěvnost přicházející z AI meziročně vzrostla o 71 %.\n\nLidé, kteří si nechají poradit od AI, možná přicházejí do e-shopu už s lepší představou o tom, co chtějí koupit. To by mohlo vysvětlovat, proč nakupují častěji. Z dat ale nevíme, zda jim při rozhodování skutečně pomohla AI, nebo by nakoupili i bez ní.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nAmazon hlásí 300 milionů uživatelů a vyšší pravděpodobnost nákupu\n\nVýsledky z vlastního e-shopu zveřejnil také Amazon. Jeho nákupního asistenta Rufus, od května 2026 známého jako Alexa for Shopping, využilo v roce 2025 více než 300 milionů zákazníků. V hospodářských výsledcích za čtvrté čtvrtletí 2025 společnost zároveň uvedla, že asistent pomohl v roce 2025 vytvořit téměř 12 miliard dolarů dodatečných tržeb v anualizovaném vyjádření.\n\nAmazon už ve výsledcích za třetí čtvrtletí 2025 informoval, že zákazníci využívající Rufus měli o 60 % vyšší pravděpodobnost dokončení nákupu.\n\nTento údaj však nelze číst jako 60% zvýšení konverzí způsobené asistentem. Amazon porovnává nakupující, kteří nástroj využívají, s ostatními zákazníky. Je proto možné, že část rozdílu souvisí i s jejich původním nákupním záměrem.\n\nAsistent pomáhá zákazníkům vybírat produkty, porovnávat jejich vlastnosti nebo zjišťovat, která možnost lépe odpovídá jejich potřebám. Amazon zároveň rozšiřuje fu"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/jak-dela-marketing-vivantis-v-dobe-ai-martin-komora-vivantis/",
+      "datum": "2026-11-13",
+      "perex": "Prečítajte si Jak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+      "autor": "Michal Moricz",
+      "textKarty": null,
+      "detail": {
+        "h1": "Jak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis)",
+        "meta": {
+          "ogTitle": "Jak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis)",
+          "ogDesc": "Prečítajte si Jak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+          "published": "2026-11-13T08:07:12+00:00",
+          "autor": "Michal Moricz",
+          "h1": "Jak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis)"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n13. listopadu 2026\n9 min. doba čtení\nJak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis)\n\nKdyž Martin Komora přišel do Vivantisu, na skladě bylo zboží za 650 milionů korun a asi 200 milionů z něj se vůbec nehýbalo. Firma přitom získávala 70 až 75 procent návštěvnosti přes placené kanály a cenou soupeřila s marketplace hráči, které nemohla nikdy porazit. Rebranding proto nebyl o novém logu, ale o tom, co Vivantis prodává a komu. Proč z nabídky zmizely nástěnné hodiny, zatímco módní hodinky zůstaly? A jak umělá inteligence mění práci marketingového týmu? Více informací nám poskytl Martin Komora, CEO, Vivantis.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\nJak dělá marketing Vivantis v době AI? (Martin Komora, Vivantis)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n02:58 Platí ještě klasické principy marketingu?\n04:53 Proč Vivantis prošel rebrandingem?\n06:22 Kdy by měla firma změnit značku?\n10:44 Jak nepřijít o původní zákazníky při nové cílové skupině?\n14:37 Proč Vivantis vyřazuje produkty z portfolia?\n20:12 Musel se změnit i mindset firmy?\n24:02 Co už ukazuje, že rebranding funguje?\n28:07 Jak se odpoutat od Heureky a placených kanálů?\n33:31 Kde Vivantis využívá AI?\n36:34 Jak AI změní marketingové týmy?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nZáklady marketingu se nemění, mění se distribuce\n\nŘada respektovaných marketérů se po letech praxe vrací k Philipu Kotlerovi a přiznává, že měl pravdu. Martin Komora to vidí podobně. Základy marketingu se podle něj nezměnily a ani nezmění. Mění se distribuce, tedy platformy, na kterých lidé konzumují obsah, a způsob, jakým ho konzumují.\n\nJediný výraznější pokus tyto základy rozbourat vidí v přístupu Byrona Sharpa. Podstata práce marketéra však zůstává stejná. V mnoha disciplínách ji sice převezme umělá inteligence, ale principy, na kterých marketing stojí, se tím nemění.\n\nZnačka je destilát rozhodnutí, ne nové logo\n\nMnozí si Vivantis pamatují podle hnědého oblého loga. Dnes je značka jinde a rebranding byl jen poslední součástkou větší skládačky. Předcházela mu rozhodnutí o tom, co Vivantis je, co prodává, pro koho a jaká je jeho unikátní zákaznická propozice.\n\nKdyž bylo jasné, jakým zákazníkům chce firma prodávat, co je zajímá a co s nimi rezonuje, přišla jednoduchá otázka. Bude k tomu staré logo a celý dosavadní projev značky sedět? Odpověď zněla ne. Tým proto hledal způsob, jak novou strategii zabalit a komunikovat tak, aby opravdu fungovala.\n\nKdy je čas značku změnit\n\nSpousta majitelů e-shopů si pod změnou značky představuje nové logo, barvu a maskota za milion, po kterých přijde spása. Logo z roku 1995 přitom samo o sobě není problém, lidé ho znají a značka má historii i povědomí. Dokud funguje, není třeba na ni sahat. Změna přichází na řadu tehdy, když se firma natolik promění v produktech, cílení či managementu, že to, co značka říká a jak vypadá, už neodpovídá realitě.\n\nDalším signálem je strop v původní kategorii. Pokud chce firma růst do dalších, musí si položit otázku, jestli to bude se značkou ladit. Varováním je i zpětná vazba zákazníků. Když prodejce pneumatik lidé vnímají jako specialistu na vybavení garáže, komunikace selhává a je třeba najít jasné propojení mezi tím, co firma prodává, komu a na jakých trzích.\n\nVěrný kmen zákazníků je často iluze\n\nFirmy se při změně cílové skupiny bojí, že přijdou "
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -38,153 +138,53 @@
           "autor": "Terézia Papáneková",
           "h1": "Black Friday po česku: nízká důvěra ve slevy, vysoký zájem o nákupy"
         },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n5 min. doba čtení\nBlack Friday po česku: nízká důvěra ve slevy, vysoký zájem o nákupy\n\nČeši patří mezi největší skeptiky, pokud jde o reálnost Black Friday slev. Přesto je letos chce využít více lidí než loni a při porovnávání nabídek stále častěji sahají po umělé inteligenci. Black Friday 2026 tak v Česku ukazuje zajímavý paradox: nízkou důvěru, ale stále vysokou citlivost na cenu.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nBlack Friday po česku: nízká důvěra ve slevy, vysoký zájem o nákupy\nZdroj: ChatGPT\n\nJen 36 % Čechů věří, že ceny během Black Friday jsou skutečně nižší než obvykle. Spolu s Dány tak patří mezi země, kde lidé deklarovaným slevám věří nejméně. Přesto plánuje předvánoční slevové akce využít 73 % respondentů, což je o 9 procentních bodů více než loni.\n\nVyplývá to z průzkumu Boston Consulting Group, do kterého se zapojilo 10 220 lidí z deseti zemí, z toho 1 001 z Česka.\n\nSlevám nevěří, ale cenu sledují velmi pozorně\n\nNedůvěra k Black Friday neznamená, že by Češi slevy ignorovali. Právě naopak.\n\nVysoké slevy uvádí mezi oblíbenými typy nabídek 56 % českých nakupujících a 51 % si vybírá obchod podle toho, kde najde nejnižší cenu. V obou případech jde o nejvyšší podíl ze všech zemí zahrnutých do průzkumu.\n\nČeský zákazník je tedy na cenu velmi citlivý, samotné označení „sleva“ mu ale nestačí. Chce mít pocit, že nabídka je skutečně výhodná a obchodník s cenou nemanipuluje.\n\nTaké výsledky spokojenosti ukazují, že Black Friday v Česku nemá úplně čistou pověst. Mezi lidmi, kteří během loňské akce nakupovali, hodnotilo svou zkušenost velmi dobře 31 % respondentů. Stejných 31 % ji hodnotilo kriticky. Češi tak patří po Dánech mezi nejméně spokojené zákazníky ze sledovaných zemí.\n\nLidé jsou ze slev unavení\n\nPodle Jaroslava Zádrapy z pražské kanceláře BCG může nízká spokojenost souviset i s tím, že slevových akcí přibývá a postupně se slévají do jedné dlouhé sezóny.\n\n„Nízká spokojenost může souviset s tím, že lidé jsou z nekonečných slev unavení a nevěří jim. Slevové akce se protahují, přibývají další a jedna začíná navazovat na druhou, takže se v nich přestávají orientovat. Tuto únavu vidíme na řadě trhů, v Česku se k ní ale přidává právě i dlouhodobá debata o nedostatečné transparentnosti akčních cen a o tom, nakolik slevy odpovídají realitě, a to nejen během Black Friday,“ říká Jaroslav Zádrapa, odborník na maloobchod z pražské kanceláře Boston Consulting Group.\n\nBlack Friday už dávno netrvá jen jeden den. Obchodníci začínají s akcemi dříve, prodlužují je a po jedné kampani často následuje další. Zákazník se proto může v nabídkách hůře orientovat a zároveň začíná pochybovat, zda je deklarovaná sleva opravdu výjimečná.\n\nDůvěru buduje značka a recenze, influencer ji může snížit\n\nPrůzkum zároveň ukazuje, co rozhoduje o tom, zda zákazník nabídce uvěří. Nejvíce pomáhá pověst obchodníka, dobrá předchozí zkušenost a recenze ostatních zákazníků. Naopak tvrzení typu „zbývá posledních pár kusů“ důvěru snižují.\n\nZajímavý je i pohled na influencery. V Česku je o 11 procentních bodů více lidí, kterým doporučení influencera důvěryhodnost nabídky snižuje, než těch, kterým ji zvyšuje.\n\nPro e-shopy je to důležitá připomínka. Při Black Friday nemusí fungovat větší tlak a hlasitější komunikace. Mnohem více může rozhodovat to, zda zákazník značce věří ještě předtím, než akce vůbec začne.\n\nNOVINKY Z YOUTUBE K"
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n12. listopadu 2026\n5 min. doba čtení\nBlack Friday po česku: nízká důvěra ve slevy, vysoký zájem o nákupy\n\nČeši patří mezi největší skeptiky, pokud jde o reálnost Black Friday slev. Přesto je letos chce využít více lidí než loni a při porovnávání nabídek stále častěji sahají po umělé inteligenci. Black Friday 2026 tak v Česku ukazuje zajímavý paradox: nízkou důvěru, ale stále vysokou citlivost na cenu.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nBlack Friday po česku: nízká důvěra ve slevy, vysoký zájem o nákupy\nZdroj: ChatGPT\n\nJen 36 % Čechů věří, že ceny během Black Friday jsou skutečně nižší než obvykle. Spolu s Dány tak patří mezi země, kde lidé deklarovaným slevám věří nejméně. Přesto plánuje předvánoční slevové akce využít 73 % respondentů, což je o 9 procentních bodů více než loni.\n\nVyplývá to z průzkumu Boston Consulting Group, do kterého se zapojilo 10 220 lidí z deseti zemí, z toho 1 001 z Česka.\n\nSlevám nevěří, ale cenu sledují velmi pozorně\n\nNedůvěra k Black Friday neznamená, že by Češi slevy ignorovali. Právě naopak.\n\nVysoké slevy uvádí mezi oblíbenými typy nabídek 56 % českých nakupujících a 51 % si vybírá obchod podle toho, kde najde nejnižší cenu. V obou případech jde o nejvyšší podíl ze všech zemí zahrnutých do průzkumu.\n\nČeský zákazník je tedy na cenu velmi citlivý, samotné označení „sleva“ mu ale nestačí. Chce mít pocit, že nabídka je skutečně výhodná a obchodník s cenou nemanipuluje.\n\nTaké výsledky spokojenosti ukazují, že Black Friday v Česku nemá úplně čistou pověst. Mezi lidmi, kteří během loňské akce nakupovali, hodnotilo svou zkušenost velmi dobře 31 % respondentů. Stejných 31 % ji hodnotilo kriticky. Češi tak patří po Dánech mezi nejméně spokojené zákazníky ze sledovaných zemí.\n\nLidé jsou ze slev unavení\n\nPodle Jaroslava Zádrapy z pražské kanceláře BCG může nízká spokojenost souviset i s tím, že slevových akcí přibývá a postupně se slévají do jedné dlouhé sezóny.\n\n„Nízká spokojenost může souviset s tím, že lidé jsou z nekonečných slev unavení a nevěří jim. Slevové akce se protahují, přibývají další a jedna začíná navazovat na druhou, takže se v nich přestávají orientovat. Tuto únavu vidíme na řadě trhů, v Česku se k ní ale přidává právě i dlouhodobá debata o nedostatečné transparentnosti akčních cen a o tom, nakolik slevy odpovídají realitě, a to nejen během Black Friday,“ říká Jaroslav Zádrapa, odborník na maloobchod z pražské kanceláře Boston Consulting Group.\n\nBlack Friday už dávno netrvá jen jeden den. Obchodníci začínají s akcemi dříve, prodlužují je a po jedné kampani často následuje další. Zákazník se proto může v nabídkách hůře orientovat a zároveň začíná pochybovat, zda je deklarovaná sleva opravdu výjimečná.\n\nDůvěru buduje značka a recenze, influencer ji může snížit\n\nPrůzkum zároveň ukazuje, co rozhoduje o tom, zda zákazník nabídce uvěří. Nejvíce pomáhá pověst obchodníka, dobrá předchozí zkušenost a recenze ostatních zákazníků. Naopak tvrzení typu „zbývá posledních pár kusů“ důvěru snižují.\n\nZajímavý je i pohled na influencery. V Česku je o 11 procentních bodů více lidí, kterým doporučení influencera důvěryhodnost nabídky snižuje, než těch, kterým ji zvyšuje.\n\nPro e-shopy je to důležitá připomínka. Při Black Friday nemusí fungovat větší tlak a hlasitější komunikace. Mnohem více může rozhodovat to, zda zákazník značce věří ještě předtím, než akce vůbec začne.\n\nNOVIN"
       }
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/kde-budou-e-shopy-ziskavat-zakazniky-az-google-a-meta-prestanou-skalovat/",
-      "datum": "2026-11-12",
-      "perex": "Kde hledat zákazníky, když Google a Meta přestanou růst? Experti hodnotí marketingové kanály, AI, retenci i tvůrce.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Kde budou e-shopy získávat zákazníky, až Google a Meta přestanou škálovat?",
-        "meta": {
-          "ogTitle": "Marketingové kanály e-shopu: Kde hledat další růst?",
-          "ogDesc": "Kde hledat zákazníky, když Google a Meta přestanou růst? Experti hodnotí marketingové kanály, AI, retenci i tvůrce.",
-          "published": "2026-11-12T09:45:24+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Kde budou e-shopy získávat zákazníky, až Google a Meta přestanou škálovat?"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n5 min. doba čtení\nKde budou e-shopy získávat zákazníky, až Google a Meta přestanou škálovat?\n\nGoogle a Meta zůstávají pro mnoho e-shopů hlavními zdroji nových zákazníků. Ani výkonnostní reklamu však nelze při stejné ziskovosti škálovat donekonečna. Když další peníze v kampaních přestanou přinášet další ziskový růst, kam se má e-shop podívat?\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nKde budou e-shopy získávat zákazníky, až Google a Meta přestanou škálovat?\nZdroj: ChatGPT\n\nNákupní cesta už dávno nevede jen přes reklamu do e-shopu. Zákazník může produkt poprvé vidět ve videu tvůrce, potom si ho porovnat na marketplace, vyhledat recenze na Googlu, zeptat se na něj ChatGPT a teprve potom nakoupit. Pro e-shop je proto stále těžší říct nejen to, odkud zákazník přišel, ale také který kontakt ho k nákupu skutečně přesvědčil.\n\nJedním z nejrychleji rostoucích zdrojů návštěvnosti je AI. Similarweb uvádí, že návštěvnost retailových webů z generativní AI meziročně vzrostla o 203 %. Stále však tvoří jen přibližně 0,4 % návštěv e-commerce webů. Růst je tedy výrazný, základna zatím velmi malá.\n\nMění se také způsob, jakým lidé produkty objevují. Podle globálního průzkumu NIQ a World Data Lab používá AI při objevování produktů 74 % nakupujících. To ale ještě neznamená, že přes AI také nakupují. Google a Meta tedy ze dne na den nezmizí. Otázkou je spíš to, co má e-shop dělat ve chvíli, kdy už na nich nedokáže ziskově nakupovat další růst.\n\nJeden nový Google zřejmě nepřijde\n\nExperti se neshodují na jednom novém kanálu, který by měl Google či Metu nahradit. Mnohem častěji mluví o tom, že e-shop by neměl stát jen na jednom či dvou zdrojích zákazníků.\n\nBudoucnost nebude mít jednoho „dalšího Googlu“. Akvizice se bude tříštit mezi AI vyhledávání, tvůrce, marketplace, retail media a vlastní kanály. Pokud Google a Meta přestávají ziskově škálovat, část rozpočtu bych přesunul především do creator partnerships, affiliate a experimentů s AI discovery. Zároveň bych posiloval CRM, e-mailing, organický obsah a komunitu. Nové kanály mohou přinést růst, ale nejodolnější e-shop bude ten, který nebude závislý na jednom algoritmu ani jedné platformě.\n\nJakub Horváth\nMarketér a vysokoškolský pedagóg | Zakladateľ Malého Thajska | Marketingová komunikácia, digitálny marketing a vzdelávanie, Malé Thajsko\n  \n\nNěkdy však e-shop nepotřebuje nový kanál, ale silnější značku. Stačí se podívat na konkurenci, která prodává podobný produkt za podobnou cenu, a přesto roste. Rozdíl může být jednoduše v tom, že ji lidé znají, pamatují si ji a při nákupu si na ni vzpomenou dříve.\n\nS klientem jsem nedávno řešil stejnou otázku – Metu ani Google už nedokážeme škálovat při cílovém PNO. V SEO se stejně tak dlouhodobě nedokážeme posunout. Podívali jsme se tedy na silnější konkurenci a zjistili jsme, že to, co oni mají a my ne, je Brand. Konkurence dělá sociální sítě, podcasty, videa a dokonce i hudební klipy. Tím směrem by se měl vydat každý, kdo už má výkonnostní kanály pokryté.\n\nMarek Jelok\nSEO & PPC Specialist\n \nKdyž Meta neroste, nemusí být problém v Metě\n\nKdyž Meta přestane přinášet další růst, nemusí to hned znamenat, že už na ní není koho oslovit. Problém může být mnohem jednodušší. E-shop stále dokola pouští stejné reklamy a lidé je už přestávají vnímat.\n\nKdyž Meta přestane škálovat, v naprosté většině případů není vyčerpaný kanál, ale kreativa."
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/prvni-ai-e-mailing-v-cesku-leci-datove-manko-malych-tymu-ecomail-spustil-autonomniho-agenta-ema/",
-      "datum": "2026-11-12",
-      "perex": "Ecomail představil AI agenta EMA, který pomáhá s analýzou dat, segmentací a automatizací e-mailingu. Firmám šetří čas i manuální práci.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "První AI e-mailing v Česku „léčí“ datové manko malých týmů. Ecomail spustil autonomního agenta EMA",
-        "meta": {
-          "ogTitle": "Ecomail spustil autonomního agenta EMA",
-          "ogDesc": "Ecomail představil AI agenta EMA, který pomáhá s analýzou dat, segmentací a automatizací e-mailingu. Firmám šetří čas i manuální práci.",
-          "published": "2026-11-12T08:53:35+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "První AI e-mailing v Česku „léčí“ datové manko malých týmů. Ecomail spustil autonomního agenta EMA"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n4 min. doba čtení\nPrvní AI e-mailing v Česku „léčí“ datové manko malých týmů. Ecomail spustil autonomního agenta EMA\n\nVětšina e-shopů a firem nedokáže využít e-mailing naplno. Důvodem je složitost a časová náročnost analýz zákaznických dat, bez kterých se pokročilé e-mailové strategie a kampaně neobejdou. 98 % marketérů přitom při personalizaci naráží. Tuzemský Ecomail proto jako první v Česku vyvinul vlastního AI agenta s názvem EMA. Ušetří až 90 % klikání a e-mailing zkrátí z hodin na minuty.\n\nJana Rebersak\nPartnership Manager, Ecomail\nChceš se přidat k e-commerce expertům jako Jana?\nPřidat se\nÚvod\n/\nČlánky\n/\nPrvní AI e-mailing v Česku „léčí“ datové manko malých týmů. Ecomail spustil autonomního agenta EMA\nZdroj: Ecomail\n\nVětšina marketérů a obchodníků používá AI na plánování schůzek (33 %), tvorbu úkolů a připomínek (31 %) nebo follow-up e-maily po obchodních jednáních (30 %). 84 % marketérů pak přiznává, že pořád spouští generické kampaně a 98 % shodně naráží na bariéry v personalizaci, a to hlavně kvůli datům.\n\nProblém nyní řeší český AI agent EMA od Ecomailu. Sám umí naplno využít všechny funkce aplikace Ecomail včetně pokročilé datové analytiky, segmentace a automatizací. Navazuje tak na dřívější MCP integraci, kterou firma uživatelům umožnila bezpečně propojit svá data s externími asistenty, jako jsou ChatGPT nebo Claude.\n\n„Firmy chtějí e-mailing využívat naplno, stavět chytřejší automatizace a přesněji cílit na své zákazníky. V každodenním provozu jim k tomu ale chybí čas, lidé nebo odborné znalosti. Právě to nyní řeší EMA. Uživatele přirozeně navádí k funkcím, které dříve zůstávaly nevyužité, a znatelně zrychluje práci od prvotního nápadu až po detailní vyhodnocení,“ vysvětluje Jakub Stupka, COO a spoluzakladatel Ecomailu.\n\nRychlost zvyšuje kapacitu týmu a dělá e-mailing proveditelný\n\nDíky zrychlení, které EMA do e-mailingu přináší, mohu firmy aplikovat strategie, které by pro ně jinak byly nedosažitelné. EMA totiž pracuje nejen s textem e-mailu, ale přímo nad daty konkrétní společnosti. Využívá k tomu datovou platformu (CDP) integrovanou přímo v Ecomailu. Tím práci zefektivňuje natolik, že komplexní e-mailing zvládnou i extrémně malé týmy.\n\n„18 % všech objednávek máme z e-mailingu, přestože se mu věnuje pouze jeden člověk z týmu. Bez externí agentury. EMA nám pomáhá analyzovat 50 000 zákazníků podle nákupního chování a připravit 2–3 newslettery týdně do 5 zemích. Každý z nich ve 4 kategoriích pro 3 různé RFM skupiny. Pokud manuální napsání e-mailu trvá hodinu, zabralo by to víc, než kolik jeden člověk odpracuje za týden. Většina firem proto segmentaci vzdá a pošle jeden e-mail hromadně. Právě cílený, daty podložený e-mailing je přitom nejsilnější,“ říká Daniel Sosýn, CEO a zakladatel firmy Protein a Co.\n\nŘádově rychlejší\n\nPodle dat Ecomailu z tříměsíčního testovacího provozu připraví EMA text e-mailu za 2 minuty a kontakty segmentuje kolem 30 sekund. I při desítkách iterací trvá práce hodiny místo dní. Automatizaci kampaně lze nastavit asi za 5 minut místo dvou hodin a posoudit jejich výkon dokáže i za minutu.\n\n„Navrhli jsme ji tak, aby zvládla nejen napsat e-mail, ale také samostatně nastavit automatizaci nebo navrhnout šablonu. Právě ty zabírají klientům nejvíc času, protože musí být stále nové. Finální schválení kampaně přitom zůstává vždy bezpečně v rukou uživatele. Navíc díky tomu, že vše probíhá přímo uvnitř Ecomailu, neopouštějí zákaznická data chráněné prostře"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/eu-chce-zakazat-manipulativni-praktiky-na-e-shopech-hrozi-vysoke-pokuty/",
-      "datum": "2026-11-12",
-      "perex": "EU chce zakázat 10 manipulativních praktik na e-shopech. Návrh mění pravidla předplatného, cenové komunikace i zákaznické podpory.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "EU chce zakázat manipulativní praktiky na e-shopech. Hrozí vysoké pokuty",
-        "meta": {
-          "ogTitle": "Manipulativní praktiky na e-shopech: EU chystá zákazy",
-          "ogDesc": "EU chce zakázat 10 manipulativních praktik na e-shopech. Návrh mění pravidla předplatného, cenové komunikace i zákaznické podpory.",
-          "published": "2026-11-12T08:25:55+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "EU chce zakázat manipulativní praktiky na e-shopech. Hrozí vysoké pokuty"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n8 min. doba čtení\nEU chce zakázat manipulativní praktiky na e-shopech. Hrozí vysoké pokuty\n\nEvropská komise představila Digital Fairness Act, který má omezit manipulativní praktiky při online nakupování. Návrh se zaměřuje na falešná upozornění na nedostatek zboží, předem zaškrtnuté doplňkové služby nebo komplikované rušení předplatného. Za některá porušení by firmám mohly hrozit pokuty až do výše 6 % celosvětového ročního obratu.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nEU chce zakázat manipulativní praktiky na e-shopech. Hrozí vysoké pokuty\nZdroj: ChatGPT\n\nNa stránce produktu se objeví upozornění, že skladem zbývá poslední kus. V nákupním košíku je automaticky zaškrtnuté pojištění zásilky a při pokusu opustit stránku vyskočí další okno se slevou. Zdánlivé drobnosti mohou ovlivnit, zda zákazník nakoupí, kolik utratí a jestli si vůbec všimne, za co platí.\n\nPrávě na podobné praktiky se zaměřuje Digital Fairness Act (DFA), který Evropská komise představila 11. listopadu 2026. Navrhované nařízení má zpřesnit pravidla ochrany spotřebitelů a omezit používání manipulativních prvků na webech a v aplikacích, známých jako dark patterns.\n\nNávrh se přitom netýká jen velkých technologických platforem. Vztahoval by se i na běžné internetové obchody, které prodávají zboží nebo služby spotřebitelům v EU.\n\nDeset manipulativních praktik, které chce EU zakázat\n\nEvropská komise chce výslovně zakázat deset typů manipulativních prvků, které by byly automaticky považovány za nekalé obchodní praktiky. Podle přílohy k oficiálnímu návrhu jde o následující praktiky:\n\nNepravdivé informace o dostupnosti nebo popularitě produktu. E-shop například tvrdí, že zbývají poslední dva kusy nebo že je o produkt mimořádný zájem, přestože to není pravda. Zakázáno by bylo také zamlčování důležitých informací, které tato tvrzení uvádějí na pravou míru.\nOpakovaná upozornění vyvolávající dojem nedostatku. Během objednávky se zákazníkovi opakovaně zobrazují upozornění na omezené zásoby, popularitu produktu nebo časově omezenou nabídku, jejichž cílem je přimět ho k rychlému rozhodnutí.\nPředem zaškrtnuté placené doplňky. Do objednávky se automaticky přidá pojištění zásilky, další produkt nebo větší množství zboží. Zákazník musí tuto možnost sám zrušit, místo aby s ní předem aktivně souhlasil.\nPrezentování odmítnutí jako špatného rozhodnutí. Tlačítko pro odmítnutí nabídky používá formulace, které mají v zákazníkovi vyvolat pocit, že dělá chybu. Například „Ne, nechci ušetřit“ místo neutrálního „Ne, děkuji“.\nVytváření dojmu, že zákazník nemá jinou možnost. E-shop výrazně zvýrazní jeden způsob nákupu nebo předplatného a vyvolává dojem, že jde o jedinou dostupnou variantu, přestože existují i jiné možnosti.\nOpakované zpochybňování již učiněného rozhodnutí. Zákazník odmítne nabídku, ale web ho prostřednictvím dalších vyskakovacích oken opakovaně vyzývá, aby své rozhodnutí změnil, ačkoli to není nutné ke splnění zákonné povinnosti.\nMatoucí formulace při výběru možností. E-shop používá dvojité zápory, nejednoznačné otázky nebo záměrně mění logiku odpovědí tak, aby zákazník snáze zvolil možnost, kterou původně nechtěl.\nUpozadění informací o ceně a podmínkách předplatného. Informace o ceně, délce trvání smlouvy nebo jejím automatickém prodloužení jsou při nabídce nákupu vizuálně méně výrazné než ostatní podstatné informace.\nFalešné notifikace. Web "
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/chatgpt-spustil-firemni-profily-e-shopy-uvidi-jak-casto-je-ai-zminuje/",
-      "datum": "2026-11-11",
-      "perex": "Firmy nově uvidí, jak často je ChatGPT zmiňuje, kolik kliknutí získají a u jakých témat se objevují.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "ChatGPT spustil firemní profily. E-shopy uvidí, jak často je AI zmiňuje",
-        "meta": {
-          "ogTitle": "ChatGPT spustil firemní profily a analytiku pro firmy",
-          "ogDesc": "Firmy nově uvidí, jak často je ChatGPT zmiňuje, kolik kliknutí získají a u jakých témat se objevují.",
-          "published": "2026-11-11T09:09:21+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "ChatGPT spustil firemní profily. E-shopy uvidí, jak často je AI zmiňuje"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n4 min. doba čtení\nChatGPT spustil firemní profily. E-shopy uvidí, jak často je AI zmiňuje\n\nChatGPT firemní profily dávají firmám novou možnost upravovat informace o značce či produktech a zároveň sledovat, jak často je ChatGPT zmiňuje nebo posílá lidi na jejich web. OpenAI zároveň spouští Business Agenty, ti jsou však zatím dostupní jen vybraným firmám v USA.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nChatGPT spustil firemní profily. E-shopy uvidí, jak často je AI zmiňuje\nZdroj: ChatGPT\n\nDosud firmy svou viditelnost v ChatGPT zjišťovaly hlavně pomocí externích nástrojů nebo jednoduše zkoušely, zda je AI při různých otázkách doporučí. Od 10. listopadu 2026 dostávají část těchto údajů přímo od OpenAI.\n\nNovinka se jmenuje Businesses in ChatGPT a zatím funguje v beta verzi. OpenAI ji představilo 10. listopadu 2026 a oprávněným firmám umožňuje přes Business Hub nárokovat si profil, ověřit ho a následně upravovat údaje, které o sobě poskytují ChatGPT.\n\nFirmy uvidí zmínky i návštěvy z ChatGPT\n\nPro e-shopy je nejzajímavější nová analytika. Business Hub ukáže, kolikrát ChatGPT firmu zmínil, kolik kliknutí získala na svůj web a přes jaká témata ji lidé objevovali.\n\nOpenAI tato témata označuje jako discovery topics. Jde o společná témata konverzací, ve kterých ChatGPT citoval web firmy. Firma však neuvidí konkrétní otázky ani konverzace uživatelů. OpenAI poskytuje pouze souhrnné údaje a některé statistiky zobrazí až ve chvíli, kdy má dostatek interakcí.\n\nTo je důležitý posun oproti dnešku. V našem nedávném měření jsme například ukázali, že ChatGPT při stejné otázce nedoporučuje stále stejné firmy. Jeden pokus proto mnoho neřekne. Business Hub má firmě ukázat, jak její viditelnost vypadá ve větším počtu interakcí.\n\nE-shopy mohou posílat ceny i dostupnost produktů\n\nPo ověření profilu může firma upravovat základní údaje a maloobchodníci mohou přidat také produktový feed. ChatGPT tak může dostávat přímo od obchodníka aktuální informace o produktech, cenách či dostupnosti.\n\nOpenAI zároveň umožňuje propojení se Shopify. Oprávněné Shopify obchody mohou svůj obchod připojit přes Business Hub nebo administraci Shopify. Produktové údaje, ceny a dostupnost se potom sdílejí přes Shopify Catalog.\n\nPro e-shopy je to podstatné i proto, že produktová data postupně ovlivňují více míst, na kterých se zákazník s nabídkou setká. U ChatGPT Ads jsme už řešili, jak OpenAI pracuje s produktovými feedy v reklamě. Nyní mohou obchodníci stejným způsobem dodávat aktuální produktová data také pro své firemní profily v ChatGPT.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nOvěřený profil nezaručí lepší doporučení\n\nNárokování profilu firmě nezajistí lepší místo mezi doporučeními ChatGPT. OpenAI výslovně uvádí, že ChatGPT nadále vytváří vlastní doporučení a porovnání. Ověření profilu proto nezaručuje vyšší umístění ani více prodejů.\n\nFirma ale může průběžně aktualizovat údaje, které o sobě poskytuje. Po úspěšném ověření se na profilu zobrazí modré označení.\n\nProfil tak firmě dává větší kontrolu nad vlastními údaji, ne nad tím, zda ji ChatGPT doporučí před konkurencí.\n\nBusiness Hub není omezený jen na USA\n\nU nové funkce je potřeba oddělit firemní profily od Business Agentů.\n\nOpenAI zpřístupňuje firemní profily oprávněným firmám i mimo USA, všude tam, kde ChatGPT funguje. Dostupnost však závisí na odvětví, lokalitě a"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/z-ai-zatim-prichazi-jen-03-navstev-e-shopu-konvertuji-vsak-o-polovinu-lepe-nez-organicka-navstevnost/",
-      "datum": "2026-11-11",
-      "perex": "AI už ovlivňuje nákupní cestu i návštěvnost e-shopů. Nová data ukazují, jak se chovají lidé přicházející z AI.",
-      "autor": "Terézia Papáneková",
-      "textKarty": null,
-      "detail": {
-        "h1": "Z AI zatím přichází jen 0,3 % návštěv e-shopů. Konvertují však o polovinu lépe než organická návštěvnost",
-        "meta": {
-          "ogTitle": "AI návštěvnost e-shopů roste. Jak se chovají zákazníci?",
-          "ogDesc": "AI už ovlivňuje nákupní cestu i návštěvnost e-shopů. Nová data ukazují, jak se chovají lidé přicházející z AI.",
-          "published": "2026-11-11T08:21:52+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Z AI zatím přichází jen 0,3 % návštěv e-shopů. Konvertují však o polovinu lépe než organická návštěvnost"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n4 min. doba čtení\nZ AI zatím přichází jen 0,3 % návštěv e-shopů. Konvertují však o polovinu lépe než organická návštěvnost\n\nAI používá při hledání informací před nákupem už téměř třetina českých online nakupujících. Do e-shopů z ní zatím přichází jen zlomek návštěvnosti, lidé, kteří se z AI prokliknou, ale nakupují častěji a většina z nich přichází na daný e-shop poprvé.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nZ AI zatím přichází jen 0,3 % návštěv e-shopů. Konvertují však o polovinu lépe než organická návštěvnost\nZdroj: ChatGPT\n\nNová data Shoptetu ukazují, že AI se při online nakupování v Česku využívá stále častěji. V červnu 2026 ji při hledání informací k nákupu používala téměř třetina online nakupujících, zatímco o rok dříve to byla necelá šestina. Údaje vycházejí z výzkumu Shoptetu a Behavia na reprezentativním vzorku české online populace a z vlastních dat e-shopové platformy.\n\nMladí používají AI při nákupu častěji než srovnávače\n\nRozdíl je ještě výraznější mezi lidmi do 30 let. Informace k nákupu si s pomocí AI hledá necelá polovina z nich a v této věkové skupině už AI využívá více lidí než cenové srovnávače. Neznamená to však, že by je AI nahrazovala. Nakupující ji nejčastěji využívají k porovnávání konkrétních produktů a hledání inspirace. Více než čtvrtina respondentů si s její pomocí shrnuje recenze a hodnocení.\n\n„AI funguje pro zákazníka jako osobní nákupní poradce. Pomůže mu určit, co vlastně potřebuje, najde alternativy, porovná je a e-shop se o tom nemusí dozvědět nic,“ říká Jan Hospodka, CEO Shoptetu.\n\nDo e-shopů z AI zatím přichází jen 0,3 % návštěv\n\nČasté používání AI při rozhodování se zatím do návštěvnosti e-shopů nepromítá ve stejném rozsahu. Podle vlastních dat Shoptetu tvoří návštěvnost z AI pouze 0,3 % všech návštěv.\n\nJejí objem ale roste. Průměrný týdenní počet návštěv z AI se mezi lednem a zářím 2026 téměř ztrojnásobil. Podle dat z Google Analytics přitom téměř všechny zaznamenané návštěvy z AI přivedl ChatGPT. Samotných 0,3 % zároveň neukazuje celý vliv AI na nákupní rozhodování. Pokud si zákazník nechá produkt doporučit v ChatGPT a později ho vyhledá přes Google nebo přijde do e-shopu přímo, analytika už AI jako zdroj návštěvy nezaznamená.\n\nO tom, že objednávky z AI asistentů už některé e-shopy evidují, jsme psali také v souvislosti s daty z dalších obchodů. Referral traffic proto zachycuje pouze část nákupní cesty, ve které mohla AI sehrát roli.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nNávštěv je málo, ale častěji končí objednávkou\n\nZajímavější než samotný objem je chování lidí, kteří se z AI na e-shop skutečně prokliknou. Jejich konverzní poměr je podle Shoptetu o polovinu vyšší než u organické návštěvnosti. Až 76 % návštěvníků přicházejících z AI zároveň navštívilo daný e-shop poprvé. Jde o nejvyšší podíl nových návštěvníků ze všech sledovaných kanálů.\n\nTento údaj ale neznamená, že 76 % z nich tvoří noví zákazníci. První návštěva e-shopu ještě automaticky neznamená nákup. Data ukazují, že AI přivádí vysoký podíl lidí, kteří na daný e-shop do té doby nepřišli.\n\nPři interpretaci je potřeba zohlednit také to, že Shoptet ve zveřejněných podkladech neuvádí počet e-shopů ani celkový počet návštěv, ze kterých vypočítal podíl 0,3 %, vyšší konverzi a podíl nových návštěvníků.\n\nAI pomáhá vybírat, rozhodnutí si lidé zatím nechávají pro sebe\n\nDůvě"
-      }
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/jaky-bude-marketing-rulezz-2026-vice-nez-1-000-lidi-12-druhu-jidel-84-recniku-a-48-partneru/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/tretina-zlevnenych-tenisek-byla-drive-levnejsi-analyza-proverila-68-tisic-nabidek/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/import-dodavatelskeho-ceniku-muze-pokazit-ceny-i-produkty-co-zkontrolovat-pred-nahranim-dat/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/selltoro-pomaha-e-shopum-rust-bez-vlastniho-ppc-tymu-kampane-ridi-automaticky-pomoci-ai/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/chatgpt-nedoporucuje-stale-stejne-firmy-data-ukazuji-co-rozhoduje/",
       "datum": null,
       "perex": null,
       "autor": null,
@@ -205,16 +205,6 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-45-2026-nove-udaje-pri-dovozu-do-eu-organicka-kliknuti-rostou-pomohla-regulace-cinskych-prodejcu/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/slevy-ktere-berou-marzi-reklamy-v-chatgpt-a-temu-ztraci-evropu-mudrovacka-10-2026/",
       "datum": null,
       "perex": null,
       "autor": null,
@@ -454,6 +444,6 @@
   ],
   "tydenniUpdate": [],
   "poznamky": [
-    "ecommercebridge: týdenní UPDATE nenalezen. Zkoušeno: https://www.ecommercebridge.cz/ecommerce-bridge-update-45-2026/ → 404 | https://www.ecommercebridge.cz/ecommerce-bridge-update-44-2026/ → 404 | https://www.ecommercebridge.cz/ecommerce-bridge-update-46-2026/ → 404. Buď ještě nevyšel, nebo se změnil vzor adresy — zkontrolovat ručně a upravit tydenniVzor."
+    "ecommercebridge: týdenní UPDATE nenalezen. Zkoušeno: https://www.ecommercebridge.cz/ecommerce-bridge-update-46-2026/ → 404 | https://www.ecommercebridge.cz/ecommerce-bridge-update-45-2026/ → 404 | https://www.ecommercebridge.cz/ecommerce-bridge-update-47-2026/ → 404. Buď ještě nevyšel, nebo se změnil vzor adresy — zkontrolovat ručně a upravit tydenniVzor."
   ]
 }
