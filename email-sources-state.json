@@ -291,7 +291,10 @@
     "https://reallygoodemails.com/emails/chicago-bulls-welcome-nation",
     "https://reallygoodemails.com/emails/margin-shipping-confirmation",
     "https://reallygoodemails.com/emails/please-confirm-your-subscription-community-trust",
-    "https://reallygoodemails.com/emails/200-bonus-390-apy-awaits-you"
+    "https://reallygoodemails.com/emails/200-bonus-390-apy-awaits-you",
+    "https://reallygoodemails.com/emails/replit-welcome-onboarding",
+    "https://reallygoodemails.com/emails/microsoft-copilot-welcome-onboarding",
+    "https://reallygoodemails.com/emails/travel-nevada-welcome-outdoors"
   ],
   "catalogs": {
     "rge-cart": {
@@ -319,17 +322,17 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "odkazu": 50
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-11-11",
+      "date": "2026-11-16",
       "odkazu": 50
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "odkazu": 50
     },
     "rge-promo": {

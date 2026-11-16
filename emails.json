@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-11-13T04:49:33.208Z",
+  "generatedAt": "2026-11-16T04:42:42.862Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/margin-shipping-confirmation",
-      "title": "A shipment from order OMW15946 is on the way from Margin - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-13/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/replit-welcome-onboarding",
+      "title": "Welcome to Replit from Replit - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-16/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/please-confirm-your-subscription-community-trust",
-      "title": "Please confirm your subscription! from The New York Community Trust - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-13/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/microsoft-copilot-welcome-onboarding",
+      "title": "Welcome to Microsoft Copilot from Microsoft - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-16/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/200-bonus-390-apy-awaits-you",
-      "title": "$200 bonus & 3.90% APY awaits you! 🌟 from Live Oak Bank - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-13/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/travel-nevada-welcome-outdoors",
+      "title": "Smiles, Let’s Get a Little Out There from Travel Nevada - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-16/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 50
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 50
-    },
-    {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 50
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 50
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 50
     }
   ],
@@ -47,21 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-11-13/flodesk--archiv.jpg"
+      "shot": "emails/2026-11-16/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-11-13/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-11-13/smartemailing--archiv.jpg"
+      "shot": "emails/2026-11-16/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
