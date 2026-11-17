@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T04:43:39.440Z",
+  "generatedAt": "2026-11-17T04:50:01.548Z",
   "verze": 2,
-  "datum": "2026-11-16",
-  "oknoDo": "2027-01-30",
+  "datum": "2026-11-17",
+  "oknoDo": "2027-01-31",
   "zdroje": [
     {
       "key": "czechdesign-kalendar",
@@ -15,7 +15,7 @@
       "metoda": "text",
       "pocetPolozek": 0,
       "navrhovanyVzor": null,
-      "textVypisu": "www.czechdesign.cz\nProvádění bezpečnostního ověření\n\nTato stránka používá službu zabezpečení k ochraně proti škodlivým botům. Tato stránka se zobrazuje, než web ověří, že nejste bot.\n\nRay ID: a5b3d6048d0d172d\nVýkon a zabezpečení od Cloudflare\nSoukromí"
+      "textVypisu": "www.czechdesign.cz\nProvádění bezpečnostního ověření\n\nTato stránka používá službu zabezpečení k ochraně proti škodlivým botům. Tato stránka se zobrazuje, než web ověří, že nejste bot.\n\nRay ID: a5bc1cb8bb72e8d9\nVýkon a zabezpečení od Cloudflare\nSoukromí"
     },
     {
       "key": "czechdesign-graficky",
@@ -28,7 +28,7 @@
       "metoda": "text",
       "pocetPolozek": 0,
       "navrhovanyVzor": null,
-      "textVypisu": "www.czechdesign.cz\nProvádění bezpečnostního ověření\n\nTato stránka používá službu zabezpečení k ochraně proti škodlivým botům. Tato stránka se zobrazuje, než web ověří, že nejste bot.\n\nRay ID: a5b3d62aeab2b268\nVýkon a zabezpečení od Cloudflare\nSoukromí"
+      "textVypisu": "www.czechdesign.cz\nProvádění bezpečnostního ověření\n\nTato stránka používá službu zabezpečení k ochraně proti škodlivým botům. Tato stránka se zobrazuje, než web ověří, že nejste bot.\n\nRay ID: a5bc1cdf2c7338ce\nVýkon a zabezpečení od Cloudflare\nSoukromí"
     }
   ],
   "akce": [],
