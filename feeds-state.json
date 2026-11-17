@@ -2,27 +2,27 @@
   "mediar": {
     "feed": "https://www.mediar.cz/feed/",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:12.188Z"
+    "ok": "2026-11-17T04:40:51.443Z"
   },
   "mediaguru": {
     "feed": "https://www.mediaguru.cz/rss",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:13.038Z"
+    "ok": "2026-11-17T04:41:08.510Z"
   },
   "brandnew": {
     "feed": "https://www.underconsideration.com/brandnew/atom.xml",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:16.540Z"
+    "ok": "2026-11-17T04:41:18.066Z"
   },
   "logodesigner": {
     "feed": "https://www.logo-designer.co/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:24.342Z"
+    "ok": "2026-11-17T04:41:20.308Z"
   },
   "marketingdive": {
     "feed": "https://www.marketingdive.com/feeds/news/",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:24.426Z"
+    "ok": "2026-11-17T04:41:20.396Z"
   },
   "emailgeeks": {
     "feed": "https://www.litmus.com/feed",
@@ -31,17 +31,17 @@
   "omnisend": {
     "feed": "https://www.omnisend.com/blog/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:24.689Z"
+    "ok": "2026-11-17T04:43:56.274Z"
   },
   "getresponse": {
     "feed": "https://www.getresponse.com/blog/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:24.955Z"
+    "ok": "2026-11-17T04:43:56.809Z"
   },
   "aweber": {
     "feed": "https://blog.aweber.com/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:25.040Z"
+    "ok": "2026-11-17T04:44:37.009Z"
   },
   "dotdigital": {
     "feed": "https://dotdigital.com/feed",
@@ -60,22 +60,22 @@
   "cleverreach": {
     "feed": "https://www.cleverreach.com/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:30.993Z"
+    "ok": "2026-11-17T04:45:18.458Z"
   },
   "boldem": {
     "feed": "https://www.boldem.cz/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:33.367Z"
+    "ok": "2026-11-17T04:45:21.705Z"
   },
   "targito": {
     "feed": "https://www.targito.com/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:35.727Z"
+    "ok": "2026-11-17T04:45:24.521Z"
   },
   "samba-ai": {
     "feed": "https://samba.ai/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:37.457Z"
+    "ok": "2026-11-17T04:45:26.709Z"
   },
   "ecommerce-bridge": {
     "feed": "https://ecommercebridge.cz/feed",
@@ -85,62 +85,62 @@
   "shoptet-blog": {
     "feed": "https://blog.shoptet.cz/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:16.167Z"
+    "ok": "2026-11-17T04:41:12.395Z"
   },
   "litmus": {
     "feed": "https://www.litmus.com/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:24.489Z"
+    "ok": "2026-11-17T04:41:23.138Z"
   },
   "smartemailing": {
     "feed": "https://www.smartemailing.cz/feed/",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:31.642Z"
+    "ok": "2026-11-17T04:45:19.470Z"
   },
   "emailmachine": {
     "feed": "https://www.emailmachine.cz/feed",
     "via": "browser",
-    "ok": "2026-11-16T04:41:42.294Z"
+    "ok": "2026-11-17T04:45:32.745Z"
   },
   "czechcrunch": {
     "feed": "https://cc.cz/feed",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:44.036Z"
+    "ok": "2026-11-17T04:46:57.644Z"
   },
   "font-cz": {
     "feed": "https://www.font.cz/rss-clanky.html",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:45.253Z"
+    "ok": "2026-11-17T04:46:59.438Z"
   },
   "fontsinuse": {
     "feed": "https://fontsinuse.com/staff-picks.rss",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:45.402Z"
+    "ok": "2026-11-17T04:46:59.891Z"
   },
   "printmag": {
     "feed": "https://www.printmag.com/feed/",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:45.635Z"
+    "ok": "2026-11-17T04:47:00.124Z"
   },
   "chl-ecomail": {
     "feed": "https://ecomail.cz/changelog/rss.xml",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:45.917Z"
+    "ok": "2026-11-17T04:47:00.516Z"
   },
   "chl-kit": {
     "feed": "https://updates.kit.com/rss",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:46.425Z"
+    "ok": "2026-11-17T04:47:01.250Z"
   },
   "chl-netcore": {
     "feed": "https://updates.netcorecloud.com/api/v1/changelog/feed.rss",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:47.224Z"
+    "ok": "2026-11-17T04:47:02.157Z"
   },
   "chl-brevo": {
     "feed": "https://developers.brevo.com/changelog.rss",
     "via": "fetch",
-    "ok": "2026-11-16T04:41:47.814Z"
+    "ok": "2026-11-17T04:47:02.671Z"
   },
   "tyinternety": {
     "noFeedUntil": "2026-11-24T04:41:10.047Z"
@@ -194,47 +194,47 @@
     "noFeedUntil": "2026-10-26T03:57:49.538Z",
     "feed": null,
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "czechdesign-sklizen": {
     "noFeedUntil": "2026-10-26T03:57:49.538Z",
     "feed": null,
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "mam": {
     "feed": "https://mam.cz/rss/",
     "blockedStatus": 429,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "designweek": {
     "feed": "https://www.designweek.co.uk/feed/",
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "creativereview": {
     "feed": "https://www.creativereview.co.uk/feed/",
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "martech": {
     "feed": "https://martech.org/feed/",
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "mailerlite": {
     "feed": null,
     "blockedStatus": 429,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "constantcontact": {
     "feed": null,
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   },
   "kit": {
     "feed": null,
     "blockedStatus": 403,
-    "blockedUntil": "2026-11-16T04:41:52.143Z"
+    "blockedUntil": "2026-11-20T04:40:48.098Z"
   }
 }

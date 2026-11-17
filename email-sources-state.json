@@ -294,12 +294,15 @@
     "https://reallygoodemails.com/emails/200-bonus-390-apy-awaits-you",
     "https://reallygoodemails.com/emails/replit-welcome-onboarding",
     "https://reallygoodemails.com/emails/microsoft-copilot-welcome-onboarding",
-    "https://reallygoodemails.com/emails/travel-nevada-welcome-outdoors"
+    "https://reallygoodemails.com/emails/travel-nevada-welcome-outdoors",
+    "https://reallygoodemails.com/emails/shift-early-black-friday-aero",
+    "https://reallygoodemails.com/emails/canva-halloween-template-promo",
+    "https://reallygoodemails.com/emails/alltrails-jobo-summer"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-11-12",
+      "date": "2026-11-17",
       "odkazu": 50
     },
     "emaillove-newsletter": {
@@ -312,8 +315,8 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-13",
-      "odkazu": 50
+      "date": "2026-11-17",
+      "odkazu": 150
     },
     "rge-announcement": {
       "fails": 0,
@@ -337,7 +340,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-11-12",
+      "date": "2026-11-17",
       "odkazu": 50
     }
   },

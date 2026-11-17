@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-16T04:43:23.343Z",
+  "generatedAt": "2026-11-17T04:49:44.393Z",
   "pacienti": 1,
   "zachraneno": [
     {
       "key": "targito",
       "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-16/targito.jpg",
+      "shot": "rescue/2026-11-17/targito.jpg",
       "health": {
         "imgTotal": 71,
-        "imgBroken": 38,
+        "imgBroken": 40,
         "h1": "",
         "ruleCount": 80
       }
