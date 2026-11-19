@@ -1,29 +1,17 @@
 {
-  "generatedAt": "2026-11-18T04:44:13.006Z",
-  "pacienti": 2,
+  "generatedAt": "2026-11-19T04:46:49.515Z",
+  "pacienti": 1,
   "zachraneno": [
     {
-      "key": "targito",
-      "url": "https://www.targito.com/",
+      "key": "mailercloud",
+      "url": "https://mailercloud.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-18/targito.jpg",
+      "shot": "rescue/2026-11-19/mailercloud.jpg",
       "health": {
-        "imgTotal": 71,
-        "imgBroken": 38,
-        "h1": "",
-        "ruleCount": 80
-      }
-    },
-    {
-      "key": "elasticemail",
-      "url": "https://elasticemail.com/",
-      "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-18/elasticemail.jpg",
-      "health": {
-        "imgTotal": 65,
-        "imgBroken": 0,
-        "h1": "Modern email communication platform for growing businesses",
-        "ruleCount": 5
+        "imgTotal": 99,
+        "imgBroken": 1,
+        "h1": "Email Marketing Platform That Delivers Results",
+        "ruleCount": 19
       }
     }
   ],
