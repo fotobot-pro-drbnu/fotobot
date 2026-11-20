@@ -303,7 +303,10 @@
     "https://reallygoodemails.com/emails/work-progress-team-iceland",
     "https://reallygoodemails.com/emails/beefree-sdk-email-rendering-pain-points",
     "https://reallygoodemails.com/emails/renthunter-onboarding-app",
-    "https://reallygoodemails.com/emails/tn-nursery-welcome-email"
+    "https://reallygoodemails.com/emails/tn-nursery-welcome-email",
+    "https://reallygoodemails.com/emails/read-me-starbucks-rewards-is-changing",
+    "https://reallygoodemails.com/emails/important-change-to-your-account",
+    "https://reallygoodemails.com/emails/please-verify-your-airalo-account"
   ],
   "catalogs": {
     "rge-cart": {
@@ -321,17 +324,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-17",
-      "odkazu": 150
+      "date": "2026-11-20",
+      "odkazu": 50
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "odkazu": 50
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "odkazu": 50
     },
     "rge-newsletter": {

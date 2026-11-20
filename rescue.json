@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-19T04:46:49.515Z",
+  "generatedAt": "2026-11-20T04:51:18.299Z",
   "pacienti": 1,
   "zachraneno": [
     {
-      "key": "mailercloud",
-      "url": "https://mailercloud.com/",
+      "key": "targito",
+      "url": "https://www.targito.com/",
       "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-19/mailercloud.jpg",
+      "shot": "rescue/2026-11-20/targito.jpg",
       "health": {
-        "imgTotal": 99,
-        "imgBroken": 1,
-        "h1": "Email Marketing Platform That Delivers Results",
-        "ruleCount": 19
+        "imgTotal": 71,
+        "imgBroken": 40,
+        "h1": "",
+        "ruleCount": 80
       }
     }
   ],
