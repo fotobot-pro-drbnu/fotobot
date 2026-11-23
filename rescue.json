@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-11-20T04:51:18.299Z",
+  "generatedAt": "2026-11-23T04:51:06.560Z",
   "pacienti": 1,
-  "zachraneno": [
+  "zachraneno": [],
+  "neuspech": [
     {
-      "key": "targito",
-      "url": "https://www.targito.com/",
-      "duvod": "rozbitá fotka",
-      "shot": "rescue/2026-11-20/targito.jpg",
-      "health": {
-        "imgTotal": 71,
-        "imgBroken": 40,
-        "h1": "",
-        "ruleCount": 80
-      }
+      "key": "stibee",
+      "url": "https://stibee.com/",
+      "duvod": "spadlo",
+      "error": "TimeoutError: page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n"
     }
-  ],
-  "neuspech": []
+  ]
 }

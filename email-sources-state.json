@@ -306,7 +306,10 @@
     "https://reallygoodemails.com/emails/tn-nursery-welcome-email",
     "https://reallygoodemails.com/emails/read-me-starbucks-rewards-is-changing",
     "https://reallygoodemails.com/emails/important-change-to-your-account",
-    "https://reallygoodemails.com/emails/please-verify-your-airalo-account"
+    "https://reallygoodemails.com/emails/please-verify-your-airalo-account",
+    "https://reallygoodemails.com/emails/apollo-trial-ended-upgrade",
+    "https://reallygoodemails.com/emails/vercel-hobby-account-activation",
+    "https://reallygoodemails.com/emails/nieman-lab-daily-digest-confirmation"
   ],
   "catalogs": {
     "rge-cart": {
@@ -334,17 +337,17 @@
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "odkazu": 50
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-11-18",
+      "date": "2026-11-23",
       "odkazu": 50
     },
     "rge-welcome": {
       "fails": 0,
-      "date": "2026-11-19",
+      "date": "2026-11-23",
       "odkazu": 50
     },
     "rge-promo": {

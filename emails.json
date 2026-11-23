@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-11-20T04:50:27.584Z",
+  "generatedAt": "2026-11-23T04:50:25.971Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/read-me-starbucks-rewards-is-changing",
-      "title": "Read me! (Starbucks® Rewards is changing.) from Starbucks - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-20/inspirace--rge-transactional-1.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/apollo-trial-ended-upgrade",
+      "title": "Your Apollo trial has ended from Apollo.io - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-23/inspirace--rge-onboarding-1.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/important-change-to-your-account",
-      "title": "Important change to your account from Spotify - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-20/inspirace--rge-transactional-2.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/vercel-hobby-account-activation",
+      "title": "Ship your first Vercel deployment in minutes from Vercel - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-23/inspirace--rge-onboarding-2.jpg"
     },
     {
-      "katalog": "rge-transactional",
-      "url": "https://reallygoodemails.com/emails/please-verify-your-airalo-account",
-      "title": "✅ Please verify your Airalo account from airalo - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-20/inspirace--rge-transactional-3.jpg"
+      "katalog": "rge-onboarding",
+      "url": "https://reallygoodemails.com/emails/nieman-lab-daily-digest-confirmation",
+      "title": "You're on our list! from NiemanLab - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-23/inspirace--rge-onboarding-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
-      "odkazu": 50
-    },
-    {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
-      "odkazu": 50
-    },
-    {
       "key": "rge-onboarding",
       "name": "Really Good Emails — onboarding",
       "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 50
+    },
+    {
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
+      "odkazu": 50
+    },
+    {
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 50
     }
   ],
@@ -47,21 +47,14 @@
       "key": "flodesk",
       "url": "https://flodesk.com/emails",
       "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-11-20/flodesk--archiv.jpg"
+      "shot": "emails/2026-11-23/flodesk--archiv.jpg"
     },
     {
       "znacka": "Customer.io",
       "key": "customerio",
       "url": "https://customer.io/blog/newsletter",
       "title": "Learn with Customer.io",
-      "shot": "emails/2026-11-20/customerio--archiv.jpg"
-    },
-    {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-11-20/smartemailing--archiv.jpg"
+      "shot": "emails/2026-11-23/customerio--archiv.jpg"
     }
   ],
   "poznamky": []
