@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T04:52:23.717Z",
+  "generatedAt": "2026-11-24T05:00:36.981Z",
   "verze": 1,
-  "datum": "2026-11-23",
-  "oknoOd": "2026-11-13",
+  "datum": "2026-11-24",
+  "oknoOd": "2026-11-14",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,93 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 36,
+      "pocetPolozek": 34,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/vetsi-sklad-nemusi-byt-resenim-automatizace-dokaze-vyrazne-snizit-potrebu-prostoru/",
+      "datum": "2026-11-23",
+      "perex": "Automatizace skladu může ušetřit prostor i zvýšit kapacitu. Rozhodují ale náklady, technické možnosti haly a návratnost.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Větší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru",
+        "meta": {
+          "ogTitle": "Větší sklad nemusí být řešením. Pomůže automatizace?",
+          "ogDesc": "Automatizace skladu může ušetřit prostor i zvýšit kapacitu. Rozhodují ale náklady, technické možnosti haly a návratnost.",
+          "published": "2026-11-23T09:17:57+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Větší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n6 min. doba čtení\nVětší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru\n\nE-shop při růstu nemusí automaticky potřebovat větší halu. Nová studie ukazuje, že automatizace může výrazně zvýšit využití stávající plochy, rozhodující jsou ale náklady, technické možnosti skladu a návratnost investice.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nVětší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru\nZdroj: ChatGPT\n\nSklad je plný, sezóna se blíží a objednávek přibývá. První reakce bývá jednoduchá: je potřeba větší hala. Jenže problém nemusí být v tom, že je prostoru málo. Může být v tom, jak se využívá.\n\nNa tento rozdíl upozorňuje studie iO Partners a Miebach, kterou nám zaslali spolu s aktuálními daty o automatizaci v logistice. V jednom konkrétním případě mohl konvenční sklad o rozloze přibližně 5 000 m² nahradit vertikálně automatizovaný prostor velký asi 1 200 m². Autoři zároveň upozorňují, že jde o výsledek konkrétního projektu, nikoli o úsporu, kterou lze očekávat u každého skladu.\n\nPro firmu, která roste nebo řeší nový nájem, se tím mění samotná otázka. Namísto „kolik dalších metrů čtverečních potřebujeme?“ může být užitečnější ptát se, kolik kapacity ještě dokážeme získat z prostoru, který už máme.\n\nAutomatizace není jen o nahrazování lidí\n\nPři skladové automatizaci si řada lidí představí především úsporu na mzdách. Robot nahradí skladníka, autonomní vozík jezdí mezi regály a firma potřebuje méně lidí. V praxi ale může být důvod úplně jiný.\n\nNěkde je problémem pomalé vychystávání objednávek, jinde nedostatek prostoru nebo příliš vysoká chybovost. Automatizace může pomoci dostat více zboží na stejnou plochu, zrychlit tok objednávek nebo stabilizovat provoz v době, kdy firma nedokáže najít dostatek lidí.\n\nTaké studie upozorňuje na vyšší produktivitu, lepší využití kapacity a stabilitu provozu. Navíc neplatí, že je potřeba automatizovat celý sklad najednou. Někdy dává větší smysl začít jen tam, kde se proces nejvíce zadrhává.\n\nPodobně se na investici dívá i organizace MHI. Při robotizaci doporučuje nezačínat výběrem technologie, ale tím, jaký konkrétní problém má vyřešit. Samotný robot totiž není celý projekt. Přibude software, integrace, programování a často také dočasný pokles výkonu při spuštění nového systému.\n\nAutomatizace dává smysl tehdy, když vyřeší konkrétní problém skladu lépe nebo levněji než jiná možnost.\n\nNa Slovensku už automatizované sklady nejsou výjimkou\n\nStudie mezi slovenskými projekty uvádí Alzu v Bernolákově, Dedoles v Trnavě, iSklad v Senci nebo Packetu v lokalitě Bratislava-Triblavina. Automatizace se tedy neobjevuje jen ve velkých distribučních centrech, ale také v e-commerce a logistických službách.\n\nViditelným příkladem je Alza. Její logistické centrum v Bernolákově využívá několik automatizovaných technologií včetně systému AutoStore. Firma při otevření centra uváděla, že sklad navrhla tak, aby mohla automatizaci dál rozšiřovat.\n\nJenže automatizace má i druhou podmínku: musí ji zvládnout samotná hala.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSklad může být jednoduše příliš nízký\n\nPři pronájmu haly se přirozeně řeší lokalita, nájem, napojení na dálnici nebo dostupnost lidí. Pokud ale firma počítá s automatizací, přibývají i technické otázky.\n\nRozhodovat může světlá výška haly, únosnost a rov"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/ai-v-zone-bezpecnosti-kamery-uz-nejen-nahravaji-ale-take-upozornuji-na-problem/",
+      "datum": "2026-11-23",
+      "perex": "AI v maloobchodu sleduje podezřelé chování, kontroluje věk i dohlíží na bezobslužné prodejny. Podívali jsme se, jak ji firmy používají.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "AI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém",
+        "meta": {
+          "ogTitle": "AI v maloobchodu už hlídá prodejny i kontroluje věk",
+          "ogDesc": "AI v maloobchodu sleduje podezřelé chování, kontroluje věk i dohlíží na bezobslužné prodejny. Podívali jsme se, jak ji firmy používají.",
+          "published": "2026-11-23T08:31:52+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "AI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n8 min. doba čtení\nAI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém\n\nAI v prodejnách už neslouží jen k odhalování zlodějů. Česká Skupina COOP ji využívá k zachycování podezřelého chování, TRAFICON ke kontrole věku a další řešení sledují, zda zákazník nepotřebuje pomoc nebo zda se v prodejně neděje něco nestandardního. Na Slovensku využívá podobné technologie COOP Jednota především v bezobslužných provozech 24/7.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nAI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém\nZdroj: ChatGPT\n\nKlasický kamerový dohled má jednu slabinu, kterou není potřeba složitě vysvětlovat. Můžete mít dvacet kamer, ale pořád potřebujete člověka, který se na ně dívá. A čím více provozoven přibývá, tím méně realistická je představa, že někdo zachytí každý zvláštní pohyb ve správnou chvíli.\n\nPrávě tady vstupuje AI. Nemá nahradit celý bezpečnostní proces. Má spíše odfiltrovat stovky minut běžného dění a upozornit člověka až ve chvíli, kdy se stane něco neobvyklého. Někdo si vloží zboží do kapsy. Zákazník spadne. U pokladny je potřeba ověřit věk. V bezobslužné prodejně nastane situace, kterou má zkontrolovat operátor.\n\nČlověk tedy stále rozhoduje. AI mu jen říká: podívej se právě sem.\n\nSkupina COOP: Jeden operátor může dohlížet až na 40 prodejen\n\nNejkonkrétnější příklad dnes nabízí česká Skupina COOP. AI napojenou na kamerové systémy začala využívat už začátkem roku 2023 v jedné z prvních automatizovaných prodejen 24/7. Podle vlastních materiálů systém průběžně analyzuje obraz z kamer, vyhledává nestandardní chování a na podezřelou situaci upozorní pult centrální ochrany nebo personál prodejny. Skupina COOP popisuje, že technologie sleduje například vzájemnou polohu částí těla a jejich interakci se zbožím, zavazadly nebo kočárky.\n\nSystém tak může zachytit například okamžik, kdy si zákazník vloží zboží do kapsy nebo tašky. Konečné vyhodnocení ale zůstává na člověku. COOP přímo uvádí, že operátor dostane sekvenci s nestandardním chováním a teprve následně rozhodne, zda skutečně jde o problém.\n\nTÝDENNÍ PODCAST\nUPdate\n\nV automatizovaných prodejnách AI neslouží jen proti krádežím. Oficiální stránka COOP 24/7 uvádí, že systém dokáže upozornit také na poškození zboží, neautorizovaný vstup nebo jinou nestandardní situaci. Prodejny jsou zároveň napojené na pult centrální ochrany, odkud může operátor reagovat na dálku.\n\nRozsah nasazení už není malý. Podle údajů z listopadu 2026 funguje AI dohled ve více než 90 prodejnách COOP. Zároveň má jeden operátor dohledového centra Securitas v automatizovaných provozech zvládnout sledovat až 40 obchodů současně. Provozní náklady systému podle COOP představují přibližně 10 až 20 % nákladů na fyzickou ostrahu, podle typu prodejny. Tato čísla zatím pocházejí z vyjádření COOP publikovaných v médiích, nejde o nezávislou ekonomickou analýzu.\n\nSecuritas zároveň potvrzuje samotný princip fungování. Při vzdáleném videodohledu nemusí operátor sledovat všechny kamery nepřetržitě. Konkrétní obraz se mu zobrazí až ve chvíli, kdy AI vyhodnotí incident, například vložení zboží do kapsy, pád nebo vrávorání osoby.\n\nPro velký supermarket možná klasická ostraha není nic výjimečného. U malé prodejny už jde o úplně jinou matematiku. Právě na to upozornil také zakladatel společnosti Franchisee Václav Ston. „Fyzická ost"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-47-2026-odlozene-platby-nove-itas-obhajuje-temu-a-google-smazal-milanovi-bez-mapy-recenzi/",
+      "datum": "2026-11-23",
+      "perex": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Novinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi",
+        "meta": {
+          "ogTitle": "Novinky z e-commerce 47/2026",
+          "ogDesc": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
+          "published": "2026-11-23T07:13:39+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Novinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n13 min. doba čtení\nNovinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi\n\nNejdůležitější novinky z e-commerce, marketingu a online dění za uplynulý týden si můžete poslechnout v našem podcastu UPDATE nebo si je jednoduše přečíst. Všechno na jednom místě. Stačí si vybrat, co vám vyhovuje víc.\n\nRedakce\nÚvod\n/\nČlánky\n/\nNovinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi\nZdroj: ChatGPT\n\nNemáte čas číst, ale chcete zůstat v obraze? Pusťte si Ecommerce Bridge UPDATE. Aktuální epizodu si můžete poslechnout v autě, cestou do práce nebo tehdy, kdy vám to nejvíc vyhovuje. Klikněte na svou oblíbenou platformu a pusťte si ji hned:\n\n   \n\n \n\nRaději čtete? Všechny novinky najdete níže\n\nVšechna témata z aktuálního UPDATE najdete níže také v textové podobě. Projděte si je vlastním tempem, vraťte se ke konkrétní novince nebo si otevřete celý článek, pokud vás některé téma zaujme víc.\n\nU odložených plateb rozhoduje, kdo je poskytuje\n\nOd 20. listopadu platí na Slovensku nová pravidla pro odložené platby. E-shopaři si ale nejprve musí ujasnit, jakým způsobem tuto možnost zákazníkům nabízejí.\n\nPokud službu zajišťuje externí poskytovatel, nové zákonné povinnosti řeší především on. E-shop by si měl zkontrolovat zejména změny v pokladně. Zákazník může například při prvním použití služby projít dodatečným ověřením a poskytovatel bude u některých služeb prověřovat také jeho schopnost nákup splatit.\n\nJiná situace nastává, když odklad platby poskytuje přímo e-shop. Bezúročná platba může zůstat mimo pravidla pro spotřebitelské úvěry, pokud zákazník za odklad neplatí žádné další poplatky a zaplatí nejpozději do 50 dnů od dodání. U velkých online obchodníků může být zákonná lhůta kratší. Pokud e-shop umožňuje delší splatnost nebo za odklad účtuje poplatek, musí si ověřit, zda už nejde o spotřebitelský úvěr a jaké povinnosti se na něj vztahují.\n\nWOOD-PROFIL dělá 90 % tržeb online\n\nRoman Jadroň z WOOD-PROFIL ukazuje, že i dřevo na míru se dá prodávat převážně přes e-shop. Více než 90 % tržeb firmy dnes pochází z online prodeje. Firma propojila prodej, sklad a vlastní dopravu. Zákazník si může nastavit rozměry dřeva, systém mu dopočítá odřezky a termín doručení si vybere přímo v kalendáři.\n\nVlastní doprava přitom není jen otázkou pohodlí. Podle Jadroňe by paletový dopravce u tohoto typu zboží vyšel šestkrát až sedmkrát dráž. Zajímavé je také to, kdy lidé nakupují. Velká část objednávek přichází odpoledne, večer nebo v noci, tedy v době, kdy už zákazníkovi nikdo nezvedá telefon.\n\nRoman Jadroň z WOOD-PROFIL\n\nSlováci během Black Friday zvýšili výdaje o 71 %\n\nNová data Revolutu ukazují, jak během loňského Black Friday nakupovali Slováci a Češi. Na Slovensku byla průměrná hodnota online nákupu o 100 % vyšší než v kamenné prodejně. V Česku dosáhl rozdíl až 158 %.\n\nSlováci ale zvyšovali celkové výdaje rychleji. Uživatelé Revolutu na Slovensku během Black Friday meziročně utratili o 71 % více, zatímco v Česku výdaje vzrostly o 34 %.\n\nRozdíl je vidět také u zahraničních nákupů. Ty tvořily na Slovensku 45,5 % listopadových výdajů uživatelů Revolutu, v Česku 57 %. Data ale popisují chování uživatelů Revolutu, nikoli celý slovenský a český trh.\n\nRTB House radí začít s Black Friday dřív\n\nPodle RTB House začíná úspěšný Black Friday ještě před samotnými slevami. U dražších nebo složitějších produktů může zákaz"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/spravuje-milionove-marketingove-rozpocty-jak-by-skaloval-e-shop-milan-novotny-cloudtalk/",
+      "datum": "2026-11-23",
+      "perex": "Prečítajte si Spravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+      "autor": "Michal Moricz",
+      "textKarty": null,
+      "detail": {
+        "h1": "Spravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk)",
+        "meta": {
+          "ogTitle": "Spravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk)",
+          "ogDesc": "Prečítajte si Spravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+          "published": "2026-11-23T06:30:43+00:00",
+          "autor": "Michal Moricz",
+          "h1": "Spravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk)"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n10 min. doba čtení\nSpravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk)\n\nJedno euro do marketingu, dvě eura zpátky. Když to investoři CloudTalku viděli, poslali miliony na další růst. Většina e-shopů ale při škálování naráží na opak: rozpočet zdvojnásobí, tržby ne. Celkové PNO přitom umí klamat, brandové kampaně si přivlastňují cizí zásluhy a remarketing zbytečně honí lidi, které nákup už dávno nezajímá. Jak by naložil s 5 000 eury měsíčně a proč by je nejdřív vložil do testování toho, co funguje konkurenci? Více informací nám poskytl Milan Novotný, Senior Director of Growth Marketing, CloudTalk.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\nSpravuje milionové marketingové rozpočty. Jak by škáloval e-shop? (Milan Novotný, CloudTalk)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n03:01 Co je škálování marketingu a kdy už jde jen o pálení peněz?\n05:58 Podle čeho vybrat kanál, když je rozpočet omezený?\n08:37 Stačí ROAS a PNO a kde e-shopy pálí peníze?\n12:25 Co zkontrolovat jako první, když škálování nefunguje?\n14:04 Je chyba v reklamě, nebo v e-shopu?\n15:49 Jak měřit bez cookies a stačí Google Analytics 4?\n21:08 Kdy investovat do obsahu a dlouhodobých kanálů?\n22:49 Jak plánovat marketing v době AI?\n25:28 Co se může e-commerce naučit od SaaS a co nekopírovat?\n30:11 Co by udělal s 5 000 eury měsíčně?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nŠkálování znamená utrácet víc, aby se víc vrátilo\n\nMilan Novotný přišel do CloudTalku ještě před hranicí jednoho milionu ročních opakovaných tržeb. Dnes je firma ve vyšších desítkách milionů, poskytuje telefonní čísla ve více než 160 zemích a jejími hlavními trhy jsou USA, Velká Británie, německy mluvící země, Latinská Amerika a Benelux. Milan vede tým šestnácti lidí od specialistů na YouTube, SEO a GEO až po člověka, který přes AI automatizuje práci zbytku týmu. Vedle toho mentoruje startupy v akcelerátoru Techstars.\n\nŠkálování v CloudTalku znamenalo vybudovat funkční mašinu a začít utrácet efektivně. Když investoři viděli, že z jednoho eura v marketingu se vrátí dvě, poslali do firmy další miliony, naposledy 28 milionů dolarů v kole Series B. U e-shopů to ale často není úměrné. Zdvojnásobí rozpočet, tržby se však nezdvojnásobí, protože narážejí na strop trhu a další limity.\n\nLevný proklik a hodně nákupů ještě neznamená úspěch\n\nNejčastější chybou je optimalizovat na metriky, které byznys neposouvají, třeba na otevření košíku. CloudTalk proto sleduje poměr ceny za získání zákazníka a jeho celoživotní hodnoty, zvlášť pro každou zemi a segment. E-shop, který prodává jen v Česku, by si měl podobně rozdělit výsledky podle produktových řad.\n\nProdukt s levným proklikem a spoustou nákupů může na první pohled vypadat skvěle. Co když se ho ale hodně vrací nebo se z kupujících nestanou opakovaní zákazníci? Záleží i na tom, odkud lidé přicházejí. Zákazník z reklam v Googlu se chová jinak než ten z Bingu nebo z organického vyhledávání.\n\nNa začátek potřebujete rychlou zpětnou vazbu\n\nMalý e-shop slýchá rady, že má od prvního dne budovat značku, e-mailing i sociální sítě. Milan by začal kanálem, který rychle přinese první zákazníky a zpětnou vazbu na texty reklam, produkt, balení i komunikaci. Pomalé kanály, jako je affiliate, na začátku nedávají smysl. Škálovatelné kanály jsou podle něj čtyři: PPC, obch"
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -65,146 +145,46 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/temu-celi-dalsim-vyhradam-eu-itas-vsak-ve-spolupraci-s-platformou-problem-nevidi/",
-      "datum": "2026-11-20",
-      "perex": "Temu dostalo vysokou pokutu a čelí dalším výhradám EU. Proč s ním ITAS uzavřela partnerství a jak reaguje na kritické otázky?",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Temu čelí dalším výhradám EU, ITAS však ve spolupráci s platformou problém nevidí",
-        "meta": {
-          "ogTitle": "Temu čelí výhradám EU. ITAS spolupráci obhajuje",
-          "ogDesc": "Temu dostalo vysokou pokutu a čelí dalším výhradám EU. Proč s ním ITAS uzavřela partnerství a jak reaguje na kritické otázky?",
-          "published": "2026-11-20T08:28:42+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Temu čelí dalším výhradám EU, ITAS však ve spolupráci s platformou problém nevidí"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n20. listopadu 2026\n7 min. doba čtení\nTemu čelí dalším výhradám EU, ITAS však ve spolupráci s platformou problém nevidí\n\nTemu už od EU dostalo vysokou pokutu a čelí dalším výhradám. Přesto s ním IT Asociace Slovenska uzavřela partnerství. Proč ve spolupráci nevidí reputační riziko a jak své rozhodnutí obhajuje?\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nTemu čelí dalším výhradám EU, ITAS však ve spolupráci s platformou problém nevidí\nZdroj: ChatGPT\n\nNaši redakci oslovila PR agentura zastupující Temu s informací o uzavření partnerství s IT Asociací Slovenska (ITAS). Podle agentury má spolupráce pomoci slovenským firmám rozvíjet online prodej a oslovit zákazníky na evropských trzích. Temu však již dostalo od Evropské komise vysokou pokutu za porušení pravidel a v současnosti čelí dalším výhradám. Obrátili jsme se proto přímo na ITAS, abychom zjistili, proč se rozhodla s touto platformou spolupracovat a jak vnímá její problémy s dodržováním evropských pravidel.\n\nSoučástí e-mailu od PR agentury byl také odkaz na tiskovou zprávu, ten však mezitím přestal být dostupný. Při informování o partnerství proto vycházíme z původního e-mailu agentury a z odpovědí, které nám poskytla ITAS.\n\nPokuty dostaly i jiné společnosti\n\nDůvody spolupráce nás zajímaly především proto, že Temu již čelilo sankcím za porušení evropských pravidel. Evropská komise mu v květnu 2026 udělila pokutu 200 milionů eur za nedostatečné vyhodnocování rizik spojených s prodejem nelegálních výrobků. V říjnu následně přijala plán nápravných opatření. V listopadu však Komise zveřejnila další předběžná zjištění o nedostatcích při kontrole nelegálních výrobků. Pokud se potvrdí, platformě hrozí další pokuta.\n\nPtali jsme se proto, zda ITAS tyto skutečnosti při rozhodování o spolupráci zohlednila. „Temu není jedinou zahraniční společností, která od Evropské komise dostala pokutu. V uplynulých letech dostalo pokuty mnoho amerických či čínských společností, a dokonce i v mnohem vyšší výši,“ uvedl Juraj Kadáš, manažer komunikace ITAS. Podle Kadáše asociace pokuty respektuje jako legitimní nástroj ochrany evropského trhu, nepřísluší jí však komentovat rozhodnutí Komise.\n\nK nejnovějším zjištěním Evropské komise ITAS doplnila, že ji Temu informovalo o přijatých nápravných opatřeních, v nichž podle vlastních slov pokračuje. Asociace zároveň uvedla, že se Temu proti rozhodnutí odvolalo, a vyjádřila přesvědčení, že společnost bude konečné rozhodnutí Komise respektovat.\n\nITAS ve spolupráci s Temu nevidí reputační riziko\n\nZajímalo nás také, zda partnerství s platformou, která opakovaně čelí výhradám evropských regulátorů, nemůže poškodit důvěryhodnost samotné ITAS. „Nevidíme k tomu důvod. Podobnou logiku by musely uplatnit všechny asociace, sdružení, neziskové organizace či jiné platformy, které na Slovensku (nebo v EU) spolupracují se společnostmi, jež dostaly pokutu od EK,“ odpověděl Juraj Kadáš.\n\nPtali jsme se také na finanční podmínky spolupráce. Podle Kadáše Temu zaplatí standardní roční členský příspěvek, jehož výše závisí na velikosti podniku. Sazebník ITAS stanovuje pro firmy s více než 1 000 zaměstnanci roční členský příspěvek ve výši 2 500 eur plus jedno euro za každého zaměstnance. Noví členové zároveň platí jednorázový vstupní poplatek 1 700 eur.\n\nPodle údajů společnosti Revelio Labs mělo Temu v červnu 2026 přibližně 15 312 zaměstnanců. Při tomto po"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/digitalni-postak-za-par-eur-nebo-bezpecnostni-katastrofa-na-co-si-dat-pozor-pri-e-fakturaci-juraj-malecka-everifin/",
-      "datum": "2026-11-20",
-      "perex": "Prečítajte si Digitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
-      "autor": "Michal Moricz",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Digitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin)",
-        "meta": {
-          "ogTitle": "Digitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin)",
-          "ogDesc": "Prečítajte si Digitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
-          "published": "2026-11-20T07:20:09+00:00",
-          "autor": "Michal Moricz",
-          "h1": "Digitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin)"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n20. listopadu 2026\n8 min. doba čtení\nDigitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin)\n\nOd ledna bude na Slovensku e-faktury přijímat téměř každá firma s DIČ, i živnostník, který není plátcem DPH. Za fakturu, která neprojde přes digitálního pošťáka, hrozí pokuta až 10 000 eur, při opakování až 100 000. Pošťáků je najednou na trhu několik desítek a získat licenci od finanční správy je překvapivě snadné. Někteří slibují službu zdarma, přestože uvidí všechny vaše nákupy, ceny i dodavatele. V Polsku přitom hackeři ukradli faktury 600 000 firem. Jak poznat pošťáka, kterému se dá věřit? Více informací nám poskytl Juraj Malečka, spoluzakladatel a CRO, Everifin.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\nDigitální pošťák za pár eur, nebo bezpečnostní katastrofa? Na co si dát pozor při e-fakturaci (Juraj Malečka, Everifin)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n03:49 Koho se e-fakturace týká?\n05:01 Odkud e-faktura přišla a co má Slovensko navíc?\n06:04 Jaké pokuty hrozí a bude přechodné období?\n07:29 Proč je najednou tolik digitálních pošťáků?\n13:51 Co všechno o firmě uvidí pošťák a stát?\n17:41 Co hrozí při úniku faktur a pomůže e-faktura proti podvodům?\n21:57 Kdo odpovídá, když pošťák selže?\n22:44 Za co se platí a kde je háček pošťáků zdarma?\n26:26 Jak vyměnit pošťáka a co s účetní?\n30:00 Jak si vybrat pošťáka?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nPošťák, který vyrostl z platební instituce\n\nEverifin nezačínal jako fakturační software. Je to platební instituce, která první licenci od Národní banky Slovenska získala v roce 2021. Jejími zákazníky jsou e-shopy, kamenné prodejny i firmy, které si chtějí automatizovat účetnictví. Digitální pošťák do toho podle Juraje Malečky zapadá přirozeně, protože každá doručená faktura musí být také zaplacena.\n\nEverifin má vlastní konektory na banky na Slovensku i v celé Evropě a nepotřebuje k tomu žádného zprostředkovatele. Data proto chrání na úrovni finančního sektoru, který je pod dohledem regulátora a má spoustu povinností navíc.\n\nE-faktura se týká každého, kdo má DIČ\n\nNejčastější omyl je, že malých firem se e-fakturace netýká. Týká se každého, kdo má DIČ. Výjimkou jsou v podstatě jen slovenské tajné služby a dodavatelé, kteří fakturují utajované zakázky například pro ministerstvo obrany.\n\nNeplátce DPH nemusí faktury přes pošťáka vystavovat, ale musí je umět přijímat. Mobilní operátor nebo dodavatel energií je plátcem DPH, takže firemní faktury bude posílat všem, i malým živnostníkům. Digitálního pošťáka tak potřebuje opravdu každý.\n\nEvropa to chce o tři roky později, Slovensko přidalo vlastní pravidla\n\nE-faktura vychází z evropské iniciativy ViDA, tedy DPH v digitálním věku. Přeshraniční fakturace bude povinná v celé Evropské unii od července 2030 a jejím cílem je zjednodušit dodavatelské vztahy a zvýšit automatizaci. Faktura se už nemá naťukat v jednom systému, poslat jako PDF a na druhé straně znovu ručně přepisovat nebo luštit přes nepřesné OCR.\n\nSlovensko k tomu přidalo dvě vlastní věci. Pošťák potřebuje kromě mezinárodního certifikátu také národní certifikaci od finanční správy a vybrané údaje z každé faktury jdou i finanční správě. Zahraniční faktury a faktury pro běžné občany jsou zatím vyňaté, povinnost se týká tuzemské fakturace mezi firmami a "
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/vice-objednavek-mene-penez-co-ukazuji-data-o-slovenskem-e-commerce/",
-      "datum": "2026-11-19",
-      "perex": "Slovenský e-commerce vysílá rozdílné signály. Podívejte se, proč nestačí sledovat jen tržby nebo počet objednávek.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Více objednávek, méně peněz. Co ukazují data o slovenském e-commerce?",
-        "meta": {
-          "ogTitle": "Více objednávek, méně peněz. Co ukazují data o e-commerce?",
-          "ogDesc": "Slovenský e-commerce vysílá rozdílné signály. Podívejte se, proč nestačí sledovat jen tržby nebo počet objednávek.",
-          "published": "2026-11-19T10:55:38+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Více objednávek, méně peněz. Co ukazují data o slovenském e-commerce?"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n19. listopadu 2026\n5 min. doba čtení\nVíce objednávek, méně peněz. Co ukazují data o slovenském e-commerce?\n\nSlovenský maloobchod v září rostl, ale kategorie zahrnující e-shopy a zásilkový prodej skončila meziročně v minusu. Jiná data přitom za první pololetí ukazovala růst online trhu. Rozpor nemusí znamenat, že se někdo mýlí. Spíše připomíná, proč samotné tržby nebo počet objednávek nestačí k posouzení kondice e-shopu.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nVíce objednávek, méně peněz. Co ukazují data o slovenském e-commerce?\nZdroj: ChatGPT\n\nPodle údajů Statistického úřadu SR za září 2026 byly maloobchodní tržby na Slovensku meziročně reálně vyšší o 5,5 %. Růst ale neplatil pro všechny části maloobchodu. V kategorii prodeje mimo prodejny, stánky a trhy, do které statistika zahrnuje také e-shopy a zásilkový prodej, tržby klesly o 1,5 %.\n\nNa první pohled by se tedy mohlo zdát, že se slovenskému online prodeji nedaří. Jen o několik měsíců dříve ale Heureka při hodnocení prvního pololetí uváděla přesný opak: slovenský e-commerce meziročně vzrostl o 2,3 % na 1,109 miliardy eur.\n\nObě čísla mohou být správná. Měří totiž jinou věc, za jiné období a podle jiné metodiky.\n\nE-shopy byly v září v minusu, celý maloobchod rostl\n\nZářijový výsledek slovenského maloobchodu byl podle Statistického úřadu druhý nejlepší od začátku roku. Růst zaznamenalo pět z devíti sledovaných složek.\n\nNejvíce ho podpořily specializované prodejny s ostatním zbožím, například drogerie, lékárny, prodejny textilu či obuvi, jejichž reálné tržby meziročně vzrostly o 11,8 %. O 6 % si polepšily čerpací stanice a dvouciferný růst vykázaly také prodejny s počítači a ICT zařízeními.\n\nOpačným směrem šla kategorie prodeje mimo prodejny, stánky a trhy. E-shopy a zásilkový prodej podle ŠÚ SR meziročně klesly o 1,5 %. Slabší výsledky zaznamenaly také specializované prodejny potravin, nápojů a tabáku či prodejny sportovních potřeb, hraček a knih.\n\nSamotných -1,5 % je ale potřeba číst v kontextu. Podle červencových údajů Statistického úřadu SR totiž meziroční propad e-shopů a zásilkového prodeje dosahoval ještě 11,8 %. Zářijové číslo tak zároveň ukazuje výrazné zmírnění propadu.\n\nHeureka přitom za první pololetí viděla růst\n\nJiný pohled na slovenský online trh přinesl E-commerce Insider od Heureky. Za prvních šest měsíců roku 2026 podle jeho dat slovenský e-commerce meziročně vzrostl o 2,3 % a dosáhl obratu 1 109,59 milionu eur. Průměrná hodnota objednávky ale klesla o 1,5 % na 78,79 eura, zatímco počet objednávek mírně vzrostl.\n\nTo je důležitá kombinace. Trh může v celkovém obratu růst, přestože zákazník při jednom nákupu utratí méně. Pokud nižší hodnotu objednávky vykompenzuje vyšší počet nákupů, výsledné tržby mohou zůstat v plusu.\n\nZároveň ale z těchto dat nelze automaticky vyvodit, že se daří každému e-shopu. Tržní obrat, počet objednávek a výsledek konkrétního obchodníka jsou tři různé pohledy.\n\nRozdíl mezi daty Heureky a Statistického úřadu navíc není přímým rozporem. Heureka hodnotila celé první pololetí a pracuje s vlastními daty online trhu. Zářijová statistika ŠÚ SR zachycuje jeden měsíc, používá širší statistickou kategorii a sleduje reálné tržby očištěné o vliv inflace.\n\nVíce objednávek ještě nemusí znamenat lepší výsledek\n\nPrávě na tento rozdíl upozornil u zářijových čísel Pavol Bogár z Tatra banky. Místo jednoho čísla by se podle n"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/ai-meni-vyhledavani-i-nakupni-rozhodovani-co-ukazuje-32-studii/",
-      "datum": "2026-11-19",
-      "perex": "32 studií ukazuje, jak AI mění vyhledávání, kliknutí na weby, viditelnost značek i to, jak se zákazníci rozhodují před nákupem.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "AI mění vyhledávání i nákupní rozhodování. Co ukazuje 32 studií?",
-        "meta": {
-          "ogTitle": "AI mění vyhledávání. Co ukazuje 32 studií?",
-          "ogDesc": "32 studií ukazuje, jak AI mění vyhledávání, kliknutí na weby, viditelnost značek i to, jak se zákazníci rozhodují před nákupem.",
-          "published": "2026-11-19T07:15:00+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "AI mění vyhledávání i nákupní rozhodování. Co ukazuje 32 studií?"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n19. listopadu 2026\n10 min. doba čtení\nAI mění vyhledávání i nákupní rozhodování. Co ukazuje 32 studií?\n\nAI už nemění jen to, jak lidé hledají informace. Stále více vstupuje také do porovnávání produktů, výběru značek a rozhodování před nákupem. Rozsáhlý přehled 32 výzkumů ukazuje, že AI odpovědi dokážou snížit počet kliknutí na weby, zároveň ale mohou značku dostat do užšího výběru ještě předtím, než zákazník její stránku vůbec otevře.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nAI mění vyhledávání i nákupní rozhodování. Co ukazuje 32 studií?\nZdroj: ChatGPT\n\nKdyž se mluví o AI vyhledávání, diskuse často skončí u jedné otázky: kolik návštěvnosti vezme Googlu, médiím nebo e-shopům? Nová data ale ukazují, že samotná kliknutí jsou jen jednou částí problému. Mění se také to, kdy zákazník značku objeví, kde ji porovnává s konkurencí a v jaké chvíli vůbec potřebuje navštívit web.\n\nKevin Indig dal v novém přehledu pro Search Engine Land dohromady 32 původních studií a analýz, které se věnují AI vyhledávání, viditelnosti značek, chování zákazníků i agentickému nakupování. Nejde o klasickou statistickou metaanalýzu, ve které by se všechny výsledky sloučily do jednoho čísla. Jednotlivé výzkumy mají rozdílné vzorky i metodiky, u několika otázek se ale už začínají opakovat podobné závěry.\n\nAI odpovědi berou kliknutí. Jedno univerzální číslo ale neexistuje\n\nO tom, zda AI odpovědi snižují počet kliknutí, už mnoho pochybností nezůstává. Otázkou je spíše to, o kolik a v jakých situacích.\n\nPew Research Center už při sledování chování uživatelů zjistil, že u výsledků s AI souhrnem klikli lidé na klasický výsledek v 8 % návštěv, zatímco bez AI souhrnu to bylo 15 %. Později přibyly experimenty, které efekt potvrdily i v kontrolovanějších podmínkách. V jednom z nich klesla organická kliknutí po zobrazení AI Overview o 39,8 %. Jiný experiment s 1 100 aktivními uživateli v USA ukázal, že nucené používání Google AI Mode snížilo externí prokliky o 18,8 procentního bodu oproti běžnému vyhledávání.\n\nTo ale neznamená, že každý web má počítat s poklesem o 20, 40 nebo 50 %. Výsledek se mění podle typu otázky, formátu AI odpovědi i konkrétního webu. Některé studie navíc měří CTR, jiné zero-click chování nebo návštěvy konkrétních stránek. Používat jedno procento jako odhad dopadu AI na celý trh by proto bylo zavádějící.\n\nPro e-shopy je důležité ještě něco jiného. Méně kliknutí automaticky neznamená, že značka přestala mít na zákazníka vliv. Část rozhodování se totiž může odehrát ještě před návštěvou stránky.\n\nAI může stránku najít, ale vůbec ji nepoužít\n\nU klasického SEO jsme zvyklí sledovat pozici stránky. U AI je cesta složitější. Systém musí web nejprve najít, následně si z dostupných zdrojů vybrat a až potom se rozhodne, co z nich použije ve finální odpovědi.\n\nAnalýza AirOps pracovala s 15 tisíci prompty a více než 548 tisíci stránkami, které ChatGPT při hledání načetl. Až 85 % načtených stránek nakonec vůbec necitoval. U části zdrojů navíc nešlo o výsledek původní otázky, ale o další vyhledávání, která si AI vytvořila sama během zpracování odpovědi.\n\nTo je důležité i pro způsob, jakým dnes firmy měří svou viditelnost. Nestačí zadat jeden prompt, zkontrolovat odpověď a z toho vyvodit, zda je značka „viditelná v AI“. Model může u jedné otázky hledat ceny, u druhé kompatibilitu nebo zkušenosti zákazníků a v každém kroku používat "
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/od-covidoveho-boomu-k-dnesnim-vanocum-jak-se-zmenilo-nakupovani-darku-online/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/ai-doporuci-produkt-zakaznik-nakoupi-komu-pripsat-uspech-za-konverzi/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/temu-ma-dalsi-problem-v-eu-brusel-tvrdi-ze-nedostatecne-kontroluje-nelegalni-produkty/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/chatbot-ktery-si-vymysli-je-horsi-nez-zadny-jak-ma-odpovidat-e-shop/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/inzerenti-hlasi-vyrazne-propady-meta-ads/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/drevo-na-miru-pres-e-shop-jak-propojili-sklad-prodej-a-vlastni-dopravu-do-jednoho-systemu-roman-jadron-wood-profil/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-46-2026-dovoz-z-ciny-zdrazil-chatgpt-spustil-firemni-profily-kde-hledat-dalsi-rust/",
       "datum": null,
       "perex": null,
       "autor": null,
