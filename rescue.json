@@ -1,13 +1,6 @@
 {
-  "generatedAt": "2026-11-23T04:51:06.560Z",
-  "pacienti": 1,
+  "generatedAt": "2026-11-24T05:00:21.992Z",
+  "pacienti": 0,
   "zachraneno": [],
-  "neuspech": [
-    {
-      "key": "stibee",
-      "url": "https://stibee.com/",
-      "duvod": "spadlo",
-      "error": "TimeoutError: page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n"
-    }
-  ]
+  "neuspech": []
 }

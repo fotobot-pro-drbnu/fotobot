@@ -309,13 +309,16 @@
     "https://reallygoodemails.com/emails/please-verify-your-airalo-account",
     "https://reallygoodemails.com/emails/apollo-trial-ended-upgrade",
     "https://reallygoodemails.com/emails/vercel-hobby-account-activation",
-    "https://reallygoodemails.com/emails/nieman-lab-daily-digest-confirmation"
+    "https://reallygoodemails.com/emails/nieman-lab-daily-digest-confirmation",
+    "https://reallygoodemails.com/emails/ag1-black-friday-25-off-subscription",
+    "https://reallygoodemails.com/emails/everlywell-pancreatic-cancer-awareness",
+    "https://reallygoodemails.com/emails/noom-8-months-free-weight-loss-assessment"
   ],
   "catalogs": {
     "rge-cart": {
       "fails": 0,
-      "date": "2026-11-19",
-      "odkazu": 50
+      "date": "2026-11-24",
+      "odkazu": 100
     },
     "emaillove-newsletter": {
       "fails": 1,
@@ -327,7 +330,7 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-20",
+      "date": "2026-11-24",
       "odkazu": 50
     },
     "rge-announcement": {
@@ -352,7 +355,7 @@
     },
     "rge-promo": {
       "fails": 0,
-      "date": "2026-11-19",
+      "date": "2026-11-24",
       "odkazu": 50
     }
   },

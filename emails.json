@@ -1,60 +1,67 @@
 {
-  "generatedAt": "2026-11-23T04:50:25.971Z",
+  "generatedAt": "2026-11-24T04:59:26.776Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/apollo-trial-ended-upgrade",
-      "title": "Your Apollo trial has ended from Apollo.io - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-23/inspirace--rge-onboarding-1.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/ag1-black-friday-25-off-subscription",
+      "title": "25% Off - Black Friday Sale from AG1 - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-24/inspirace--rge-promo-1.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/vercel-hobby-account-activation",
-      "title": "Ship your first Vercel deployment in minutes from Vercel - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-23/inspirace--rge-onboarding-2.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/everlywell-pancreatic-cancer-awareness",
+      "title": "Beyond routine cancer screening from Everlywell - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-24/inspirace--rge-promo-2.jpg"
     },
     {
-      "katalog": "rge-onboarding",
-      "url": "https://reallygoodemails.com/emails/nieman-lab-daily-digest-confirmation",
-      "title": "You're on our list! from NiemanLab - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-23/inspirace--rge-onboarding-3.jpg"
+      "katalog": "rge-promo",
+      "url": "https://reallygoodemails.com/emails/noom-8-months-free-weight-loss-assessment",
+      "title": "8 months. On us. from Noom - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-24/inspirace--rge-promo-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 50
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
-      "odkazu": 50
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
+      "odkazu": 100
     },
     {
-      "key": "rge-welcome",
-      "name": "Really Good Emails — welcome",
-      "url": "https://reallygoodemails.com/categories/welcome",
+      "key": "rge-transactional",
+      "name": "Really Good Emails — transakční",
+      "url": "https://reallygoodemails.com/categories/transactional",
       "odkazu": 50
     }
   ],
   "archivy": [
     {
-      "znacka": "Flodesk",
-      "key": "flodesk",
-      "url": "https://flodesk.com/emails",
-      "title": "Flodesk Email Marketing | Templates, Automations & Analytics",
-      "shot": "emails/2026-11-23/flodesk--archiv.jpg"
+      "znacka": "SmartEmailing",
+      "key": "smartemailing",
+      "url": "https://www.smartemailing.cz/newsletter",
+      "title": "E-mail marketing pro firmy | SmartEmailing",
+      "shot": "emails/2026-11-24/smartemailing--archiv.jpg"
     },
     {
-      "znacka": "Customer.io",
-      "key": "customerio",
-      "url": "https://customer.io/blog/newsletter",
-      "title": "Learn with Customer.io",
-      "shot": "emails/2026-11-23/customerio--archiv.jpg"
+      "znacka": "Targito",
+      "key": "targito",
+      "url": "https://www.targito.com/newsletter",
+      "title": "Newsletter - Targito",
+      "shot": "emails/2026-11-24/targito--archiv.jpg"
+    },
+    {
+      "znacka": "Boldem",
+      "key": "boldem",
+      "url": "https://www.boldem.cz/resources/newsletter",
+      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
+      "shot": "emails/2026-11-24/boldem--archiv.jpg"
     }
   ],
   "poznamky": []
