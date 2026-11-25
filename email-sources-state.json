@@ -312,7 +312,10 @@
     "https://reallygoodemails.com/emails/nieman-lab-daily-digest-confirmation",
     "https://reallygoodemails.com/emails/ag1-black-friday-25-off-subscription",
     "https://reallygoodemails.com/emails/everlywell-pancreatic-cancer-awareness",
-    "https://reallygoodemails.com/emails/noom-8-months-free-weight-loss-assessment"
+    "https://reallygoodemails.com/emails/noom-8-months-free-weight-loss-assessment",
+    "https://reallygoodemails.com/emails/brut-volcano-collection-coming-soon",
+    "https://reallygoodemails.com/emails/lovable-ai-seo-product-update",
+    "https://reallygoodemails.com/emails/writeful-newsletter-moves-linkedin"
   ],
   "catalogs": {
     "rge-cart": {
@@ -335,17 +338,17 @@
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-11-20",
+      "date": "2026-11-25",
       "odkazu": 50
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-23",
+      "date": "2026-11-25",
       "odkazu": 50
     },
     "rge-newsletter": {
       "fails": 0,
-      "date": "2026-11-23",
+      "date": "2026-11-25",
       "odkazu": 50
     },
     "rge-welcome": {

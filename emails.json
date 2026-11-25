@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-11-24T04:59:26.776Z",
+  "generatedAt": "2026-11-25T04:43:31.798Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/ag1-black-friday-25-off-subscription",
-      "title": "25% Off - Black Friday Sale from AG1 - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-24/inspirace--rge-promo-1.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/brut-volcano-collection-coming-soon",
+      "title": "VOLCANO COLLECTION from BRUT - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-25/inspirace--rge-announcement-1.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/everlywell-pancreatic-cancer-awareness",
-      "title": "Beyond routine cancer screening from Everlywell - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-24/inspirace--rge-promo-2.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/lovable-ai-seo-product-update",
+      "title": "Build apps that people can actually find from Lovable - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-25/inspirace--rge-announcement-2.jpg"
     },
     {
-      "katalog": "rge-promo",
-      "url": "https://reallygoodemails.com/emails/noom-8-months-free-weight-loss-assessment",
-      "title": "8 months. On us. from Noom - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-24/inspirace--rge-promo-3.jpg"
+      "katalog": "rge-announcement",
+      "url": "https://reallygoodemails.com/emails/writeful-newsletter-moves-linkedin",
+      "title": "This newsletter is moving to LinkedIn from November from Writeful - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-25/inspirace--rge-announcement-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-promo",
-      "name": "Really Good Emails — promo",
-      "url": "https://reallygoodemails.com/categories/promotion",
+      "key": "rge-announcement",
+      "name": "Really Good Emails — oznámení",
+      "url": "https://reallygoodemails.com/categories/announcement",
       "odkazu": 50
     },
     {
-      "key": "rge-cart",
-      "name": "Really Good Emails — opuštěný košík",
-      "url": "https://reallygoodemails.com/categories/abandoned-cart",
-      "odkazu": 100
+      "key": "rge-onboarding",
+      "name": "Really Good Emails — onboarding",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "odkazu": 50
     },
     {
-      "key": "rge-transactional",
-      "name": "Really Good Emails — transakční",
-      "url": "https://reallygoodemails.com/categories/transactional",
+      "key": "rge-newsletter",
+      "name": "Really Good Emails — newslettery",
+      "url": "https://reallygoodemails.com/categories/newsletter",
       "odkazu": 50
     }
   ],
   "archivy": [
     {
-      "znacka": "SmartEmailing",
-      "key": "smartemailing",
-      "url": "https://www.smartemailing.cz/newsletter",
-      "title": "E-mail marketing pro firmy | SmartEmailing",
-      "shot": "emails/2026-11-24/smartemailing--archiv.jpg"
+      "znacka": "Mailchimp",
+      "key": "mailchimp",
+      "url": "https://mailchimp.com/blog/newsletter",
+      "title": "Marketing Resources | Mailchimp",
+      "shot": "emails/2026-11-25/mailchimp--archiv.jpg"
     },
     {
-      "znacka": "Targito",
-      "key": "targito",
-      "url": "https://www.targito.com/newsletter",
-      "title": "Newsletter - Targito",
-      "shot": "emails/2026-11-24/targito--archiv.jpg"
+      "znacka": "Omnisend",
+      "key": "omnisend",
+      "url": "https://www.omnisend.com/newsletter",
+      "title": "Free and Customizable Email Newsletter Templates",
+      "shot": "emails/2026-11-25/omnisend--archiv.jpg"
     },
     {
-      "znacka": "Boldem",
-      "key": "boldem",
-      "url": "https://www.boldem.cz/resources/newsletter",
-      "title": "Tak ten píše! 14 tipů pro efektivní e-mail copywriting | Blog | Boldem",
-      "shot": "emails/2026-11-24/boldem--archiv.jpg"
+      "znacka": "ActiveCampaign",
+      "key": "activecampaign",
+      "url": "https://www.activecampaign.com/newsletter",
+      "title": "Blog | ActiveCampaign",
+      "shot": "emails/2026-11-25/activecampaign--archiv.jpg"
     }
   ],
   "poznamky": []
