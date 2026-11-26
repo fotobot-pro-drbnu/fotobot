@@ -1,68 +1,48 @@
 {
-  "generatedAt": "2026-11-25T04:43:31.798Z",
+  "generatedAt": "2026-11-26T05:23:57.839Z",
   "konkurence": [],
   "inspirace": [
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/brut-volcano-collection-coming-soon",
-      "title": "VOLCANO COLLECTION from BRUT - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-25/inspirace--rge-announcement-1.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/savee-first-day-onboarding",
+      "title": "Welcome to Savee from Savee - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-26/inspirace--rge-welcome-1.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/lovable-ai-seo-product-update",
-      "title": "Build apps that people can actually find from Lovable - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-25/inspirace--rge-announcement-2.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/bed-bath-and-beyond-welcome-15-off",
+      "title": "You’re home! 🏠 from Bed Bath & Beyond - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-26/inspirace--rge-welcome-2.jpg"
     },
     {
-      "katalog": "rge-announcement",
-      "url": "https://reallygoodemails.com/emails/writeful-newsletter-moves-linkedin",
-      "title": "This newsletter is moving to LinkedIn from November from Writeful - Desktop Email View | Really Good Emails",
-      "shot": "emails/2026-11-25/inspirace--rge-announcement-3.jpg"
+      "katalog": "rge-welcome",
+      "url": "https://reallygoodemails.com/emails/bbc-earth-welcome-onboarding",
+      "title": "Welcome to the pack 🐾 from BBC - Desktop Email View | Really Good Emails",
+      "shot": "emails/2026-11-26/inspirace--rge-welcome-3.jpg"
     }
   ],
   "katalogy": [
     {
-      "key": "rge-announcement",
-      "name": "Really Good Emails — oznámení",
-      "url": "https://reallygoodemails.com/categories/announcement",
+      "key": "rge-welcome",
+      "name": "Really Good Emails — welcome",
+      "url": "https://reallygoodemails.com/categories/welcome",
       "odkazu": 50
     },
     {
-      "key": "rge-onboarding",
-      "name": "Really Good Emails — onboarding",
-      "url": "https://reallygoodemails.com/categories/onboarding",
+      "key": "rge-promo",
+      "name": "Really Good Emails — promo",
+      "url": "https://reallygoodemails.com/categories/promotion",
       "odkazu": 50
     },
     {
-      "key": "rge-newsletter",
-      "name": "Really Good Emails — newslettery",
-      "url": "https://reallygoodemails.com/categories/newsletter",
+      "key": "rge-cart",
+      "name": "Really Good Emails — opuštěný košík",
+      "url": "https://reallygoodemails.com/categories/abandoned-cart",
       "odkazu": 50
     }
   ],
-  "archivy": [
-    {
-      "znacka": "Mailchimp",
-      "key": "mailchimp",
-      "url": "https://mailchimp.com/blog/newsletter",
-      "title": "Marketing Resources | Mailchimp",
-      "shot": "emails/2026-11-25/mailchimp--archiv.jpg"
-    },
-    {
-      "znacka": "Omnisend",
-      "key": "omnisend",
-      "url": "https://www.omnisend.com/newsletter",
-      "title": "Free and Customizable Email Newsletter Templates",
-      "shot": "emails/2026-11-25/omnisend--archiv.jpg"
-    },
-    {
-      "znacka": "ActiveCampaign",
-      "key": "activecampaign",
-      "url": "https://www.activecampaign.com/newsletter",
-      "title": "Blog | ActiveCampaign",
-      "shot": "emails/2026-11-25/activecampaign--archiv.jpg"
-    }
-  ],
-  "poznamky": []
+  "archivy": [],
+  "poznamky": [
+    "Dnes se nenašel žádný e-mail konkurence. Když se to opakuje, nejde o chybu — ty značky svoje kampaně veřejně nevystavují."
+  ]
 }
