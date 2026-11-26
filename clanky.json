@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T04:44:32.561Z",
+  "generatedAt": "2026-11-26T05:24:44.421Z",
   "verze": 1,
-  "datum": "2026-11-25",
-  "oknoOd": "2026-11-15",
+  "datum": "2026-11-26",
+  "oknoOd": "2026-11-16",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,93 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 34,
+      "pocetPolozek": 35,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/mate-horsi-podminky-vraceni-ai-muze-uprednostnit-konkurenci/",
+      "datum": "2026-11-25",
+      "perex": "AI nákupní agenti nehodnotí jen cenu. Výzkum ukázal, že při výběru e-shopu sledují i podmínky vrácení, důvěru nebo záruku.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Máte horší podmínky vrácení? AI může upřednostnit konkurenci",
+        "meta": {
+          "ogTitle": "Máte horší podmínky vrácení? AI může upřednostnit konkurenci",
+          "ogDesc": "AI nákupní agenti nehodnotí jen cenu. Výzkum ukázal, že při výběru e-shopu sledují i podmínky vrácení, důvěru nebo záruku.",
+          "published": "2026-11-25T11:34:13+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Máte horší podmínky vrácení? AI může upřednostnit konkurenci"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n5 min. doba čtení\nMáte horší podmínky vrácení? AI může upřednostnit konkurenci\n\nDva e-shopy prodávají stejný produkt za stejnou cenu. Jeden ale nabízí lepší podmínky vrácení. V 86 % kontrolovaných testů si AI agent vybral právě jeho. Nový výzkum naznačuje, že při nakupování přes AI už nemusí rozhodovat jen cena a dostupnost produktu.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nMáte horší podmínky vrácení? AI může upřednostnit konkurenci\nZdroj: ChatGPT\n\nE-shopy jsou zvyklé soupeřit cenou, dostupností nebo rychlostí dopravy. Když ale mezi zákazníka a obchod vstoupí AI agent, začne si nabídky porovnávat trochu jinak. Nezajímá ho jen to, kolik produkt stojí, ale také to, kolik bude stát celý nákup a jaké podmínky zákazník dostane.\n\nUkázaly to testy Andreessen Horowitz a The Prompting Company. Výzkumníci prověřovali nákupní chování agentů Muse, Instinct, Grok Bot a Dots na 1 270 zadáních a 11 307 dokončených testech. Samostatně uskutečnili také 2 619 nákupních požadavků v ChatGPT, Gemini a Perplexity. Výsledky zveřejnili v analýze o tom, jak si AI agenti vybírají produkty a prodejce.\n\nStejná cena, rozdílné podmínky\n\nNejjednodušší test postavil proti sobě dva prodejce se stejnou cenou produktu. Rozdíl byl v podmínkách vrácení. Jeden obchod nabízel například bezplatné vrácení, delší lhůtu nebo vrácení peněz původním způsobem platby.\n\nV 86 % testů si agent vybral obchod s lepšími podmínkami vrácení.\n\nPro e-shopaře je na tom zajímavé hlavně to, že podmínky vrácení nebyly pro agenta jen informací, které si všimne až po výběru produktu. Staly se součástí samotného rozhodování o tom, kde produkt koupit.\n\nCena tedy může být stejná a produkt může být stejný, ale výsledek pro dva e-shopy stejný být nemusí.\n\nAgent počítá celý nákup, ne jen cenovku\n\nPodmínky vrácení přitom nebyly jediným faktorem. Výzkumníci sledovali, jak agenti pracují také s cenou dopravy, zárukou, možnostmi refundace nebo dalšími podmínkami spojenými s nákupem.\n\nAgent si tak může vytvořit širší obraz o tom, kolik zákazníka konkrétní nabídka skutečně stojí a co se stane, pokud se po nákupu objeví problém.\n\nPro e-shopy je to posun oproti klasickému porovnávání produktů. Nestačí mít konkurenceschopnou cenu na produktové kartě, pokud vedle ní stojí obchod se stejnou cenou a lepšími podmínkami kolem nákupu.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nAni nižší cena nemusí stačit\n\nVýzkumníci pak podmínky ještě zpřísnili. V dalších 275 porovnáních už proti sobě nestály obchody se stejnou cenou. Agent si vybíral mezi levnějším prodejcem a dražší, ale důvěryhodnější alternativou. Výsledek byl ještě zajímavější.\n\nV 72 % případů doporučil důvěryhodnějšího prodejce navzdory tomu, že jeho nabídka byla dražší.\n\nV jednom z testů například Grok Bot nevybral reproduktor Sonos za 200 dolarů a upřednostnil nabídku za 250 dolarů od autorizovaného prodejce. Při rozhodování zohlednil záruční krytí.\n\nVýzkum tím neříká, že AI bude vždy ochotná zaplatit více. Ukazuje ale, že nejnižší cena sama o sobě nemusí stačit k tomu, aby agent označil nabídku za nejlepší.\n\nDůvěra se tak dostává přímo do cenového porovnání\n\nTo je pro e-shopy podstatná změna. Důvěryhodnost obchodu byla dosud často vnímána jako něco, co zákazník posuzuje vedle ceny. U AI agenta se může stát jedním z údajů, které rozhodují přímo při výběru konkrétní nabídky.\n\nAgent může poro"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/vetsi-baleni-nemusi-znamenat-lepsi-cenu-v-15-pripadech-vyslo-draz-i-po-prepoctu/",
+      "datum": "2026-11-25",
+      "perex": "Analýza 746 produktových řad ukázala, že větší balení bývá jednotkově levnější, ale ne vždy. U 15 produktů vyšlo dráž.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Větší balení nemusí znamenat lepší cenu. V 15 případech vyšlo dráž i po přepočtu",
+        "meta": {
+          "ogTitle": "Větší balení nemusí znamenat lepší cenu",
+          "ogDesc": "Analýza 746 produktových řad ukázala, že větší balení bývá jednotkově levnější, ale ne vždy. U 15 produktů vyšlo dráž.",
+          "published": "2026-11-25T10:47:04+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Větší balení nemusí znamenat lepší cenu. V 15 případech vyšlo dráž i po přepočtu"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n5 min. doba čtení\nVětší balení nemusí znamenat lepší cenu. V 15 případech vyšlo dráž i po přepočtu\n\nVětší balení bývá na mililitr či gram levnější, zákazník za něj ale při nákupu zaplatí podstatně více. Analýza 746 produktových řad navíc ukázala i případy, kdy bylo větší balení dražší dokonce i po přepočtu na stejné množství.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nVětší balení nemusí znamenat lepší cenu. V 15 případech vyšlo dráž i po přepočtu\nZdroj: ChatGPT\n\nU dvou velikostí stejného produktu působí větší balení často jako výhodnější volba. Data ze studie Miciny ukazují, že ve většině případů to skutečně platí, ale pouze při pohledu na jednotkovou cenu. Medián jednotkového zvýhodnění většího balení činil 33,3 %, zatímco medián zvýšení částky zaplacené za celé balení dosáhl 70,3 %.\n\nMicina v cenovém přehledu ze 16. listopadu 2026 porovnala 746 produktových řad. Vždy sledovala stejný výrobek v menším a větším balení u stejného prodejce. Do cen nezahrnovala dopravu ani dodatečné kupony.\n\nLevnější mililitr, vyšší účet\n\nU 723 ze 746 produktových řad bylo větší balení po přepočtu na stejné množství levnější o více než jedno procento. U dalších osmi se rozdíl pohyboval v rozmezí ±1 %.\n\nZákazník ale u většího balení nekupuje jen levnější mililitr či gram, ale také větší množství produktu. Může tak získat lepší jednotkovou cenu a zároveň při jednom nákupu utratit výrazně více.\n\nPro e-shopaře jsou důležitá obě čísla. Jednotková cena ukazuje, jak mezi sebou jednotlivé velikosti vycházejí, zatímco cena celého balení určuje, jakou částku musí zákazník zaplatit najednou.\n\nPatnáct výjimek z pravidla\n\nU 15 produktových řad bylo větší balení po přepočtu na stejné množství o více než jedno procento dražší. Nejvýraznější rozdíl se objevil u parfému Coach Dreams Moonlight.\n\nBalení 40 ml stálo 46 eur, tedy 115 eur za 100 ml. Větší 60ml verze stála 85 eur, což po přepočtu představovalo 141,67 eura za 100 ml. Větší balení tak vyšlo jednotkově o 23,2 % dráž.\n\nU těchto 15 výjimek byl zároveň menší rozdíl mezi samotnými velikostmi. Větší balení obsahovalo v mediánu o 75 % více produktu, zatímco v celém souboru to bylo o 150 % více. Jde ale o malou skupinu a z dat nelze určit, zda právě tento rozdíl souvisel s nastavením cen.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nStejný produkt, úplně jiný výsledek\n\nJeště zajímavější obraz vznikne při porovnání stejných balení u různých prodejců. Micina našla 266 dvojic, u kterých alespoň dva obchodníci nabízeli stejné dvě velikosti stejného výrobku. U osmi dvojic, tedy u 3 %, bylo větší balení u jednoho prodejce jednotkově levnější a u druhého dražší.\n\nU parfému Chopard Felicia Roses ve velikostech 40 a 100 ml vycházelo u FAnn menší balení na 65,63 eura za 100 ml a větší na 86 eur. Větší verze tak byla o 31 % dražší.\n\nU Vivantisu byly přepočtené ceny stejných balení 45,50 eura a 31,70 eura za 100 ml. Tam bylo větší balení naopak o 30,3 % levnější.\n\nRozdíl se objevil také u sprchového krému Fa Divine Moments o objemu 250 a 400 ml. V e-shopu MojaLekáreň bylo větší balení v přepočtu na 100 ml o 5,5 % dražší, zatímco v DrogériaDomov bylo o 7,2 % levnější.\n\nZ těchto příkladů ale nelze vyvodit, že lékárny, drogerie nebo parfumerie používají odlišnou cenovou strategii. Micina upozorňuje, že vzorek na takový obecný závěr nestačí.\n\nAkce může poměr mezi baleními"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/meni-se-era-nakupnich-asistentu-dve-tretiny-dotazu-miri-na-produkty-ne-na-doruceni/",
+      "datum": "2026-11-25",
+      "perex": "Dvě třetiny dotazů nákupním asistentům se týkají produktů a doporučení. Podívejte se, jak fungují v reálném provozu e-shopu.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Mění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení",
+        "meta": {
+          "ogTitle": "AI nákupní asistenti mění e-shopy. Na co se jich zákazníci ptají?",
+          "ogDesc": "Dvě třetiny dotazů nákupním asistentům se týkají produktů a doporučení. Podívejte se, jak fungují v reálném provozu e-shopu.",
+          "published": "2026-11-25T08:00:34+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Mění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n7 min. doba čtení\nMění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení\n\nO nákupních asistentech a agentech se dnes mluví hlavně v souvislosti s ChatGPT a spol. My jsme ale chtěli vědět, co se stane, když podobnou technologii nasadíte přímo na e-shop s desítkami tisíc produktů ve stovkách kategorií a skutečným provozem. Ve Sportisimu nákupní asistent Perselio běží více než rok na plném trafficu. Jak takového nákupního asistenta na eshop dostat, co po něm zákazníci v reálném provozu chtějí, co funguje a kde jsou limity?\n\nMichal Krňák\nSales Director, Perselio\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nMění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení\nZdroj: Perselio\nProč se nákupní asistenti dostávají do e-shopů právě teď?\n\nAI vstupuje do nákupního rozhodování rychleji, než se čekalo. Podle Adobe Digital Economy Index už 38 % spotřebitelů použilo AI při výběru produktu a podíl se meziročně zvýšil o 11 procentních bodů. Lidé se ptají „co koupit když…“, „jaká varianta je nejlepší pro mě, mám tyto parametry…“ nebo „co je alternativa k tomuto produktu“. Přesně to dřív dělal prodavač v kamenné prodejně. Nyní ho nahrazují chytří online asistenti.\n\nNabízí se otázka: nebude nakonec všechno v ChatGPT, Gemini nebo Claude? Odpověď je pravděpodobně: „Obojí“. Globální AI vyhledávání se stane důležitým zdrojem návštěv a e-shopy se v něm budou muset umět prosadit. Vlastní web ale pořád nabídne něco, co obecný model nemá: skutečný sortiment, aktuální ceny a dostupnost, obchodní pravidla a znalost toho, co zákazník právě na webu dělá. Nákupní asistent je tak spíš další logický krok v UX e-shopu než módní doplněk.\n\nJak vypadá nákupní asistent v ostrém provozu ve Sportisimu?\n\nSportisimo je jedním z největších evropských prodejců sportovního vybavení: více než 200 prodejen, silný online prodej a přes 60 000 aktivních produktů ve stovkách kategorií. Široký sortiment znamená velký výběr, ale také složitější orientaci. Každý zákazník hledá něco jiného: jiný sport, značku, cenovou hladinu, velikost, speciální výbavu. Personalizace je proto pro Sportisimo dlouhodobě strategická oblast a asistent navazuje na vyhledávání a doporučování od Perselia, které zde fungují již několik let, a prošly řadou úspěšných AB-testů proti vlastnímu řešení i konkurenčním nástrojům.\n\nAsistent dnes běží na plném trafficu ve všech sedmi zemích resp. jazycích, a denně obslouží zhruba 4000 konverzací a mikrointerakcí.\n\nPorovnání s klasickým vyhledáváním (data z léta 2026):\n\nJsou to proti vyhledávání zajímavá čísla, ale je potřeba je číst s rozumem a kontextem. Nejde o A/B test, ale o porovnání skupin uživatelů, které se samy rozhodly, jak web použít. Asistenta si zkoušejí spíš zvídavější a “kvalitnější” návštěvníci, a hraje svou roli i efekt nové funkce na webu. Návštěvníci, kteří nepoužili ani asistenta, ani vyhledávání, měli výrazně slabší výsledky (konverze 2,7 %, bounce rate 40 %). Závěr tedy rozhodně není „klasické vyhledávání vyhodíme“. Search má své místo, třeba když chcete rychle najít konkrétní věc, a asistent na něj naváže interaktivním dialogem. Smysl dává užší propojení asistenta s vyhledáváním, třeba zakomponováním tlačítka pro vyvolání interakce s asistentem přímo do našeptávače, což Sportisimo aktuálně na všech webech intenzivně testuje.\n\nNa co se zákazníci nákupního asistenta ptají?\n\nStruktura dotazů je poměrně jas"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/e-shopy-mohou-blokovat-ai-vyhledavani-i-bez-primeho-zakazu/",
+      "datum": "2026-11-25",
+      "perex": "Téměř každý desátý zkoumaný e-shop může omezovat AI vyhledávání. Zjistěte, jak přístup AI robotů ovlivňují firewall a e-shopové platformy.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "E-shopy mohou blokovat AI vyhledávání i bez přímého zákazu",
+        "meta": {
+          "ogTitle": "Blokování AI robotů může omezit viditelnost e-shopu",
+          "ogDesc": "Téměř každý desátý zkoumaný e-shop může omezovat AI vyhledávání. Zjistěte, jak přístup AI robotů ovlivňují firewall a e-shopové platformy.",
+          "published": "2026-11-25T07:00:28+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "E-shopy mohou blokovat AI vyhledávání i bez přímého zákazu"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n7 min. doba čtení\nE-shopy mohou blokovat AI vyhledávání i bez přímého zákazu\n\nTo, že e-shop nemá v souboru robots.txt zakázaný přístup vyhledávacím AI robotům, ještě neznamená, že se na jeho stránky skutečně dostanou. Překážkou může být i firewall. Nové měření společnosti Guap Media odhalilo potenciální omezení přístupu vyhledávacích AI robotů u téměř každého desátého zkoumaného e-shopu v Česku i na Slovensku.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nE-shopy mohou blokovat AI vyhledávání i bez přímého zákazu\nZdroj: ChatGPT\n\nSpolečnost Guap Media v listopadu prověřila, jak mají české a slovenské e-shopy nastavený přístup AI robotů. Do průzkumu zahrnula 1 223 českých a 554 slovenských e-shopů. Kromě pravidel v souboru robots.txt testovala také reakce firewallů na požadavky AI robotů.\n\nVýsledky obou trhů jsou velmi podobné. Alespoň jednoho AI robota nepouští 23,2 % zkoumaných českých a 24,4 % slovenských e-shopů. Blokování však nemusí automaticky představovat problém. Záleží na tom, zda e-shop omezuje přístup robotům, kteří sbírají data pro trénování umělé inteligence, nebo těm, kteří slouží k vyhledávání.\n\nBlokování trénování AI nemusí ovlivnit vyhledávání\n\nSpolečnosti zabývající se umělou inteligencí využívají různé roboty k různým účelům. Někteří sbírají obsah pro trénování jazykových modelů, jiní vyhledávají informace, které mohou AI asistenti využít při odpovídání na dotazy uživatelů.\n\nNapříklad OpenAI využívá GPTBot k získávání dat pro trénování modelů, zatímco OAI-SearchBot slouží k vyhledávání. Podle oficiální dokumentace může provozovatel webu jednoho robota zakázat a druhému ponechat přístup.\n\nE-shop tedy nemusí poskytovat svůj obsah pro trénování AI, aby se mohl objevovat ve výsledcích vyhledávání v ChatGPT.\n\nPrávě takové nastavení zjistila Guap Media u 183 českých (15 %) a 86 slovenských e-shopů (15,5 %).\n\nPokud se zaměříme výhradně na vyhledávací AI roboty společností OpenAI, Anthropic a Perplexity, měření přineslo následující výsledky:\n\nV Česku nepouští alespoň jednoho vyhledávacího AI robota 101 z 1 223 e-shopů (8,3 %).\nNa Slovensku jde o 49 z 554 e-shopů (8,8 %).\nU 73 českých a 35 slovenských e-shopů přitom soubor robots.txt neobsahuje žádný zákaz přístupu vyhledávacích AI robotů.\n\nPrávě poslední zjištění je pro e-shopaře důležité. Kontrola souboru robots.txt totiž nemusí stačit.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nRoboty může zastavit i firewall\n\nSoubor robots.txt obsahuje pokyny pro roboty, kteří navštěvují web. Firewall však může jejich požadavky přímo odmítnout, a to i v případě, že v samotném souboru robots.txt žádný zákaz nenajdou.\n\nGuap Media při testování firewallů zaznamenala odmítnutí požadavku alespoň jednoho ze čtyř testovaných robotů určených pro trénování AI a vyhledávání u 183 českých a 85 slovenských e-shopů. U 98 českých a 40 slovenských obchodů přitom soubor robots.txt neobsahoval žádná pravidla týkající se AI robotů.\n\nJedním z míst, kde může k blokování docházet, je Cloudflare, služba zajišťující ochranu a výkon webových stránek. Ve zkoumaném vzorku ji využívá 24,3 % českých a 30,9 % slovenských e-shopů.\n\nZ měření však nelze určit, zda provozovatelé nastavili blokování záměrně, ani s úplnou jistotou potvrdit, jak firewall reaguje na skutečné AI roboty.\n\nVýzkumníci totiž požadavky robotů simulovali. Každý web oslovili jako běžný pr"
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -65,116 +145,46 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/desitky-e-shopu-mely-na-strankach-skodlivy-kod-na-nekterych-ho-odhalili-i-po-sesti-tydnech/",
-      "datum": "2026-11-24",
-      "perex": "Analýza 70 400 e-shopů odhalila škodlivý kód, zastaralé knihovny i problémy se skripty a souhlasy uživatelů.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Desítky e-shopů měly na stránkách škodlivý kód. Na některých ho odhalili i po šesti týdnech",
-        "meta": {
-          "ogTitle": "Desítky e-shopů měly na webu škodlivý kód. Co ukázala analýza?",
-          "ogDesc": "Analýza 70 400 e-shopů odhalila škodlivý kód, zastaralé knihovny i problémy se skripty a souhlasy uživatelů.",
-          "published": "2026-11-24T08:30:07+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Desítky e-shopů měly na stránkách škodlivý kód. Na některých ho odhalili i po šesti týdnech"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n10 min. doba čtení\nDesítky e-shopů měly na stránkách škodlivý kód. Na některých ho odhalili i po šesti týdnech\n\nE-shop může na první pohled fungovat úplně normálně, a přitom na něm běží škodlivý kód. Analýza 70 400 českých a slovenských obchodů potvrdila takový kód na 52 e-shopech. Výzkumníci našli také zapomenuté skripty, zastaralé knihovny nebo případy, kdy reklamní nástroje získaly údaje z formuláře ještě před jeho odesláním.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nDesítky e-shopů měly na stránkách škodlivý kód. Na některých ho odhalili i po šesti týdnech\nZdroj: ChatGPT\n\nKdyž se na internetu objeví výzva, abyste potvrdili, že nejste robot, většinou nad ní ani nepřemýšlíte. Někdy ale může jít o podvod, který má návštěvníka přimět, aby si škodlivý program spustil sám.\n\nPři zkoumání českých a slovenských webů výzkumníci na 25 stránkách podle veřejných bezpečnostních záznamů identifikovali kód spojený s útokem ClickFix. Ten návštěvníkovi zobrazí falešné ověření a navede ho ke stisknutí několika kláves. Pokud pokyny splní, může nevědomky spustit příkaz, který do počítače stáhne škodlivý software. Majitel webu si přitom nemusí ničeho všimnout, protože stránka dál funguje a podvodná výzva se nemusí zobrazovat každému.\n\nTakové případy zachytil první ScriptPatrol Index. Výzkumníci od 3. do 14. října prověřili 91 902 českých a slovenských webů a podrobněji změřili 70 400 e-shopů, z toho 24 932 slovenských. Způsob měření popisuje jejich metodika.\n\nKód útočníků potvrdili na 83 webech, z toho na 52 e-shopech, konkrétně na 27 slovenských a 25 českých. Zbývajících 31 tvořily jiné weby. Nejde o celkový počet napadených obchodů v obou zemích, ale pouze o případy, které výzkumníci dokázali zachytit a potvrdit.\n\nPři opakované kontrole 19. listopadu škodlivý kód stále našli na 40 z původních 83 webů, přibližně šest týdnů po prvním měření.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nNa první pohled všechno funguje. Na pozadí ale může být útočník\n\nNapadený e-shop může fungovat bez viditelných problémů, protože některé útoky se snaží zůstat co nejdéle skryté. Výzkumníci na čtyřech webech našli kód určený ke krádeži údajů o platebních kartách, na dalším falešnou aktualizaci prohlížeče. Ve čtyřech případech útočníci upravili soubory redakčního systému nebo jeho doplňků tak, že návštěvníky přesměrovávaly na cizí server. Na třech z nich se to dělo pouze při návštěvě z mobilu, takže majitel kontrolující stránku na počítači si problému nemusel všimnout.\n\n„Kód vydrží dlouho hlavně proto, že si ho provozovatel snadno nevšimne. Je schovaný ve stránce, někdy se vydává za skript známé služby,“ vysvětluje Martin Stach, zakladatel ScriptPatrolu. Na pěti webech se například škodlivý kód vydával za LinkedIn nebo Hotjar.\n\nNa dalších napadených stránkách výzkumníci škodlivý kód potvrdili, nedokázali ale určit, co přesně měl provést. Jeho přítomnost proto ještě nedokazuje, že došlo ke krádeži údajů nebo finanční škodě.\n\nMezi napadenými e-shopy dominoval WordPress. Neznamená to ale, že je méně bezpečný\n\nZ 52 českých a slovenských e-shopů s potvrzeným útokem fungovalo 36 na WordPressu, z toho 23 na Slovensku, většinou s WooCommerce. WordPress přitom používalo přibližně 22 % všech zkoumaných obchodů, zatímco Shoptet 32 %. Na Shoptetu výzkumníci potvrdili útok pouze u jednoho e-shopu.\n\nZ těchto čísel ale nelz"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/vetsi-sklad-nemusi-byt-resenim-automatizace-dokaze-vyrazne-snizit-potrebu-prostoru/",
-      "datum": "2026-11-23",
-      "perex": "Automatizace skladu může ušetřit prostor i zvýšit kapacitu. Rozhodují ale náklady, technické možnosti haly a návratnost.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Větší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru",
-        "meta": {
-          "ogTitle": "Větší sklad nemusí být řešením. Pomůže automatizace?",
-          "ogDesc": "Automatizace skladu může ušetřit prostor i zvýšit kapacitu. Rozhodují ale náklady, technické možnosti haly a návratnost.",
-          "published": "2026-11-23T09:17:57+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Větší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n23. listopadu 2026\n6 min. doba čtení\nVětší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru\n\nE-shop při růstu nemusí automaticky potřebovat větší halu. Nová studie ukazuje, že automatizace může výrazně zvýšit využití stávající plochy, rozhodující jsou ale náklady, technické možnosti skladu a návratnost investice.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nVětší sklad nemusí být řešením. Automatizace dokáže výrazně snížit potřebu prostoru\nZdroj: ChatGPT\n\nSklad je plný, sezóna se blíží a objednávek přibývá. První reakce bývá jednoduchá: je potřeba větší hala. Jenže problém nemusí být v tom, že je prostoru málo. Může být v tom, jak se využívá.\n\nNa tento rozdíl upozorňuje studie iO Partners a Miebach, kterou nám zaslali spolu s aktuálními daty o automatizaci v logistice. V jednom konkrétním případě mohl konvenční sklad o rozloze přibližně 5 000 m² nahradit vertikálně automatizovaný prostor velký asi 1 200 m². Autoři zároveň upozorňují, že jde o výsledek konkrétního projektu, nikoli o úsporu, kterou lze očekávat u každého skladu.\n\nPro firmu, která roste nebo řeší nový nájem, se tím mění samotná otázka. Namísto „kolik dalších metrů čtverečních potřebujeme?“ může být užitečnější ptát se, kolik kapacity ještě dokážeme získat z prostoru, který už máme.\n\nAutomatizace není jen o nahrazování lidí\n\nPři skladové automatizaci si řada lidí představí především úsporu na mzdách. Robot nahradí skladníka, autonomní vozík jezdí mezi regály a firma potřebuje méně lidí. V praxi ale může být důvod úplně jiný.\n\nNěkde je problémem pomalé vychystávání objednávek, jinde nedostatek prostoru nebo příliš vysoká chybovost. Automatizace může pomoci dostat více zboží na stejnou plochu, zrychlit tok objednávek nebo stabilizovat provoz v době, kdy firma nedokáže najít dostatek lidí.\n\nTaké studie upozorňuje na vyšší produktivitu, lepší využití kapacity a stabilitu provozu. Navíc neplatí, že je potřeba automatizovat celý sklad najednou. Někdy dává větší smysl začít jen tam, kde se proces nejvíce zadrhává.\n\nPodobně se na investici dívá i organizace MHI. Při robotizaci doporučuje nezačínat výběrem technologie, ale tím, jaký konkrétní problém má vyřešit. Samotný robot totiž není celý projekt. Přibude software, integrace, programování a často také dočasný pokles výkonu při spuštění nového systému.\n\nAutomatizace dává smysl tehdy, když vyřeší konkrétní problém skladu lépe nebo levněji než jiná možnost.\n\nNa Slovensku už automatizované sklady nejsou výjimkou\n\nStudie mezi slovenskými projekty uvádí Alzu v Bernolákově, Dedoles v Trnavě, iSklad v Senci nebo Packetu v lokalitě Bratislava-Triblavina. Automatizace se tedy neobjevuje jen ve velkých distribučních centrech, ale také v e-commerce a logistických službách.\n\nViditelným příkladem je Alza. Její logistické centrum v Bernolákově využívá několik automatizovaných technologií včetně systému AutoStore. Firma při otevření centra uváděla, že sklad navrhla tak, aby mohla automatizaci dál rozšiřovat.\n\nJenže automatizace má i druhou podmínku: musí ji zvládnout samotná hala.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nSklad může být jednoduše příliš nízký\n\nPři pronájmu haly se přirozeně řeší lokalita, nájem, napojení na dálnici nebo dostupnost lidí. Pokud ale firma počítá s automatizací, přibývají i technické otázky.\n\nRozhodovat může světlá výška haly, "
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/ai-v-zone-bezpecnosti-kamery-uz-nejen-nahravaji-ale-take-upozornuji-na-problem/",
-      "datum": "2026-11-23",
-      "perex": "AI v maloobchodu sleduje podezřelé chování, kontroluje věk i dohlíží na bezobslužné prodejny. Podívali jsme se, jak ji firmy používají.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "AI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém",
-        "meta": {
-          "ogTitle": "AI v maloobchodu už hlídá prodejny i kontroluje věk",
-          "ogDesc": "AI v maloobchodu sleduje podezřelé chování, kontroluje věk i dohlíží na bezobslužné prodejny. Podívali jsme se, jak ji firmy používají.",
-          "published": "2026-11-23T08:31:52+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "AI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n23. listopadu 2026\n8 min. doba čtení\nAI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém\n\nAI v prodejnách už neslouží jen k odhalování zlodějů. Česká Skupina COOP ji využívá k zachycování podezřelého chování, TRAFICON ke kontrole věku a další řešení sledují, zda zákazník nepotřebuje pomoc nebo zda se v prodejně neděje něco nestandardního. Na Slovensku využívá podobné technologie COOP Jednota především v bezobslužných provozech 24/7.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nAI v zóně bezpečnosti. Kamery už nejen nahrávají, ale také upozorňují na problém\nZdroj: ChatGPT\n\nKlasický kamerový dohled má jednu slabinu, kterou není potřeba složitě vysvětlovat. Můžete mít dvacet kamer, ale pořád potřebujete člověka, který se na ně dívá. A čím více provozoven přibývá, tím méně realistická je představa, že někdo zachytí každý zvláštní pohyb ve správnou chvíli.\n\nPrávě tady vstupuje AI. Nemá nahradit celý bezpečnostní proces. Má spíše odfiltrovat stovky minut běžného dění a upozornit člověka až ve chvíli, kdy se stane něco neobvyklého. Někdo si vloží zboží do kapsy. Zákazník spadne. U pokladny je potřeba ověřit věk. V bezobslužné prodejně nastane situace, kterou má zkontrolovat operátor.\n\nČlověk tedy stále rozhoduje. AI mu jen říká: podívej se právě sem.\n\nSkupina COOP: Jeden operátor může dohlížet až na 40 prodejen\n\nNejkonkrétnější příklad dnes nabízí česká Skupina COOP. AI napojenou na kamerové systémy začala využívat už začátkem roku 2023 v jedné z prvních automatizovaných prodejen 24/7. Podle vlastních materiálů systém průběžně analyzuje obraz z kamer, vyhledává nestandardní chování a na podezřelou situaci upozorní pult centrální ochrany nebo personál prodejny. Skupina COOP popisuje, že technologie sleduje například vzájemnou polohu částí těla a jejich interakci se zbožím, zavazadly nebo kočárky.\n\nSystém tak může zachytit například okamžik, kdy si zákazník vloží zboží do kapsy nebo tašky. Konečné vyhodnocení ale zůstává na člověku. COOP přímo uvádí, že operátor dostane sekvenci s nestandardním chováním a teprve následně rozhodne, zda skutečně jde o problém.\n\nTÝDENNÍ PODCAST\nUPdate\n\nV automatizovaných prodejnách AI neslouží jen proti krádežím. Oficiální stránka COOP 24/7 uvádí, že systém dokáže upozornit také na poškození zboží, neautorizovaný vstup nebo jinou nestandardní situaci. Prodejny jsou zároveň napojené na pult centrální ochrany, odkud může operátor reagovat na dálku.\n\nRozsah nasazení už není malý. Podle údajů z listopadu 2026 funguje AI dohled ve více než 90 prodejnách COOP. Zároveň má jeden operátor dohledového centra Securitas v automatizovaných provozech zvládnout sledovat až 40 obchodů současně. Provozní náklady systému podle COOP představují přibližně 10 až 20 % nákladů na fyzickou ostrahu, podle typu prodejny. Tato čísla zatím pocházejí z vyjádření COOP publikovaných v médiích, nejde o nezávislou ekonomickou analýzu.\n\nSecuritas zároveň potvrzuje samotný princip fungování. Při vzdáleném videodohledu nemusí operátor sledovat všechny kamery nepřetržitě. Konkrétní obraz se mu zobrazí až ve chvíli, kdy AI vyhodnotí incident, například vložení zboží do kapsy, pád nebo vrávorání osoby.\n\nPro velký supermarket možná klasická ostraha není nic výjimečného. U malé prodejny už jde o úplně jinou matematiku. Právě na to upozornil také zakladatel společnosti Franchisee Václav Ston"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/novinky-z-e-commerce-47-2026-odlozene-platby-nove-itas-obhajuje-temu-a-google-smazal-milanovi-bez-mapy-recenzi/",
-      "datum": "2026-11-23",
-      "perex": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Novinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi",
-        "meta": {
-          "ogTitle": "Novinky z e-commerce 47/2026",
-          "ogDesc": "Novinky z e-commerce za uplynulý týden na jednom místě. Poslechněte si podcast UPDATE nebo si všechna témata přečtěte.",
-          "published": "2026-11-23T07:13:39+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Novinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\n23. listopadu 2026\n13 min. doba čtení\nNovinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi\n\nNejdůležitější novinky z e-commerce, marketingu a online dění za uplynulý týden si můžete poslechnout v našem podcastu UPDATE nebo si je jednoduše přečíst. Všechno na jednom místě. Stačí si vybrat, co vám vyhovuje víc.\n\nRedakce\nÚvod\n/\nČlánky\n/\nNovinky z e-commerce 47/2026: Odložené platby nově, ITAS obhajuje Temu a Google smazal Milanovi Bez Mapy recenzi\nZdroj: ChatGPT\n\nNemáte čas číst, ale chcete zůstat v obraze? Pusťte si Ecommerce Bridge UPDATE. Aktuální epizodu si můžete poslechnout v autě, cestou do práce nebo tehdy, kdy vám to nejvíc vyhovuje. Klikněte na svou oblíbenou platformu a pusťte si ji hned:\n\n   \n\n \n\nRaději čtete? Všechny novinky najdete níže\n\nVšechna témata z aktuálního UPDATE najdete níže také v textové podobě. Projděte si je vlastním tempem, vraťte se ke konkrétní novince nebo si otevřete celý článek, pokud vás některé téma zaujme víc.\n\nU odložených plateb rozhoduje, kdo je poskytuje\n\nOd 20. listopadu platí na Slovensku nová pravidla pro odložené platby. E-shopaři si ale nejprve musí ujasnit, jakým způsobem tuto možnost zákazníkům nabízejí.\n\nPokud službu zajišťuje externí poskytovatel, nové zákonné povinnosti řeší především on. E-shop by si měl zkontrolovat zejména změny v pokladně. Zákazník může například při prvním použití služby projít dodatečným ověřením a poskytovatel bude u některých služeb prověřovat také jeho schopnost nákup splatit.\n\nJiná situace nastává, když odklad platby poskytuje přímo e-shop. Bezúročná platba může zůstat mimo pravidla pro spotřebitelské úvěry, pokud zákazník za odklad neplatí žádné další poplatky a zaplatí nejpozději do 50 dnů od dodání. U velkých online obchodníků může být zákonná lhůta kratší. Pokud e-shop umožňuje delší splatnost nebo za odklad účtuje poplatek, musí si ověřit, zda už nejde o spotřebitelský úvěr a jaké povinnosti se na něj vztahují.\n\nWOOD-PROFIL dělá 90 % tržeb online\n\nRoman Jadroň z WOOD-PROFIL ukazuje, že i dřevo na míru se dá prodávat převážně přes e-shop. Více než 90 % tržeb firmy dnes pochází z online prodeje. Firma propojila prodej, sklad a vlastní dopravu. Zákazník si může nastavit rozměry dřeva, systém mu dopočítá odřezky a termín doručení si vybere přímo v kalendáři.\n\nVlastní doprava přitom není jen otázkou pohodlí. Podle Jadroňe by paletový dopravce u tohoto typu zboží vyšel šestkrát až sedmkrát dráž. Zajímavé je také to, kdy lidé nakupují. Velká část objednávek přichází odpoledne, večer nebo v noci, tedy v době, kdy už zákazníkovi nikdo nezvedá telefon.\n\nRoman Jadroň z WOOD-PROFIL\n\nSlováci během Black Friday zvýšili výdaje o 71 %\n\nNová data Revolutu ukazují, jak během loňského Black Friday nakupovali Slováci a Češi. Na Slovensku byla průměrná hodnota online nákupu o 100 % vyšší než v kamenné prodejně. V Česku dosáhl rozdíl až 158 %.\n\nSlováci ale zvyšovali celkové výdaje rychleji. Uživatelé Revolutu na Slovensku během Black Friday meziročně utratili o 71 % více, zatímco v Česku výdaje vzrostly o 34 %.\n\nRozdíl je vidět také u zahraničních nákupů. Ty tvořily na Slovensku 45,5 % listopadových výdajů uživatelů Revolutu, v Česku 57 %. Data ale popisují chování uživatelů Revolutu, nikoli celý slovenský a český trh.\n\nRTB House radí začít s Black Friday dřív\n\nPodle RTB House začíná úspěšný Black Friday ještě před samotnými slevami. U dražších nebo složitějších produ"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/spravuje-milionove-marketingove-rozpocty-jak-by-skaloval-e-shop-milan-novotny-cloudtalk/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/milan-bez-mapy-napsal-negativni-recenzi-google-ji-smazal-jak-to-ovlivnuje-duveryhodnost-hodnoceni/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/ai-doporucuje-jen-to-cemu-rozumi-ktera-produktova-data-musi-mit-e-shop-v-poradku/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/temu-celi-dalsim-vyhradam-eu-itas-vsak-ve-spolupraci-s-platformou-problem-nevidi/",
       "datum": null,
       "perex": null,
       "autor": null,
