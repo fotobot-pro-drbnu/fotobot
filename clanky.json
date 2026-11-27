@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T05:24:44.421Z",
+  "generatedAt": "2026-11-27T04:44:50.478Z",
   "verze": 1,
-  "datum": "2026-11-26",
-  "oknoOd": "2026-11-16",
+  "datum": "2026-11-27",
+  "oknoOd": "2026-11-17",
   "zdroje": [
     {
       "key": "ecommercebridge",
@@ -14,13 +14,93 @@
       "chyba": null,
       "titulStranky": "Ecommerce Bridge Česko",
       "metoda": "odkazy",
-      "pocetPolozek": 35,
+      "pocetPolozek": 36,
       "feedUrl": null,
       "navrhovanyVzor": null,
       "textVypisu": null
     }
   ],
   "clanky": [
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/roas-vypada-dobre-kolik-objednavek-ale-reklama-skutecne-prinesla/",
+      "datum": "2026-11-26",
+      "perex": "ROAS ukáže připsané tržby, ne to, co by přišlo i bez reklamy. Experti vysvětlují, kdy má e-shop měřit inkrementalitu.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "ROAS vypadá dobře. Kolik objednávek ale reklama skutečně přinesla?",
+        "meta": {
+          "ogTitle": "ROAS nestačí. Kolik objednávek přinesla reklama?",
+          "ogDesc": "ROAS ukáže připsané tržby, ne to, co by přišlo i bez reklamy. Experti vysvětlují, kdy má e-shop měřit inkrementalitu.",
+          "published": "2026-11-26T10:54:57+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "ROAS vypadá dobře. Kolik objednávek ale reklama skutečně přinesla?"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n4 min. doba čtení\nROAS vypadá dobře. Kolik objednávek ale reklama skutečně přinesla?\n\nV reklamním účtu může kampaň vypadat výborně, a přesto nepřinášet tolik nového byznysu, kolik jí platforma připisuje. ROAS zůstává užitečným číslem pro řízení kampaní, při rozhodování o rozpočtu už ale stále častěji nestačí. Experti radí sledovat marži, nové zákazníky, celkovou ekonomiku e-shopu a u větších rozpočtů ověřovat také inkrementalitu.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nROAS vypadá dobře. Kolik objednávek ale reklama skutečně přinesla?\nZdroj: ChatGPT\n\nV reklamním účtu svítí vysoký ROAS. Nejlépe vychází brandové vyhledávání nebo remarketing. Na první pohled je jasné, kam přidat další peníze. Problém je, že ROAS nerozliší zákazníka, kterého reklama skutečně přesvědčila, od člověka, který už značku znal a nakoupil by i bez ní.\n\nPrávě tuto mezeru se snaží vyplnit inkrementalita. Neptá se, které kampani systém objednávku připsal, ale zda by objednávka vznikla i bez reklamy.\n\nPosun je vidět také v IAB Europe. V průzkumu mezi evropskými nákupčími retail médií uvedlo ROAS mezi požadovanými metrikami 49 % respondentů, zatímco v roce 2025 to bylo 89 %. Inkrementalitu chtělo sledovat 57 % a 61 % označilo nedostatky v měření a reportingu za překážku dalších investic. Na otázku týkající se ROAS odpovídalo 35 evropských respondentů, proto je potřeba tato čísla číst v kontextu retail médií, nikoli jako obraz celého marketingového trhu.\n\nPro řízení kampaní ROAS stačí. U rozpočtu začíná problém\n\nROAS má jednu velkou výhodu. Je rychlý, dostupný a marketér podle něj dokáže průběžně porovnávat kampaně. To ale ještě neznamená, že by podle něj měla firma rozhodovat, kam pošle dalších deset tisíc eur.\n\nPro každodenní práci s kampaněmi ROAS stačí. Pro rozhodování o rozpočtu už ne. ROAS totiž neprozradí, kolik z těch prodejů by přišlo i bez reklamy. Nejčastěji to vidíme u brandového vyhledávání a remarketingu, které mají krásná čísla, ale velkou část těch zákazníků by e-shop získal i tak. Proto si u větších rozpočtů ověřujeme inkrementalitu pomocí testů. ROAS tím nezahazujeme, jen víme, jak moc mu můžeme věřit.\n\nMarcel Milo\nCEO, GROOW.sk\n\nRozdíl je mezi atribucí a příčinou. Reklamní platforma dokáže říct, že před objednávkou zaznamenala kontakt s reklamou. To ale samo o sobě nedokazuje, že by bez reklamy objednávka nevznikla.\n\nROAS je dobrý pro každodenní řízení kampaní, ale špatný pro rozhodování o rozpočtu. Říká, komu platforma připsala objednávku, ne co by se stalo bez reklamy. Nejvíc zkresluje u brandových kampaní a remarketingu, kde reklama často sbírá objednávky od lidí, kteří už byli rozhodnutí.\n\nU malého e-shopu s nízkým rozpočtem drahé testy nedávají smysl. Jednoduchý holdout ale ano: na dva až tři týdny vypnout brand nebo remarketing v části zemí či regionů a porovnat celkové tržby, ne ty v reklamním účtu. U expandujících e-shopů se to děje přirozeně, každý trh je samostatná testovací skupina.\n\nVedle ROAS bych vždy sledoval marži po odečtení nákladů na reklamu, podíl nových zákazníků a celkové tržby e-shopu oproti součtu tržeb, které si připisují jednotlivé platformy. Když je součet připsaných tržeb výrazně vyšší než skutečný obrat, je to nejlevnější důkaz, že vám ROAS něco nadhodnocuje.\n\nIvan Cingel\nCEO & co-founder Tenreo, Tenreo s.r.o.\n  \nNejvětší otazník visí nad zákazníky, kteří už značku znají\n\nČím "
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/chatgpt-ads-pridava-metriky-zasahu-inzerenti-uvidi-kolik-lidi-reklama-oslovila/",
+      "datum": "2026-11-26",
+      "perex": "ChatGPT Ads rozšiřuje reporting o Reach, Frequency a další metriky. Business Agents se zároveň otevírají firmám mimo USA.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "ChatGPT Ads přidává metriky zásahu. Inzerenti uvidí, kolik lidí reklama oslovila",
+        "meta": {
+          "ogTitle": "ChatGPT Ads zavádí Reach a Frequency. Ukáže skutečný zásah",
+          "ogDesc": "ChatGPT Ads rozšiřuje reporting o Reach, Frequency a další metriky. Business Agents se zároveň otevírají firmám mimo USA.",
+          "published": "2026-11-26T10:00:56+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "ChatGPT Ads přidává metriky zásahu. Inzerenti uvidí, kolik lidí reklama oslovila"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n3 min. doba čtení\nChatGPT Ads přidává metriky zásahu. Inzerenti uvidí, kolik lidí reklama oslovila\n\nOpenAI rozšiřuje reporting ChatGPT Ads o devět metrik. Inzerenti mají nově vidět odhad počtu unikátních lidí, kteří reklamu zaznamenali, i to, kolikrát se jim v průměru zobrazila. Zároveň se Business Agents otevírají oprávněným firmám mimo USA.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nChatGPT Ads přidává metriky zásahu. Inzerenti uvidí, kolik lidí reklama oslovila\nZdroj: ChatGPT\n\nDosavadní reporting ChatGPT Ads pracoval především se zobrazeními, kliknutími, náklady, CTR nebo konverzemi. Nově k nim přibývají metriky, které se nedívají jen na počet zobrazení, ale i na lidi za nimi.\n\nOpenAI je představilo v aktualizaci zaslané inzerentům 25. listopadu. Přibýt má devět metrik včetně Reach a Frequency. Informaci zachytil PPC Land, zatímco veřejná dokumentace OpenAI stále uvádí původní sadu metrik.\n\nReach ukáže odhad počtu lidí, Frequency opakování\n\nNejdůležitější novinkou je Reach, který má odhadovat počet unikátních lidí, kteří reklamu během zvoleného období viděli alespoň jednou. Frequency má naopak ukazovat, kolikrát ji tito lidé viděli v průměru.\n\nPro inzerenta je ten rozdíl podstatný. Stejných 10 tisíc zobrazení může pocházet od velkého počtu lidí, kteří reklamu viděli jednou, nebo od mnohem menšího publika, kterému se zobrazovala opakovaně.\n\nPřibývá celkem devět metrik\n\nKromě Reach a Frequency OpenAI ve zprávě inzerentům pojmenovalo dalších sedm metrik: Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC a Cost per 1,000 Reached.\n\nU nich ale zatím chybějí přesné veřejné definice. OpenAI v e-mailu vysvětlilo Reach a Frequency, u zbývajících metrik však uvedlo pouze jejich názvy. Veřejná dokumentace zároveň zatím nevysvětluje, jak systém identifikuje unikátního člověka ani v čem se například Total Reach liší od Reach.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nBusiness Agents se otevírají i mimo USA\n\nDruhá novinka se týká firemních agentů. OpenAI při listopadovém spuštění Businesses in ChatGPT původně zpřístupnilo Business Agents oprávněným e-commerce a online službám v USA.\n\nDne 19. listopadu ale své oznámení aktualizovalo. Oprávněné e-commerce a online služby se sídlem mimo USA už mohou nárokovat svůj firemní profil a publikovat Business Agent v ChatGPT.\n\nBusiness Agent vystupuje jako AI zástupce konkrétní firmy a může lidem odpovídat na otázky o jejích produktech nebo službách. OpenAI zároveň stanovuje samostatná pravidla pro to, jak má být agent označen a jak může firmu reprezentovat.\n\nChatGPT Ads se přibližuje reportingu známému z jiných kanálů\n\nOpenAI rozšířilo ChatGPT Ads do Evropy už na konci srpna v rámci širšího rozšíření reklamy. Platforma tak postupně přidává nejen další trhy, ale i funkce, které inzerenti znají z etablovaných reklamních systémů.\n\nReach a Frequency dávají inzerentovi informaci, která v původním reportingu chyběla: zda kampaň oslovuje nové publikum, nebo se reklama opakovaně zobrazuje stejným lidem.\n\nOdebírejte pravidelný\necommerce newsletter\nPřihlaste se do denního, nebo týdenního newsletteru, se kterým vám nic neunikne 🚀\nDenní newsletter\nTýdenní newsletter\n\nSouhlasím se zpracováním mnou uvedených osobních údajů a s použitím emailové adresy za účelem zasílání zpráv v souladě s Podmínkami zasílání newletterů. Vy"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/vlastni-domena-jako-posledni-jistota-digitalniho-sveta-preziji-dalsi-revoluci-peter-biro-sk-nic/",
+      "datum": "2026-11-26",
+      "perex": "Prečítajte si Vlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+      "autor": "Michal Moricz",
+      "textKarty": null,
+      "detail": {
+        "h1": "Vlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC)",
+        "meta": {
+          "ogTitle": "Vlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC)",
+          "ogDesc": "Prečítajte si Vlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC) . Sme online médium pre e-shopy, marketérov a všetkých fanúšikov ecommerce.",
+          "published": "2026-11-26T07:17:06+00:00",
+          "autor": "Michal Moricz",
+          "h1": "Vlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC)"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n7 min. doba čtení\nVlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC)\n\nAI dnes odpovídá, aniž byste museli otevřít jediný web. Domény by tedy měly pomalu mizet, jenže děje se opak: přibývají, protože web i s doménou vám dnes zaregistruje AI agent. Doména přitom není jen adresa. Je to e-mail, značka a identita, kterou vám nezablokuje žádná platforma. Stejně tak ji ale umějí zneužít podvodníci, kteří loví expirované domény s dobrou reputací. Proč proto přicházejí aukce expirovaných .sk domén a jakou chybu dělají firmy hned při zakládání značky? Více informací nám poskytl Peter Bíro, CEO a předseda představenstva, SK-NIC.\n\nŠtefan Polgári\nFounder, Ecommerce Bridge & Dognet\nChceš se přidat k e-commerce expertům jako Štefan?\nPřidat se\nÚvod\n/\nČlánky\n/\nVlastní doména jako poslední jistota digitálního světa? Přežijí další revoluci? (Peter Bíro, SK-NIC)\nPOSLECHNĚTE SI NÁŠ OBSAH\nJako podcast\nV rozhovoru se dozvíte:\n02:10 Pohřbí AI domény?\n04:15 Proč nestavět byznys jen na Instagramu?\n05:47 K čemu všemu slouží vlastní doména kromě webu?\n11:02 Je půl milionu .sk domén strop?\n12:48 Kdo dnes registruje domény a jak pomáhá AI?\n17:34 Mají generické domény typu auto.sk ještě hodnotu?\n19:30 Dá se ještě vydělat na doménách?\n21:06 Jak budou fungovat aukce expirovaných domén?\n26:35 Jaké jsou nejčastější chyby firem u domén?\n30:29 Jak se bránit klonům webů a phishingu?\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nDomény neumírají, přibývají\n\nTechnologie se mění a některé zanikají. Stačí si vzpomenout na CD nebo DVD, která mladší generace už ani neznají. U domén byla nějakou dobu stagnace, s nástupem AI ale přišel výrazný nárůst. Vytvořit web i s doménou je dnes jednoduché a doména zůstává tím, čím byla vždycky: adresou a identitou.\n\nAI sice odpovídá bez návštěvy webu, informace ale bere právě z webů na doménách. Peter Bíro si odpovědi AI sám ověřuje, protože si model může něco vymyslet nebo špatně pospojovat. Na webu vidí, komu patří, odkud informace pochází, a může si ověřit další fakta.\n\nNa cizí platformě nemáte kontrolu\n\nVlastní doména je značka a místo, které si firma řídí sama, od obsahu po analytiku. Když je přítomná jen přes AI nebo sociální sítě, netuší, jak ji platforma zpracuje a komu ji ukáže. I AI je svým způsobem platforma. Odpovědi ve vyhledávači uzavírají člověka do bubliny, kterou si řídí sama, a tvůrce neví, jestli ho do ní zařadí a jak.\n\nSK-NIC dnes vidí, že domén přibývá hlavně menším byznysům a fyzickým osobám. Doména je klíčem ke všemu, co chce člověk na internetu vybudovat a udržet pod kontrolou.\n\nWeb, e-mail a brzy i AI agenti\n\nZákladem je web jakéhokoli typu, nemusí jít o e-shop, a e-mail. Adresa odesílatele je i rychlá kontrola při phishingu. Když se zpráva tváří jako technická podpora a přišla z domény .ru nebo z neznámé .com, asi to nebude váš support.\n\nDo budoucna se uvažuje o využití domén u AI agentů a dalších forem identifikace. Doména je klíčová infrastruktura internetu, existuje dlouhodobě, spravuje se neutrálně a dá se dohledat, kdo za ní stojí. To u velkých platforem neplatí.\n\nKoncovka .sk jako signál důvěry\n\nOvěřování má dvě roviny. Běžný uživatel u koncovky .sk vidí, že web pochází ze Slovenska nebo cílí na slovenské zákazníky. Když .com doména prodává boty za podezřele nízkou cenu, měla by se rozsvítit kontrolka. Druhou rovinou jsou zpřísněné regulace. Správce i registrátoři musí některé údaje ev"
+      }
+    },
+    {
+      "zdroj": "ecommercebridge",
+      "titul": "Prečítať článok",
+      "url": "https://www.ecommercebridge.cz/slovensko-nebude-ukladat-cele-efaktury-financni-sprava-zpresnila-bezpecnostni-pravidla/",
+      "datum": "2026-11-26",
+      "perex": "Slovenská finanční správa tvrdí, že celé eFaktury ukládat nebude. Zpřesnila také povinnosti digitálních pošťáků a bezpečnostní pravidla.",
+      "autor": "Terézia Papáneková",
+      "textKarty": null,
+      "detail": {
+        "h1": "Slovensko nebude ukládat celé eFaktury. Finanční správa zpřesnila bezpečnostní pravidla",
+        "meta": {
+          "ogTitle": "Slovensko nebude ukládat celé eFaktury, upravilo pravidla",
+          "ogDesc": "Slovenská finanční správa tvrdí, že celé eFaktury ukládat nebude. Zpřesnila také povinnosti digitálních pošťáků a bezpečnostní pravidla.",
+          "published": "2026-11-26T07:00:36+00:00",
+          "autor": "Terézia Papáneková",
+          "h1": "Slovensko nebude ukládat celé eFaktury. Finanční správa zpřesnila bezpečnostní pravidla"
+        },
+        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n4 min. doba čtení\nSlovensko nebude ukládat celé eFaktury. Finanční správa zpřesnila bezpečnostní pravidla\n\nPokud česká firma na Slovensku působí jako tuzemský subjekt, od roku 2027 bude řešit stejná pravidla eFaktur jako slovenské firmy. Slovenská finanční správa nyní doplnila, jak chce chránit data z faktur, co musí splňovat digitální pošťáci a kdy se zpřísní jejich bezpečnostní certifikace.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nSlovensko nebude ukládat celé eFaktury. Finanční správa zpřesnila bezpečnostní pravidla\nZdroj: ChatGPT\n\nBezpečnost digitálních pošťáků patří před spuštěním slovenských eFaktur mezi nejcitlivější témata. Přes jejich systémy budou procházet dokumenty s cenami, údaji o obchodních partnerech i dalšími firemními informacemi. Pro české firmy, které mají na Slovensku takové postavení, že spadají do slovenského režimu, proto není důležitá jen samotná povinnost eFakturace, ale také to, co se bude s jejich daty dít.\n\nSlovenská finanční správa 24. listopadu zveřejnila nové vysvětlení, ve kterém bezpečnostní stránku systému popsala podrobněji.\n\nCelé faktury stát podle finanční správy ukládat nebude\n\nNejdůležitější novinkou je způsob, jakým budou údaje z faktur směřovat ke státu. Slovenská finanční správa uvádí, že nevznikne centrální úložiště všech elektronických faktur a sama nebude celé eFaktury shromažďovat ani uchovávat.\n\nPro své zákonné úkoly má získávat pouze vybrané údaje v rozsahu stanoveném zákonem. Decentralizovaný model úřad vysvětluje také bezpečností. Centrální databáze kompletních faktur by podle něj představovala významný cíl kybernetických útoků.\n\nFaktury se mají mezi odesílatelem a příjemcem přenášet přes síť Peppol prostřednictvím nezávislých poskytovatelů doručovací služby. Přenos má využívat šifrování, digitální certifikáty a další mechanismy pro ověření původu a integrity zpráv.\n\nJe ale důležité odlišit stanovisko úřadu od nezávislého ověření. Zveřejněné informace jsou vysvětlením slovenské finanční správy, ne výsledkem nezávislého bezpečnostního auditu.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nDigitální pošťáci musí hlásit bezpečnostní incidenty\n\nFinanční správa zároveň konkrétněji popsala povinnosti digitálních pošťáků. Poskytovatelé musí podle ní dodržovat technické, organizační a bezpečnostní požadavky, chránit přenášená data, zajistit dostupnost služby a hlásit bezpečnostní incidenty.\n\nPři doručování mají také zajišťovat věrohodnost původu faktury, neporušenost jejího obsahu a čitelnost. Finanční správa doplňuje, že digitální pošťáci nemají mít přístup k bankovním účtům uživatelů ani oprávnění nakládat s jejich finančními prostředky.\n\nPokud poskytovatel stanovené podmínky závažně poruší, může podle úřadu přijít až o oprávnění doručovací službu poskytovat.\n\nOd ledna se podmínky zpřísní. Od října už pro všechny\n\nNejvětší změna se týká bezpečnostní certifikace samotných poskytovatelů.\n\nOd 1. ledna 2027 budou muset noví žadatelé o certifikaci disponovat platnou certifikací systému řízení informační bezpečnosti podle ISO/IEC 27001 nebo rovnocennou certifikací schválenou OpenPeppol.\n\nOd 1. října 2027 se stejný požadavek rozšíří také na všechny už certifikované digitální pošťáky působící na Slovensku.\n\nPro firmy to znamená, že se bezpečnostní požadavky nebudou týkat jen technického přenosu faktury. Poskytovatel bude muset prokázat "
+      }
+    },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
@@ -65,106 +145,46 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/meni-se-era-nakupnich-asistentu-dve-tretiny-dotazu-miri-na-produkty-ne-na-doruceni/",
-      "datum": "2026-11-25",
-      "perex": "Dvě třetiny dotazů nákupním asistentům se týkají produktů a doporučení. Podívejte se, jak fungují v reálném provozu e-shopu.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Mění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení",
-        "meta": {
-          "ogTitle": "AI nákupní asistenti mění e-shopy. Na co se jich zákazníci ptají?",
-          "ogDesc": "Dvě třetiny dotazů nákupním asistentům se týkají produktů a doporučení. Podívejte se, jak fungují v reálném provozu e-shopu.",
-          "published": "2026-11-25T08:00:34+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Mění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n7 min. doba čtení\nMění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení\n\nO nákupních asistentech a agentech se dnes mluví hlavně v souvislosti s ChatGPT a spol. My jsme ale chtěli vědět, co se stane, když podobnou technologii nasadíte přímo na e-shop s desítkami tisíc produktů ve stovkách kategorií a skutečným provozem. Ve Sportisimu nákupní asistent Perselio běží více než rok na plném trafficu. Jak takového nákupního asistenta na eshop dostat, co po něm zákazníci v reálném provozu chtějí, co funguje a kde jsou limity?\n\nMichal Krňák\nSales Director, Perselio\nChceš se přidat k e-commerce expertům jako Michal?\nPřidat se\nÚvod\n/\nČlánky\n/\nMění se éra nákupních asistentů: dvě třetiny dotazů míří na produkty, ne na doručení\nZdroj: Perselio\nProč se nákupní asistenti dostávají do e-shopů právě teď?\n\nAI vstupuje do nákupního rozhodování rychleji, než se čekalo. Podle Adobe Digital Economy Index už 38 % spotřebitelů použilo AI při výběru produktu a podíl se meziročně zvýšil o 11 procentních bodů. Lidé se ptají „co koupit když…“, „jaká varianta je nejlepší pro mě, mám tyto parametry…“ nebo „co je alternativa k tomuto produktu“. Přesně to dřív dělal prodavač v kamenné prodejně. Nyní ho nahrazují chytří online asistenti.\n\nNabízí se otázka: nebude nakonec všechno v ChatGPT, Gemini nebo Claude? Odpověď je pravděpodobně: „Obojí“. Globální AI vyhledávání se stane důležitým zdrojem návštěv a e-shopy se v něm budou muset umět prosadit. Vlastní web ale pořád nabídne něco, co obecný model nemá: skutečný sortiment, aktuální ceny a dostupnost, obchodní pravidla a znalost toho, co zákazník právě na webu dělá. Nákupní asistent je tak spíš další logický krok v UX e-shopu než módní doplněk.\n\nJak vypadá nákupní asistent v ostrém provozu ve Sportisimu?\n\nSportisimo je jedním z největších evropských prodejců sportovního vybavení: více než 200 prodejen, silný online prodej a přes 60 000 aktivních produktů ve stovkách kategorií. Široký sortiment znamená velký výběr, ale také složitější orientaci. Každý zákazník hledá něco jiného: jiný sport, značku, cenovou hladinu, velikost, speciální výbavu. Personalizace je proto pro Sportisimo dlouhodobě strategická oblast a asistent navazuje na vyhledávání a doporučování od Perselia, které zde fungují již několik let, a prošly řadou úspěšných AB-testů proti vlastnímu řešení i konkurenčním nástrojům.\n\nAsistent dnes běží na plném trafficu ve všech sedmi zemích resp. jazycích, a denně obslouží zhruba 4000 konverzací a mikrointerakcí.\n\nPorovnání s klasickým vyhledáváním (data z léta 2026):\n\nJsou to proti vyhledávání zajímavá čísla, ale je potřeba je číst s rozumem a kontextem. Nejde o A/B test, ale o porovnání skupin uživatelů, které se samy rozhodly, jak web použít. Asistenta si zkoušejí spíš zvídavější a “kvalitnější” návštěvníci, a hraje svou roli i efekt nové funkce na webu. Návštěvníci, kteří nepoužili ani asistenta, ani vyhledávání, měli výrazně slabší výsledky (konverze 2,7 %, bounce rate 40 %). Závěr tedy rozhodně není „klasické vyhledávání vyhodíme“. Search má své místo, třeba když chcete rychle najít konkrétní věc, a asistent na něj naváže interaktivním dialogem. Smysl dává užší propojení asistenta s vyhledáváním, třeba zakomponováním tlačítka pro vyvolání interakce s asistentem přímo do našeptávače, což Sportisimo aktuálně na všech webech intenzivně testuje.\n\nNa co se zákazníci nákupního asistenta ptají?\n\nStruktura dotazů je poměrně jas"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/e-shopy-mohou-blokovat-ai-vyhledavani-i-bez-primeho-zakazu/",
-      "datum": "2026-11-25",
-      "perex": "Téměř každý desátý zkoumaný e-shop může omezovat AI vyhledávání. Zjistěte, jak přístup AI robotů ovlivňují firewall a e-shopové platformy.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "E-shopy mohou blokovat AI vyhledávání i bez přímého zákazu",
-        "meta": {
-          "ogTitle": "Blokování AI robotů může omezit viditelnost e-shopu",
-          "ogDesc": "Téměř každý desátý zkoumaný e-shop může omezovat AI vyhledávání. Zjistěte, jak přístup AI robotů ovlivňují firewall a e-shopové platformy.",
-          "published": "2026-11-25T07:00:28+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "E-shopy mohou blokovat AI vyhledávání i bez přímého zákazu"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\ndnes\n7 min. doba čtení\nE-shopy mohou blokovat AI vyhledávání i bez přímého zákazu\n\nTo, že e-shop nemá v souboru robots.txt zakázaný přístup vyhledávacím AI robotům, ještě neznamená, že se na jeho stránky skutečně dostanou. Překážkou může být i firewall. Nové měření společnosti Guap Media odhalilo potenciální omezení přístupu vyhledávacích AI robotů u téměř každého desátého zkoumaného e-shopu v Česku i na Slovensku.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nE-shopy mohou blokovat AI vyhledávání i bez přímého zákazu\nZdroj: ChatGPT\n\nSpolečnost Guap Media v listopadu prověřila, jak mají české a slovenské e-shopy nastavený přístup AI robotů. Do průzkumu zahrnula 1 223 českých a 554 slovenských e-shopů. Kromě pravidel v souboru robots.txt testovala také reakce firewallů na požadavky AI robotů.\n\nVýsledky obou trhů jsou velmi podobné. Alespoň jednoho AI robota nepouští 23,2 % zkoumaných českých a 24,4 % slovenských e-shopů. Blokování však nemusí automaticky představovat problém. Záleží na tom, zda e-shop omezuje přístup robotům, kteří sbírají data pro trénování umělé inteligence, nebo těm, kteří slouží k vyhledávání.\n\nBlokování trénování AI nemusí ovlivnit vyhledávání\n\nSpolečnosti zabývající se umělou inteligencí využívají různé roboty k různým účelům. Někteří sbírají obsah pro trénování jazykových modelů, jiní vyhledávají informace, které mohou AI asistenti využít při odpovídání na dotazy uživatelů.\n\nNapříklad OpenAI využívá GPTBot k získávání dat pro trénování modelů, zatímco OAI-SearchBot slouží k vyhledávání. Podle oficiální dokumentace může provozovatel webu jednoho robota zakázat a druhému ponechat přístup.\n\nE-shop tedy nemusí poskytovat svůj obsah pro trénování AI, aby se mohl objevovat ve výsledcích vyhledávání v ChatGPT.\n\nPrávě takové nastavení zjistila Guap Media u 183 českých (15 %) a 86 slovenských e-shopů (15,5 %).\n\nPokud se zaměříme výhradně na vyhledávací AI roboty společností OpenAI, Anthropic a Perplexity, měření přineslo následující výsledky:\n\nV Česku nepouští alespoň jednoho vyhledávacího AI robota 101 z 1 223 e-shopů (8,3 %).\nNa Slovensku jde o 49 z 554 e-shopů (8,8 %).\nU 73 českých a 35 slovenských e-shopů přitom soubor robots.txt neobsahuje žádný zákaz přístupu vyhledávacích AI robotů.\n\nPrávě poslední zjištění je pro e-shopaře důležité. Kontrola souboru robots.txt totiž nemusí stačit.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nRoboty může zastavit i firewall\n\nSoubor robots.txt obsahuje pokyny pro roboty, kteří navštěvují web. Firewall však může jejich požadavky přímo odmítnout, a to i v případě, že v samotném souboru robots.txt žádný zákaz nenajdou.\n\nGuap Media při testování firewallů zaznamenala odmítnutí požadavku alespoň jednoho ze čtyř testovaných robotů určených pro trénování AI a vyhledávání u 183 českých a 85 slovenských e-shopů. U 98 českých a 40 slovenských obchodů přitom soubor robots.txt neobsahoval žádná pravidla týkající se AI robotů.\n\nJedním z míst, kde může k blokování docházet, je Cloudflare, služba zajišťující ochranu a výkon webových stránek. Ve zkoumaném vzorku ji využívá 24,3 % českých a 30,9 % slovenských e-shopů.\n\nZ měření však nelze určit, zda provozovatelé nastavili blokování záměrně, ani s úplnou jistotou potvrdit, jak firewall reaguje na skutečné AI roboty.\n\nVýzkumníci totiž požadavky robotů simulovali. Každý web oslovili jako běžný pr"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/google-tvrdi-ze-ai-rozsiruje-objevovani-znacek-kliknuti-ale-muze-byt-mene/",
-      "datum": "2026-11-24",
-      "perex": "AI může zvýšit viditelnost značky, ale zároveň snižovat počet kliknutí. Podívejte se, proč zmínka, návštěva a objednávka nejsou totéž.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Google tvrdí, že AI rozšiřuje objevování značek. Kliknutí ale může být méně",
-        "meta": {
-          "ogTitle": "Více objevování značek přes AI, ale méně kliknutí",
-          "ogDesc": "AI může zvýšit viditelnost značky, ale zároveň snižovat počet kliknutí. Podívejte se, proč zmínka, návštěva a objednávka nejsou totéž.",
-          "published": "2026-11-24T10:07:25+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Google tvrdí, že AI rozšiřuje objevování značek. Kliknutí ale může být méně"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n7 min. doba čtení\nGoogle tvrdí, že AI rozšiřuje objevování značek. Kliknutí ale může být méně\n\nGoogle tvrdí, že AI ve vyhledávání pomáhá lidem objevovat více značek a produktů. SEO odborníci zároveň upozorňují, že u AI odpovědí klesá počet kliknutí na weby. Na první pohled jde o rozpor, obě tvrzení ale mohou platit současně.\n\nTerézia Papáneková\nŠéfredaktorka, Ecommerce Bridge\nChceš se přidat k e-commerce expertům jako Terézia?\nPřidat se\nÚvod\n/\nČlánky\n/\nGoogle tvrdí, že AI rozšiřuje objevování značek. Kliknutí ale může být méně\nZdroj: ChatGPT\n\nZákazník může značku poprvé uvidět přímo v AI odpovědi, zařadit ji mezi své možnosti a později se k ní vrátit. Přitom vůbec nemusí otevřít její web. A právě tady začíná problém s tím, jak dnes měříme úspěch ve vyhledávání.\n\nSpor 20. listopadu rozebral Search Engine. Google mluví o širším objevování značek během nákupní cesty, zatímco SEO odborníci proti tomu staví data o klesajícím počtu kliknutí z výsledků vyhledávání. Jenže objevení značky a návštěva webu nejsou totéž.\n\nGoogle měří objevování, ne návštěvy webu\n\nGoogle se opírá o výzkum společnosti Ipsos, který si objednal. Spotřebitelé používající AI měli během nákupní cesty v průměru 12 kontaktních bodů, téměř třikrát více než lidé bez AI. Tři čtvrtiny uživatelů AI Overviews nebo AI Mode zároveň uvedly, že jim tyto nástroje pomohly rozhodnout se rychleji a s větší jistotou.\n\nPrůzkum sledoval online nakupující ve 25 zemích a vycházel z jejich vlastního popisu nákupního chování. Google z něj vyvozuje, že AI lidem umožňuje klást přesnější otázky, porovnávat více možností a narazit také na značky, které předtím neznali.\n\nPro e-shop je to zajímavé zjištění, má ale jeden háček. Více kontaktů se značkou ještě nic neříká o tom, kolik lidí následně otevře její web.\n\nU AI odpovědí lidé klikají méně\n\nJiný obraz ukazují data, která měří přímo chování ve vyhledávači. Pew Research sledoval 900 dospělých uživatelů v USA a zjistil, že když se ve výsledcích zobrazila AI odpověď, na klasický výsledek klikli v 8 % návštěv vyhledávání. Bez AI souhrnu to bylo 15 %.\n\nJeště výraznější je údaj o zdrojích, ze kterých AI odpověď čerpala. Na některý z odkazů citovaných přímo v AI odpovědi klikli uživatelé jen v 1 % návštěv. Pro web, který AI použije jako zdroj, tedy samotná citace automaticky neznamená návštěvnost.\n\nAni toto srovnání ale nedokazuje, že celý pokles způsobila AI. AI Overviews se zobrazují častěji u určitých typů dotazů a ty mohly mít nižší míru prokliku už dříve.\n\nPodobný trend ukázala data Seer Interactive. U dotazů s AI Overviews klesl organický CTR mezi červnem 2024 a zářím 2025 z 1,76 % na 0,61 %. Také tyto dotazy ale měly nižší míru prokliku už na začátku sledovaného období, takže ani tady nelze celý rozdíl jednoduše připsat AI.\n\nNOVINKY Z YOUTUBE KANÁLU\nEcommerce Bridge\n\nPŘIHLÁSIT SE K ODBĚRU\nDvanáct kontaktů se značkou není dvanáct návštěv webu\n\nPrávě tady se Google a jeho kritici nejvíce míjejí. Google mluví o kontaktních bodech během celé nákupní cesty, zatímco Pew nebo Seer sledují kliknutí z vyhledávání na weby. Obě strany tak mohou popisovat reálný trend, jen každá měří jinou část procesu.\n\nKontaktním bodem může být zmínka o značce v AI odpovědi, produktový výsledek, video, reklama nebo návštěva webu. Veřejné shrnutí studie Ipsos přitom neukazuje, kolik z uváděných 12 kontaktů skutečně představovalo návštěvu nezávislého webu.\n\nPro e-shop z toho vychází poměrně nepříjemná kombinace: znač"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/srovname-prinasi-nabidky-10-000-e-shopu-primo-do-claude-chatgpt-a-grok/",
-      "datum": "2026-11-24",
-      "perex": "Srovname.cz zpřístupňuje přes 4 miliony produktů v ChatGPT, Claude a Groku. E-shopy získají viditelnost v AI bez vlastní integrace.",
-      "autor": "Terézia Papáneková",
+      "datum": null,
+      "perex": null,
+      "autor": null,
       "textKarty": null,
-      "detail": {
-        "h1": "Srovnáme přináší nabídky 10 000 e-shopů přímo do Claude, ChatGPT a Grok",
-        "meta": {
-          "ogTitle": "Srovname.cz přináší 10 000 e-shopů do AI asistentů",
-          "ogDesc": "Srovname.cz zpřístupňuje přes 4 miliony produktů v ChatGPT, Claude a Groku. E-shopy získají viditelnost v AI bez vlastní integrace.",
-          "published": "2026-11-24T09:55:09+00:00",
-          "autor": "Terézia Papáneková",
-          "h1": "Srovnáme přináší nabídky 10 000 e-shopů přímo do Claude, ChatGPT a Grok"
-        },
-        "text": "NOW\nČlánky\nMultimédia\nKonference\nČasopis\nKontakt\nVíce\nvčera\n5 min. doba čtení\nSrovnáme přináší nabídky 10 000 e-shopů přímo do Claude, ChatGPT a Grok\n\nNajít produkt, porovnat ceny a ověřit dostupnost přímo v rozhovoru s umělou inteligencí. Srovnáme zpřístupňuje nabídky e-shopů v AI asistentech Claude, ChatGPT a Grok. Od 23. listopadu stačí asistentovi popsat, co hledáte. Ten projde přes 4 miliony produktů od více než 10 000 českých e-shopů, porovná ceny včetně dostupnosti, přidá recenze a pošle vás rovnou do vybraného obchodu dokončit nákup a zaplatit. Služba je zdarma.\n\nJan Janouškovec\nCEO, Srovname.cz\nChceš se přidat k e-commerce expertům jako Jan?\nPřidat se\nÚvod\n/\nČlánky\n/\nSrovnáme přináší nabídky 10 000 e-shopů přímo do Claude, ChatGPT a Grok\nZdroj: srovname.cz\n\nAI asistenti už dnes lidem pomáhají vybírat zboží, často ale vycházejí z neaktuálních informací a konkrétní ceny českých e-shopů neznají. To se nyní mění. AI asistenti ChatGPT, Claude a Grok získají prostřednictvím Srovnáme přístup k aktuálním produktovým datům, cenám a dostupnosti. Najdou zboží podle požadavků i rozpočtu uživatele, porovnají konkrétní nabídky a nasměrují ho na web vybraného e-shopu, kde nákup dokončí. AI nikdy nezaplatí, nákup dokončuje zákazník sám na webu e-shopu.\n\n„Srovnávače vždy stály na jednom slibu: ukázat zákazníkovi co nejširší nabídku, ne jen jeden obchod. S nástupem AI asistentů se jen mění místo, kde ten slib plníme. Chceme být stále spolehlivým zdrojem aktuálních cen ať už na našem webu, nebo v AI asistentech, které používá čím dál víc zákazníků. A tisícům českých e-shopů přinášíme příležitost objevit se v AI odpovědích vedle velkých hráčů,“ říká Jan Janouškovec, CEO Srovnáme.\n\nJan Janouškovec, CEO Srovnáme\n\nČeši AI k nakupování používají, platbu jí ale nesvěří\n\nAI klasické nástroje zatím v žádné nákupní činnosti nepředstihla. Při výběru zboží lidé dál spoléhají hlavně na vyhledávače, srovnávače a recenzní portály. Ještě opatrnější jsou u placení: podle průzkumu Visy pro CzechCrunch by platbu AI svěřilo jen 15 % Čechů. Srovnáme proto obě cesty spojuje: AI asistent zákazníkovi pomůže s vyhledáním a porovnáním nabídek, kdy informace čerpá z ověřených dat srovnávače. Konečný výběr i platba zůstávají na zákazníkovi a nákup se dokončuje na webu e-shopu.\n\n„Dřív jste si ceny porovnávali na srovnávači. Teď se prostě zeptáte svého AI asistenta a on vám najde nejlevnější nabídku z tisíců českých obchodů,“ doplňuje Janouškovec.\n\nHlavním přínosem pro všechny uživatele je úspora času a srovnání dostupných nabídek e-shopů přímo v jejich AI asistentovi: Zákazník nemusí procházet desítky webů a ručně porovnávat nabídky. Stačí asistentovi napsat, co hledá a kolik chce utratit, a výběr s ním dál ladit v běžné konverzaci.\n\nPro e-shopy: viditelnost v AI bez vlastní integrace\n\nE-shopy, které jsou v odpovědích AI asistentů nejvíce vidět, z nich mají pětkrát větší podíl objednávek než průměrný obchod. Vyplývá to z dat společnosti Marketing Miner z více než stovky českých e-shopů za červenec 2026. Mnoho firem ale neví, jak se do odpovědí AI dostat: v anketě mezi 871 firmami, e-shopy a marketingovými specialisty to uvedlo 56 % těch, kdo na své viditelnosti v AI zatím nepracují.\n\n„Viditelností v AI asistentech se už zabývá 78 % firem a specialistů, kterých jsme se ptali. Chtějí být v odpovědích AI vidět, jen často nevědí, kde začít. Každý krok, který nabídku e-shopu dostane k lidem, kteří s AI asistentem právě vybírají zboží, proto dává smysl,“ říká Tomáš Novák, CEO spo"
-      }
+      "detail": null
     },
     {
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/desitky-e-shopu-mely-na-strankach-skodlivy-kod-na-nekterych-ho-odhalili-i-po-sesti-tydnech/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/vetsi-sklad-nemusi-byt-resenim-automatizace-dokaze-vyrazne-snizit-potrebu-prostoru/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/ai-v-zone-bezpecnosti-kamery-uz-nejen-nahravaji-ale-take-upozornuji-na-problem/",
       "datum": null,
       "perex": null,
       "autor": null,
@@ -185,16 +205,6 @@
       "zdroj": "ecommercebridge",
       "titul": "Prečítať článok",
       "url": "https://www.ecommercebridge.cz/spravuje-milionove-marketingove-rozpocty-jak-by-skaloval-e-shop-milan-novotny-cloudtalk/",
-      "datum": null,
-      "perex": null,
-      "autor": null,
-      "textKarty": null,
-      "detail": null
-    },
-    {
-      "zdroj": "ecommercebridge",
-      "titul": "Prečítať článok",
-      "url": "https://www.ecommercebridge.cz/digitalni-postak-za-par-eur-nebo-bezpecnostni-katastrofa-na-co-si-dat-pozor-pri-e-fakturaci-juraj-malecka-everifin/",
       "datum": null,
       "perex": null,
       "autor": null,
