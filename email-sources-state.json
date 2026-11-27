@@ -318,7 +318,10 @@
     "https://reallygoodemails.com/emails/writeful-newsletter-moves-linkedin",
     "https://reallygoodemails.com/emails/savee-first-day-onboarding",
     "https://reallygoodemails.com/emails/bed-bath-and-beyond-welcome-15-off",
-    "https://reallygoodemails.com/emails/bbc-earth-welcome-onboarding"
+    "https://reallygoodemails.com/emails/bbc-earth-welcome-onboarding",
+    "https://reallygoodemails.com/emails/use-your-1520-in-onekeycash",
+    "https://reallygoodemails.com/emails/zapier-zap-error-alert",
+    "https://reallygoodemails.com/emails/delta-air-lines-flight-check-reminder"
   ],
   "catalogs": {
     "rge-cart": {
@@ -336,17 +339,17 @@
     },
     "rge-transactional": {
       "fails": 0,
-      "date": "2026-11-24",
+      "date": "2026-11-27",
       "odkazu": 50
     },
     "rge-announcement": {
       "fails": 0,
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "odkazu": 50
     },
     "rge-onboarding": {
       "fails": 0,
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "odkazu": 50
     },
     "rge-newsletter": {
